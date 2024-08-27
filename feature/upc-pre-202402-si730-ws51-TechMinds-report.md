@@ -113,3 +113,11 @@ Ciclo 2024-01 | Sección WS51
 | Discusiones y actividades      | Se prepararon reuniones virtuales para comunicar los avances, dudas y problemas que surjan con el desarrollo de cada actividad. |
 | Exposiciones anticipadas       | Realizamos reuniones para exponer cada actividad desarrollada y prepararanos para la presentación final. |
 
+
+
+# STUDENT OUTCOME
+
+| Criterio específico                                                                                           | Acciones realizadas   | Conclusiones |
+|--------------------------------------------------------------------------------------------------------------|------------------------|--------------|
+| Trabaja en equipo para <br> proporcionar liderazgo en <br> forma conjunta | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> ... <br><br>**Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> ... <br><br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> ... <br><br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> ... <br><br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> ... <br><br>  |<br>1ra Conclusion<br><br>2da Conclusion<br><br>3ra Conclusion<br>|
+| Crea un entorno colaborativo e <br> inclusivo, establece metas, <br> planifica tareas y cumple <br> objetivos | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> ... <br><br>**Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> ... <br><br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> ... <br><br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> ... <br><br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> ... <br><br>  |<br>1ra Conclusion<br><br>2da Conclusion<br><br>3ra Conclusion<br>|
