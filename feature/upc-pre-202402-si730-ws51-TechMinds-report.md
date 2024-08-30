@@ -310,7 +310,55 @@ Para lograr ello, se empleará la técnica del Web Scraping con el fin de extrae
 ### 2.1.2. Estrategias y tácticas frente a competidores:
 ## 2.2. Entrevistas
 ### 2.2.1 Diseño de entrevistas:
+
+<p> En esta sección del reporte se presentará las preguntas de las entrevistas y el análisis relacionado de cada entrevista. </p>
+
+**Segmento 1: Clientes que desean componentes de hardware**
+Preguntas principales:
+1. ¿Cuentas con un ordenador de escritorio personal?
+2. ¿Con qué frecuencia lo utilizas?
+3. ¿Qué usos le das a dicho ordenador? Videojuegos, edición, arquitectura u otro
+4. ¿Qué dispositivos utilizas aparte del mismo y que navegadores usas en dichos dispositivos?
+5. ¿Crees que necesitas mejorar o cambiar tu computadora por una mejor para realizas tus tareas diarias de manera más eficiente?
+6. ¿Qué tan informado estás sobre los componentes de tu computadora y como estos influyen en la misma?
+7. ¿Has tratado de solucionar los problemas de tu computadora por tu cuenta?
+8. ¿Te gustaría entender más sobre estos temas? y/o ¿Recibir soporte técnico de manera conveniente?
+9. Si en caso desearás modificar o mejorar tu computadora ¿Te gustaría usar una aplicación que te ayude con esta tarea?
+10. ¿Qué caracterísitas adicionales consideras necesarias para una aplicación de este estilo?
+
+**Segmento 2: Técnicos de computadoras**
+Preguntas principales:
+1. ¿Cuál es tu experiencia en el mantenimiento y reparación de computadoras?
+2. ¿Trabajas de manera independiente o para una empresa?
+3. ¿Qué tipo de servicios ofreces regularmente a tus clientes?
+4. ¿Cuál consideras que es el mayor desafío que enfrentas al atender a clientes que saben poco sobre hardware y software?
+5. ¿Qué herramientas o aplicaciones utilizas actualmente para diagnosticar problemas o recomendar soluciones a tus clientes?
+6. ¿Te gustaría contar con una plataforma que facilite la recomendación de componentes y configuraciones de hardware personalizadas para tus clientes?
+7. ¿Estarías dispuesto a aliarte con una aplicación web que te permita ofrecer servicios técnicos a un público más amplio, brindándote visibilidad y conexión con potenciales clientes?
+8. ¿Qué características o funcionalidades considerarías esenciales en una plataforma que busque conectar técnicos con usuarios finales que necesitan soporte en hardware?
+9. ¿Cómo crees que una alianza con una plataforma de este tipo podría beneficiar a tu negocio o a la empresa para la que trabajas?
+10. ¿Tienes alguna experiencia previa utilizando aplicaciones o plataformas que conecten técnicos con clientes? Si es así, ¿Cómo ha sido tu experiencia?
+
 ### 2.2.2 Registro de entrevistas:
+
+##### Segmento 1 - Entrevista 1
+
+| Nombres | Apellidos | Edad | Inicio | Duración |
+|---------|-----------|------|--------|----------|
+| Alfredo | Medina | 23 | 0:00 | 3:13 |
+
+Descripción:
+
+| Nombres | Apellidos | Edad | Inicio | Duración |
+|---------|-----------|------|--------|----------|
+| Diego | - |  | 3:14 | 3:20 |
+
+Descripción:
+
+#### Segmento 1 - Entrevista 2
+
+...
+
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
 #### 2.3.1. User Personas.
@@ -319,6 +367,23 @@ Para lograr ello, se empleará la técnica del Web Scraping con el fin de extrae
 #### 2.3.4. Empathy Mapping.
 #### 2.3.5. As-is Scenario Mapping.
 ### 2.4. Ubiquitous Language.
+
+| **Término (Inglés)**            | **Término (Español)**               | **Definición**                                                                                                                                               |
+|---------------------------------|-------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Budget**                      | Presupuesto                        | La cantidad de dinero que un usuario está dispuesto o puede gastar en la compra de componentes de hardware para su PC.                                        |
+| **Compatibility Issues**        | Problemas de Compatibilidad         | Desafíos que surgen cuando los componentes de hardware seleccionados no funcionan bien juntos o no son compatibles entre sí.                                  |
+| **Customer Education**          | Educación al Cliente                | Proceso de informar y capacitar a los usuarios sobre los componentes de hardware, sus características y cómo afectan el rendimiento de su equipo.             |
+| **Customer Satisfaction**       | Satisfacción del Cliente            | Grado en que un producto o servicio cumple o supera las expectativas del usuario.                                                                             |
+| **Hardware Guidance**           | Asesoramiento de Hardware           | Servicio de orientación para ayudar a los usuarios a elegir los componentes de hardware que mejor se adapten a sus necesidades y presupuesto.                |
+| **Local Providers**             | Proveedores Locales                 | Tiendas y marcas en el Perú que ofrecen componentes de hardware y con quienes TechDesign colabora para ofrecer las mejores opciones a los usuarios.           |
+| **Market Trends**               | Tendencias de Mercado               | Cambios y patrones en las preferencias y comportamientos de los consumidores dentro del mercado de hardware para PC.                                          |
+| **PC Assembly**                 | Ensamblaje de PC                    | El proceso de reunir y conectar los componentes de hardware para construir una computadora personalizada según las necesidades del usuario.                  |
+| **Personalized Recommendations**| Recomendaciones Personalizadas      | Sugerencias específicas de componentes de hardware que se ajustan a las necesidades particulares del usuario, considerando su contexto y presupuesto.         |
+| **Price Optimization**          | Optimización de Precios             | Estrategia de TechDesign para ayudar a los usuarios a encontrar la mejor relación calidad-precio en los componentes de hardware disponibles en el mercado local. |
+| **Price Sensitivity**           | Sensibilidad al Precio              | Grado en que el precio de un producto influye en las decisiones de compra del usuario.                                                                         |
+| **Product Recommendations**     | Recomendaciones de Productos        | Sugerencias de componentes específicos basadas en las necesidades, presupuesto y preferencias del usuario.                                                    |
+| **Technical Service Contact**   | Contacto de Servicio Técnico        | Información y medios proporcionados por TechDesign para que los usuarios puedan contactar con servicios técnicos especializados en caso de necesitar asistencia. |
+| **User Context**                | Contexto del Usuario                | Las circunstancias específicas y el entorno en el que el usuario utiliza su computadora, que influyen en las recomendaciones de hardware que se le ofrecen.    |
 
 # Capítulo III: Requirements Specification
 
