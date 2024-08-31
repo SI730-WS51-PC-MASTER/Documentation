@@ -114,6 +114,7 @@ Ciclo 2024-01 | Sección WS51
 | Exposiciones anticipadas       | Realizamos reuniones para exponer cada actividad desarrollada y prepararanos para la presentación final. |
 
 
+<div style="text-align:justify">
 
 # STUDENT OUTCOME
 
@@ -123,8 +124,6 @@ Ciclo 2024-01 | Sección WS51
 | Crea un entorno colaborativo e <br> inclusivo, establece metas, <br> planifica tareas y cumple <br> objetivos | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> ... <br><br>**Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> ... <br><br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> ... <br><br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> ... <br><br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> ... <br><br>  |<br>1ra Conclusion<br><br>2da Conclusion<br><br>3ra Conclusion<br>|
 
 
-
-<div style="text-align:justify">
 
 # Capítulo I: Introducción 
 
@@ -265,13 +264,17 @@ Para lograr ello, se empleará la técnica del Web Scraping con el fin de extrae
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-**Problema 1:** PCMaster se enfrenta al desafío de guiar a personas con poco o nulo conocimiento sobre los componentes internos de una computadora. Muchas veces, al comprar, estos usuarios adquieren componentes caros e innecesarios para sus necesidades o, por el contrario, compran partes que no les resultan útiles. Esto se debe a la falta de comprensión del propósito y la función de los diferentes componentes de una computadora.
+- **Problema 1:** PCMaster se enfrenta al desafío de guiar a personas con poco o nulo conocimiento sobre los componentes internos de una computadora. Muchas veces, al comprar, estos usuarios adquieren componentes caros e innecesarios para sus necesidades o, por el contrario, compran partes que no les resultan útiles. Esto se debe a la falta de comprensión del propósito y la función de los diferentes componentes de una computadora.
 
-**Impacto:** Esto genera insatisfacción y frustración en los usuarios, quienes se enfrentan a una gran cantidad de información diversa y compleja en internet. Para abordar este problema, nuestra aplicación debe ofrecer una plataforma intuitiva y organizada que proporcione información clara y concisa sobre los componentes de una computadora. El objetivo es que los usuarios puedan tomar decisiones informadas y encontrar la información que necesitan de manera fácil y ordenada.
+- **Impacto:** Esto genera insatisfacción y frustración en los usuarios, quienes se enfrentan a una gran cantidad de información diversa y compleja en internet. Para abordar este problema, nuestra aplicación debe ofrecer una plataforma intuitiva y organizada que proporcione información clara y concisa sobre los componentes de una computadora. El objetivo es que los usuarios puedan tomar decisiones informadas y encontrar la información que necesitan de manera fácil y ordenada.
 
-**Problema 2:** PCMaster ha identificado que muchos usuarios, especialmente aquellos sin conocimientos técnicos, se sienten abrumados al tratar de entender las especificaciones técnicas y el rendimiento de los componentes de una computadora. A menudo, estos usuarios no pueden traducir esas especificaciones en términos de cómo impactarán su experiencia de uso diario, lo que les impide tomar decisiones informadas al comprar o actualizar su equipo.
+- **Problema 2:** PCMaster ha identificado que muchos usuarios, especialmente aquellos sin conocimientos técnicos, se sienten abrumados al tratar de entender las especificaciones técnicas y el rendimiento de los componentes de una computadora. A menudo, estos usuarios no pueden traducir esas especificaciones en términos de cómo impactarán su experiencia de uso diario, lo que les impide tomar decisiones informadas al comprar o actualizar su equipo.
 
-**Impacto:** Esta falta de comprensión técnica puede llevar a una experiencia insatisfactoria, ya que los usuarios pueden terminar con un equipo que no cumple con sus expectativas o que es innecesariamente costoso. Para solucionar este problema, nuestra aplicación necesita ofrecer explicaciones claras y visuales sobre cómo las especificaciones técnicas de los componentes se traducen en beneficios concretos para diferentes tipos de uso, ayudando a los usuarios a elegir los componentes que mejor se adapten a sus necesidades.
+- **Impacto:** Esta falta de comprensión técnica puede llevar a una experiencia insatisfactoria, ya que los usuarios pueden terminar con un equipo que no cumple con sus expectativas o que es innecesariamente costoso. Para solucionar este problema, nuestra aplicación necesita ofrecer explicaciones claras y visuales sobre cómo las especificaciones técnicas de los componentes se traducen en beneficios concretos para diferentes tipos de uso, ayudando a los usuarios a elegir los componentes que mejor se adapten a sus necesidades.
+
+- **Problema 3:** PCMaster ha identificado que muchos técnicos de hardware, especialmente aquellos que están comenzando o que operan de manera independiente, enfrentan dificultades para hacerse conocidos y demostrar su experiencia a un público más amplio. A menudo, estos técnicos tienen el conocimiento y las habilidades necesarias, pero carecen de las herramientas o la plataforma adecuada para promocionar sus servicios y llegar a potenciales clientes.
+
+- **Impacto:** Esta falta de visibilidad puede limitar las oportunidades de trabajo para los técnicos, quienes podrían perder potenciales clientes que necesitan asistencia pero no saben a quién acudir. Para solucionar este problema, nuestra aplicación debería incluir una sección dedicada a conectar a usuarios con técnicos locales, permitiendo a los técnicos ofrecer sus servicios de manera más visible y accesible.
 
 #### 1.2.2.2. Lean UX Assumptions
 
@@ -311,10 +314,100 @@ Para lograr ello, se empleará la técnica del Web Scraping con el fin de extrae
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
+1. **Creemos que** colaborar con tiendas locales de hardware para ofrecer descuentos exclusivos atraerá a más usuarios y aumentará la credibilidad de la plataforma. **Sabremos que esto es cierto** cuando observemos un incremento en las visitas a la página del 15%.
 
+2. **Creemos que** proporcionar recursos educativos, como un blog y seminarios web, posicionará a la plataforma como una fuente confiable de conocimiento y aumentará el tiempo que los usuarios pasan en la plataforma. **Sabremos que esto es cierto** cuando observemos un aumento del 20% en la duración promedio de las visitas a la plataforma.
+
+3. **Creemos que** implementar un sistema de puntos y recompensas básicas incentivará a los usuarios a participar más en la plataforma. **Sabremos que esto es cierto** cuando observemos un incremento del 10% en el número de usuarios concurrentes.
 
 #### 1.2.2.4. Lean UX Canvas
 
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+    1. Business problem
+    <br><br>
+    - Gran variedad de personas, especialmente aquellas con poco conocimiento sobre el funcionamiento de una computadora, enfrentan dificultades para entender sus componentes y especificaciones, lo que lleva a decisiones de compra incorrectas o insatisfactorias.
+    <br><br>
+    - Técnicos de hardware independientes o nuevos en el mercado enfrentan problemas de visibilidad y promoción de sus servicios, lo que limita su capacidad de alcanzar nuevos clientes.
+    </td>
+    <td rowspan="2" style="vertical-align: top;">
+    5. Solution ideas
+    <br><br>
+    - Implementar una plataforma orientada a brindar recomendaciones selectivas de hardware
+    <br><br>
+    - Implementar una plataforma con un sistema de filtros basados en el presupuestos y otras características
+    <br><br>
+    - Implementar una sección de asesorías técnicas especializadas para el usuario y un entorno virtual de comunicación
+    </td>
+    <td style="vertical-align: top;">
+    2. Business outcomes
+    <br><br>
+    - Crear una plataforma que facilite a los usuarios sin conocimientos técnicos el proceso de búsqueda y comparación de componentes de hardware de forma sencilla y eficiente. 
+    <br><br>
+    - Volvernos la fuente más utilizada por entusiastas de la informática para obtener recomendaciones de hardware de manera confiable y transparente.
+    <br><br>
+    - Establecer una base de usuarios leales que confíen en nuestra plataforma para tomar decisiones informadas sobre la compra de componentes de hardware.
+    <br><br>
+    - Establecer asociaciones sólidas con fabricantes y distribuidores de hardware, lo que nos permitirá ampliar nuestra alcance.
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">
+    3. User and customers
+    <br><br>
+    - Compradores
+    <br><br>
+    - Técnicos especializados en hardware
+    <br><br>
+    - Tiendas y marcas de tecnología
+    </td>
+    <td style="vertical-align: top;">
+    4. User benefits
+    <br><br>
+    - Tarjetas de descuentos canjeables según puntos acumulados por el usuario al usar la aplicación
+    <br><br>
+    - Interfaz de comunicación directa con un técnico que atenderá consultas simples
+    <br><br>
+    - Servicio técnico a domicilio si el usuario lo solicita
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">
+    6. Hypotheses
+    <br><br>
+    - Creemos que colaborar con tiendas locales de hardware para ofrecer descuentos exclusivos atraerá a más usuarios y aumentará la credibilidad de la plataforma. Sabremos que esto es cierto cuando observemos un incremento en las visitas a la página del 15%.
+    <br><br>
+    - Creemos que proporcionar recursos educativos, como un blog y seminarios web, posicionará a la plataforma como una fuente confiable de conocimiento y aumentará el tiempo que los usuarios pasan en la plataforma. Sabremos que esto es cierto cuando observemos un aumento del 20% en la duración promedio de las visitas a la plataforma.
+    <br><br>
+    - Creemos que implementar un sistema de puntos y recompensas básicas incentivará a los usuarios a participar más en la plataforma. Sabremos que esto es cierto cuando observemos un incremento del 10% en el número de usuarios concurrentes.
+    </td>
+    <td style="vertical-align: top;">
+    7. What's the most important thing we need to learn first?
+    <br><br>
+    - Aprender a filtrar información de productos relevante y mostrar información precisa al usuario para demostrar la transparencia de nuestro servicio
+    <br><br>
+    - Aprender a fomentar la participación del usuario en la aplicación
+    <br><br>
+    - Aprender a recopilar feedback de manera efectiva por parte de nuestros usuarios para tomar en cuenta posibles servicios y cambios en la aplicación
+    </td>
+    <td style="vertical-align: top;">
+    8. What's the least amount of work we need to do to learn the next most important thing?
+    <br><br>
+    - Dominar las herramientas, lenguajes y entornos de desarrollo que serán utilizados durante el proyecto
+    <br><br>
+    - Investigar y conocer a nuestro público objetivo
+    <br><br>
+    - Realizar entrevistas a nuestros segmentos objetivos identificados
+    <br><br>
+    - Documentar historias de usuario y analizar su nivel de riesgo, complejidad y repetición. 
+    <br><br>
+    - Construir una base de datos sólida que se conecte a nuestros servicios.
+    <br><br>
+    - Realizar prototipos para el sitio web de la aplicación y de los servicios que esta tendrá.
+    </td>
+  </tr>
+</table>
 
 ## 1.3. Segmentos objetivo
 
@@ -345,7 +438,6 @@ Para lograr ello, se empleará la técnica del Web Scraping con el fin de extrae
     - Están dispuestos a ofrecerle servicio técnico al usuario que lo solicite y asistirlo en sus dudas.
     - Valoran la satisfacción del cliente y buscan construir una relación de confianza a través de un servicio eficiente y de calidad.
 
-</div>
 
 
 # Capítulo II: Requirements Elicitation & Analysis
