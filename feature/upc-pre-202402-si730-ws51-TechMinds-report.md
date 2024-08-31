@@ -265,9 +265,53 @@ Para lograr ello, se empleará la técnica del Web Scraping con el fin de extrae
 
 #### 1.2.2.1. Lean UX Problem Statements
 
+**Problema 1:** PCMaster se enfrenta al desafío de guiar a personas con poco o nulo conocimiento sobre los componentes internos de una computadora. Muchas veces, al comprar, estos usuarios adquieren componentes caros e innecesarios para sus necesidades o, por el contrario, compran partes que no les resultan útiles. Esto se debe a la falta de comprensión del propósito y la función de los diferentes componentes de una computadora.
+
+**Impacto:** Esto genera insatisfacción y frustración en los usuarios, quienes se enfrentan a una gran cantidad de información diversa y compleja en internet. Para abordar este problema, nuestra aplicación debe ofrecer una plataforma intuitiva y organizada que proporcione información clara y concisa sobre los componentes de una computadora. El objetivo es que los usuarios puedan tomar decisiones informadas y encontrar la información que necesitan de manera fácil y ordenada.
+
+**Problema 2:** PCMaster ha identificado que muchos usuarios, especialmente aquellos sin conocimientos técnicos, se sienten abrumados al tratar de entender las especificaciones técnicas y el rendimiento de los componentes de una computadora. A menudo, estos usuarios no pueden traducir esas especificaciones en términos de cómo impactarán su experiencia de uso diario, lo que les impide tomar decisiones informadas al comprar o actualizar su equipo.
+
+**Impacto:** Esta falta de comprensión técnica puede llevar a una experiencia insatisfactoria, ya que los usuarios pueden terminar con un equipo que no cumple con sus expectativas o que es innecesariamente costoso. Para solucionar este problema, nuestra aplicación necesita ofrecer explicaciones claras y visuales sobre cómo las especificaciones técnicas de los componentes se traducen en beneficios concretos para diferentes tipos de uso, ayudando a los usuarios a elegir los componentes que mejor se adapten a sus necesidades.
+
 #### 1.2.2.2. Lean UX Assumptions
 
+**Business Assumptions**
+
+1. **Tendremos éxito cuando** logremos crear una plataforma que facilite a los usuarios sin conocimientos técnicos el proceso de búsqueda y comparación de componentes de hardware de forma sencilla y eficiente.
+   - **Es importante resaltar que** la plataforma debe ofrecer una navegación intuitiva y herramientas avanzadas de personalización que permitan a los usuarios encontrar rápidamente el componente que mejor se adapte a sus necesidades.
+
+2. **Tendremos éxito cuando** nuestra plataforma sea reconocida como la fuente más confiable y utilizada por entusiastas de la informática para obtener recomendaciones de hardware.
+   - **Es importante resaltar que** la plataforma debe personalizar las recomendaciones según las necesidades y preferencias individuales de los usuarios, asegurando que siempre reciban la información más relevante.
+
+3. **Tendremos éxito cuando** establezcamos una base de usuarios leales que confíen en nuestra plataforma para tomar decisiones informadas sobre la compra de componentes de hardware.
+   - **Es importante resaltar que** la plataforma debe garantizar transparencia y precisión en la información ofrecida, para que los usuarios puedan confiar plenamente en las recomendaciones proporcionadas.
+
+4. **Tendremos éxito cuando** demostremos que nuestra plataforma mejora la eficiencia y reduce significativamente el tiempo necesario para que los usuarios encuentren los componentes adecuados para sus necesidades.
+   - **Es importante resaltar que** la plataforma debe permitir una búsqueda y comparación rápidas, proporcionando resultados precisos en un tiempo mínimo.
+
+5. **Tendremos éxito cuando** podamos establecer asociaciones sólidas con fabricantes y distribuidores de hardware, lo que nos permitirá ampliar nuestra base de datos y ofrecer una mayor variedad de productos a nuestros usuarios.
+   - **Es importante resaltar que** la diversidad y calidad de las opciones disponibles en nuestra plataforma serán claves para atraer y retener a los usuarios, brindándoles acceso a productos exclusivos y de alta demanda.
+
+**User Assumptions**
+
+1. **Tendremos éxito cuando** los usuarios perciban nuestra plataforma como una herramienta confiable y útil para encontrar componentes de hardware que se adapten a sus necesidades específicas.
+   - **Es importante resaltar la** confiabilidad y precisión de las recomendaciones, así como la claridad en la presentación de la información técnica y precios.
+
+2. **Tendremos éxito cuando** los usuarios puedan reducir el tiempo y esfuerzo necesarios para encontrar y comparar componentes de hardware utilizando las herramientas de nuestra plataforma.
+   - **Es importante resaltar** la eficiencia de los filtros de búsqueda y la facilidad de uso de la interfaz, que permiten a los usuarios encontrar rápidamente los productos que buscan.
+
+3. **Tendremos éxito cuando** los usuarios disfruten de una experiencia personalizada en nuestra plataforma, con recomendaciones y opciones de búsqueda adaptadas a sus conocimientos y necesidades.
+   - **Es importante resaltar** la capacidad de la plataforma para ajustarse a diferentes niveles de experiencia del usuario, desde principiantes hasta entusiastas avanzados.
+
+4. **Tendremos éxito cuando** los usuarios experimenten un alto nivel de satisfacción al recibir recomendaciones precisas que les ayuden a tomar decisiones informadas sobre la compra de hardware.
+   - **Es importante resaltar** la calidad y relevancia de las recomendaciones, así como la facilidad para evaluar y comparar diferentes productos.
+
+5. **Tendremos éxito cuando** los usuarios recomienden nuestra plataforma a amigos y familiares como una herramienta confiable y eficiente para la búsqueda y compra de componentes de hardware.
+   - **Es importante resaltar** la satisfacción general de los usuarios y su disposición a compartir sus experiencias positivas con otros, fortaleciendo la reputación de nuestra plataforma. 
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
+
+
 
 #### 1.2.2.4. Lean UX Canvas
 
@@ -303,11 +347,182 @@ Para lograr ello, se empleará la técnica del Web Scraping con el fin de extrae
 
 </div>
 
+
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1 Competidores
+En el competitivo mercado de asistencia para la selección de componentes de hardware y la optimización de configuraciones, TechMinds enfrenta competidores originarios de varias empresas y soluciones. Los más destacados son los siguientes:
+
+- GeForce Experience: Un producto de NVIDIA dirigido a jugadores que ofrece recomendaciones para la optimización de configuraciones relacianadas a tarjetas gráficas NVIDIA y el performance del equipo; sin embargo, como se puede deducir, su enfoque principal es la optimización de videojuegos y creación de contenido. En consecuencia, no ofrece recomendaciones completas para otros componentes.
+
+<div style="text-align: center">
+    <img src="https://images.cgames.de/images/gamestar/287/1_2554340.jpg" alt="GeForce-Experience" height=150 width=300>
+</div><br>
+
+- Spartan Geek: Una plataforma que proporciona una variedad de servicios como mantenimiento de equipos informáticos y la venta de computadoras. Ofrecen una amplia gama de productos y un servicio personalizado para encontrar tu computadora ideal, asegurando una excelente experiencia para la selección de periféricos y entre otros elementos indispensables.
+
+<div style="text-align: center">
+    <img src="https://static.platzi.com/media/blog/spartan-geek-og-cfef5b54-ebbc-4752-bd99-bf99c81cf46a.png" alt="Spartan-Geek" height=150 width=300>
+</div><br>
+
+- PCPartPicker: Una plataforma en línea donde el usuario puede seleccionar componentes desde un extenso catálogo que cuenta con una herramienta que permite comparar precios. A pesar de ello, carece de funcionalidades que permitan ofrecer recomendaciones específicas y personalizadas.
+
+<div style="text-align: center">
+    <img src="https://images.seeklogo.com/logo-png/52/2/pcpartpicker-logo-png_seeklogo-529311.png" alt="PCPartPicker" height=200 width=300>
+</div><br>
+
 ### 2.1.1 Análisis Competitivo:
+
+<table>
+    <thead>
+        <tr>
+            <th colspan="6" style="text-align: center">Competitive Analysis Landscape</th>
+        </tr>
+        <tr>
+            <th rowspan="2">¿Por qué llevar a cabo este análisis?</th>
+            <th colspan="5">¿Qué es lo que les falta a mis competidores para implementarlo?</th>
+        </tr>
+        <tr>
+            <th colspan="5">¿Qué debo tomar como ejemplo de mis competidores?</th>
+        </tr>
+        <tr>
+            <th colspan="2">Empresa / APP</th>
+            <th>PCMaster</th>
+            <th>GeForce Experience</th>
+            <th>Spartan Geek</th>
+            <th>PCPartPicker</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th rowspan="3">Perfil</th>
+            <tr>
+                <td>Overview</td>
+                <td>Plataforma que ofrece un servicio personalizado que cuenta con múltiples recomendaciones de hardware según las necesidades y presupuesto del usuario. </td>
+                <td>Programa que guía al usuario en el proceso de optimizar tarjetas gráficas, ofreciendo configuraciones que involucran el rendimiento de la computadora. </td>
+                <td>Portal enfocado en el mantenimiento y personalización de computadoras que son armadas según tu presupuesto a modo de recomendación. </td>
+                <td>Plataforma destinada a la creación de PCs a partir de componentes seleccionados.</td>
+            </tr>
+            <tr>
+                <td>Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+                <td>Conexión directa con espcialistas mediante un entorno virtual y servicio técnico adicional a las recomendaciones de hardware</td>
+                <td>Recomendaciones explosivas para un mejor uso y rendimiento del computador y un entorno de optimización de componentes NVIDIA</td>
+                <td>Guía personalizada sobre el componente ideal para el criterio que seleccione el usuario</td>
+                <td>Gran variedad de herramientas para la comparación de hardware</td>
+            </tr>
+        </tr>
+        <tr>
+            <th rowspan="3">Perfil de Marketing</th>
+            <tr>
+                <td>Mercado objetivo</td>
+                <td>Personas que no dispongan de mucho conocimiento en hardware y que estén interesadas en comprar una buena computadora según sus propias necesidades y presupuestos</td>
+                <td>Usuarios cuyos equipos tengan tarjetas gráficas de la marca NVIDIA y busquen optimizar su rendimiento</td>
+                <td>Usuarios que deseen tener las mejores recomendaciones para la compra de computadoras en el país de México</td>
+                <td>Usuarios que deseen adquirir una computadora con componentes específicos</td>
+            </tr>
+            <tr>
+                <td>Estrategias de marketing</td>
+                <td>Publicidad en redes sociales como Tiktok, Instagram y Youtube Shorts</td>
+                <td>Publicidad en plataformas de videojuegos y páginas asociadas a NVIDIA</td>
+                <td>Videos promocionales y anuncios en Youtube</td>
+                <td>Anuncios en diversas tiendas digitales</td>
+            </tr>
+        </tr>
+        <tr>
+            <th rowspan="4">Perfil de Producto</th>
+            <tr>
+                <td>Productos & Servicios</td>
+                <td>Recomendaciones en base a criterios seleccionados por el usuario y herramientas de comparación de hardware</td>
+                <td>Optimizaciones de hardware NVIDIA y recomendaciones de uso</td>
+                <td>Recomendaciones de computadoras en base a presupuestos y necesidades</td>
+                <td>Herramienta online para armar PCS en base a componentes personalizados según precio y rendimiento</td>
+            </tr>
+            <tr>
+                <td>Precios y Costos</td>
+                <td>Planes de suscripción: gratuito o premium</td>
+                <td>Requiere hardware de la marca NVIDIA</td>
+                <td>Gratuito</td>
+                <td>Gratuito</td>
+            </tr>
+            <tr>
+                <td>Canales de distribución (Web y/o Móvil)</td>
+                <td>Plataforma web</td>
+                <td>Software instalable</td>
+                <td>Plataforma web</td>
+                <td>Plataforma web</td>
+            </tr>
+        </tr>        
+    </tbody>
+</table>
+
+<br>
+    
+<table>
+    <tbody>
+        <tr>
+            <th rowspan=10>Análisis SWOT</th>
+            <td colspan=2>Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva.</td>
+            <tr>
+                <th>Fortalezas</th>
+                <td>
+                    <ul>
+                        <li>Experiencia de usuario personalizada para la selección de un determinado componente</li>
+                        <li>Herramientas de búsqueda en base a criterios específicos como el presupuesto, rendimiento, tipo de tarea destinada a su uso, etc</li>
+                        <li>Opción para realizar la solicitud de un servicio técnico</li>
+                        <li>Conexión directa con un especialista en hardware para resolver las dudas del usuario</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <th>Debilidades</th>
+                <td>
+                    <ul>
+                        <li>El negocio está inspirado en otros servicios disponibles.</li>
+                        <li>Tiene un alcance limitado a Perú.</li>
+                        <li>Al ser una empresa emergente, no cuenta con grandes asociaciones que lo apoyen.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <th>Oportunidades</th>
+                <td>
+                    <ul>
+                        <li>Existen oportunidades de atraer usuarios debido a la creciente demanda de nuevas soluciones que sean rápidas y eficaces para la atención y el cumplimiento del servicio de guía técnica al cliente.</li>
+                        <li>Existen oportunidades de ampliar nuestro número de usuarios al expandir nuestra solución a otros dispositivos usados frecuentemente como los celulares.</li>
+                        <li>Existen oportunidades de establecer alianzas estratégicas con fabricantes de hardware y software para ofrecer promociones exclusivas y aumentar la credibilidad del servicio.</li>
+                        <li>Existen oportunidades de aplicar técnicas como el web scraping para recolectar y mostrar información realista y precisa.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <th>Amenazas</th>
+                <td>
+                    <ul>
+                        <li>Amenazas de ciberseguridad y fuerte competencia con empresas consolidadas</li>
+                        <li>Variaciones en las preferencias del usuario y aparación de nuevas tecnologías.</li>
+                        <li>Regulaciones gubernamentales que podrían limitar o complicar la operación del negocio en el sector tecnológico.</li>
+                        <li>Dependencia de proveedores externos y de la participación de especialistas que estén disponibles para brindar guía y servicio técnico en todo momento y cuando el usuario lo solicite.</li>
+                    </ul>
+                </td>
+            </tr>
+        </tr>
+    </tbody>
+</table>
+
 ### 2.1.2. Estrategias y tácticas frente a competidores:
+
+Para poder destacar ante nuestros competidores y ofrecer un producto de valor notable, hemos planteado las siguientes tácticas:
+
+- Colaboración con fabricantes de componentes: Iniciar colaboraciones con tiendas de hardware para ofrecer descuentos exclusivos o promociones especiales a los usuarios de la plataforma.
+
+- Gamificación del servicio: Implementar un sistema de puntos que serán canjeables por tarjetas de descuentos para una tienda determinada. Con ello podremos fomentar el uso constante de la aplicación.
+
+- Seminarios: Incorporar un blog o una serie de artículos regulares en la plataforma que cubran temas básicos y avanzados sobre construcción de PC y optimización. También, ofrecer seminarios web ocasionales con expertos en hardware, centrados en temas relevantes y actuales.
+
+- Comunicación y atención: Incorporar un entorno virtual donde el usuario corriente y el técnico puedan interactuar de manera fluida sin necesidad de estar físicamente en el mismo lugar. De esta manera el usuario, cuando desee realizar una consulta, puede unirse a la sesión y un técnico lo atenderá en un lapso predeterminado.
+
+- Servicio de intervención técnica: Permitir la opción de solicitar un servicio técnico a domicilio. Para ello, el cliente tiene que indicar su dni, ubicación y motivo de la solicitud. Además, la solicitud solo podría ser presentada por una persona que haya cumplido la mayoría de edad.
+
 ## 2.2. Entrevistas
 ### 2.2.1 Diseño de entrevistas:
 
@@ -439,3 +654,6 @@ Descripción:
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+
+</div>
