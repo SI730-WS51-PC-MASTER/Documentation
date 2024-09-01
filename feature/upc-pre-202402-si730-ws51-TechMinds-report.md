@@ -656,15 +656,32 @@ Preguntas principales:
 
 Descripción:
 
+#### Segmento 1 - Entrevista 2
+
 | Nombres | Apellidos | Edad | Inicio | Duración |
 |---------|-----------|------|--------|----------|
 | Diego | - |  | 3:14 | 3:20 |
 
 Descripción:
 
-#### Segmento 1 - Entrevista 2
+#### Segmento 1 - Entrevista 3
 
-...
+| Nombres | Apellidos | Edad | Inicio | Duración |
+|---------|-----------|------|--------|----------|
+| Diego Estefano | Alvarez Castillo | 19 | 6:32 | 7:52 |
+
+Descripción:
+
+#### Segmento 2 - Entrevista 1
+
+| Nombres | Apellidos | Edad | Inicio | Duración |
+|---------|-----------|------|--------|----------|
+| Ramon Felipe | Tomaya Parco | 45 | 14:24 | 3:13 |
+
+Descripción:
+
+
+### Link de entrevistas: https://acortar.link/4drsoJ
 
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
