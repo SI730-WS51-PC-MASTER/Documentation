@@ -316,7 +316,7 @@ Para lograr ello, se empleará la técnica del Web Scraping con el fin de extrae
 
 1. **Creemos que** colaborar con tiendas locales de hardware para ofrecer descuentos exclusivos atraerá a más usuarios y aumentará la credibilidad de la plataforma. **Sabremos que esto es cierto** cuando observemos un incremento en las visitas a la página del 15%.
 
-2. **Creemos que** proporcionar recursos educativos, como un blog y seminarios web, posicionará a la plataforma como una fuente confiable de conocimiento y aumentará el tiempo que los usuarios pasan en la plataforma. **Sabremos que esto es cierto** cuando observemos un aumento del 20% en la duración promedio de las visitas a la plataforma.
+2. **Creemos que** ofrecer filtros eficaces permitirá a los usuarios encontrar rápidamente lo que buscan sin sentirse abrumados. **Sabremos que esto es cierto** cuando observemos un aumento del 5% en el número de reseñas possitivas a la plataforma relacionadas.
 
 3. **Creemos que** implementar un sistema de puntos y recompensas básicas incentivará a los usuarios a participar más en la plataforma. **Sabremos que esto es cierto** cuando observemos un incremento del 10% en el número de usuarios concurrentes.
 
@@ -378,7 +378,7 @@ Para lograr ello, se empleará la técnica del Web Scraping con el fin de extrae
     <br><br>
     - Creemos que colaborar con tiendas locales de hardware para ofrecer descuentos exclusivos atraerá a más usuarios y aumentará la credibilidad de la plataforma. Sabremos que esto es cierto cuando observemos un incremento en las visitas a la página del 15%.
     <br><br>
-    - Creemos que proporcionar recursos educativos, como un blog y seminarios web, posicionará a la plataforma como una fuente confiable de conocimiento y aumentará el tiempo que los usuarios pasan en la plataforma. Sabremos que esto es cierto cuando observemos un aumento del 20% en la duración promedio de las visitas a la plataforma.
+    -Creemos que ofrecer filtros eficaces permitirá a los usuarios encontrar rápidamente lo que buscan sin sentirse abrumados. Sabremos que esto es cierto cuando observemos un aumento del 5% en el número de reseñas possitivas a la plataforma relacionadas.
     <br><br>
     - Creemos que implementar un sistema de puntos y recompensas básicas incentivará a los usuarios a participar más en la plataforma. Sabremos que esto es cierto cuando observemos un incremento del 10% en el número de usuarios concurrentes.
     </td>
@@ -608,8 +608,6 @@ Para poder destacar ante nuestros competidores y ofrecer un producto de valor no
 - Colaboración con fabricantes de componentes: Iniciar colaboraciones con tiendas de hardware para ofrecer descuentos exclusivos o promociones especiales a los usuarios de la plataforma.
 
 - Gamificación del servicio: Implementar un sistema de puntos que serán canjeables por tarjetas de descuentos para una tienda determinada. Con ello podremos fomentar el uso constante de la aplicación.
-
-- Seminarios: Incorporar un blog o una serie de artículos regulares en la plataforma que cubran temas básicos y avanzados sobre construcción de PC y optimización. También, ofrecer seminarios web ocasionales con expertos en hardware, centrados en temas relevantes y actuales.
 
 - Comunicación y atención: Incorporar un entorno virtual donde el usuario corriente y el técnico puedan interactuar de manera fluida sin necesidad de estar físicamente en el mismo lugar. De esta manera el usuario, cuando desee realizar una consulta, puede unirse a la sesión y un técnico lo atenderá en un lapso predeterminado.
 
