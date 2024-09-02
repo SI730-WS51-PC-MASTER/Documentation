@@ -681,6 +681,15 @@ Descripción:
 Descripción:
 
 
+#### Segmento 2 - Entrevista 2
+
+| Nombres | Apellidos | Edad | Inicio | Duración |
+|---------|-----------|------|--------|----------|
+| Adrian | Torre | 45 | 17:37 | 4:40 |
+
+Descripción:
+
+
 ### Link de entrevistas: https://acortar.link/4drsoJ
 
 ### 2.2.3. Análisis de entrevistas.
