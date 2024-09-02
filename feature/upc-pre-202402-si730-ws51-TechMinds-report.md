@@ -690,7 +690,7 @@ Descripción:
 Descripción:
 
 
-### Link de entrevistas: https://acortar.link/4drsoJ
+### Link de entrevistas: https://acortar.link/d7FyPf
 
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
