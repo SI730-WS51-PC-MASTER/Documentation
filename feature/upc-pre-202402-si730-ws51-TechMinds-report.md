@@ -57,7 +57,7 @@ Ciclo 2024-01 | Sección WS51
 | Versión | Fecha      | Autor                                                    | Descripción                                                                                       |
 |---------|------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 | 1.0     | 26/08/2024 | Aranda Vallejos, Oscar Gabriel | Se redactó la descripción de la startup, los antecedentes y la problemática. Además, se desarrolló el Lean UX Process y se delimitó el segmento objetivo |
-| 1.2     | xx/08/2024 | Apellido, Nombre | ... |
+| 1.2     | 02/09/2024 | Chirinos Zúñiga, Rodrigo Manuel | Desarrollo del User Journey Mapping y Empathy Mapping |
 | 1.4     | xx/08/2024 | Apellido, Nombre | ... |
 | 1.6     | xx/08/2024 | Apellido, Nombre | ... |
 | 1.8     | xx/08/2024 | Apellido, Nombre | ... |
@@ -159,9 +159,9 @@ TechDesign es una startup dedicada a guiar personas con conocimientos poco concr
 
 ---
 #### Nombre: Chirinos Zúñiga, Rodrigo Manuel | U202217804
-> Descripción, carrera, conocimientos técnicos, habilidades que puede aportar al equipo.
->
-> [Imagen]
+Tengo 20 años, soy un estudiante de la carrera de Ingeniería de Software, considero que soy una persona responsable y de escucha activa. Estoy comprometido con mis compañeros en realizar un buen trabajo y así aprender todos en el proceso. También tengo conocimientos en programación en C++, HTML, CSS y JavaScript.
+
+<img src = "https://github.com/user-attachments/assets/9895e794-a88f-4436-a332-8d5c8112f9cb" >
 
 
 ---
@@ -662,7 +662,7 @@ Alfredo considera que su computadora actual es suficiente para sus necesidades, 
 [![2.png](https://i.postimg.cc/YqJTgdXs/2.png)](https://postimg.cc/qzxmHxHs)
 | Nombres | Apellidos | Edad | Inicio | Duración |
 |---------|-----------|------|--------|----------|
-| Diego | - |  | 3:14 | 3:20 |
+| Diego | Chirinos | 21 | 3:14 | 3:20 |
 
 Descripción: Diego, cuya edad no se especifica, es un usuario diario de un ordenador de escritorio que emplea tanto para su trabajo como para actividades personales, entre las que se incluyen la navegación por internet y los videojuegos. Utiliza Google Chrome y Opera como sus navegadores principales en su computadora y en su teléfono móvil.
 
