@@ -59,8 +59,6 @@
 
 [STUDENT OUTCOME](#student-outcome)
 
-<br>
-
 1. [**Capítulo I: Introducción**](#capítulo-i-introducción) <br>
 1.1. [***1.1.Startup Profile***](#11-startup-profile) <br>
 1.1.1. [1.1.1. Descripción del startup](#111-descripción-del-startup) <br>
@@ -72,7 +70,8 @@
 1.2.2.2. [1.2.2.2.Lean UX Assumptions](#1222-lean-ux-assumptions) <br>
 1.2.2.3. [1.2.2.3.Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements) <br>
 1.2.2.4. [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas) <br>
-1.3. [***1.3. Segmentos objetivo***](#13-segmentos-objetivo) <br>
+1.3. [***1.3. Segmentos objetivo***](#13-segmentos-objetivo) <br> <br>
+
 2. [**2. Capítulo II: Requirements Elicitation & Analysis**](#capítulo-ii-requirements-elicitation-&-analysis) <br>
 2.1. [***Competidores***](#21-competidores) <br>
 2.1.1. [Análisis competitivo](#211-análisis-competitivo) <br>
@@ -88,13 +87,11 @@
 2.3.4. [Empathy Mapping](#234-empathy-mapping) <br>
 2.3.5. [As-is Scenario Mapping](#235-as-is-scenario-mapping) <br>
 2.4. [***Ubiquitous Language***](#24-ubiquitous-Language)
-<br>
 3. [**Capítulo III: Requirements Specification**](#capítulo-iii-requirements-specification) <br>
 3.1. [***To-Be Scenario Mapping***](#31-to-be-scenario-mapping) <br>
 3.2. [***User Stories***](#32-user-stories) <br>
 3.3. [***Impact Mapping***](#33-impact-mapping) <br>
 3.4. [***Product Backlog***](#34-product-backlog) <br>
-<br>
 4. [**Capítulo IV: Product Design**](#capítulo-iv-product-design) <br>
 4.1. [***Style Guidelines***](#41-style-guidelines) <br>
 4.1.1. [General Style Guidelines](#411-general-style-guidelines) <br>
@@ -123,7 +120,6 @@
 4.7.2. [Class Dictionary](#472-class-dictionary) <br>
 4.8. [***Database Design***](#48-database-design) <br>
 4.8.1. [Database Diagram](#481-database-diagram) <br>
-<br>
 5. [**Capítulo V: Product Implementation, Validation & Deployment**](#capítulo-v-product-implementation-validation-&-deployment) <br>
 5.1. [***Software Configuration Management***](#51-software-configuration-management) <br>
 5.1.1. [Software Development Environment Configuration](#511-software-development-environment-configuration) <br>
@@ -145,7 +141,6 @@
 5.3.2.[Registro de Entrevistas](#532-registro-de-entrevistas) <br>
 5.3.3.[Evaluaciones según Heurísticas](#533-evaluaciones-según-heurísticas) <br>
 5.4. [***Video About-the-Product***](#54-video-about-the-product) <br>
-<br>
 6. [**Conclusiones**](#conclusiones) <br>
 7. [**Bibliografía**](#bibliografía) <br>
 8. [**Anexos**](#anexos)
