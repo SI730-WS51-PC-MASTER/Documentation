@@ -648,49 +648,119 @@ Preguntas principales:
 
 ##### Segmento 1 - Entrevista 1
 
+[![1.png](https://i.postimg.cc/0rRpN1Vx/1.png)](https://postimg.cc/hQsJC6F3) 
 | Nombres | Apellidos | Edad | Inicio | Duración |
 |---------|-----------|------|--------|----------|
 | Alfredo | Medina | 23 | 0:00 | 3:13 |
 
-Descripción:
+Descripción: Alfredo Medina, un joven de 23 años, es usuario habitual de una PC de escritorio que utiliza principalmente para tareas de programación, lo cual está relacionado con su carrera universitaria. También emplea su computadora para videojuegos de gama media a alta y para edición de videos de forma ocasional. Aparte de esta PC, Alfredo usa otro ordenador exclusivo para el trabajo y prefiere Google Chrome como navegador principal, utilizando Microsoft Edge en raras ocasiones.
+
+Alfredo considera que su computadora actual es suficiente para sus necesidades, aunque cree que podría beneficiarse de una mejora en el futuro. Se siente bien informado sobre los componentes de su computadora y ha intentado resolver problemas por su cuenta con éxito. No obstante, estaría interesado en recibir soporte técnico para problemas más graves y aprender más sobre el funcionamiento de su equipo. Alfredo muestra un interés particular en una aplicación que no solo le ayude a identificar los componentes más adecuados para mejorar su computadora, sino que también le ofrezca soporte técnico eficiente. Considera fundamental que dicha aplicación cuente con un amplio repertorio de marcas y modelos de componentes, además de proporcionar información detallada sobre el rendimiento y las especificaciones de cada pieza.
 
 #### Segmento 1 - Entrevista 2
 
+[![2.png](https://i.postimg.cc/YqJTgdXs/2.png)](https://postimg.cc/qzxmHxHs)
 | Nombres | Apellidos | Edad | Inicio | Duración |
 |---------|-----------|------|--------|----------|
 | Diego | - |  | 3:14 | 3:20 |
 
-Descripción:
+Descripción: Diego, cuya edad no se especifica, es un usuario diario de un ordenador de escritorio que emplea tanto para su trabajo como para actividades personales, entre las que se incluyen la navegación por internet y los videojuegos. Utiliza Google Chrome y Opera como sus navegadores principales en su computadora y en su teléfono móvil.
+
+Diego tiene un conocimiento básico sobre los componentes de su computadora, como el procesador, la tarjeta gráfica y la memoria RAM. Aunque ha intentado resolver algunos problemas de su computadora por su cuenta, en ocasiones ha requerido ayuda externa. Le interesa aprender más sobre los componentes y cómo optimizar el rendimiento de su computadora. Diego también expresa un fuerte interés en una aplicación que le facilite la tarea de mejorar o actualizar su computadora, especialmente si esta ofrece recomendaciones personalizadas basadas en su sistema actual. Además, sugiere que la aplicación podría incluir características como tutoriales paso a paso y diagnósticos en tiempo real para mejorar la experiencia del usuario.
 
 #### Segmento 1 - Entrevista 3
 
+[![3.png](https://i.postimg.cc/HkvzXnss/3.png)](https://postimg.cc/RWfwzMHj)
 | Nombres | Apellidos | Edad | Inicio | Duración |
 |---------|-----------|------|--------|----------|
 | Diego Estefano | Alvarez Castillo | 19 | 6:32 | 7:52 |
 
-Descripción:
+Descripción: Diego Estefano Álvarez Castillo, de 19 años, es un estudiante universitario de la Universidad Católica del Perú, especializado en Ingeniería Informática. Utiliza una laptop que adquirió para sus estudios, la cual emplea diariamente para sus tareas académicas y ocasionalmente para jugar videojuegos y escuchar música mientras estudia.
+
+Diego considera que su laptop actual es adecuada para sus estudios, pero anticipa que en el futuro podría necesitar un equipo más potente, especialmente a medida que avanza en su carrera y necesita instalar software más avanzado. Aunque tiene conocimientos básicos sobre los componentes de su laptop, como el procesador y la memoria RAM, le gustaría aprender más sobre estos temas. Diego ha solucionado pequeños problemas de software por su cuenta, pero no ha tenido mayores fallos que requieran intervención técnica. Manifiesta un interés en una aplicación que le ayude a seleccionar el hardware más adecuado para sus necesidades futuras, y destaca la importancia de que dicha aplicación ofrezca un soporte técnico eficiente y oportuno, ya que ha tenido experiencias negativas con servicios que tardan mucho en responder.
 
 #### Segmento 2 - Entrevista 1
 
+[![2-1.png](https://i.postimg.cc/wv49dh6Y/2-1.png)](https://postimg.cc/5YzhBQYs)
 | Nombres | Apellidos | Edad | Inicio | Duración |
 |---------|-----------|------|--------|----------|
 | Ramon Felipe | Tomaya Parco | 45 | 14:24 | 3:13 |
 
-Descripción:
+Descripción: Ramón Felipe Tomaya Parco, de 45 años, es un técnico con 10 años de experiencia en el mantenimiento y reparación de computadoras, trabajando para una empresa. Sus principales actividades incluyen el mantenimiento de PCs, laptops y impresoras. Ramón destaca como uno de los mayores desafíos en su trabajo la necesidad de educar a sus clientes sobre cómo manejar problemas básicos de hardware y software por sí mismos, para que puedan ser más autosuficientes.
+
+En cuanto a las herramientas que utiliza, Ramón menciona un sistema de tickets con una base de conocimientos limitada, que emplea para registrar y gestionar incidentes anteriores. Estaría muy interesado en una plataforma en la nube que facilite la recomendación de componentes y configuraciones de hardware personalizadas, y que permita al usuario resolver problemas de manera más autónoma. Ramón también sugiere que esta plataforma podría incorporar inteligencia artificial para mejorar la eficiencia en la resolución de problemas. Ve esta herramienta como un medio para reducir los tiempos de intervención y mejorar la satisfacción del cliente.
 
 
 #### Segmento 2 - Entrevista 2
 
+[![2-2.png](https://i.postimg.cc/bNhqfNPJ/2-2.png)](https://postimg.cc/Z0VGrmCt)
 | Nombres | Apellidos | Edad | Inicio | Duración |
 |---------|-----------|------|--------|----------|
-| Adrian | Torre | 45 | 17:37 | 4:40 |
+| Adrian | Torre | - | 17:37 | 4:40 |
 
-Descripción:
+Descripción: Adrián Torre, tiene una experiencia básica en el mantenimiento y reparación de computadoras, centrada principalmente en la instalación de software y la resolución de problemas simples. Aunque no trabaja actualmente para una empresa ni de manera independiente, se encuentra en una etapa de aprendizaje y búsqueda de nuevas oportunidades para expandir sus conocimientos.
+
+Adrián identifica como uno de los principales desafíos la dificultad de comunicar conceptos técnicos a clientes que no tienen conocimientos de hardware y software, lo que complica la explicación de los procedimientos técnicos que realiza. Actualmente, usa herramientas básicas como las notificaciones del sistema operativo y el antivirus para diagnosticar problemas. A pesar de su experiencia limitada, estaría interesado en una plataforma que le permita ofrecer servicios técnicos a un público más amplio, y que le facilite la recomendación de componentes y configuraciones de hardware personalizadas. Ve esto como una oportunidad para mejorar sus habilidades y obtener mejores resultados en su trabajo.
+
+#### Segmento 2 - Entrevista 3
+
+[![2-3.png](https://i.postimg.cc/L4krfkd9/2-3.png)](https://postimg.cc/G927nyhV)
+| Nombres | Apellidos | Edad | Inicio | Duración |
+|---------|-----------|------|--------|----------|
+| Paul Steven | Medina Sanchez | 40 | 22:01 | 5:26 |
+
+Descripción: Paul Steven Medina Sánchez, de 40 años, tiene 10 años de experiencia trabajando para una empresa en el área de mantenimiento y reparación de computadoras. Sus actividades incluyen el mantenimiento de equipos en una sala de control que gestiona procesos complejos. Paul identifica como un desafío que los clientes a menudo no describen correctamente los problemas que enfrentan, lo que dificulta el diagnóstico y la intervención rápida.
+
+En su empresa, utilizan un sistema de tickets para registrar los problemas que reportan los clientes, lo cual permite programar intervenciones. Sin embargo, Paul considera que este sistema es limitado y no muy práctico, ya que requiere que el equipo técnico lea los tickets y determine cuándo intervenir. Estaría interesado en una plataforma que no solo facilite la recomendación de componentes y configuraciones de hardware, sino que también ayude a los clientes a diagnosticar sus problemas con mayor precisión, reduciendo así los tiempos de intervención. Paul cree que una alianza con una plataforma de este tipo podría beneficiar a la empresa al mejorar la eficiencia del equipo técnico y la satisfacción del cliente.
 
 
-### Link de entrevistas: https://acortar.link/d7FyPf
+### Link de entrevistas: https://acortar.link/LWUrOB
 
 ### 2.2.3. Análisis de entrevistas.
+
+Segmento 1: Clientes que desean componentes de hardware
+1. Uso de la computadora:
+
+Frecuencia de uso: El 100% de los entrevistados (3/3) utiliza su computadora de forma diaria o interdiaria, lo que indica un uso frecuente y necesario.
+Principales usos: Todos los entrevistados (3/3) utilizan su computadora para tareas relacionadas con el trabajo o estudio, y dos de ellos (66.7%) también la usan para videojuegos. Esto sugiere que, además de necesidades funcionales, hay un interés significativo en el rendimiento de la computadora para entretenimiento.
+2. Conocimiento de componentes:
+
+Nivel de conocimiento: El 66.7% (2/3) de los entrevistados tiene un conocimiento básico o suficiente sobre los componentes de su computadora y cómo estos afectan el rendimiento. Solo uno de los entrevistados (33.3%) expresó tener un conocimiento limitado.
+Interés en aprender más: Todos los entrevistados (100%) manifestaron interés en aprender más sobre los componentes de su computadora, lo que muestra una necesidad educativa y de soporte en este segmento.
+3. Solución de problemas:
+
+Solución independiente: El 100% (3/3) de los entrevistados ha intentado resolver problemas de su computadora por su cuenta antes de buscar ayuda externa, demostrando una actitud proactiva.
+Necesidad de soporte técnico: Todos los entrevistados (100%) también estarían interesados en recibir soporte técnico para problemas más complejos, lo que resalta una demanda latente de servicios de asistencia.
+4. Interés en mejorar la computadora:
+
+Interés en mejoras: Dos de los tres entrevistados (66.7%) consideran que podrían mejorar su computadora para un mejor rendimiento, especialmente para tareas de entretenimiento y software más avanzado.
+Uso de una aplicación de soporte: El 100% de los entrevistados estaría dispuesto a utilizar una aplicación que les ayude a mejorar su computadora, destacando la importancia de herramientas digitales que faciliten el proceso de selección y mejora de componentes.
+5. Características adicionales deseadas:
+
+Funcionalidades de la aplicación: Los entrevistados sugirieron varias funcionalidades para una aplicación de soporte, incluyendo tutoriales, diagnósticos en tiempo real, y una amplia base de datos sobre componentes. Estas sugerencias apuntan a la necesidad de una aplicación que no solo oriente en la selección de componentes, sino que también ofrezca educación y soporte continuo.
+Conclusión para el Segmento 1: Este segmento se caracteriza por usuarios que utilizan intensivamente sus computadoras, tienen un conocimiento básico sobre hardware, y muestran un gran interés en mejorar sus equipos con ayuda de herramientas digitales. La creación de un arquetipo para este segmento debería enfocarse en un usuario que valora tanto el rendimiento como la facilidad de acceso a información y soporte técnico para mantener y mejorar su computadora.
+
+Segmento 2: Técnicos de computadoras
+1. Experiencia profesional:
+
+Años de experiencia: El 66.7% (2/3) de los entrevistados tiene 10 años de experiencia en mantenimiento y reparación de computadoras, lo que sugiere un segmento con un alto nivel de especialización y conocimiento práctico.
+Tipo de trabajo: Dos de los tres entrevistados (66.7%) trabajan para empresas, mientras que uno se encuentra en proceso de aprendizaje y búsqueda de oportunidades laborales. Esto indica una mezcla entre técnicos experimentados y aquellos en etapas iniciales de su carrera.
+2. Desafíos comunes:
+
+Educación del cliente: Todos los entrevistados (100%) coinciden en que uno de los mayores desafíos es la falta de conocimiento de los clientes sobre hardware y software, lo que dificulta la comunicación y el diagnóstico de problemas.
+Necesidad de una plataforma educativa: El 100% de los entrevistados expresó la necesidad de herramientas o plataformas que puedan educar a los clientes y facilitar el diagnóstico de problemas, lo que podría mejorar tanto la eficiencia de su trabajo como la satisfacción del cliente.
+3. Herramientas y aplicaciones actuales:
+
+Uso de sistemas de tickets: Dos de los tres entrevistados (66.7%) mencionaron el uso de sistemas de tickets para gestionar problemas, aunque consideran que estas herramientas son limitadas y poco prácticas.
+Interés en nuevas plataformas: Todos los entrevistados (100%) estarían interesados en una nueva plataforma que facilite la recomendación de componentes y configuraciones de hardware, especialmente si incluye inteligencia artificial o una base de conocimientos amplia.
+4. Alianzas y colaboración:
+
+Disposición a aliarse con una plataforma: El 100% de los entrevistados manifestó disposición a aliarse con una plataforma que les permita ofrecer servicios a un público más amplio y mejorar su visibilidad profesional. Ven en esto una oportunidad para optimizar su tiempo y ampliar su negocio.
+5. Características esenciales de la plataforma:
+
+Funcionalidades clave: Los entrevistados sugirieron que la plataforma debería incluir una base de conocimientos robusta, soporte técnico eficiente, y herramientas que permitan a los usuarios diagnosticar problemas de manera autónoma. Estas características serían clave para mejorar la experiencia tanto de los técnicos como de los clientes.
+Conclusión para el Segmento 2: Este segmento está compuesto por técnicos experimentados que enfrentan desafíos en la educación de sus clientes y en la gestión eficiente del tiempo. El arquetipo resultante debe reflejar a un profesional que busca herramientas para optimizar su trabajo, educar a sus clientes, y mejorar la visibilidad de su negocio mediante la colaboración con plataformas digitales.
+
 ## 2.3. Needfinding.
 #### 2.3.1. User Personas.
 #### 2.3.2. User Task Matrix.
