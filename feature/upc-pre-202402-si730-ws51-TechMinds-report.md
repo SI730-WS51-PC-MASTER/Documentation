@@ -514,9 +514,9 @@ Para lograr ello, se empleará la técnica del Web Scraping con el fin de extrae
 
 <br><br>
 
-# Capítulo II: Requirements Elicitation & Analysis
+## Capítulo II: Requirements Elicitation & Analysis
 
-## 2.1 Competidores
+### 2.1 Competidores
 En el competitivo mercado de asistencia para la selección de componentes de hardware y la optimización de configuraciones, TechMinds enfrenta competidores originarios de varias empresas y soluciones. Los más destacados son los siguientes:
 
 - GeForce Experience: Un producto de NVIDIA dirigido a jugadores que ofrece recomendaciones para la optimización de configuraciones relacianadas a tarjetas gráficas NVIDIA y el performance del equipo; sin embargo, como se puede deducir, su enfoque principal es la optimización de videojuegos y creación de contenido. En consecuencia, no ofrece recomendaciones completas para otros componentes.
@@ -537,7 +537,7 @@ En el competitivo mercado de asistencia para la selección de componentes de har
     <img src="https://images.seeklogo.com/logo-png/52/2/pcpartpicker-logo-png_seeklogo-529311.png" alt="PCPartPicker" height=200 width=300>
 </div><br>
 
-### 2.1.1 Análisis Competitivo:
+#### 2.1.1 Análisis Competitivo:
 
 <table>
     <thead>
@@ -677,7 +677,7 @@ En el competitivo mercado de asistencia para la selección de componentes de har
 
 <br>
 
-### 2.1.2. Estrategias y tácticas frente a competidores:
+#### 2.1.2. Estrategias y tácticas frente a competidores:
 
 Para poder destacar ante nuestros competidores y ofrecer un producto de valor notable, hemos planteado las siguientes tácticas:
 
@@ -691,9 +691,9 @@ Para poder destacar ante nuestros competidores y ofrecer un producto de valor no
 
 <br>
 
-## 2.2. Entrevistas
+### 2.2. Entrevistas
 
-### 2.2.1 Diseño de entrevistas:
+#### 2.2.1 Diseño de entrevistas:
 
 <p> En esta sección del reporte se presentará las preguntas de las entrevistas y el análisis relacionado de cada entrevista. </p>
 
@@ -725,7 +725,7 @@ Preguntas principales:
 
 <br>
 
-### 2.2.2 Registro de entrevistas:
+#### 2.2.2 Registro de entrevistas:
 
 ##### Segmento 1 - Entrevista 1
 
@@ -797,7 +797,7 @@ En su empresa, utilizan un sistema de tickets para registrar los problemas que r
 
 ### Link de entrevistas: https://acortar.link/LWUrOB
 
-### 2.2.3. Análisis de entrevistas.
+#### 2.2.3. Análisis de entrevistas.
 
 #### Segmento 1: Clientes que desean componentes de hardware
 
