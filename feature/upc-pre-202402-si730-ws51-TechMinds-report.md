@@ -160,8 +160,8 @@ TechDesign es una startup dedicada a guiar personas con conocimientos poco concr
 ---
 #### Nombre: Chirinos Zúñiga, Rodrigo Manuel | U202217804
 Tengo 20 años, soy un estudiante de la carrera de Ingeniería de Software, considero que soy una persona responsable y de escucha activa. Estoy comprometido con mis compañeros en realizar un buen trabajo y así aprender todos en el proceso. También tengo conocimientos en programación en C++, HTML, CSS y JavaScript.
->
-> [![Imagen1](https://github.com/user-attachments/assets/9895e794-a88f-4436-a332-8d5c8112f9cb)]
+
+<img src = "https://github.com/user-attachments/assets/9895e794-a88f-4436-a332-8d5c8112f9cb" >
 
 
 ---
@@ -658,9 +658,10 @@ Descripción:
 
 | Nombres | Apellidos | Edad | Inicio | Duración |
 |---------|-----------|------|--------|----------|
-| Diego | - |  | 3:14 | 3:20 |
+| Diego | Chirinos | 21 | 3:14 | 3:20 |
 
 Descripción:
+Diego nos comenta durante la entrevista que el uso que él le da a sus dispositivos es para hacer trabajos, navegar por internet y ocasionalmente jugar algunos juegos. Usa principalmente Chrome y Opera en su laptop y celular. Considera además que no estaría mal mejorar su ordenador para que sea más eficiente en el rendimiento a la hora de jugar. Él explica que conoce lo básico del hardware de computadoras, como el procesador, la tarjeta gráfica y la memoria RAM. Finalmente, nos dice que le ayudaría bastante una aplicación que le recomiende componentes de acuerdo con sus necesidades y presupuesto.
 
 #### Segmento 1 - Entrevista 3
 
