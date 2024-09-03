@@ -1,30 +1,53 @@
+<p align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="UPC" width="200">
+</p>
+
 # Universidad Peruana de Ciencias Aplicadas
-![UPC](https://carrerasuniversitarias.site/wp-content/uploads/2019/11/logo-universidad-peruana-de-ciencias-aplicadas.png)
-## Ingeniería de Sistemas y Computación | Ingeniería de Software
+
+### Ingeniería de Software
+
+### Ciclo 2024-02
 
 ### APLICACIONES WEB
 
+### Sección: WS51
+
+### **Docente:** Hugo Allan Mori Paiva
+
 #### TB1 REPORT
 
-**Nombre del Startup**\
-TechMinds\
-**Nombre del Producto**\
-PCMaster
+### Startup: TechMinds
 
-**Docente:** Hugo Allan Mori Paiva
+### Producto: PCMaster
 
 **Grupo 2**
 
-**Team Members:**
-- Aranda Vallejos, Oscar Gabriel - U202218167
-- Cantoral Sedamano, Alexander ALberto - U20181b152
-- Chirinos Zúñiga, Rodrigo Manuel - U202217804
-- Soriano Medrano, Diego Martin - U202114793
-- Tello Murga, Javier Oswaldo - U202218387
+## **Team Members:**
 
-Ciclo 2024-01 | Sección WS51
+| Alumno | Código |
+|:------:|:------:|
+| Aranda Vallejos, Oscar Gabriel | U202218167 |
+| Cantoral Sedamano, Alexander ALberto | U20181b152 |
+| Chirinos Zúñiga, Rodrigo Manuel | U202217804 |
+| Soriano Medrano, Diego Martin | U202114793 |
+| Tello Murga, Javier Oswaldo | U202218387 |
 
+## Agosto Ciclo 2024-02
 
+<br>
+
+# REGISTRO DE VERSIONES DEL INFORME
+
+| Versión | Fecha      | Autor                                                    | Descripción                                                                                       |
+|---------|------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| 1.0     | 26/08/2024 | Aranda Vallejos, Oscar Gabriel | Se redactó la descripción de la startup, los antecedentes y la problemática. Además, se desarrolló el Lean UX Process y se delimitó el segmento objetivo |
+| 1.2     | 02/09/2024 | Chirinos Zúñiga, Rodrigo Manuel | Desarrollo del User Journey Mapping y Empathy Mapping |
+| 1.4     | xx/08/2024 | Apellido, Nombre | ... |
+| 1.6     | xx/08/2024 | Apellido, Nombre | ... |
+| 1.8     | xx/08/2024 | Apellido, Nombre | ... |
+| 2.0     | xx/08/2024 | Apellido, Nombre | ... |
+
+<br>
 
 # CONTENIDO
 
@@ -51,17 +74,6 @@ Ciclo 2024-01 | Sección WS51
 
 
 
-
-# REGISTRO DE VERSIONES DEL INFORME
-
-| Versión | Fecha      | Autor                                                    | Descripción                                                                                       |
-|---------|------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| 1.0     | 26/08/2024 | Aranda Vallejos, Oscar Gabriel | Se redactó la descripción de la startup, los antecedentes y la problemática. Además, se desarrolló el Lean UX Process y se delimitó el segmento objetivo |
-| 1.2     | 02/09/2024 | Chirinos Zúñiga, Rodrigo Manuel | Desarrollo del User Journey Mapping y Empathy Mapping |
-| 1.4     | xx/08/2024 | Apellido, Nombre | ... |
-| 1.6     | xx/08/2024 | Apellido, Nombre | ... |
-| 1.8     | xx/08/2024 | Apellido, Nombre | ... |
-| 2.0     | xx/08/2024 | Apellido, Nombre | ... |
 
 
 
