@@ -772,12 +772,50 @@ Ambos segmentos muestran una alta disposición a utilizar nuevas tecnologías pa
 
 En esta sección se presentarán las user personas para cada segmento objetivo.
 
+Segmento 1: Clientes que desean componentes de hardware
 
-[![Carlos-Medina.png](https://i.postimg.cc/BbFsm5BJ/Carlos-Medina.png)](https://postimg.cc/xN9WCzZZ)
+[![Carlos-Medina.png](https://i.postimg.cc/2SRjm0wf/Carlos-Medina.png)](https://postimg.cc/JGxC5cvT)
 
+Segmento 2: Técnicos de computadoras
 
+[![Ramon-Tomaya-Parco.png](https://i.postimg.cc/Gmx4f01f/Ramon-Tomaya-Parco.png)](https://postimg.cc/v4D81NT7)
 
 #### 2.3.2. User Task Matrix.
+
+En esta sección se presenta la **User Task Matrix** que agrupa las tareas clave que cada **User Persona** realiza para alcanzar sus objetivos. Se han considerado dos segmentos de usuarios: **Carlos Medina**, un estudiante de Ingeniería Informática con conocimientos en hardware, y **Ramon Tomaya Parco**, un técnico de computadoras independiente con años de experiencia. Las tareas enumeradas reflejan actividades que ambos segmentos realizan independientemente de la existencia de una solución de software específica. 
+
+A continuación, se presenta la matriz, donde se evalúa la frecuencia y la importancia de cada tarea para ambos perfiles.
+
+| **Tareas**                                               | **Carlos Medina**         | **Frecuencia** | **Importancia** | **Ramon Felipe Tomaya Parco** | **Frecuencia** | **Importancia** |
+|----------------------------------------------------------|---------------------------|----------------|-----------------|--------------------------------|----------------|-----------------|
+| **1. Investigación de hardware y componentes**           | Carlos Medina             | Alta           | Alta            | Ramon Felipe Tomaya Parco      | Media          | Alta            |
+| **2. Comparación de precios y especificaciones**         | Carlos Medina             | Alta           | Alta            | Ramon Felipe Tomaya Parco      | Media          | Alta            |
+| **3. Configuración de sistemas operativos**              | Carlos Medina             | Baja           | Media           | Ramon Felipe Tomaya Parco      | Alta           | Alta            |
+| **4. Diagnóstico y reparación de hardware**              | Carlos Medina             | Baja           | Media           | Ramon Felipe Tomaya Parco      | Alta           | Alta            |
+| **5. Asesoramiento a terceros sobre compra de hardware** | Carlos Medina             | Media          | Alta            | Ramon Felipe Tomaya Parco      | Media          | Alta            |
+| **6. Seguimiento de tendencias y actualizaciones**       | Carlos Medina             | Alta           | Alta            | Ramon Felipe Tomaya Parco      | Alta           | Alta            |
+| **7. Interacción con comunidades técnicas**              | Carlos Medina             | Alta           | Media           | Ramon Felipe Tomaya Parco      | Media          | Media           |
+| **8. Gestión de clientes y proyectos**                   | Carlos Medina             | Baja           | Baja            | Ramon Felipe Tomaya Parco      | Alta           | Alta            |
+| **9. Participación en foros y redes sociales**           | Carlos Medina             | Media          | Media           | Ramon Felipe Tomaya Parco      | Media          | Media           |
+
+**Tareas con Mayor Frecuencia e Importancia**
+
+- **Investigación de hardware y componentes:** Tanto **Carlos** como **Ramon** consideran esta tarea crucial para cumplir con sus objetivos. Sin embargo, mientras que Carlos realiza esta tarea con alta frecuencia, Ramon lo hace de manera moderada, dado su nivel de experiencia y conocimiento previo.
+  
+- **Seguimiento de tendencias y actualizaciones:** Esta tarea es igualmente importante para ambos segmentos y es realizada frecuentemente, lo que demuestra la necesidad de mantenerse al día con las últimas innovaciones y tecnologías emergentes en el campo del hardware.
+
+- **Diagnóstico y reparación de hardware:** Es una tarea crítica para Ramon debido a su trabajo como técnico de computadoras, realizándola frecuentemente. En el caso de Carlos, aunque es una tarea menos frecuente, también es valorada como importante.
+
+- **Configuración de sistemas operativos:** Ramon realiza esta tarea frecuentemente como parte de sus actividades profesionales, mientras que para Carlos, la frecuencia es baja pero con un nivel de importancia medio.
+
+**Principales Diferencias y Coincidencias**
+
+- **Gestión de clientes y proyectos** es una tarea clave para Ramon debido a su perfil profesional, mientras que Carlos, siendo un estudiante, no considera esta tarea como relevante.
+  
+- Ambos perfiles coinciden en la **comparación de precios y especificaciones**, aunque la frecuencia con que lo hacen varía, siendo más común en Carlos debido a su enfoque en optimizar sus adquisiciones de hardware.
+
+- La **interacción con comunidades técnicas** y la **participación en foros y redes sociales** son tareas que ambos realizan, aunque con diferentes frecuencias e importancias, reflejando la diferencia en la experiencia y los roles de cada uno.
+
 #### 2.3.3. User Journey Mapping.
 #### 2.3.4. Empathy Mapping.
 #### 2.3.5. As-is Scenario Mapping.
