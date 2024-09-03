@@ -161,7 +161,7 @@ TechDesign es una startup dedicada a guiar personas con conocimientos poco concr
 #### Nombre: Chirinos Zúñiga, Rodrigo Manuel | U202217804
 > Descripción, carrera, conocimientos técnicos, habilidades que puede aportar al equipo.
 >
-> [Imagen]
+> [![Imagen1](https://github.com/user-attachments/assets/9895e794-a88f-4436-a332-8d5c8112f9cb)]
 
 
 ---
