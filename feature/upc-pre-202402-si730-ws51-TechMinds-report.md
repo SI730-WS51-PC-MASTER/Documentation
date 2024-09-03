@@ -73,9 +73,7 @@
     - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
 
 
-
-
-
+<br>
 
 # PROJECT REPORT COLLABORATION INSIGHTS
 
@@ -84,6 +82,8 @@
 | Repositorio del Informe en GitHub |
 |-----------------------------------|
 | https://github.com/orgs/SI730-WS51-PC-MASTER/repositories |
+
+<br>
 
 #### 2. Actividades de Elaboración del Informe
 
@@ -107,6 +107,7 @@
 | Recopilación de datos              | Se obtuvieron datos mediante entrevistas y referencias bibliográficas, los cuales se utilizaron para sustentar los argumentos expuestos en el informe.                                                          |
 | Desarrollo del informe              | Se completaron las diferentes secciones del informe, empleando las herramientas y metodologías apropiadas de acuerdo a las indicaciones del proyecto.                                                         |
 
+<br>
 
 #### 3. Capturas de Imagen de los Analíticos de Colaboración y Commits en GitHub
 
@@ -116,6 +117,7 @@
 | Historial de cambios            | [Imagen] |
 | Distribución de trabajo         | [Imagen] |
 
+<br>
 
 #### 4. Participación de Todos los Miembros del Equipo
 
@@ -128,12 +130,14 @@
 
 <div style="text-align:justify">
 
+<br>
+
 # STUDENT OUTCOME
 
-| Criterio específico                                                                                           | Acciones realizadas   | Conclusiones |
-|--------------------------------------------------------------------------------------------------------------|------------------------|--------------|
-| Trabaja en equipo para <br> proporcionar liderazgo en <br> forma conjunta | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> ... <br><br>**Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> ... <br><br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> ... <br><br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> ... <br><br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> ... <br><br>  |<br>1ra Conclusion<br><br>2da Conclusion<br><br>3ra Conclusion<br>|
-| Crea un entorno colaborativo e <br> inclusivo, establece metas, <br> planifica tareas y cumple <br> objetivos | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> ... <br><br>**Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> ... <br><br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> ... <br><br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> ... <br><br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> ... <br><br>  |<br>1ra Conclusion<br><br>2da Conclusion<br><br>3ra Conclusion<br>|
+| Criterio específico| Acciones realizadas   | Conclusiones |
+|-------------------|------------------------|--------------|
+| **Trabaja en equipo para proporcionar <br> liderazgo en forma conjunta** | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> ... <br>  <br>**Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> ... <br>  <br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> ... <br>  <br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> ... <br>  <br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> ... <br><br>  |<br>1ra Conclusion<br><br>2da Conclusion<br><br>3ra Conclusion<br>|
+| **Crea un entorno colaborativo e <br> inclusivo, establece metas, <br> planifica tareas y cumple <br> objetivos** | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> ... <br><br>**Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> ... <br><br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> ... <br><br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> ... <br><br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> ... <br><br>  |<br>1ra Conclusion<br><br>2da Conclusion<br><br>3ra Conclusion<br>|
 
 
 
@@ -143,6 +147,7 @@
 
 En esta sección presentamos el nombre de la organización del proyecto y el producto software que es ideado como propuesta de solución.
 
+<br>
 
 ### 1.1.1. Descripción de la Startup 
 
@@ -152,45 +157,19 @@ TechDesign es una startup dedicada a guiar personas con conocimientos poco concr
 
 - Visión: Ser líderes referentes en el Perú sobre asesoramiento de hardware para equipos de informática.
 
+<br>
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-#### Nombre: Aranda Vallejos, Oscar Gabriel | U202218167
+| **Integrante** | **Descripción** |
+|----------------|---------------|
+| [Imagen] | **Aranda Vallejos, Oscar Gabriel** <br> Código: U202218167 <br>  ...  |
+| <img src="https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/foto%20alexander%5B797%5D.jpg"> | **Cantoral Sedamano, Alexander Alberto** <br> Código: U20181b152 <br>  Estudiante de Ingeniería de Software con conocimientos técnicos de programación en C++, PHP, Python. Conocimientos intermedios de frontend en HTML. Usuario frecuente tanto de Visual Studio como Visual Studio Code. Habilidades mixtas en otros programas usuales para el desarrollo de trabajos universitarios. Además, mis habilidades blandas van desde saber trabajar en equipo, tener una tendencia a ser ordenado y ser comprometido con todas las entregas.  |
+| <img src = "https://github.com/user-attachments/assets/9895e794-a88f-4436-a332-8d5c8112f9cb"> | **Chirinos Zúñiga, Rodrigo Manuel** <br> Código: U202217804 <br>  Tengo 20 años, soy un estudiante de la carrera de Ingeniería de Software, considero que soy una persona responsable y de escucha activa. Estoy comprometido con mis compañeros en realizar un buen trabajo y así aprender todos en el proceso. También tengo conocimientos en programación en C++, HTML, CSS y JavaScript.  |
+| [Imagen] | **Soriano Medrano, Diego** <br> Código: U202114793 <br>  ...  |
+| [Imagen] | **Tello Murga, Javier Oswaldo** <br> Código: U202218387 <br>  ...  |
 
-> Descripción, carrera, conocimientos técnicos, habilidades que puede aportar al equipo.
->
-> [Imagen]
-
----
-#### Nombre: Cantoral Sedamano, Alexander Alberto | U20181b152
-
-> Descripción, carrera, conocimientos técnicos, habilidades que puede aportar al equipo.
->Estudiante de Ingeniería de Software con conocimientos técnicos de programación en C++, PHP, Python. Conocimientos intermedios de frontend en HTML. Usuario frecuente tanto de Visual Studio como Visual Studio Code. Habilidades mixtas en otros programas usuales para el desarrollo de trabajos universitarios. Además, mis habilidades blandas van desde saber trabajar en equipo, tener una tendencia a ser ordenado y ser comprometido con todas las entregas. 
-<img src="https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/foto%20alexander%5B797%5D.jpg" width="250" height="250">
-
-
----
-#### Nombre: Chirinos Zúñiga, Rodrigo Manuel | U202217804
-Tengo 20 años, soy un estudiante de la carrera de Ingeniería de Software, considero que soy una persona responsable y de escucha activa. Estoy comprometido con mis compañeros en realizar un buen trabajo y así aprender todos en el proceso. También tengo conocimientos en programación en C++, HTML, CSS y JavaScript.
-
-<img src = "https://github.com/user-attachments/assets/9895e794-a88f-4436-a332-8d5c8112f9cb" >
-
-
----
-#### Nombre: Soriano Medrano, Diego Martin | U202114793
-> Descripción, carrera, conocimientos técnicos, habilidades que puede aportar al equipo.
->
-> [Imagen]
-
----
-#### Nombre: Tello Murga, Javier Oswaldo | U202218387
-
-> Descripción, carrera, conocimientos técnicos, habilidades que puede aportar al equipo.
->
-> [Imagen]
-
----
-
+<br>
 
 ## 1.2. Solution Profile 
 
@@ -201,6 +180,8 @@ Actualizar los componentes de una PC o acoplarlos desde cero es una tarea descon
 Nuestro objetivo principal es reducir la carga del usuario y simplificar este proceso, permitiendo a los usuarios encontrar de manera eficiente los componentes que necesitan para ensamblar su PC o mejorarla. Se busca que los usuarios no solo indiquen su presupuesto, sino que también especifiquen los programas y tareas que realizarán de manera cotidiana. De esta manera, a partir de la información que el usuario proporcione, podremos recomendar los componentes más adecuados para cada caso específico.
 
 Para lograr ello, se empleará la técnica del Web Scraping con el fin de extraer productos y precios de diversas tiendas en línea de hardware para PC. Dicha información se organizará por categorías, permitiendo ofrecer recomendaciones personalizadas en función de las necesidades del usuario, la disponibilidad y el precio de los productos.
+
+<br>
 
 **Las 5Ws y 2Hs**
 
@@ -271,6 +252,7 @@ Para lograr ello, se empleará la técnica del Web Scraping con el fin de extrae
 > Este problema es frecuente entre los usuarios que buscan mejorar sus sistemas. La complejidad y la falta de orientación sobre qué componentes son necesarios junto a la falta de información sobre dónde y cómo ensamblarlos en tu equipo afecta a millones de personas alrededor del mundo. Sobre ello, mediante un estudio realizado por Microsoft(2016) en América Latina, se informó que el 70% de jóvenes comparten nociones erradas sobre el sistema y los componentes que conforman un computador. Por ello, nuestra solución busca abordar este problema de manera efectiva y ayudar a esta amplia audiencia de usuarios.  
 ---
 
+<br>
 
 ### 1.2.2 Lean UX Process
 
@@ -421,6 +403,8 @@ Para lograr ello, se empleará la técnica del Web Scraping con el fin de extrae
   </tr>
 </table>
 
+<br>
+
 ## 1.3. Segmentos objetivo
 
 **Segmento 1: Clientes que desean componentes de hardware**
@@ -450,7 +434,7 @@ Para lograr ello, se empleará la técnica del Web Scraping con el fin de extrae
     - Están dispuestos a ofrecerle servicio técnico al usuario que lo solicite y asistirlo en sus dudas.
     - Valoran la satisfacción del cliente y buscan construir una relación de confianza a través de un servicio eficiente y de calidad.
 
-
+<br><br>
 
 # Capítulo II: Requirements Elicitation & Analysis
 
@@ -613,6 +597,8 @@ En el competitivo mercado de asistencia para la selección de componentes de har
     </tbody>
 </table>
 
+<br>
+
 ### 2.1.2. Estrategias y tácticas frente a competidores:
 
 Para poder destacar ante nuestros competidores y ofrecer un producto de valor notable, hemos planteado las siguientes tácticas:
@@ -625,7 +611,10 @@ Para poder destacar ante nuestros competidores y ofrecer un producto de valor no
 
 - Servicio de intervención técnica: Permitir la opción de solicitar un servicio técnico a domicilio. Para ello, el cliente tiene que indicar su dni, ubicación y motivo de la solicitud. Además, la solicitud solo podría ser presentada por una persona que haya cumplido la mayoría de edad.
 
+<br>
+
 ## 2.2. Entrevistas
+
 ### 2.2.1 Diseño de entrevistas:
 
 <p> En esta sección del reporte se presentará las preguntas de las entrevistas y el análisis relacionado de cada entrevista. </p>
@@ -655,6 +644,8 @@ Preguntas principales:
 8. ¿Qué características o funcionalidades considerarías esenciales en una plataforma que busque conectar técnicos con usuarios finales que necesitan soporte en hardware?
 9. ¿Cómo crees que una alianza con una plataforma de este tipo podría beneficiar a tu negocio o a la empresa para la que trabajas?
 10. ¿Tienes alguna experiencia previa utilizando aplicaciones o plataformas que conecten técnicos con clientes? Si es así, ¿Cómo ha sido tu experiencia?
+
+<br>
 
 ### 2.2.2 Registro de entrevistas:
 
