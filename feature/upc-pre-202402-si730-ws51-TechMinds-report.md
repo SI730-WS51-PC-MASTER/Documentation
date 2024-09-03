@@ -721,51 +721,62 @@ En su empresa, utilizan un sistema de tickets para registrar los problemas que r
 
 ### 2.2.3. Análisis de entrevistas.
 
-Segmento 1: Clientes que desean componentes de hardware
-1. Uso de la computadora:
+#### Segmento 1: Clientes que desean componentes de hardware
 
-Frecuencia de uso: El 100% de los entrevistados (3/3) utiliza su computadora de forma diaria o interdiaria, lo que indica un uso frecuente y necesario.
-Principales usos: Todos los entrevistados (3/3) utilizan su computadora para tareas relacionadas con el trabajo o estudio, y dos de ellos (66.7%) también la usan para videojuegos. Esto sugiere que, además de necesidades funcionales, hay un interés significativo en el rendimiento de la computadora para entretenimiento.
-2. Conocimiento de componentes:
+**1. Uso de la computadora:**
+   - **Frecuencia de uso:** El 100% de los entrevistados (3/3) utiliza su computadora de forma diaria o interdiaria, lo que indica un uso frecuente y necesario.
+   - **Principales usos:** Todos los entrevistados (3/3) utilizan su computadora para tareas relacionadas con el trabajo o estudio, y dos de ellos (66.7%) también la usan para videojuegos. Esto sugiere que, además de necesidades funcionales, hay un interés significativo en el rendimiento de la computadora para entretenimiento.
 
-Nivel de conocimiento: El 66.7% (2/3) de los entrevistados tiene un conocimiento básico o suficiente sobre los componentes de su computadora y cómo estos afectan el rendimiento. Solo uno de los entrevistados (33.3%) expresó tener un conocimiento limitado.
-Interés en aprender más: Todos los entrevistados (100%) manifestaron interés en aprender más sobre los componentes de su computadora, lo que muestra una necesidad educativa y de soporte en este segmento.
-3. Solución de problemas:
+**2. Conocimiento de componentes:**
+   - **Nivel de conocimiento:** El 66.7% (2/3) de los entrevistados tiene un conocimiento básico o suficiente sobre los componentes de su computadora y cómo estos afectan el rendimiento. Solo uno de los entrevistados (33.3%) expresó tener un conocimiento limitado.
+   - **Interés en aprender más:** Todos los entrevistados (100%) manifestaron interés en aprender más sobre los componentes de su computadora, lo que muestra una necesidad educativa y de soporte en este segmento.
 
-Solución independiente: El 100% (3/3) de los entrevistados ha intentado resolver problemas de su computadora por su cuenta antes de buscar ayuda externa, demostrando una actitud proactiva.
-Necesidad de soporte técnico: Todos los entrevistados (100%) también estarían interesados en recibir soporte técnico para problemas más complejos, lo que resalta una demanda latente de servicios de asistencia.
-4. Interés en mejorar la computadora:
+**3. Solución de problemas:**
+   - **Solución independiente:** El 100% (3/3) de los entrevistados ha intentado resolver problemas de su computadora por su cuenta antes de buscar ayuda externa, demostrando una actitud proactiva.
+   - **Necesidad de soporte técnico:** Todos los entrevistados (100%) también estarían interesados en recibir soporte técnico para problemas más complejos, lo que resalta una demanda latente de servicios de asistencia.
 
-Interés en mejoras: Dos de los tres entrevistados (66.7%) consideran que podrían mejorar su computadora para un mejor rendimiento, especialmente para tareas de entretenimiento y software más avanzado.
-Uso de una aplicación de soporte: El 100% de los entrevistados estaría dispuesto a utilizar una aplicación que les ayude a mejorar su computadora, destacando la importancia de herramientas digitales que faciliten el proceso de selección y mejora de componentes.
-5. Características adicionales deseadas:
+**4. Interés en mejorar la computadora:**
+   - **Interés en mejoras:** Dos de los tres entrevistados (66.7%) consideran que podrían mejorar su computadora para un mejor rendimiento, especialmente para tareas de entretenimiento y software más avanzado.
+   - **Uso de una aplicación de soporte:** El 100% de los entrevistados estaría dispuesto a utilizar una aplicación que les ayude a mejorar su computadora, destacando la importancia de herramientas digitales que faciliten el proceso de selección y mejora de componentes.
 
-Funcionalidades de la aplicación: Los entrevistados sugirieron varias funcionalidades para una aplicación de soporte, incluyendo tutoriales, diagnósticos en tiempo real, y una amplia base de datos sobre componentes. Estas sugerencias apuntan a la necesidad de una aplicación que no solo oriente en la selección de componentes, sino que también ofrezca educación y soporte continuo.
-Conclusión para el Segmento 1: Este segmento se caracteriza por usuarios que utilizan intensivamente sus computadoras, tienen un conocimiento básico sobre hardware, y muestran un gran interés en mejorar sus equipos con ayuda de herramientas digitales. La creación de un arquetipo para este segmento debería enfocarse en un usuario que valora tanto el rendimiento como la facilidad de acceso a información y soporte técnico para mantener y mejorar su computadora.
+**5. Características adicionales deseadas:**
+   - **Funcionalidades de la aplicación:** Los entrevistados sugirieron varias funcionalidades para una aplicación de soporte, incluyendo tutoriales, diagnósticos en tiempo real, y una amplia base de datos sobre componentes. Estas sugerencias apuntan a la necesidad de una aplicación que no solo oriente en la selección de componentes, sino que también ofrezca educación y soporte continuo.
+---
 
-Segmento 2: Técnicos de computadoras
-1. Experiencia profesional:
+#### Segmento 2: Técnicos de computadoras
 
-Años de experiencia: El 66.7% (2/3) de los entrevistados tiene 10 años de experiencia en mantenimiento y reparación de computadoras, lo que sugiere un segmento con un alto nivel de especialización y conocimiento práctico.
-Tipo de trabajo: Dos de los tres entrevistados (66.7%) trabajan para empresas, mientras que uno se encuentra en proceso de aprendizaje y búsqueda de oportunidades laborales. Esto indica una mezcla entre técnicos experimentados y aquellos en etapas iniciales de su carrera.
-2. Desafíos comunes:
+**1. Experiencia profesional:**
+   - **Años de experiencia:** El 66.7% (2/3) de los entrevistados tiene 10 años de experiencia en mantenimiento y reparación de computadoras, lo que sugiere un segmento con un alto nivel de especialización y conocimiento práctico.
+   - **Tipo de trabajo:** Dos de los tres entrevistados (66.7%) trabajan para empresas, mientras que uno se encuentra en proceso de aprendizaje y búsqueda de oportunidades laborales. Esto indica una mezcla entre técnicos experimentados y aquellos en etapas iniciales de su carrera.
 
-Educación del cliente: Todos los entrevistados (100%) coinciden en que uno de los mayores desafíos es la falta de conocimiento de los clientes sobre hardware y software, lo que dificulta la comunicación y el diagnóstico de problemas.
-Necesidad de una plataforma educativa: El 100% de los entrevistados expresó la necesidad de herramientas o plataformas que puedan educar a los clientes y facilitar el diagnóstico de problemas, lo que podría mejorar tanto la eficiencia de su trabajo como la satisfacción del cliente.
-3. Herramientas y aplicaciones actuales:
+**2. Desafíos comunes:**
+   - **Educación del cliente:** Todos los entrevistados (100%) coinciden en que uno de los mayores desafíos es la falta de conocimiento de los clientes sobre hardware y software, lo que dificulta la comunicación y el diagnóstico de problemas.
+   - **Necesidad de una plataforma educativa:** El 100% de los entrevistados expresó la necesidad de herramientas o plataformas que puedan educar a los clientes y facilitar el diagnóstico de problemas, lo que podría mejorar tanto la eficiencia de su trabajo como la satisfacción del cliente.
 
-Uso de sistemas de tickets: Dos de los tres entrevistados (66.7%) mencionaron el uso de sistemas de tickets para gestionar problemas, aunque consideran que estas herramientas son limitadas y poco prácticas.
-Interés en nuevas plataformas: Todos los entrevistados (100%) estarían interesados en una nueva plataforma que facilite la recomendación de componentes y configuraciones de hardware, especialmente si incluye inteligencia artificial o una base de conocimientos amplia.
-4. Alianzas y colaboración:
+**3. Herramientas y aplicaciones actuales:**
+   - **Uso de sistemas de tickets:** Dos de los tres entrevistados (66.7%) mencionaron el uso de sistemas de tickets para gestionar problemas, aunque consideran que estas herramientas son limitadas y poco prácticas.
+   - **Interés en nuevas plataformas:** Todos los entrevistados (100%) estarían interesados en una nueva plataforma que facilite la recomendación de componentes y configuraciones de hardware, especialmente si incluye inteligencia artificial o una base de conocimientos amplia.
 
-Disposición a aliarse con una plataforma: El 100% de los entrevistados manifestó disposición a aliarse con una plataforma que les permita ofrecer servicios a un público más amplio y mejorar su visibilidad profesional. Ven en esto una oportunidad para optimizar su tiempo y ampliar su negocio.
-5. Características esenciales de la plataforma:
+**4. Alianzas y colaboración:**
+   - **Disposición a aliarse con una plataforma:** El 100% de los entrevistados manifestó disposición a aliarse con una plataforma que les permita ofrecer servicios a un público más amplio y mejorar su visibilidad profesional. Ven en esto una oportunidad para optimizar su tiempo y ampliar su negocio.
 
-Funcionalidades clave: Los entrevistados sugirieron que la plataforma debería incluir una base de conocimientos robusta, soporte técnico eficiente, y herramientas que permitan a los usuarios diagnosticar problemas de manera autónoma. Estas características serían clave para mejorar la experiencia tanto de los técnicos como de los clientes.
-Conclusión para el Segmento 2: Este segmento está compuesto por técnicos experimentados que enfrentan desafíos en la educación de sus clientes y en la gestión eficiente del tiempo. El arquetipo resultante debe reflejar a un profesional que busca herramientas para optimizar su trabajo, educar a sus clientes, y mejorar la visibilidad de su negocio mediante la colaboración con plataformas digitales.
+**5. Características esenciales de la plataforma:**
+   - **Funcionalidades clave:** Los entrevistados sugirieron que la plataforma debería incluir una base de conocimientos robusta, soporte técnico eficiente, y herramientas que permitan a los usuarios diagnosticar problemas de manera autónoma. Estas características serían clave para mejorar la experiencia tanto de los técnicos como de los clientes.
+---
+
+#### Conclusión general:
+Ambos segmentos muestran una alta disposición a utilizar nuevas tecnologías para mejorar tanto su experiencia de usuario como su eficiencia laboral. Mientras que los clientes de hardware buscan orientación y soporte para mejorar sus computadoras, los técnicos buscan herramientas que les permitan optimizar su trabajo y educar a sus clientes. Estos insights son fundamentales para desarrollar arquetipos que representen las necesidades y expectativas de cada segmento, y para diseñar una plataforma que responda adecuadamente a estas demandas.
 
 ## 2.3. Needfinding.
 #### 2.3.1. User Personas.
+
+En esta sección se presentarán las user personas para cada segmento objetivo.
+
+
+[![Carlos-Medina.png](https://i.postimg.cc/BbFsm5BJ/Carlos-Medina.png)](https://postimg.cc/xN9WCzZZ)
+
+
+
 #### 2.3.2. User Task Matrix.
 #### 2.3.3. User Journey Mapping.
 #### 2.3.4. Empathy Mapping.
