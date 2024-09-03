@@ -29,7 +29,7 @@
 | Aranda Vallejos, Oscar Gabriel | U202218167 |
 | Cantoral Sedamano, Alexander ALberto | U20181b152 |
 | Chirinos Zúñiga, Rodrigo Manuel | U202217804 |
-| Soriano Medrano, Diego Martin | U202114793 |
+| Soriano Medrano, Diego | U202114793 |
 | Tello Murga, Javier Oswaldo | U202218387 |
 
 ## Agosto Ciclo 2024-02
@@ -241,7 +241,7 @@ TechDesign es una startup dedicada a guiar personas con conocimientos poco concr
 | [Imagen] | **Aranda Vallejos, Oscar Gabriel** <br> Código: U202218167 <br>  ...  |
 | <img src="https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/foto%20alexander%5B797%5D.jpg"> | **Cantoral Sedamano, Alexander Alberto** <br> Código: U20181b152 <br>  Estudiante de Ingeniería de Software con conocimientos técnicos de programación en C++, PHP, Python. Conocimientos intermedios de frontend en HTML. Usuario frecuente tanto de Visual Studio como Visual Studio Code. Habilidades mixtas en otros programas usuales para el desarrollo de trabajos universitarios. Además, mis habilidades blandas van desde saber trabajar en equipo, tener una tendencia a ser ordenado y ser comprometido con todas las entregas.  |
 | <img src = "https://github.com/user-attachments/assets/9895e794-a88f-4436-a332-8d5c8112f9cb"> | **Chirinos Zúñiga, Rodrigo Manuel** <br> Código: U202217804 <br>  Tengo 20 años, soy un estudiante de la carrera de Ingeniería de Software, considero que soy una persona responsable y de escucha activa. Estoy comprometido con mis compañeros en realizar un buen trabajo y así aprender todos en el proceso. También tengo conocimientos en programación en C++, HTML, CSS y JavaScript.  |
-| [Imagen] | **Soriano Medrano, Diego** <br> Código: U202114793 <br>  ...  |
+| [Imagen] | **Soriano Medrano, Diego** <br> Código: U202114793 <br>  Estudio la carrera de ingeniería de software. Me considero una persona creativa y paciente. Tengo conocimiento en el uso de diferentes herramientas informáticas y lenguajes de programación. que ayudan a realizar distintos tipos de trabajo y a resolver problemas. Parte de mis habilidades blandas es siempre tomar en cuenta la opinión de mis compañeros, lo cual me facilita el poder trabajar en equipo, para agilizar diferentes actividades.  |
 | [Imagen] | **Tello Murga, Javier Oswaldo** <br> Código: U202218387 <br>  ...  |
 
 <br>
