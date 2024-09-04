@@ -931,9 +931,31 @@ A continuación, se presenta la matriz, donde se evalúa la frecuencia y la impo
 ### 4.2.3. SEO Tags and Meta Tags
 ###  4.2.4. Searching Systems.
 ### 4.2.5. Navigation Systems.
+
+
 ## 4.3. Landing Page UI Design.
+
+En esta sección se expresa el diseño utilizado para la creación de nuestra Landing Page. Se utilizó la herramienta Figma para modelar los wireframes y mockups, respetando una guía y organización de estilos determinada.
+
 ### 4.3.1. Landing Page Wireframe.
+
+#### One-Page Design
+
+![Wireframe-Home](https://i.postimg.cc/3R3KXRJf/Landing-Wireframe.png)
+<br>
+
+Enlace: https://www.figma.com/design/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=1-2&t=1ZNZ6s1tCSbbQLVn-1
+
 ### 4.3.2. Landing Page Mock-up.
+
+#### One-Page Design
+
+![Mockup-Home](https://i.postimg.cc/DZptSyWX/Landing-Mockup.png)
+<br>
+
+Enlace: https://www.figma.com/design/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=4-3&t=1ZNZ6s1tCSbbQLVn-1
+
+
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 ### 4.4.2. Web Applications Wireflow Diagrams.
