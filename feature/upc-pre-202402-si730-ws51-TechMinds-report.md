@@ -230,7 +230,7 @@ TechDesign es una startup dedicada a guiar personas con conocimientos poco concr
 
 - Misión: Orientar y conectar usuarios con el hardware ideal para su contexto, respaldados por la transparencia y la educación.
 
-- Visión: Ser líderes referentes en el Perú sobre asesoramiento de hardware para equipos de informática.
+- Visión: Ser líderes referentes en el Perú sobre asesoramiento y elección de hardware para equipos de informática.
 
 <br>
 
