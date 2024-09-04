@@ -742,7 +742,7 @@ Alfredo considera que su computadora actual es suficiente para sus necesidades, 
 |---------|-----------|------|--------|----------|
 | Diego | Chirinos | 21 | 3:14 | 3:20 |
 
-Descripción: Diego, cuya edad no se especifica, es un usuario diario de un ordenador de escritorio que emplea tanto para su trabajo como para actividades personales, entre las que se incluyen la navegación por internet y los videojuegos. Utiliza Google Chrome y Opera como sus navegadores principales en su computadora y en su teléfono móvil.
+Descripción: Diego, de 21 años, es un usuario diario de un ordenador de escritorio que emplea tanto para su trabajo como para actividades personales, entre las que se incluyen la navegación por internet y los videojuegos. Utiliza Google Chrome y Opera como sus navegadores principales en su computadora y en su teléfono móvil.
 
 Diego tiene un conocimiento básico sobre los componentes de su computadora, como el procesador, la tarjeta gráfica y la memoria RAM. Aunque ha intentado resolver algunos problemas de su computadora por su cuenta, en ocasiones ha requerido ayuda externa. Le interesa aprender más sobre los componentes y cómo optimizar el rendimiento de su computadora. Diego también expresa un fuerte interés en una aplicación que le facilite la tarea de mejorar o actualizar su computadora, especialmente si esta ofrece recomendaciones personalizadas basadas en su sistema actual. Además, sugiere que la aplicación podría incluir características como tutoriales paso a paso y diagnósticos en tiempo real para mejorar la experiencia del usuario.
 
@@ -892,6 +892,16 @@ A continuación, se presenta la matriz, donde se evalúa la frecuencia y la impo
 - La **interacción con comunidades técnicas** y la **participación en foros y redes sociales** son tareas que ambos realizan, aunque con diferentes frecuencias e importancias, reflejando la diferencia en la experiencia y los roles de cada uno.
 
 #### 2.3.3. User Journey Mapping.
+Segmento 1: Clientes que desean componentes de hardware
+
+[![Carlos-Medina.jpg](https://i.postimg.cc/wvscJmD5/Carlos-Medina.jpg)](https://postimg.cc/k6qbPD1D)
+
+Segmento 2: Técnicos de computadoras
+
+[![Ramon-Tomaya-Parco.jpg](https://i.postimg.cc/CL4CjYn2/Ramon-Tomaya-Parco.jpg)](https://postimg.cc/566FVh35)
+
+
+
 #### 2.3.4. Empathy Mapping.
 #### 2.3.5. As-is Scenario Mapping.
 ### 2.4. Ubiquitous Language.
