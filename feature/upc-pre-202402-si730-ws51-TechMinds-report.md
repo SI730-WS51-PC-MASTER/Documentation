@@ -934,6 +934,12 @@ Segmento 2: Técnicos de computadoras
 
 ## 3.1. To-Be Scenario Mapping.
 ## 3.2. User Stories.
+
+| Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
+|-----------------|--------|-------------|--------------------------|--------------------------|
+| EPIC001 | Creación de la Landing Page | Como usuario quiero ver una web para conocer toda la información | - | - |
+| US001 | Página "Inicio" | Como usuario quiero ver un apartado inicial del servicio para conocer lo más relevante. | Escenario 1: Puede ver el inicio de manera exitosa **Dado que** el usuario accede al servicio por primera vez, **Cuando** el usuario llega a la pantalla inicial, **Entonces** debe ver un apartado claramente visible que muestre los elementos más relevantes del servicio.  **Escenario 2: No puede ver el inicio de manera exitosa**  **Dado que** el usuario accede al servicio por primera vez, **Cuando** el usuario llega a la pantalla inicial, **Entonces** no ve un apartado porque el servicio se ha caído. | EPIC001 |
+
 ## 3.3. Impact Mapping.
 ## 3.4. Product Backlog.
 
