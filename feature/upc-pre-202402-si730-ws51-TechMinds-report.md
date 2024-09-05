@@ -903,6 +903,13 @@ Segmento 2: Técnicos de computadoras
 
 
 #### 2.3.4. Empathy Mapping.
+Segmento 1: Clientes que desean componentes de hardware
+
+[![Carlos-Medina-EM.png](https://i.postimg.cc/mZpjqTgF/Carlos-Medina-EM.png)](https://postimg.cc/rzW5RXW8)
+
+Segmento 2: Técnicos de computadoras
+
+[![Ramon-Tomaya-Parco-EM.png](https://i.postimg.cc/5yrmFSRm/Ramon-Tomaya-Parco-EM.png)](https://postimg.cc/ZvrNGpZ9)
 #### 2.3.5. As-is Scenario Mapping.
 ### 2.4. Ubiquitous Language.
 
