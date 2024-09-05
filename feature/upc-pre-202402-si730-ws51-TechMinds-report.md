@@ -945,41 +945,180 @@ Segmento 2: Técnicos de computadoras
 
 # Capítulo IV: Product Design
 
-## 4.1. Style Guidelines.
-### 4.1.1. General Style Guidelines.
-### 4.1.2. Web Style Guidelines.
+## 4.1. Style Guidelines
+
+En esta sección, se establecen las directrices estilísticas para la página web y la aplicación. El propósito principal es ofrecer a nuestros usuarios una experiencia visual amigable, llamativa y cómoda. Hemos optado por una paleta y tipografía que resalta elementos relacioandos a la tecnología y modernidad para asegurar que el apartado visual potencie y refleje los valores de la marca.
+
+### 4.1.1. General Style Guidelines
+
+### General Styles
+
+#### Main Colors 
+La paleta de colores se seleccionó con la intención de mostrar elementos que permitan evocar confianza, claridad y modernidad. El uso del Azul Noche (#001014) transmite solidez y confiabilidad. El Light grayish violet(#f6f3f9) y el Very pale blue (#d1f2ff) añaden un toque de frescura y ligereza con sus tonalidades suaves y vibrantes, lo cual es perfecto para espacios de descanso visual. El color Light blue (#45caff) se utiliza para asegurar limpieza, simplicidad y énfasis, convirtiéndolo en un perfecto contraste con los demás elementos. Los tonos Very light pink (#ff6b9f), Bright pink (#e8317e) y Vivid pink (#ff1b6b) aportan una dimensión apasionada y enérgica a la composición.
+
+[![main-colors.png](https://i.postimg.cc/4xGm3fNJ/main-colors.png)](https://postimg.cc/gnMYSPZ5)
+
+#### Typography
+
+Utilizamos diversas tipografías para lograr un diseño cohesivo y legible. Para los títulos principales se utiliza Roboto regular y para los de segundo a tercer nivel se utiliza Roboto light, proporcionando una lectura directa y clara. Para párrafos, se ha seleccionado Rubik regular, aportando comodidad en la lectura extendida, mientras que los links llevan Rubik light italic, añadiendo un toque distintivo. Para elementos de ingreso de datos como los inputs de formularios, usamos Open Sans regular, una fuente clásica que proporciona comodidad al usuario. Finalmente, la tipografía usada en los botones es la fuente Rubik medium con un llamado a la acción claro para el usuario.
+
+[![typography.png](https://i.postimg.cc/4dtpMJJj/typography.png)](https://postimg.cc/N9sy2v2x)
+
+### Branding
+
+Este segmento corresponde a los estilos seleccionados para el logo de la aplicación, el cual permite expresar nuestra marca.
+
+#### Colors
+
+Los colores mostrados a continuación reflejan la paleta utilizada para el diseño del logo. Para el fondo se utiliza un color negro (#000000) que permita resaltar los elementos que componen la marca. Para el nombre del producto se utiliza el color blanco (#FFFFFF) con el fin de generar contraste respecto al fondo oscuro presentado. Para el nombre de la startup se utiliza el tono Bright cyan - lime green (#26F7B2), como medio diferenciador, para denotar innovación, fortuna y progreso. Por otro lado, la gama de colores correspondientes al violeta son usados para aplicar un efecto de degradado conjunto para el ícono que refleja la imagen de un teclado.
+
+[![brand-colors.png](https://i.postimg.cc/KjK0pX1W/brand-colors.png)](https://postimg.cc/2LDd3KFd)
+
+#### Typography
+
+La tipografía utilizada para el logo se muestra a continuación:
+
+[![brand-typography.png](https://i.postimg.cc/15FHghbW/brand-typography.png)](https://postimg.cc/6y9RSSWR)
+
+
+#### Logo
+
+El logo contiene el nombre de la aplicación en desarrollo y el nombre de la startup encargada de realizar la implementación de la aplicación.
+
+Figura x<br>
+*Logo Horizontal*
+
+[![logo-horizontal.png](https://i.postimg.cc/MHBMHtc4/logo-horizontal.png)](https://postimg.cc/4HJNF6Qb)
+
+Figura x<br>
+*Logo Centrado*
+
+[![logo-centrado.png](https://i.postimg.cc/yNpQmhjn/logo-centrado.png)](https://postimg.cc/Y4gzkWJm)
+
+
+### 4.1.2. Web Style Guidelines
+
+Nuestro enfoque en las "Web Style Guidelines" se centra en la creación de una experiencia de usuario consistente y atractiva desde cualquier navegador y dispositivo para un entorno web. Esto implica el uso de un diseño responsive que se adapte a diferentes tamaños, una tipografía legible y una paleta de colores que evite el saturamiento. 
+
+#### General Colors
+
+[![main-colors.png](https://i.postimg.cc/4xGm3fNJ/main-colors.png)](https://postimg.cc/gnMYSPZ5)
+
+#### Global Colors
+
+[![global-colors.png](https://i.postimg.cc/tCgbykfC/global-colors.png)](https://postimg.cc/5jDTSBbZ)
+
+#### Typography
+
+[![web-typography.png](https://i.postimg.cc/15W9N26q/web-typography.png)](https://postimg.cc/mtHxvdmL)
+
 ## 4.2. Information Architecture.
+
 ### 4.2.1. Organization Systems.
+
+Para la navegación de nuestro sitio web, hemos adoptado una estructura secuencial. El recorrido del visitante comienza en la sección "Inicio", donde se presenta una vista general. Aquí se destaca el logo de nuestra startup, ubicado horizontalmente junto a un mensaje de bienvenida y una imagen introductoria. En la barra de navegación, se encuentra una lista de opciones que permiten al visitante explorar diferentes secciones:
+
+- "Nosotros": proporciona información detallada sobre nuestra startup.
+- "Servicios": describe las funciones y soluciones que ofrecemos.
+- "The Team": presenta a los miembros del equipo de desarrollo.
+- "Iniciar Sesión/Registrarse": facilita el acceso para usuarios nuevos y existentes.
+
+A partir de esta organización aseguramos un recorrido intuitivo y eficiente por nuestro sitio web.
+
+[![Organization-System.png](https://i.postimg.cc/gjFfhqcQ/Organization-System.png)](https://postimg.cc/dk6HPCyj)
+
 ### 4.2.2. Labeling Systems.
+
+<table>
+  <tr>
+    <th>Etiqueta</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; width: 5%">
+    Componentes Principales
+    </td>
+    <td style="vertical-align: top;">
+    Esta etiqueta se utilizará para filtrar información relacionada con los componentes esenciales de una computadora, como procesadores, tarjetas gráficas, memoria RAM y almacenamiento.
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; width: 5%">
+    Comparativas de rendimiento y de precio
+    </td>
+    <td style="vertical-align: top;">
+    Esta etiqueta se utilizará para agrupar diferentes datos y especificaciones clave entre distintos componentes. De esta manera, los usuarios podrán encontrar información útil para tomar decisiones informadas sobre qué componentes se adaptan mejor a sus necesidades.
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; width: 5%">
+    Guías de compra
+    </td>
+    <td style="vertical-align: top;">
+    Esta etiqueta se utilizará para secciones con contenido media que ofrecerán recomendaciones y guías paso a paso sobre la compra de componentes de PC.
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; width: 5%">
+    Novedades
+    </td>
+    <td style="vertical-align: top;">
+    Esta etiqueta se utilizará para la sección de novedades donde los usuarios encontrarán información sobre las últimas actualizaciones y lanzamientos de hardware. De esta manera, podrán estar al tanto de las productos más recientes y novedosos.
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; width: 5%">
+    Servicio Técnico Remoto
+    </td>
+    <td style="vertical-align: top;">
+    Esta etiqueta se utilizará para proporcionar a los usuarios acceso a recursos de soporte técnico, incluidas soluciones a problemas comunes, orientaciones sobre cómo armar una PC y mantenimiento guiado de forma remota con el técnico encargado mediante videoconferencia.
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; width: 5%">
+    Servicio Técnico Físico
+    </td>
+    <td style="vertical-align: top;">
+    Esta etiqueta se utilizará para proporcionar a los usuarios acceso a recursos de soporte técnico, incluidas soluciones a problemas que requieran la intervención directa de un especialista de hardware. Se deberá solicitar la opción de servicio técnico a domicilio para recibir el soporte mecionado u otros servicios como mantenimiento y ensamblaje de computadoras. 
+    </td>
+  </tr>
+</table>
+
+
 ### 4.2.3. SEO Tags and Meta Tags
+
 ###  4.2.4. Searching Systems.
+
 ### 4.2.5. Navigation Systems.
 
 
 ## 4.3. Landing Page UI Design.
 
-En esta sección se expresa el diseño utilizado para la creación de nuestra Landing Page. Se utilizó la herramienta Figma para modelar los wireframes y mockups, respetando una guía y organización de estilos determinada.
+En esta sección se expresa el diseño inicial utilizado para la creación de nuestra Landing Page. Se utilizó la herramienta Figma para modelar los wireframes y mockups, respetando una guía y organización de estilos determinada.
 
 ### 4.3.1. Landing Page Wireframe.
 
 #### One-Page Design
 
-![Wireframe-Home](https://i.postimg.cc/3R3KXRJf/Landing-Wireframe.png)
+![Wireframe-Home](../assets/Landing-Wireframe.png)
 <br>
 
-Enlace: https://www.figma.com/design/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=1-2&t=1ZNZ6s1tCSbbQLVn-1
+Enlace: https://www.figma.com/design/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=13-8&t=P41W2aTHLgdiQCD0-1
 
 ### 4.3.2. Landing Page Mock-up.
 
 #### One-Page Design
 
-![Mockup-Home](https://i.postimg.cc/DZptSyWX/Landing-Mockup.png)
+![Mockup-Home](../assets/Landing-Mockup.png)
 <br>
 
-Enlace: https://www.figma.com/design/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=4-3&t=1ZNZ6s1tCSbbQLVn-1
+Enlace: https://www.figma.com/design/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=13-153&t=P41W2aTHLgdiQCD0-1
 
 
 ## 4.4. Web Applications UX/UI Design.
+
+En esta sección se expresa el diseño preliminar para la aplicación web de PCMaster. Para ello, se respeto la guía de estilos presentada en nuestro "Style Guidelines".
+
 ### 4.4.1. Web Applications Wireframes.
 ### 4.4.2. Web Applications Wireflow Diagrams.
 ### 4.4.2. Web Applications Mock-ups.
