@@ -942,6 +942,15 @@ Segmento 2: Técnicos de computadoras
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping.
+
+Segmento 1: Clientes que desean componentes de hardware
+
+[![Tobeclientes.jpg](https://i.postimg.cc/VNdV0HwL/Tobeclientes.jpg)](https://postimg.cc/f3QK6Ck6)
+
+Segmento 2: Técnicos de computadoras
+
+[![Tobetecnicos.jpg](https://i.postimg.cc/c1mBZBqD/Tobetecnicos.jpg)](https://postimg.cc/6T8vfRpR)
+
 ## 3.2. User Stories.
 
 | Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
