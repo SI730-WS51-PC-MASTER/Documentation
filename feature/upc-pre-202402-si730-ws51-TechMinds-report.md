@@ -912,6 +912,14 @@ Segmento 2: Técnicos de computadoras
 [![Ramon-Tomaya-Parco-EM.png](https://i.postimg.cc/5yrmFSRm/Ramon-Tomaya-Parco-EM.png)](https://postimg.cc/ZvrNGpZ9)
 #### 2.3.5. As-is Scenario Mapping.
 
+Segmento 1: Clientes que desean componentes de hardware
+
+[![Asisclientes.jpg](https://i.postimg.cc/DZcJzQ2c/Asisclientes.jpg)](https://postimg.cc/Q9Hx4TKB)
+
+Segmento 2: Técnicos de computadoras
+
+[![Asistecnicos.jpg](https://i.postimg.cc/1zFVknfy/Asistecnicos.jpg)](https://postimg.cc/t1XgPg3c)
+
 ### 2.4. Ubiquitous Language.
 
 | **Término (Inglés)**            | **Término (Español)**               | **Definición**                                                                                                                                               |
