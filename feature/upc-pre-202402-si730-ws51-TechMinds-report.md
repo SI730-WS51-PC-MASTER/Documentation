@@ -911,6 +911,7 @@ Segmento 2: Técnicos de computadoras
 
 [![Ramon-Tomaya-Parco-EM.png](https://i.postimg.cc/5yrmFSRm/Ramon-Tomaya-Parco-EM.png)](https://postimg.cc/ZvrNGpZ9)
 #### 2.3.5. As-is Scenario Mapping.
+
 ### 2.4. Ubiquitous Language.
 
 | **Término (Inglés)**            | **Término (Español)**               | **Definición**                                                                                                                                               |
