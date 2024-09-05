@@ -1110,12 +1110,44 @@ A partir de esta organización aseguramos un recorrido intuitivo y eficiente por
   </tr>
 </table>
 
-
 ### 4.2.3. SEO Tags and Meta Tags
+
+PCMaster utilizará etiquetas SEO y metaetiquetas estratégicamente para mejorar su visibilidad y clasificación en los resultados de los motores de búsqueda. Estas etiquetas se aplican en todas las secciones del sitio, asegurando que los usuarios que buscan términos relacionados con tecnología, hardware y personalización de PCs puedan descubrir fácilmente la plataforma. Al optimizar las etiquetas SEO y metaetiquetas, PCMaster busca atraer más tráfico orgánico y mejorar su presencia en línea.
+
+Las etiquetas SEO y metaetiquetas clave utilizadas por PCMaster incluirán:
+
+- **Etiquetas de Título (Title Tags):** Incluyen el nombre "PCMaster" junto con palabras clave relevantes como "personalización de PC" y "hardware de alto rendimiento".
+- **Meta Descripciones:** Breves descripciones que destacan los servicios de PCMaster, como la personalización de hardware y recomendaciones de productos, subrayando su enfoque en innovación y experiencia personalizada.
+- **Metaetiquetas de Palabras Clave:** Incorporan términos relacionados con tecnología, gaming, componentes de PC y optimización de hardware.
+- **Etiquetas de Encabezado (Header Tags):** Utilizan "PCMaster" en los encabezados principales para mejorar la visibilidad y estructura del contenido.
+
+#### Instrucciones para encontrar rápidamente a PCMaster en los buscadores:
+
+1. Utilizar palabras clave específicas como "PCMaster personalización de hardware", "PCMaster componentes de gaming", etc.
+2. Agregar términos relacionados con el interés o necesidad del usuario, como "montaje de PC" o "recomendaciones de hardware".
+3. Visitar el sitio web de PCMaster directamente escribiendo "PCMaster" en la barra de direcciones del navegador.
 
 ###  4.2.4. Searching Systems.
 
+En PCMaster, entendemos la importancia de ofrecer a los usuarios herramientas de búsqueda eficientes que les permitan encontrar rápidamente los componentes de computadora más adecuados a sus necesidades y preferencias. Por ello, implementaremos un sistema de búsqueda avanzado y robusto, que incluirá múltiples filtros y opciones personalizadas.
+
+- Búsqueda por categoría: Los usuarios podrán encontrar componentes específicos seleccionando la categoría correspondiente, como procesadores, tarjetas gráficas, memoria RAM, entre otros.
+
+- Filtros de precio: Permitiremos a los usuarios definir rangos de precios para ajustar las búsquedas de acuerdo con su presupuesto.
+
+- Filtros de marca: Los usuarios tendrán la opción de filtrar los resultados por marcas específicas de componentes de computadoras.
+
+- Evaluaciones populares: Destacaremos los componentes mejor valorados en puntuación de estrellas.
+
+- Búsqueda por palabra clave: Los usuarios podrán introducir palabras clave relacionadas con el componente que buscan para obtener resultados más precisos.
+
+Al aplicar las opciones de búsqueda o filtrado, se mostrarán los productos correspondientes al resultado buscado. Cada resultado incluirá una imagen del componente, su título, una breve descripción de sus características, una calificación en estrellas y el precio.
+
 ### 4.2.5. Navigation Systems.
+
+Hemos implementado diversas estrategias para ofrecer a nuestros usuarios una experiencia dinámica y fluida en nuestra landing page. Una de las principales es la barra de opciones fija, que actúa como índice y permite navegar entre secciones de manera sencilla, asegurando que el usuario pueda recorrer la página sin perderse ni perder tiempo al volver a una sección anterior. Además, cada sección cuenta con descripciones breves y concisas, enfocadas en transmitir la información esencial sin abrumar al usuario.
+
+Al final del recorrido, el inicio de sesión o registro se presenta como un acceso clave a las funcionalidades principales de nuestro producto. Esta decisión busca ofrecer una experiencia personalizada desde el primer momento, brindando opciones como recomendaciones y asistencia adaptadas a cada usuario.
 
 
 ## 4.3. Landing Page UI Design.
