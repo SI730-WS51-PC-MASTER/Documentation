@@ -1395,7 +1395,57 @@ Para la gestion del proyecto requerimos de una herramienta para la asignación d
 
 ### 5.1.2. Source Code Management.
 
+Para el desarrollo y documentación de nuestra solución, utilizamos la plataforma GitHub para alojar tanto la documentación como el código de nuestro proyecto. Esta plataforma nos permite realizar un seguimiento de las modificaciones en cada parte del producto que desarrollamos y también la utilizaremos como sistema de control de versiones. Para asegurar que todo el equipo pueda acceder a la plataforma y que los repositorios que alojarán diferentes partes de nuestra solución sean accesibles por una misma ruta, hemos creado una organización en GitHub con el nombre de nuestro producto.
 
+<table>
+    <tbody>
+        <tr>
+            <td> Organización </td>
+            <td> URL </td>
+        </tr>
+        <tr>
+            <td> SI730-WS51-PC-MASTER </td>
+            <td> <a href="https://github.com/SI730-WS51-PC-MASTER"> https://github.com/SI730-WS51-PC-MASTER </a> </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+Dentro de nuestra organización en GitHub, se encuentran los repositorios correspondientes a cada uno de los productos que desarrollaremos.
+
+<table>
+    <tbody>
+        <tr>
+            <td> Producto </td>
+            <td> URL del Repositorio </td>
+        </tr>
+        <tr>
+            <td> Landing Page </td>
+            <td> <a href="https://github.com/SI730-WS51-PC-MASTER/LandingPage_Repository"> https://github.com/SI730-WS51-PC-MASTER/LandingPage_Repository </a> </td>
+        </tr>
+        <tr>
+            <td> Web Services </td>
+            <td> <a href="https://github.com/orgs/SI730-WS51-PC-MASTER/repositories"> https://github.com/orgs/SI730-WS51-PC-MASTER/repositories </a> </td>
+        </tr>
+        <tr>
+            <td> Frontend Web Applications </td>
+            <td> <a href="https://github.com/orgs/SI730-WS51-PC-MASTER/repositories"> https://github.com/orgs/SI730-WS51-PC-MASTER/repositories </a> </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+**Implementación de GitFlow**
+
+<br>
+
+<p align="center">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*X8WN29vxbiyc3XFFfWanTA.png" width="60%" alt="Ejemplo flujo de Gitflow"/>
+</p>
+
+<br>
 
 <br>
 
