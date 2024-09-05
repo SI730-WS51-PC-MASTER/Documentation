@@ -1160,13 +1160,200 @@ En esta sección se expresa el diseño preliminar para la aplicación web de PCM
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
 
+<br>
+
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
+
+A continuación, se especificarán los productos de Software que los miembros del equipo utilizamos para colaborar en el ciclo de vida del producto digital para las siguientes actividades:
+
+<br>
+
+**Project Management**
+
+Para la gestion del proyecto requerimos de una herramienta para la asignación de tareas, plataformas de videollamadas
+
+<table>
+    <tbody>
+        <tr>
+            <td> Nombre del Producto </td>
+            <td> Propósito </td>
+            <td> Ruta de referencia o de descarga </td>
+        </tr>
+        <tr>
+            <td> Trello </td>
+            <td> Para la asignación de tareas y actividades para cada integrante del grupo en base a nuestras User Stories. </td>
+            <td> https://www.trello.com/ </td>
+        </tr>
+        <tr>
+            <td> Discord </td>
+            <td> Plataforma virtual para realizar reuniones del grupo para coordinar y asignar actividades. </td>
+            <td> https://discord.com/ </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+**Requirements Management**
+
+<table>
+    <tbody>
+        <tr>
+            <td> Nombre del Producto </td>
+            <td> Propósito </td>
+            <td> Ruta de referencia o de descarga </td>
+        </tr>
+        <tr>
+            <td> UXPressia </td>
+            <td> Elaboración de User Personas, Empathy Maps, Jurney Maps e Impact Maps. </td>
+            <td> https://uxpressia.com/ </td>
+        </tr>
+        <tr>
+            <td> Miro </td>
+            <td> Elaboración de As-Is y To-Be Scenario Maps </td>
+            <td> https://miro.com/es/ </td>
+        </tr>
+        <tr>
+            <td> Microsoft Stream </td>
+            <td> Publicación del video que contiene todas las entrevistas realizadas  </td>
+            <td> https://www.microsoft.com/es-es/microsoft-365/microsoft-stream </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+**Product UX/UI Design**
+
+<table>
+    <tbody>
+        <tr>
+            <td> Nombre del Producto </td>
+            <td> Propósito </td>
+            <td> Ruta de referencia o de descarga </td>
+        </tr>
+        <tr>
+            <td> Figma </td>
+            <td> Elaboración de Wireframes, Mock-ups y Prototypes  </td>
+            <td> https://www.figma.com </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+**Software Development**
+
+<table>
+    <tbody>
+        <tr>
+            <td> Nombre del Producto </td>
+            <td> Propósito </td>
+            <td> Ruta de referencia o de descarga </td>
+        </tr>
+        <tr>
+            <td> CSS </td>
+            <td> Cascade Styles Sheet maneja el diseño de nuestra Landing Page. </td>
+            <td>https://www.w3schools.com/css/css_intro.asp</td>
+        </tr>
+        <tr>
+            <td> HTML </td>
+            <td> El lenguaje base de etiquetado que usaremos en varias partes del desarrollo de nuestro proyecto. </td>
+            <td>https://www.w3schools.com/html/html5_syntax.asp</td>
+        </tr>
+        <tr>
+            <td> JavaScript </td>
+            <td> Lenguaje de programación utilizado en algunas características de nuestra Landing Page y que utilizamos en otras partes de nuestro proyecto. </td>
+            <td> https://developer.mozilla.org/es/docs/Web/JavaScript </td>
+        </tr>
+        <tr>
+            <td> IntelliJ IDEA </td>
+            <td> Entorno de desarrollo integrado (IDE) para la codificación de nuestro proyecto </td>
+            <td>https://www.jetbrains.com/idea/</td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+**Software Testing**
+
+<table>
+    <tbody>
+        <tr>
+            <td> Nombre del Producto </td>
+            <td> Propósito </td>
+            <td> Ruta de referencia o de descarga </td>
+        </tr>
+        <tr>
+            <td> Gherkin </td>
+            <td> Lenguaje de especificación de pruebas utilizado para escribir nuestros Test en formato más legible. </td>
+            <td> https://cucumber.io/docs/gherkin/ </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+**Software Deployment**
+
+<table>
+    <tbody>
+        <tr>
+            <td> Nombre del Producto </td>
+            <td> Propósito </td>
+            <td> Ruta de referencia o de descarga </td>
+        </tr>
+        <tr>
+            <td> GitHub Pages </td>
+            <td> Para realizar el despliegue de nuestra Landing Page. </td>
+            <td> https://pages.github.com/ </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+**Software Documentation**
+
+<table>
+    <tbody>
+        <tr>
+            <td> Nombre del Producto </td>
+            <td> Propósito </td>
+            <td> Ruta de referencia o de descarga </td>
+        </tr>
+        <tr>
+            <td> Markdown </td>
+            <td> Lenguaje de marcado ligero utilizado para documentar todo el desarrollo de el producto. </td>
+            <td> https://markdown.es/ </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
 ### 5.1.2. Source Code Management.
+
+
+
+<br>
+
 ### 5.1.3. Source Code Style Guide & Conventions.
+
+
+
+<br>
+
 ### 5.1.4. Software Deployment Configuration.
+
+
+
+<br>
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 ## 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1.
@@ -1177,6 +1364,10 @@ En esta sección se expresa el diseño preliminar para la aplicación web de PCM
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+
+</div>
+
 
 
 </div>
