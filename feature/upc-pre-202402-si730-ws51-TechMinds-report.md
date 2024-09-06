@@ -1439,13 +1439,25 @@ Dentro de nuestra organización en GitHub, se encuentran los repositorios corres
 
 **Implementación de GitFlow**
 
+Para el desarrollo de nuestro proyecto, implementaremos GitFlow propuesto por Vincent Driessen en "A successful Git branching model". Este flujo de trabajo será aplicado a todos los repositorios que integran nuestra solución.
+
+También se aplicara Conventional Commits para para los mensajes de cada commit en todas las ramas del repositorio.
+
+Para implementar GitFlow crearemos las siguientes ramas de trabajo en cada repositorio:
+
+|     Rama     | Descripción |
+|:------------:|-------------|
+|   **main**   | La rama principal del repositorio contiene el código inicial y estable, y solo se actualizará con versiones estables del software. Cada cambio en esta rama deberá ser revisado por todos los integrantes del equipo. |
+|  **develop** | Esta rama contendrá el código más reciente desarrollado y servirá como base para futuras versiones. Se fusionará con las ramas de características "feature" y principal "main" cuando sea necesario. Los miembros del equipo podrán realizar fusiones a esta rama si lo consideran conveniente. |
+|  **feature** | Esta rama se utiliza para el desarrollo de nuevas funciones o características. Se crea a partir de la rama "develop" y, una vez completado el desarrollo de la funcionalidad o característica, se fusiona nuevamente con la rama "develop". |
+|  **release** | Esta rama se utilizará para preparar el código que incluye varias características nuevas para una nueva versión. Podrá fusionarse con las ramas "develop" y "main" después de una revisión parcial. |
+| **hotfixes** | Esta rama nos permitirá corregir errores en el código de la rama "main". Una vez realizadas las correcciones, estas se fusionarán tanto en la rama "main" como en la rama "develop". |
+
 <br>
 
 <p align="center">
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*X8WN29vxbiyc3XFFfWanTA.png" width="60%" alt="Ejemplo flujo de Gitflow"/>
 </p>
-
-<br>
 
 <br>
 
