@@ -1463,30 +1463,223 @@ Para implementar GitFlow crearemos las siguientes ramas de trabajo en cada repos
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
+Para el desarrollo de nuestra propuesta de solución, el equipo utilizará las convenciones estándar para cada lenguaje durante todo el ciclo de vida del proyecto y en todos los repositorios de trabajo. A continuación, se presentan las referencias para la nomenclatura de los elementos en cada lenguaje, procurando utilizar nomenclatura en inglés y seguir buenas prácticas de programación.
 
+<br>
+
+|  Lenguaje  | Referencias y Convenciones |
+|:----------:|----------------------------|
+|     HTML   | - Utilizar la estructura de documento propia de HTML, especificando el "DOCTYPE html". <br> - Cerrar siempre las etiquetas de autocierre con />. <br> - Utilizar minúsculas "lowercase" para los nombres de las etiquetas y atributos. <br> - Incluir atributos ALT en las imágenes para describir su contenido. <br> - Mantener una indentación consistente en el código. |
+|    CSS     | - Evitar escribir CSS directamente dentro de las etiquetas HTML. <br> - Utilizar unidades relativas para definir el tamaño de las imágenes. <br> - Separar las palabras con guiones en lugar de espacios o subrayados. <br> - Preferir el uso de propiedades abreviadas cuando sea posible. <br> - Emplear nombres descriptivos para las clases y los identificadores. |
+| JavaScript | <br> - Documentar el código de manera descriptiva. <br> - Utilizar nombres descriptivos para variables y funciones. <br> - Organizar el código en módulos y componentes. |
 
 <br>
 
 ### 5.1.4. Software Deployment Configuration.
 
+A continuación, se detalla la configuración requerida para el despliegue exitoso de cada producto digital desarrollado. Este documento incluye los pasos necesarios para llevar a cabo el despliegue o la publicación, partiendo desde los repositorios de código fuente ubicados en nuestra organización.
 
+<br>
+
+<h2> Landing Page </h2>
+
+**Requisitos para realizar el despliegue:**
+
++ Repositorio en la plataforma GitHub
++ Tener todos los permisos necesarios para modificar el repositorio
++ Archivos con el código de fuente de nuestra Landing Page
+
+**Pasos realizados para publicar nuestra Landing Page:**
+
+1. Subir los archivos que contienen el código fuente de nuestra Landing Page a nuestro repositorio en GitHub.
+
+<p align="center">
+    <img src="https://google.com" width="100" height="100" />
+</p>
+
+2. En el repositorio que contiene el código fuente, accedemos a la página de configuración.
+
+<p align="center">
+    <img src="https://google.com" width="100" height="100" />
+</p>
+
+3. En la página de configuración, seleccionamos la opción `Pages` en la lista de opciones. Esto nos mostrará todas las configuraciones disponibles para GitHub Pages.
+
+<p align="center">
+    <img src="https://google.com" width="100" height="100" />
+</p>
+
+4. En la página de GitHub Pages, configuramos la sección `Branch` seleccionando la rama que contiene el código que deseamos publicar. A continuación, hacemos clic en el botón `Save`.
+
+<p align="center">
+    <img src="https://google.com" width="100" height="100" />
+</p>
+
+Después de completar todos los pasos y realizar la configuración, y tras esperar un breve período, nuestra Landing Page estará publicada y accesible a través de la URL que aparece en la parte superior de la página.
+
+<p align="center">
+    <img src="https://google.com" width="100" height="100" />
+</p>
 
 <br>
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 ## 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1.
+
+<!-- Introducción -->
+
+<table>
+    <thead>
+        <tr>
+            <td> Sprint # </td>
+            <td> Sprint 1 </td>
+        </tr>
+        <tr>
+            <td colspan="2"> Sprint Planning Background </td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> Date </td>
+            <td>  </td>
+        </tr>
+        <tr>
+            <td> Time </td>
+            <td>  </td>
+        </tr>
+        <tr>
+            <td> Location </td>
+            <td>  </td>
+        </tr>
+        <tr>
+            <td> Prepared By </td>
+            <td>  </td>
+        </tr>
+        <tr>
+            <td> Attendees (to planning meeting) </td>
+            <td> Aranda Vallejos, Oscar Gabriel / Cantoral Sedamano, Alexander Alberto / Chirinos Zúñiga, Rodrigo Manuel / Soriano Medrano, Diego / Tello Murga, Javier Oswaldo </td>
+        </tr>
+        <tr>
+            <td> Sprint n – 1 Review Summary </td>
+            <td> Dado que se trata del primer sprint, no se dispone de resúmenes ni resultados previos. </td>
+        </tr>
+        <tr>
+            <td> Sprint n – 1 Retrospective Summary </td>
+            <td> Dado que este es el primer sprint, a continuación se presentan las opiniones de los miembros del equipo: </td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td> Sprint 1 Goal </td>
+            <td>  </td>
+        </tr>
+        <tr>
+            <td> Sprint 1 Velocity </td>
+            <td>  </td>
+        </tr>
+        <tr>
+            <td> Sum of Story Points </td>
+            <td>  </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
 #### 5.2.1.2. Sprint Backlog 1.
+
+<!-- Introducción que resuma el objetivo principal del Sprint -->
+
+<!-- Screenshot del Board para el sprint en Trello -->
+
+<!-- url publico del board Trello -->
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td colspan="7" >Sprint 1</td>
+        </tr>
+        <tr>
+            <td colspan="2" > User Story</td>
+            <td colspan="6" > Work-Item / Task </td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> Id </td>
+            <td> Title </td>
+            <td> Id </td>
+            <td> Title </td>
+            <td> Description </td>
+            <td> Estimation (Hours) </td>
+            <td> Assigned To </td>
+            <td> Status (To-do / In-Process / To-Review / Done) </td>
+        </tr>
+        <tr>
+            <td> US0 </td>
+          	<td>  </td>
+          	<td> 01 </td>
+          	<td>  </td>
+            <td>  </td>
+            <td>  </td>
+            <td>  </td>
+            <td>  </td>
+        </tr>
+        <tr>
+            <td> US0 </td>
+          	<td>  </td>
+          	<td> 02 </td>
+          	<td>  </td>
+            <td>  </td>
+            <td>  </td>
+            <td>  </td>
+            <td>  </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
 #### 5.2.1.3. Development Evidence for Sprint Review.
+
+<h2> Landign Page </h2>
+
+<!--introducción que resume los principales avances en la implementación -->
+
+<br>
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+| https://github.com/SI730-WS51-PC-MASTER/LandingPage_Repository |  |  |  |  |  |
+
+<br>
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+| https://github.com/SI730-WS51-PC-MASTER/LandingPage_Repository |  |  |  |  |  |
+
+<br>
+
 #### 5.2.1.5. Execution Evidence for Sprint Review.
+
+<!-- resumen que explique lo alcanzado en este Sprint y presenta screenshots de las principales vistas implementadas, junto con un enlace a un video que ilustre y explique la visualización y navegación logrados en este Sprint-->
+
+<br>
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+<br>
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+<br>
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
+<br>
 
-</div>
-
-
-
-</div>
