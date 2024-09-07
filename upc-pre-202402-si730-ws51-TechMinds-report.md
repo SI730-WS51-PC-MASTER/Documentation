@@ -1209,7 +1209,13 @@ En esta sección se expresa el diseño preliminar para la aplicación web de PCM
 ## 4.5. Web Applications Prototyping.
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
+
+[![c4-1.jpg](https://i.postimg.cc/1Xp6vpBr/c4-1.jpg)](https://postimg.cc/Wq1h3qQd)
+
 ### 4.6.2. Software Architecture Container Diagrams.
+
+[![c4-2.jpg](https://i.postimg.cc/KYBZkJ8f/c4-2.jpg)](https://postimg.cc/McZkg0Rf)
+
 ### 4.6.3. Software Architecture Components Diagrams.
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
