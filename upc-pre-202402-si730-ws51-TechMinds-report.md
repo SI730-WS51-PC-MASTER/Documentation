@@ -1910,9 +1910,56 @@ Hasta el momento, no se ha realizado ningún avance en la implementación de end
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
+Durante el desarrollo del sprint, se llevaron a cabo las actividades correspondientes al despliegue. A continuación, se detallan estas actividades para cada producto específico:
+
+<h2> Landing Page </h2>
+
+Para lograr el despliegue de nuestra Landing Page, todo el equipo realizó las configuraciones necesarias en la plataforma GitHub, como se detalla a continuación:
+
+1. Cada integrante del equipo debió tener acceso a la plataforma GitHub mediante su cuenta personal.
+
+2. Un miembro del equipo fue responsable de crear una organización en GitHub, permitiendo que todos los miembros colaboraran en un entorno común y centralizado.
+
+3. Con la organización establecida, todos los miembros se unieron a ella a través de un correo de invitación.
+
+4. Dentro de la organización, se creó el repositorio "Documentation", donde se realizó la documentación inicial del proyecto utilizando Markdown.
+
+5. Se creó un repositorio específico para el desarrollo de la Landing Page dentro de la organización.
+
+6. Un miembro del equipo se encargó de subir todos los archivos iniciales necesarios para comenzar el desarrollo en el repositorio de la Landing Page, y también de verificar que contaba con los permisos de modificación del repositorio.
+
+7. Todos los miembros colaboraron en el desarrollo y la documentación en los repositorios correspondientes, respetando las convenciones establecidas.
+
+8. Una vez que el desarrollo alcanzó un estado avanzado, un miembro del equipo se encargó de realizar el despliegue de la Landing Page, siguiendo los pasos necesarios previamente detallados.
+
+<!--resume los procesos realizados en relación con Deployment
+durante este Sprint. La sección inicia con una introducción explicando qué se ha 
+realizado con respecto a despliegue durante este Sprint. Abarca actividades de 
+creación de cuentas, configuración de recursos en cloud providers, configuración de 
+proyectos de desarrollo para integración o automatización de labor de Deployment, 
+entre otros.-->
+
 <br>
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+<h2> Landing Page </h2>
+
++ Evidencias de participación en el repositorio de la Landing Page
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/diego5m/labtest/main/imgs-xd/LPP1.png" />
+</p>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/diego5m/labtest/main/imgs-xd/LPP2.png" />
+</p>
+
++ Evidencias de participación en el repositorio "Documentation"
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/diego5m/labtest/main/imgs-xd/DPC1.png" />
+</p>
 
 <br>
 
