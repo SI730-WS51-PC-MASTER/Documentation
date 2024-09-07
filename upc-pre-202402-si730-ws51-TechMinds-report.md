@@ -211,8 +211,8 @@
 
 | Criterio específico| Acciones realizadas   | Conclusiones |
 |-------------------|------------------------|--------------|
-| **Trabaja en equipo para proporcionar <br> liderazgo en forma conjunta** | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> ... <br>  <br>**Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> ... <br>  <br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> ... <br>  <br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> ... <br>  <br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> ... <br><br>  |<br>1ra Conclusion<br><br>2da Conclusion<br><br>3ra Conclusion<br>|
-| **Crea un entorno colaborativo e <br> inclusivo, establece metas, <br> planifica tareas y cumple <br> objetivos** | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> ... <br><br>**Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> ... <br><br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> ... <br><br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> ... <br><br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> ... <br><br>  |<br>1ra Conclusion<br><br>2da Conclusion<br><br>3ra Conclusion<br>|
+| **Trabaja en equipo para proporcionar <br> liderazgo en forma conjunta** | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> Identificó entornos de desarrollo colaborativo para poder trabajar de manera remota, manteniendo un siguimiento del avance. Para ello, se realizó el diseño de los wireframes y mockups en la herramienta Figma. <br>  <br>**Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> Empleó herramientas como Lucid Chart para los diagramas de clases y organizó la estructura del proyecto para guiar al equipo. <br>  <br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> ... <br>  <br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> ... <br>  <br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> ... <br><br>  |<br>1ra Conclusion<br><br>2da Conclusion<br><br>3ra Conclusion<br>|
+| **Crea un entorno colaborativo e <br> inclusivo, establece metas, <br> planifica tareas y cumple <br> objetivos** | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> Se estableció un plan de desarrollo para la realización de tareas por sprint, siguiendo los principicios del Agile Development y la metodología Scrum. <br><br>**Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> ... <br><br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> ... <br><br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> ... <br><br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> ... <br><br>  |<br>1ra Conclusion<br><br>2da Conclusion<br><br>3ra Conclusion<br>|
 
 
 
@@ -1182,7 +1182,7 @@ En esta sección se expresa el diseño inicial utilizado para la creación de nu
 
 #### One-Page Design
 
-![Wireframe-Home](../assets/Landing-Wireframe.png)
+[![Landing-Wireframe.png](https://i.postimg.cc/R0q2PCD4/Landing-Wireframe.png)
 <br>
 
 Enlace: https://www.figma.com/design/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=13-8&t=P41W2aTHLgdiQCD0-1
@@ -1191,7 +1191,7 @@ Enlace: https://www.figma.com/design/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB
 
 #### One-Page Design
 
-![Mockup-Home](../assets/Landing-Mockup.png)
+[![Landing-Mockup.png](https://i.postimg.cc/1XDkpWYF/Landing-Mockup.png)](https://postimg.cc/bSNVPRPY)
 <br>
 
 Enlace: https://www.figma.com/design/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=13-153&t=P41W2aTHLgdiQCD0-1
