@@ -1199,13 +1199,33 @@ Enlace: https://www.figma.com/design/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB
 
 ## 4.4. Web Applications UX/UI Design.
 
-En esta sección se expresa el diseño preliminar para la aplicación web de PCMaster. Para ello, se respeto la guía de estilos presentada en nuestro "Style Guidelines".
+En esta sección se expresa el diseño preliminar para la aplicación web de PCMaster. Para ello, se utilizó la guía de estilos presentada en nuestro "Style Guidelines" como referencia.
 
 ### 4.4.1. Web Applications Wireframes.
 ### 4.4.2. Web Applications Wireflow Diagrams.
+
 ### 4.4.2. Web Applications Mock-ups.
+
+Los diseños mostrados se encuentran en el siguiente enlace: https://www.figma.com/design/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=0-1&t=wvuGZ1OMONF92OWf-1
+
+Figura X
+*Main Menu*
+
+[![MAIN-MENU.png](https://i.postimg.cc/VNL0ppqY/MAIN-MENU.png)](https://postimg.cc/tswgVrvf)
+
+Al iniciar la aplicación, esta será la interfaz observada por el usuario visitante. Además se cuentan con dos botones para las divisiones por segmento de clientes de hardware y, por otro lado, técnicos especialistas en hardware y tecnología.
+
+Figura X
+*Log In*
+
+[![LOG-IN.png](https://i.postimg.cc/BnwJZzWZ/LOGIN-FOR-CUSTOMERS.png)
+
 ### 4.4.3. Web Applications User Flow Diagrams.
+
 ## 4.5. Web Applications Prototyping.
+
+Los prototipos se integraron desde la siguiente fuente: https://www.figma.com/proto/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=30-1646&node-type=FRAME&t=DbpgFpUKzRvvz7fw-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=49%3A436
+
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
 ### 4.6.2. Software Architecture Container Diagrams.
