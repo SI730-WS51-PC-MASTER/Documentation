@@ -1707,19 +1707,19 @@ Después de completar todos los pasos y realizar la configuración, y tras esper
     <tbody>
         <tr>
             <td> Date </td>
-            <td>  </td>
+            <td> 26/08/2024 </td>
         </tr>
         <tr>
             <td> Time </td>
-            <td>  </td>
+            <td> 3:00 pm </td>
         </tr>
         <tr>
             <td> Location </td>
-            <td>  </td>
+            <td> La reunión se realizó de forma virtual por la plataforma Discord </td>
         </tr>
         <tr>
             <td> Prepared By </td>
-            <td>  </td>
+            <td> TechMinds </td>
         </tr>
         <tr>
             <td> Attendees (to planning meeting) </td>
@@ -1731,7 +1731,7 @@ Después de completar todos los pasos y realizar la configuración, y tras esper
         </tr>
         <tr>
             <td> Sprint n – 1 Retrospective Summary </td>
-            <td> Dado que este es el primer sprint, a continuación se presentan las opiniones de los miembros del equipo: </td>
+            <td> Dado que este es el primer sprint, a continuación se presentan las opiniones de los miembros del equipo: Todo el equipo coincide en la importancia de considerar las aportaciones de todos sus miembros y de trabajar de manera colaborativa. Asimismo, todos destacaron la relevancia del flujo de trabajo establecido para el desarrollo de la Landing Page, así como las diversas consideraciones que deben tenerse en cuenta. </td>
         </tr>
         <tr>
             <td colspan="2">Sprint Goal & User Stories</td>
@@ -1756,6 +1756,8 @@ Después de completar todos los pasos y realizar la configuración, y tras esper
 #### 5.2.1.2. Sprint Backlog 1.
 
 <!-- Introducción que resuma el objetivo principal del Sprint -->
+
+En este sprint, el objetivo principal fue desarrollar la Landing Page de nuestro producto. Esta página refleja lo que se ofrecerá en el futuro y está diseñada para informar a nuestros dos segmentos objetivo sobre nuestras metas como startup, así como sobre las características de nuestro producto futuro.
 
 <!-- Screenshot del Board para el sprint en Trello -->
 
@@ -1784,24 +1786,44 @@ Después de completar todos los pasos y realizar la configuración, y tras esper
             <td> Status (To-do / In-Process / To-Review / Done) </td>
         </tr>
         <tr>
-            <td> US0 </td>
-          	<td>  </td>
+            <td> US001 </td>
+          	<td> Página "Inicio" </td>
           	<td> 01 </td>
-          	<td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
+          	<td> Inicio del desarrollo de la Landing Page </td>
+            <td> Esta tarea marca el inicio del desarrollo de la Landing Page relacionada con nuestro producto final. </td>
+            <td> 04 </td>
+            <td> Aranda Vallejos, Oscar Gabriel </td>
+            <td> To-Review </td>
         </tr>
         <tr>
-            <td> US0 </td>
-          	<td>  </td>
+            <td> US002 </td>
+          	<td> Página "Nosotros" </td>
           	<td> 02 </td>
-          	<td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
+          	<td> Desarrollo de sencción "Nosotros" en la Landing Page </td>
+            <td> Esta tarea se centra en el desarrollo de la sección interna "Nosotros" de nuestra Landing Page, donde se proporciona información detallada sobre el equipo. </td>
+            <td> 04 </td>
+            <td> Aranda Vallejos, Oscar Gabriel </td>
+            <td> To-Review </td>
+        </tr>
+        <tr>
+            <td> US003 </td>
+          	<td> Página "Contacto" </td>
+          	<td> 03 </td>
+          	<td> Desarrollo de la sección "Contacto" </td>
+            <td> Esta tarea se enfoca en el desarrollo de la sección "Contacto", que proporciona información detallada sobre cómo ponerse en contacto con los responsables del proyecto. </td>
+            <td> 04 </td>
+            <td> Aranda Vallejos, Oscar Gabriel </td>
+            <td> To-Review </td>
+        </tr>
+        <tr>
+            <td> US004 </td>
+          	<td> Página "Ayuda" </td>
+          	<td> 01 </td>
+          	<td> Desarrollo de la sección "Ayuda" </td>
+            <td> Esta tarea se enfoca en desarrollar la sección interna de la Landing Page que proporciona información relevante y útil para los usuarios que puedan tener dudas sobre el proyecto. </td>
+            <td> 04 </td>
+            <td> Aranda Vallejos, Oscar Gabriel </td>
+            <td> To-Review </td>
         </tr>
     </tbody>
 </table>
@@ -1818,7 +1840,13 @@ Después de completar todos los pasos y realizar la configuración, y tras esper
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
-| https://github.com/SI730-WS51-PC-MASTER/LandingPage_Repository |  |  |  |  |  |
+| https://github.com/SI730-WS51-PC-MASTER/LandingPage_Repository | main | 9b2ec00 | Proyecto | Archivos para desarrollo | 03/09/2024 |
+| https://github.com/SI730-WS51-PC-MASTER/LandingPage_Repository | dev | 9b2ec00 | Proyecto | Archivos para desarrollo | 03/09/2024 |
+| https://github.com/SI730-WS51-PC-MASTER/LandingPage_Repository | dev | 30da18c | Add files via upload | Actualización de archivos | 05/09/2024 |
+| https://github.com/SI730-WS51-PC-MASTER/LandingPage_Repository | dev | 54bc759 | Update index.html | Actualización de archivo index.html | 06/09/2024 |
+| https://github.com/SI730-WS51-PC-MASTER/LandingPage_Repository | dev | 6b09c62 | docs: added deploy page link | Modificación archivo README.md | 06/09/2024 |
+| https://github.com/SI730-WS51-PC-MASTER/LandingPage_Repository | dev | f5ea74b | hotfix: added members personal img | Modificación archivo index.html | 06/09/2024 |
+| https://github.com/SI730-WS51-PC-MASTER/LandingPage_Repository | dev | 00745a3 | feat: update footer | Modificación archivo index.html | 07/09/2024 |
 
 <br>
 
@@ -1834,9 +1862,13 @@ Después de completar todos los pasos y realizar la configuración, y tras esper
 
 <!-- resumen que explique lo alcanzado en este Sprint y presenta screenshots de las principales vistas implementadas, junto con un enlace a un video que ilustre y explique la visualización y navegación logrados en este Sprint-->
 
+
+
 <br>
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+Hasta el momento, no se ha realizado ningún avance en la implementación de endpoints, por lo que no se incluye ningún detalle de documentación.
 
 <br>
 
