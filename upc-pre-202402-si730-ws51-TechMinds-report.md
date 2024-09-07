@@ -27,7 +27,7 @@
 | Alumno | Código |
 |:------:|:------:|
 | Aranda Vallejos, Oscar Gabriel | U202218167 |
-| Cantoral Sedamano, Alexander ALberto | U20181b152 |
+| Cantoral Sedamano, Alexander Alberto | U20181b152 |
 | Chirinos Zúñiga, Rodrigo Manuel | U202217804 |
 | Soriano Medrano, Diego | U202114793 |
 | Tello Murga, Javier Oswaldo | U202218387 |
@@ -1249,9 +1249,170 @@ Los prototipos se integraron desde la siguiente fuente: https://www.figma.com/pr
 ### 4.6.3. Software Architecture Components Diagrams.
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
+
+[![Diagrama-de-clases-1.png](https://i.postimg.cc/2881yWNL/Diagrama-de-clases-1.png)](https://postimg.cc/YjZryh9t)
+
 ### 4.7.2. Class Dictionary.
+
+| Name | Description |
+|-----------------|------------|
+-- User -- 
+| userId | ID único para cada usuario |
+| name | Nombre completo del usuario |
+| email | Email del usuario |
+| password | Contraseña del usuario |
+|registerUser | Registra un nuevo usuario en el sistema |
+|login| Verifica y permite el ingreso del usuario al sistema |
+|editProfile | Permite editar la información del usuario |
+| deleteUser| Borra la cuenta del usuario del sistema |
+| requestSupport | Manda un pedido de soporte técnico al usuario tipo admin |
+|makePurchase| Completa una compra del carrito de compra actual del usuario|
+-- Admin --
+| adminId | ID único para cada usuario tipo adminstrador |
+| role | rol asignado como tipo de usuario administtrador |
+| manageUsers()| Administra los usuarios del sistema |
+| manageComponents() | Adciona, remueve y actualiza componentes en el sistema, prioridad de código| 
+| manageOrders() | Administra y rastrea ordenes de compra de los clientes|
+| reviewsReviews() | Método para moderar las reviews de los usuarios | 
+-- Clients --
+| clientId | ID único para cliente |
+| role | role de cliente en el sistema |
+| status | estado de la membresía del cliente |
+| rewards | lista de recompensas a reclamar por el cliente |
+| registerUser| registra un usuario como cliente en el sistema|
+| login | permite el logeo al sistema como cliente y le da permiso a las funciones como y verifica el status|
+|editProfile | edita el perfil del cliente y los atributos especiales del mismo|
+|deleteuser | elimina el usuario cliente del sistema|
+| requestSupport | forma de llamar soporte técnico |
+| makePurchase| completa compras pedientes del cliente|
+-- Technicians --
+|technicianId| ID único del técnico |
+|name | Nombre a mostrar del técnico para los clientes |
+| reviews | Lista de reviews que tiene el técnico |
+| registerUser | registra el usuario como un usuario tipo técnico |
+| login | permite el logeo al sistema como técnico y le da permiso a las funciones respectivas |
+| editProfile | Permite editar atributos especficos del perfil como usuario tipo técnico | 
+|  deleteUser | Elimina el usuario tipo técnico del sistema |
+| requestSupport | Solicita soporte del usuario tipo admin para temas de la aplicación web |
+| makePurchase | Confirma el pago de sus servicios como técnico|
+-- Carts -- 
+| cardId | ID único de cada carrito de compra|
+| userId | ID del usuario al que le pertenece dicho carrito de compra |
+| components | Lista de componentes que están en el carrito de compra |
+| addComponent| Añade un componente al carrito |
+| removeComponent| Borra un component del carrito |
+| viewCart | Permite ver el carrito de compra en un apartado más complejo para verificar la compra | 
+| confirmPurchase | Confirma la compra de este carrito y empieza la fase de orden de compra |
+-- Orders--
+| orderId |ID único de la orden de compra |
+|cartId |ID del carrito de compra con los componentes| 
+| orderDate | Fecha de la orden de compra|
+| orderStatus | Estado actual de la orden de comrpra |
+| total | Monto a pagar de la orden de compra| 
+|viewOrderStatus | Permite visualizar el estado de la orden de compra y la variación del mismo en el tiempo |
+| cancelOrder | Cancela la orden de compra |
+--PurchaseHistory--
+|historyId| ID único del historial de compra del usuario|
+|userId| ID del usuario al que le pertenece el historial de cliente | 
+|Orders | Lista de ordenes de compra del cliente|
+|viewPurchaseHistory| Apartado para ver el historial de compras del cliente|
+--PaymentMethod--
+| paymentMethodId | ID único para cada método de pago|
+|userId | id del usuario que va pagar|
+| cardNumber | Número de la tarjeta de crédito o débito |
+| expiryDate | Fecha de expiración de la tarjeta |
+| cardHolderName | nombra del dueño de la tarjeta de crédito |
+| billingAddress| la dirección de cuenta para el método de pago|
+| orderId | Order de compra actual que será pagada con este método de pago|
+|addPaymentMethod| Añade un nuevo método de pago asociado a la cuenta del usuario |
+|removePaymentMethod| Elimina un método de pago asociado a la cuenta|
+|updatePaymentMethod| Edita y actualiza la información de algún método de pago|
+|getPaymentMethod| Muestra la información de un método de pago|
+|isPaymentMethod|Valida un método de pago como el actual a usar por el usuario|
+|validatePaymentMethod| valida un método de pago como válido|
+|assignPaymentMethodToOrder|Relaciona un método de pago a una orden de compra|
+-- Components --
+|componentId|ID único para cada componente|
+|name| Nombre del componente|
+|description | Descripción del componente |
+|price| Precio por el componente|
+|stock| Stock disponible del componente|
+|componenteImageId| Imagen o imagenes del componente|
+|providerId| Id único del proveedor del componente|
+|reviews||Valoración y comentarios de los usuarios|
+|selectComponent| Permite a un usuario ver los detalles del componente|
+|updateStock| Permite ver el nivel del stock del componente|
+-- Component/Image --
+|id| ID de esta clase que une las imágenes con el componente|
+|img| Lista de imágenes asociadas al componente|
+|componentId| ID del componente al que están asociadas las imágenes|
+|selectComponent| Se selecciona el componente al que se asociarán las imágenes|
+|updateStock| Actualiza la cantidad de imágenes asociadas al componente|
+--Rewards--
+|rewardId| ID único de la rencompensa|
+|clientId| ID del cliente asociado a la recompensa|
+|accumulatedPoints| Puntos acumulados asociados a una cuenta|
+|getAccumulatedPoints| Mostrar la cantidad de puntos asociados a alguna cuenta|
+|deletePoints| Borra la cantidad de puntos de la cuenta|
+|reedemeReward| Desbloquea una recompensa para la cuenta del usuario|
+--TechnicalSupport--
+|supportId|ID único para cada pedido de soporte técnico|
+|clientId|ID del cliente que pide el soporte|
+|technicianId|ID del técnico que socorrerá al cliente que necesita soporte|
+|probllemDescription| Descripción del problema detallado por el técnico|
+|supportType| Tipo de soporte dado por el técnico|
+|requestVirtualSupport| Pedido de soporte se registra como tipo virtual|
+|requestOnsiteSupport| Pedido de soporte se registra como tipo presencial|
+|viewSupportStatus| Muestra el estado del soporte brindado|
+-- Messages--
+|messageId|ID único del mensaje|
+|clientId| ID del cliente asociado al mensaje|
+|technicianId| ID del técnico asociado al mensaje|
+|messageContent| Contenido del mensaje |
+|timestamp| Tiempo al ser enviado el mensaje|
+|isRead| Estado de leído del mensaje|
+|isImportant| Marca el mensaje como importante o no|
+|sendMessage| Manda el mensaje entre técnicos y clientes|
+|markAsRead| Marca como leído el mensaje|
+|markAsImportant| Marca como importante el mensaje enviado|
+|deleteMessage| Borra el mensaje|
+|retrieveMessage| Intercepta el mensaje|
+--Reviews--
+|reviewsId| ID único de la valoración|
+|userId| ID del usuario que hizo la valoración|
+|componentId| ID del componente que fue valorado|
+|technicianId| Id del técnico que fue valorado|
+|providerId| Id del proveedor que fue valorado|
+|rating| Medidor en estrellas de como fue valorado el objeto|
+|comment| Comentario asociado a la valoración|
+|leaveReviewComponent| Se hace la review a un componente|
+|leaveReviewTechnician| Se hace la review a un técnico|
+leaveReviewProvider|Se hace la review a un proveedor|
+|viewReviews| Se muestra las reviews hechas por el usuario asociado a la review seleccionada|
+--Provider--
+|providerId| ID única asociada al proveedor|
+|providerName| Nombre del proveedor|
+|serviceType| Tipo de servicio que da el provedor|
+|contactEmail| Email de contacto con el proveedor|
+|phoneNumber| Número de telefono asociado con el proveedor|
+|rating| estrellas asociadas al proveedor|
+|address| Dirección del proveedor|
+|website| Dirección web del proveedor|
+|components| Lista de componentes que ofrece el proveedor|
+|reviews| Lista de reviews del proveedor|
+|registerProvider|Registra al proveedor en la aplicación web|
+|updateProviderDetails| Actualiza detalles del proveedor|
+|deleteProvider| Borra al proveedor de la base de datos|
+|getProviderDetails| Muestra detalles del proveedor|
+|listProvidersByServiceType| Ordena a los proveedores por el tipo de servicio que dan|
+|rateProvider| Permite marcar las estrellas que el proveedor se merece por los usuarios|
+
+
 ## 4.8. Database Design.
+
 ### 4.8.1. Database Diagram.
+
+
 
 <br>
 
