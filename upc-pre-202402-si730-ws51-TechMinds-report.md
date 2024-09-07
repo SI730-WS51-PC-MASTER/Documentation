@@ -211,8 +211,8 @@
 
 | Criterio específico| Acciones realizadas   | Conclusiones |
 |-------------------|------------------------|--------------|
-| **Trabaja en equipo para proporcionar <br> liderazgo en forma conjunta** | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> Identificó entornos de desarrollo colaborativo para poder trabajar de manera remota, manteniendo un siguimiento del avance. Para ello, se realizó el diseño de los wireframes y mockups en la herramienta Figma. <br>  <br>**Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> Empleó herramientas como Lucid Chart para los diagramas de clases y organizó la estructura del proyecto para guiar al equipo, así como la repartición de responsabilidades y plazos de acorde a la disponibilidad de cada miembro. <br>  <br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> ... <br>  <br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> ... <br>  <br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> ... <br><br>  |<br>1ra Conclusion<br><br>2da Conclusion<br><br>3ra Conclusion<br>|
-| **Crea un entorno colaborativo e <br> inclusivo, establece metas, <br> planifica tareas y cumple <br> objetivos** | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> Se estableció un plan de desarrollo para la realización de tareas por sprint, siguiendo los principicios del Agile Development y la metodología Scrum. <br><br>**Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> Siguiendo lo enseñado en Diseño de Patrones de Software consiguió que de desarrolle de manera exitosa el Sprint número 1 liderando al equipo y establenciendo metas realistas. <br><br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> ... <br><br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> ... <br><br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> ... <br><br>  |<br>1ra Conclusion<br><br>2da Conclusion<br><br>3ra Conclusion<br>|
+| **Trabaja en equipo para proporcionar <br> liderazgo en forma conjunta** | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> Identificó entornos de desarrollo colaborativo para poder trabajar de manera remota, manteniendo un siguimiento del avance. Para ello, se realizó el diseño de los wireframes y mockups en la herramienta Figma. <br>  <br>**Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> Empleó herramientas como Lucid Chart para los diagramas de clases y organizó la estructura del proyecto para guiar al equipo, así como la repartición de responsabilidades y plazos de acorde a la disponibilidad de cada miembro. <br>  <br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> ... <br>  <br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> ... <br>  <br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> Empleó herramientas como Microsoft Visual Studio para la arquitectua de software y ayudó ha que todos los integrantes del grupo puedan analizar y criticar lo trabajado. <br><br>  |<br>1ra Conclusion<br><br>2da Conclusion<br><br>3ra Conclusion<br>|
+| **Crea un entorno colaborativo e <br> inclusivo, establece metas, <br> planifica tareas y cumple <br> objetivos** | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> Se estableció un plan de desarrollo para la realización de tareas por sprint, siguiendo los principicios del Agile Development y la metodología Scrum. <br><br>**Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> Siguiendo lo enseñado en Diseño de Patrones de Software consiguió que de desarrolle de manera exitosa el Sprint número 1 liderando al equipo y establenciendo metas realistas. <br><br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> ... <br><br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> ... <br><br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> Se diseñó un plan de desarrollo para llevar a cabo las tareas, basándose en los principios clave del Desarrollo Ágil y la metodología Scrum.<br><br>  |<br>1ra Conclusion<br><br>2da Conclusion<br><br>3ra Conclusion<br>|
 
 
 
@@ -242,7 +242,7 @@ TechMinds es una startup dedicada a guiar personas con conocimientos poco concre
 | <img src="https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/foto%20alexander%5B797%5D.jpg"> | **Cantoral Sedamano, Alexander Alberto** <br> Código: U20181b152 <br>  Estudiante de Ingeniería de Software con conocimientos técnicos de programación en C++, PHP, Python. Conocimientos intermedios de frontend en HTML. Usuario frecuente tanto de Visual Studio como Visual Studio Code. Habilidades mixtas en otros programas usuales para el desarrollo de trabajos universitarios. Además, mis habilidades blandas van desde saber trabajar en equipo, tener una tendencia a ser ordenado y ser comprometido con todas las entregas.  |
 | <img src = "https://github.com/user-attachments/assets/9895e794-a88f-4436-a332-8d5c8112f9cb"> | **Chirinos Zúñiga, Rodrigo Manuel** <br> Código: U202217804 <br>  Tengo 20 años, soy un estudiante de la carrera de Ingeniería de Software, considero que soy una persona responsable y de escucha activa. Estoy comprometido con mis compañeros en realizar un buen trabajo y así aprender todos en el proceso. También tengo conocimientos en programación en C++, HTML, CSS y JavaScript.  |
 | <img src = "https://intranet.upc.edu.pe/programas/Imagen/Fotos/Upc/0540202114793.jpg"> | **Soriano Medrano, Diego** <br> Código: U202114793 <br>  Estudio la carrera de ingeniería de software. Me considero una persona creativa y paciente. Tengo conocimiento en el uso de diferentes herramientas informáticas y lenguajes de programación. que ayudan a realizar distintos tipos de trabajo y a resolver problemas. Parte de mis habilidades blandas es siempre tomar en cuenta la opinión de mis compañeros, lo cual me facilita el poder trabajar en equipo, para agilizar diferentes actividades.  |
-| [Imagen] | **Tello Murga, Javier Oswaldo** <br> Código: U202218387 <br>  ...  |
+| <a href='https://postimg.cc/jn20jBbr' target='_blank'><img src='https://i.postimg.cc/jn20jBbr/yo-de-frente.jpg' border='0' alt='yo-de-frente'/></a> | **Tello Murga, Javier Oswaldo** <br> Código: U202218387 <br> Tengo 21 años y estudio Ingeniería de Software. Me considero una persona empática y con la capacidad de aprender sobre diversas áreas. Estoy comprometido con mis compañeros para lograr un buen trabajo en conjunto y aprender durante el proceso. Además, tengo conocimientos en programación en C++, HTML y CSS.  |
 
 <br>
 
@@ -1210,13 +1210,14 @@ En esta sección se expresa el diseño preliminar para la aplicación web de PCM
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
 
-[![c4-1.jpg](https://i.postimg.cc/1Xp6vpBr/c4-1.jpg)](https://postimg.cc/Wq1h3qQd)
+![c4-1.jpg](https://i.postimg.cc/WpQRJpjs/1.jpg)
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
-[![c4-2.jpg](https://i.postimg.cc/KYBZkJ8f/c4-2.jpg)](https://postimg.cc/McZkg0Rf)
+![c4-2.jpg](https://i.postimg.cc/G2LLVLtW/2.jpg)
 
 ### 4.6.3. Software Architecture Components Diagrams.
+![c4-3.jpg](https://i.postimg.cc/zftDmmh3/3.jpg)
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 
