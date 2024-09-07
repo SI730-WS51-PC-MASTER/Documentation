@@ -1208,10 +1208,8 @@ En esta sección se expresa el diseño preliminar para la aplicación web de PCM
 
 Los diseños mostrados se encuentran en el siguiente enlace: https://www.figma.com/design/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=0-1&t=wvuGZ1OMONF92OWf-1
 
-<br>
-Bounded Countext: Access & Account Management
+#### Bounded Countext: Access & Account Management
 
-<br>
 Figura X<br>
 *Main Menu*
 
@@ -1219,18 +1217,15 @@ Figura X<br>
 
 Al iniciar la aplicación, esta será la interfaz observada por el usuario visitante. Además se cuentan con dos botones para las divisiones por segmento de clientes de hardware y, por otro lado, técnicos especialistas en hardware y tecnología.
 
-
 Figura X<br>
 *Log In*
 
 [![LOGIN-FOR-CUSTOMERS.png](https://i.postimg.cc/BnwJZzWZ/LOGIN-FOR-CUSTOMERS.png)](https://postimg.cc/9DT6JJFs)
 
-
 Figura X<br>
 *Register*
 
 [![REGISTER.png](https://i.postimg.cc/prVSF28w/REGISTER.png)](https://postimg.cc/hzwMFR2s)
-
 
 Figura X<br>
 *Account Created*
