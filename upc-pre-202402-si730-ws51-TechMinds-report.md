@@ -169,7 +169,6 @@
 | Requirements Specification           | Para el capitulo 3 se discutió las historias de usuarioa a desarrollar para los 4 sprints, que enfoque tendría la aplicación en base a como monetizarla y como esta interactuaría con el usuario final en el front.              |
 |  Product Design            | Se discutío el estilo de la Landing Page, colores de la misma y como sería, de forma básica, la aplicación web usando figma como "borrador". |
 | Product Implementation, Validation & Deployment-Sprint 1            | Para esta sección se dispuso de repartir responsabilidades referentes a este sprint, al ser el más rápido a desarrollar, se planteó que cada uno tenía un rol menor en la LP para que todas puedan colaborar su grano de arena al ser algo que ya todos dominamos.             |
-| Actividad-k            | Descripcion-k               |
 
 
 #### 2. Actividades de Elaboración del Informe
@@ -189,8 +188,8 @@
 | Métrica                         | Descripción                                                                                          |
 |---------------------------------|------------------------------------------------------------------------------------------------------|
 | Número de commits por autor     | [Imagen] |
-| Historial de cambios            | [Imagen] |
-| Distribución de trabajo         | [Imagen] |
+| Historial de cambios            | [![tiempo.png](https://i.postimg.cc/9MpfTS0V/tiempo.png)](https://postimg.cc/zby5YxTP)<br> [![tiempo-2.png](https://i.postimg.cc/bv6ywnBN/tiempo-2.png)](https://postimg.cc/8F6Qy7Gq)<br>[![tiempo-3.png](https://i.postimg.cc/8Pwn3bJ5/tiempo-3.png)](https://postimg.cc/rK0JRx9X)|
+| Distribución de trabajo         | [![RESPO.png](https://i.postimg.cc/qM5JXpv1/RESPO.png)](https://postimg.cc/hfVRKWxm)<br>[![respo-2.png](https://i.postimg.cc/NGRCkDGS/respo-2.png)](https://postimg.cc/t7CzXhxN)|
 
 <br>
 
@@ -992,6 +991,9 @@ Segmento 2: Técnicos de computadoras
 | US028 | Sorteo de componentes y gadgets | Como usuario premium quiero participar en sorteos de componentes y gadgets para tener la oportunidad de ganar productos adicionales. | **Escenario 1: Participación en el sorteo confirmada** **Dado que** el usuario es premium y ha cumplido con los requisitos de participación en el sorteo (como realizar una compra mínima o registrarse en el sorteo), **Cuando** el usuario completa el proceso de participación, **Entonces** el sistema confirma la participación del usuario en el sorteo, le envía una notificación con los detalles del sorteo y el número de participación, y al finalizar el sorteo, el usuario recibe una notificación sobre los resultados, informándole si ha ganado y cómo reclamar su premio. **Escenario 2: Fallo en la participación en el sorteo** **Dado que** el usuario es un usuario premium e intenta participar en el sorteo, **Cuando** el usuario no cumple con los requisitos de participación (como no realizar la compra mínima o no registrarse correctamente), **Entonces** el sistema muestra un mensaje de error indicando que la participación no puede ser completada debido al incumplimiento de los requisitos, y proporciona información sobre los requisitos necesarios para poder participar en futuros sorteos. | EPIC007 |
 
 ## 3.3. Impact Mapping.
+
+[![Impact-map-1.png](https://i.postimg.cc/8PC3VRPK/Impact-map-1.png)](https://postimg.cc/bdKLx2nk)
+
 ## 3.4. Product Backlog.
 |# Orden | User Story ID | Título                                          | Descripción                                                                                                                                                                            | Story Points (1/2/3/5/8) |
 |--------|---------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
