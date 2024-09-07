@@ -169,7 +169,6 @@
 | Requirements Specification           | Para el capitulo 3 se discutió las historias de usuarioa a desarrollar para los 4 sprints, que enfoque tendría la aplicación en base a como monetizarla y como esta interactuaría con el usuario final en el front.              |
 |  Product Design            | Se discutío el estilo de la Landing Page, colores de la misma y como sería, de forma básica, la aplicación web usando figma como "borrador". |
 | Product Implementation, Validation & Deployment-Sprint 1            | Para esta sección se dispuso de repartir responsabilidades referentes a este sprint, al ser el más rápido a desarrollar, se planteó que cada uno tenía un rol menor en la LP para que todas puedan colaborar su grano de arena al ser algo que ya todos dominamos.             |
-| Actividad-k            | Descripcion-k               |
 
 
 #### 2. Actividades de Elaboración del Informe
@@ -189,8 +188,8 @@
 | Métrica                         | Descripción                                                                                          |
 |---------------------------------|------------------------------------------------------------------------------------------------------|
 | Número de commits por autor     | [Imagen] |
-| Historial de cambios            | [Imagen] |
-| Distribución de trabajo         | [Imagen] |
+| Historial de cambios            | [![tiempo.png](https://i.postimg.cc/9MpfTS0V/tiempo.png)](https://postimg.cc/zby5YxTP)<br> [![tiempo-2.png](https://i.postimg.cc/bv6ywnBN/tiempo-2.png)](https://postimg.cc/8F6Qy7Gq)<br>[![tiempo-3.png](https://i.postimg.cc/8Pwn3bJ5/tiempo-3.png)](https://postimg.cc/rK0JRx9X)|
+| Distribución de trabajo         | [![RESPO.png](https://i.postimg.cc/qM5JXpv1/RESPO.png)](https://postimg.cc/hfVRKWxm)<br>[![respo-2.png](https://i.postimg.cc/NGRCkDGS/respo-2.png)](https://postimg.cc/t7CzXhxN)|
 
 <br>
 
