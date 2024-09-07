@@ -894,11 +894,12 @@ A continuación, se presenta la matriz, donde se evalúa la frecuencia y la impo
 #### 2.3.3. User Journey Mapping.
 Segmento 1: Clientes que desean componentes de hardware
 
-[![Carlos-Medina-UJ.png](https://i.postimg.cc/kX6h7BWk/Carlos-Medina-UJ.png)](https://postimg.cc/PPHM4f34)
+[![Carlos-Medina.jpg](https://i.postimg.cc/wvscJmD5/Carlos-Medina.jpg)](https://postimg.cc/k6qbPD1D)
 
 Segmento 2: Técnicos de computadoras
 
-[![Ram-n-Tomaya-Parco-UJ.png](https://i.postimg.cc/5t1P5gDV/Ram-n-Tomaya-Parco-UJ.png)](https://postimg.cc/yDQXsmVQ)
+[![Ramon-Tomaya-Parco.jpg](https://i.postimg.cc/CL4CjYn2/Ramon-Tomaya-Parco.jpg)](https://postimg.cc/566FVh35)
+
 
 
 #### 2.3.4. Empathy Mapping.
@@ -1203,46 +1204,9 @@ En esta sección se expresa el diseño preliminar para la aplicación web de PCM
 
 ### 4.4.1. Web Applications Wireframes.
 ### 4.4.2. Web Applications Wireflow Diagrams.
-
 ### 4.4.2. Web Applications Mock-ups.
-
-Los diseños mostrados se encuentran en el siguiente enlace: https://www.figma.com/design/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=0-1&t=wvuGZ1OMONF92OWf-1
-
-#### Bounded Countext: Access & Account Management
-
-Figura X<br>
-*Main Menu*
-
-[![MAIN-MENU.png](https://i.postimg.cc/VNL0ppqY/MAIN-MENU.png)](https://postimg.cc/tswgVrvf)
-
-Al iniciar la aplicación, esta será la interfaz observada por el usuario visitante. Además se cuentan con dos botones para las divisiones por segmento de clientes de hardware y, por otro lado, técnicos especialistas en hardware y tecnología.
-
-Figura X<br>
-*Log In*
-
-[![LOGIN-FOR-CUSTOMERS.png](https://i.postimg.cc/BnwJZzWZ/LOGIN-FOR-CUSTOMERS.png)](https://postimg.cc/9DT6JJFs)
-
-Figura X<br>
-*Register*
-
-[![REGISTER.png](https://i.postimg.cc/prVSF28w/REGISTER.png)](https://postimg.cc/hzwMFR2s)
-
-Figura X<br>
-*Account Created*
-
-[![ACCOUNT-CREATED.png](https://i.postimg.cc/wxFZdmYg/ACCOUNT-CREATED.png)](https://postimg.cc/XXGQfXvz)
-
-
-
-
-
-
 ### 4.4.3. Web Applications User Flow Diagrams.
-
 ## 4.5. Web Applications Prototyping.
-
-Los prototipos se integraron desde la siguiente fuente: https://www.figma.com/proto/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=30-1646&node-type=FRAME&t=DbpgFpUKzRvvz7fw-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=49%3A436
-
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
 ### 4.6.2. Software Architecture Container Diagrams.
@@ -1276,21 +1240,21 @@ Los prototipos se integraron desde la siguiente fuente: https://www.figma.com/pr
 | reviewsReviews() | Método para moderar las reviews de los usuarios | 
 -- Clients --
 | clientId | ID único para cliente |
-| role | role de cliente en el sistema |
-| status | estado de la membresía del cliente |
-| rewards | lista de recompensas a reclamar por el cliente |
-| registerUser| registra un usuario como cliente en el sistema|
-| login | permite el logeo al sistema como cliente y le da permiso a las funciones como y verifica el status|
-|editProfile | edita el perfil del cliente y los atributos especiales del mismo|
-|deleteuser | elimina el usuario cliente del sistema|
-| requestSupport | forma de llamar soporte técnico |
-| makePurchase| completa compras pedientes del cliente|
+| role | Rol de cliente en el sistema |
+| status | Estado de la membresía del cliente |
+| rewards | Lista de recompensas a reclamar por el cliente |
+| registerUser| Registra un usuario como cliente en el sistema|
+| login | Permite el logeo al sistema como cliente y le da permiso a las funciones como y verifica el status|
+|editProfile | Edita el perfil del cliente y los atributos especiales del mismo|
+|deleteuser | Elimina el usuario cliente del sistema|
+| requestSupport | Forma de llamar soporte técnico |
+| makePurchase| Completa compras pedientes del cliente|
 -- Technicians --
 |technicianId| ID único del técnico |
 |name | Nombre a mostrar del técnico para los clientes |
 | reviews | Lista de reviews que tiene el técnico |
-| registerUser | registra el usuario como un usuario tipo técnico |
-| login | permite el logeo al sistema como técnico y le da permiso a las funciones respectivas |
+| registerUser | Registra el usuario como un usuario tipo técnico |
+| login | Permite el logeo al sistema como técnico y le da permiso a las funciones respectivas |
 | editProfile | Permite editar atributos especficos del perfil como usuario tipo técnico | 
 |  deleteUser | Elimina el usuario tipo técnico del sistema |
 | requestSupport | Solicita soporte del usuario tipo admin para temas de la aplicación web |
@@ -1321,15 +1285,15 @@ Los prototipos se integraron desde la siguiente fuente: https://www.figma.com/pr
 |userId | id del usuario que va pagar|
 | cardNumber | Número de la tarjeta de crédito o débito |
 | expiryDate | Fecha de expiración de la tarjeta |
-| cardHolderName | nombra del dueño de la tarjeta de crédito |
-| billingAddress| la dirección de cuenta para el método de pago|
+| cardHolderName | Nombra del dueño de la tarjeta de crédito |
+| billingAddress| La dirección de cuenta para el método de pago|
 | orderId | Order de compra actual que será pagada con este método de pago|
 |addPaymentMethod| Añade un nuevo método de pago asociado a la cuenta del usuario |
 |removePaymentMethod| Elimina un método de pago asociado a la cuenta|
 |updatePaymentMethod| Edita y actualiza la información de algún método de pago|
 |getPaymentMethod| Muestra la información de un método de pago|
 |isPaymentMethod|Valida un método de pago como el actual a usar por el usuario|
-|validatePaymentMethod| valida un método de pago como válido|
+|validatePaymentMethod| Valida un método de pago como válido|
 |assignPaymentMethodToOrder|Relaciona un método de pago a una orden de compra|
 -- Components --
 |componentId|ID único para cada componente|
