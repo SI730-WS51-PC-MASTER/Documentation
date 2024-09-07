@@ -894,12 +894,11 @@ A continuación, se presenta la matriz, donde se evalúa la frecuencia y la impo
 #### 2.3.3. User Journey Mapping.
 Segmento 1: Clientes que desean componentes de hardware
 
-[![Carlos-Medina.jpg](https://i.postimg.cc/wvscJmD5/Carlos-Medina.jpg)](https://postimg.cc/k6qbPD1D)
+[![Carlos-Medina-UJ.png](https://i.postimg.cc/kX6h7BWk/Carlos-Medina-UJ.png)](https://postimg.cc/PPHM4f34)
 
 Segmento 2: Técnicos de computadoras
 
-[![Ramon-Tomaya-Parco.jpg](https://i.postimg.cc/CL4CjYn2/Ramon-Tomaya-Parco.jpg)](https://postimg.cc/566FVh35)
-
+[![Ram-n-Tomaya-Parco-UJ.png](https://i.postimg.cc/5t1P5gDV/Ram-n-Tomaya-Parco-UJ.png)](https://postimg.cc/yDQXsmVQ)
 
 
 #### 2.3.4. Empathy Mapping.
