@@ -1659,31 +1659,31 @@ A continuación, se detalla la configuración requerida para el despliegue exito
 1. Subir los archivos que contienen el código fuente de nuestra Landing Page a nuestro repositorio en GitHub.
 
 <p align="center">
-    <img src="https://google.com" width="100" height="100" />
+    <img src="https://raw.githubusercontent.com/diego5m/labtest/main/imgs-xd/LPD1.png" />
 </p>
 
 2. En el repositorio que contiene el código fuente, accedemos a la página de configuración.
 
 <p align="center">
-    <img src="https://google.com" width="100" height="100" />
+    <img src="https://raw.githubusercontent.com/diego5m/labtest/main/imgs-xd/LPD2.png" />
 </p>
 
 3. En la página de configuración, seleccionamos la opción `Pages` en la lista de opciones. Esto nos mostrará todas las configuraciones disponibles para GitHub Pages.
 
 <p align="center">
-    <img src="https://google.com" width="100" height="100" />
+    <img src="https://raw.githubusercontent.com/diego5m/labtest/main/imgs-xd/LPD25.png" />
 </p>
 
 4. En la página de GitHub Pages, configuramos la sección `Branch` seleccionando la rama que contiene el código que deseamos publicar. A continuación, hacemos clic en el botón `Save`.
 
 <p align="center">
-    <img src="https://google.com" width="100" height="100" />
+    <img src="https://raw.githubusercontent.com/diego5m/labtest/main/imgs-xd/LPD3.png" />
 </p>
 
 Después de completar todos los pasos y realizar la configuración, y tras esperar un breve período, nuestra Landing Page estará publicada y accesible a través de la URL que aparece en la parte superior de la página.
 
 <p align="center">
-    <img src="https://google.com" width="100" height="100" />
+    <img src="https://raw.githubusercontent.com/diego5m/labtest/main/imgs-xd/LPD4.png" />
 </p>
 
 <br>
