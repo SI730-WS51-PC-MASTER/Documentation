@@ -226,7 +226,7 @@ En esta sección presentamos el nombre de la organización del proyecto y el pro
 
 ### 1.1.1. Descripción de la Startup 
 
-TechDesign es una startup dedicada a guiar personas con conocimientos poco concretos acerca de componentes de hardware para un determinado computador. A través de nosotros, recomendaciones personalizadas serán ofrecidas y permitiremos que el usuario localice el proveedor con los mejores componentes a un precio ideal, basándonos en sus necesidades y presupuesto. Trabajaremos en conjunto con tiendas y marcas locales para asegurar la transparencia y datos actualizados. Además, proporcionaremos información básica sobre componentes de computadoras y medios para contactar con un servicio técnico.
+TechMinds es una startup dedicada a guiar personas con conocimientos poco concretos acerca de componentes de hardware para un determinado computador. A través de nosotros, recomendaciones personalizadas serán ofrecidas y permitiremos que el usuario localice el proveedor con los mejores componentes a un precio ideal, basándonos en sus necesidades y presupuesto. Trabajaremos en conjunto con tiendas y marcas locales para asegurar la transparencia y datos actualizados. Además, proporcionaremos información básica sobre componentes de computadoras y medios para contactar con un servicio técnico.
 
 - Misión: Orientar y conectar usuarios con el hardware ideal para su contexto, respaldados por la transparencia y la educación.
 
@@ -928,14 +928,14 @@ Segmento 2: Técnicos de computadoras
 | **Customer Education**          | Educación al Cliente                | Proceso de informar y capacitar a los usuarios sobre los componentes de hardware, sus características y cómo afectan el rendimiento de su equipo.             |
 | **Customer Satisfaction**       | Satisfacción del Cliente            | Grado en que un producto o servicio cumple o supera las expectativas del usuario.                                                                             |
 | **Hardware Guidance**           | Asesoramiento de Hardware           | Servicio de orientación para ayudar a los usuarios a elegir los componentes de hardware que mejor se adapten a sus necesidades y presupuesto.                |
-| **Local Providers**             | Proveedores Locales                 | Tiendas y marcas en el Perú que ofrecen componentes de hardware y con quienes TechDesign colabora para ofrecer las mejores opciones a los usuarios.           |
+| **Local Providers**             | Proveedores Locales                 | Tiendas y marcas en el Perú que ofrecen componentes de hardware y con quienes TechMinds colabora para ofrecer las mejores opciones a los usuarios.           |
 | **Market Trends**               | Tendencias de Mercado               | Cambios y patrones en las preferencias y comportamientos de los consumidores dentro del mercado de hardware para PC.                                          |
 | **PC Assembly**                 | Ensamblaje de PC                    | El proceso de reunir y conectar los componentes de hardware para construir una computadora personalizada según las necesidades del usuario.                  |
 | **Personalized Recommendations**| Recomendaciones Personalizadas      | Sugerencias específicas de componentes de hardware que se ajustan a las necesidades particulares del usuario, considerando su contexto y presupuesto.         |
-| **Price Optimization**          | Optimización de Precios             | Estrategia de TechDesign para ayudar a los usuarios a encontrar la mejor relación calidad-precio en los componentes de hardware disponibles en el mercado local. |
+| **Price Optimization**          | Optimización de Precios             | Estrategia de TechMinds para ayudar a los usuarios a encontrar la mejor relación calidad-precio en los componentes de hardware disponibles en el mercado local. |
 | **Price Sensitivity**           | Sensibilidad al Precio              | Grado en que el precio de un producto influye en las decisiones de compra del usuario.                                                                         |
 | **Product Recommendations**     | Recomendaciones de Productos        | Sugerencias de componentes específicos basadas en las necesidades, presupuesto y preferencias del usuario.                                                    |
-| **Technical Service Contact**   | Contacto de Servicio Técnico        | Información y medios proporcionados por TechDesign para que los usuarios puedan contactar con servicios técnicos especializados en caso de necesitar asistencia. |
+| **Technical Service Contact**   | Contacto de Servicio Técnico        | Información y medios proporcionados por TechMinds para que los usuarios puedan contactar con servicios técnicos especializados en caso de necesitar asistencia. |
 | **User Context**                | Contexto del Usuario                | Las circunstancias específicas y el entorno en el que el usuario utiliza su computadora, que influyen en las recomendaciones de hardware que se le ofrecen.    |
 
 # Capítulo III: Requirements Specification
