@@ -164,11 +164,11 @@
 
 | Actividad                           | Descripción                                                                                          |
 |-------------------------------------|------------------------------------------------------------------------------------------------------|
-| Actividad-1            | Descripcion-1               |
-| Actividad-2            | Descripcion-2               |
-| Actividad-3            | Descripcion-3               |
-| Actividad-4            | Descripcion-4               |
-| Actividad-5            | Descripcion-5               |
+| Entrevistas            | Para está actividad se pidió a cada miembro que busque entre conocidos a personas que su perfil se asemeje al de los segmentos objetivos para poder conseguir entrevistas necesarias para el capítulo 2.              |
+| Needfinding           | Para está sección del informe se dispuso de un tiempo para debatir y establecer el enfoque que tendríamos que darle a la aplicación para poder satisfacer nuestros segmentos objetivos encontrados en las entrevistas.           |
+| Requirements Specification           | Para el capitulo 3 se discutió las historias de usuarioa a desarrollar para los 4 sprints, que enfoque tendría la aplicación en base a como monetizarla y como esta interactuaría con el usuario final en el front.              |
+|  Product Design            | Se discutío el estilo de la Landing Page, colores de la misma y como sería, de forma básica, la aplicación web usando figma como "borrador". |
+| Product Implementation, Validation & Deployment-Sprint 1            | Para esta sección se dispuso de repartir responsabilidades referentes a este sprint, al ser el más rápido a desarrollar, se planteó que cada uno tenía un rol menor en la LP para que todas puedan colaborar su grano de arena al ser algo que ya todos dominamos.             |
 | Actividad-k            | Descripcion-k               |
 
 
