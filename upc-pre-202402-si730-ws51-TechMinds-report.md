@@ -239,7 +239,7 @@ TechMinds es una startup dedicada a guiar personas con conocimientos poco concre
 
 | **Integrante** | **Descripción** |
 |----------------|---------------|
-| [Imagen] | **Aranda Vallejos, Oscar Gabriel** <br> Código: U202218167 <br>  ...  |
+| <img src="https://i.postimg.cc/6qRCcvNF/Captura-de-pantalla-2024-09-08-151747.png"> | **Aranda Vallejos, Oscar Gabriel** <br> Código: U202218167 <br>  Tengo 19 años y soy estudiante de la carrera de Ingeniería de Software, poseo conocimientos básicos en Unity, C++ y diseño web. Me considero una persona preparada y perseverante en cumplir con los objetivos del proyecto; además, siempre estoy dispuesto a aprender nuevos conceptos. |
 | <img src="https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/foto%20alexander%5B797%5D.jpg"> | **Cantoral Sedamano, Alexander Alberto** <br> Código: U20181b152 <br>  Estudiante de Ingeniería de Software con conocimientos técnicos de programación en C++, PHP, Python. Conocimientos intermedios de frontend en HTML. Usuario frecuente tanto de Visual Studio como Visual Studio Code. Habilidades mixtas en otros programas usuales para el desarrollo de trabajos universitarios. Además, mis habilidades blandas van desde saber trabajar en equipo, tener una tendencia a ser ordenado y ser comprometido con todas las entregas.  |
 | <img src = "https://github.com/user-attachments/assets/9895e794-a88f-4436-a332-8d5c8112f9cb"> | **Chirinos Zúñiga, Rodrigo Manuel** <br> Código: U202217804 <br>  Tengo 20 años, soy un estudiante de la carrera de Ingeniería de Software, considero que soy una persona responsable y de escucha activa. Estoy comprometido con mis compañeros en realizar un buen trabajo y así aprender todos en el proceso. También tengo conocimientos en programación en C++, HTML, CSS y JavaScript.  |
 | <img src = "https://intranet.upc.edu.pe/programas/Imagen/Fotos/Upc/0540202114793.jpg"> | **Soriano Medrano, Diego** <br> Código: U202114793 <br>  Estudio la carrera de ingeniería de software. Me considero una persona creativa y paciente. Tengo conocimiento en el uso de diferentes herramientas informáticas y lenguajes de programación. que ayudan a realizar distintos tipos de trabajo y a resolver problemas. Parte de mis habilidades blandas es siempre tomar en cuenta la opinión de mis compañeros, lo cual me facilita el poder trabajar en equipo, para agilizar diferentes actividades.  |
@@ -2415,6 +2415,12 @@ En el capítulo cuatro, tras haber establecido los requisitos de los dos segment
 
 
 # Anexos
+
+## Exposición
+* [TB1](https://insertarlink)
+
+## Entrevistas
+https://acortar.link/LWUrOB 
 
 ## Repositories
 * [PC Master - Organization](https://github.com/SI730-WS51-PC-MASTER)
