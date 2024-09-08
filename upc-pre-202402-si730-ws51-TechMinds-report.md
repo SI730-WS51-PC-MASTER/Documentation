@@ -1213,34 +1213,447 @@ Al final del recorrido, el inicio de sesión o registro se presenta como un acce
 
 En esta sección se expresa el diseño inicial utilizado para la creación de nuestra Landing Page. Se utilizó la herramienta Figma para modelar los wireframes y mockups, respetando una guía y organización de estilos determinada.
 
+
 ### 4.3.1. Landing Page Wireframe.
 
 #### One-Page Design
 
-[![Landing-Wireframe.png](https://i.postimg.cc/R0q2PCD4/Landing-Wireframe.png)
-<br>
+[![Landing-Wireframe.png](https://i.postimg.cc/R0q2PCD4/Landing-Wireframe.png)](https://postimg.cc/NyqNFttz)
 
 Enlace: https://www.figma.com/design/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=13-8&t=P41W2aTHLgdiQCD0-1
+
 
 ### 4.3.2. Landing Page Mock-up.
 
 #### One-Page Design
 
 [![Landing-Mockup.png](https://i.postimg.cc/1XDkpWYF/Landing-Mockup.png)](https://postimg.cc/bSNVPRPY)
-<br>
 
 Enlace: https://www.figma.com/design/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=13-153&t=P41W2aTHLgdiQCD0-1
 
 
 ## 4.4. Web Applications UX/UI Design.
 
-En esta sección se expresa el diseño preliminar para la aplicación web de PCMaster. Para ello, se utilizó la guía de estilos presentada en nuestro "Style Guidelines" como referencia.
+En esta sección se expresa el diseño preliminar para la aplicación web de PCMaster. Para ello, se respeto la guía de estilos presentada en nuestro "Style Guidelines".
+
 
 ### 4.4.1. Web Applications Wireframes.
-### 4.4.2. Web Applications Wireflow Diagrams.
+
+A continuación se observa el diseño de wireframes para nuestros segmentos objetivo. Para ello se utilizó la herramienta Figma y su visualización completa se observa en el siguiente enlace: 
+
+https://www.figma.com/design/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=13-8&t=u5o54NWoIqikHmE5-1
+<br><br>
+
+
+Figura X<br>
+*Inicio*
+
+[![INIT-1.png](https://i.postimg.cc/wvBZBTQP/INIT-1.png)](https://postimg.cc/cKVX9WjM)
+
+La figura representa la primera interfaz que verá el visitante. En ella podrá seleccionar entre el primer segmento (clientes de hardware) y el segundo (técnicos de hardware).
+
+
+Figura X<br>
+*Inicio de sesión*
+
+[![Access-1.png](https://i.postimg.cc/9XZKFSdc/Access-1.png)](https://postimg.cc/grcNggt7)
+
+En la figura se muestra la pantalla que se muestra tras seleccionar el segmento objetivo correspondiente al tipo de cuenta. En ella, el usuario puede acceder si ya posee una cuenta creada; de lo contrario, seleccionará el botón de registrarse.
+
+
+Figura X<br>
+*Registro*
+
+[![Register-1.png](https://i.postimg.cc/9Fj3dVm4/Register-1.png)](https://postimg.cc/dDnSFbTv)
+
+La figura representa el diseño del formulario y la sección de registro. El usuario tiene que rellenar de manera obligatoria los campos mostrados.
+
+
+Figura X<br>
+*Interfaz principal para clientes de hardware*
+
+[![MAIN-INTERFACE-1.png](https://i.postimg.cc/5tfNnLfC/MAIN-INTERFACE-1.png)](https://postimg.cc/0zHsN6Mk)
+
+Si el usuario seleccionó el segmento de "customer" en la pantalla inicial, entonces tendrá acceso a la interfaz mostrada en la figura. Con ello, el consumidor tiene acceso a los componentes, categorías y asesores técnicos más demandados. Además, dispone de tres botones con enlaces a servicios que deberán ser pulidos en los primeros sprints. 
+
+
+Figura X<br>
+*Interfaz principal para técnicos de hardware*
+
+[![Captura-de-pantalla-2024-09-08-113056.png](https://i.postimg.cc/3RCq90Jd/Captura-de-pantalla-2024-09-08-113056.png)](https://postimg.cc/vgTXZBns)
+[![Captura-de-pantalla-2024-09-08-113149.png](https://i.postimg.cc/X7Dz2b3c/Captura-de-pantalla-2024-09-08-113149.png)](https://postimg.cc/qzywRWNz)
+
+Si el usuario seleccionó el segmento de "technician" en la pantalla inicial, entonces tendrá acceso a la interfaz representada en la figura compuesta. Con ello, el técnico puede gestionar su estado para recibir y atender solicitudes.
+
+
+### 4.4.2. Web Applications Wireflow Diagrams
+
+Ambos segmentos
+
+Wireflow User Goal 1: Como usuario quiero registrarme en la aplicación web.
+
+User task: El usuario selecciona el tipo de cuenta asociada a cada segmento, selecciona el botón de registro para completar sus datos y su cuenta es creada.
+
+Figura X<br>
+*User Goal 1 - Step 1*
+
+[![Captura-de-pantalla-2024-09-08-035242.png](https://i.postimg.cc/HW2DJcqP/Captura-de-pantalla-2024-09-08-035242.png)](https://postimg.cc/G9HSV2hk)
+
+Figura X<br>
+*User Goal 1 - Step 2*
+
+[![Captura-de-pantalla-2024-09-08-040427.png](https://i.postimg.cc/j56HqrkB/Captura-de-pantalla-2024-09-08-040427.png)](https://postimg.cc/ZBRBjXmL)
+
+Figura X<br>
+*User Goal 1 - Step 3*
+
+[![Captura-de-pantalla-2024-09-08-040936.png](https://i.postimg.cc/zGR0m48Y/Captura-de-pantalla-2024-09-08-040936.png)](https://postimg.cc/MnqyVPn9)
+
+FiguraX<br>
+*User Goal 1 - Step 4*
+
+[![Captura-de-pantalla-2024-09-08-041401.png](https://i.postimg.cc/9Ffmc5xS/Captura-de-pantalla-2024-09-08-041401.png)](https://postimg.cc/XXTSgh6c)
+
+
+Segmento de clientes de hardware
+
+Wireflow User Goal 2: Como usuario cliente de hardware quiero tener a disposición los productos más vendidos en la web y valorarlo con las herramientas que me ofrece la aplicación.
+
+User task: El usuario selecciona el botón "customer" para su tipo de cuenta previamente creada, accede a su interfaz principal y selecciona uno de los productos más vendidos.
+
+Figura<br>
+*User Goal 2 - Step 1*
+
+[![Captura-de-pantalla-2024-09-08-044801.png](https://i.postimg.cc/MKF4Chfz/Captura-de-pantalla-2024-09-08-044801.png)](https://postimg.cc/2Vn2v9xt)
+
+Figura<br>
+*User Goal 2 - Step 2*
+
+[![Captura-de-pantalla-2024-09-08-045225.png](https://i.postimg.cc/yYx6XCzK/Captura-de-pantalla-2024-09-08-045225.png)](https://postimg.cc/CzyVSt1r)
+
+Figura X<br>
+*User Goal 2 - Step 3*
+
+[![Captura-de-pantalla-2024-09-08-045332.png](https://i.postimg.cc/JnTVGt0k/Captura-de-pantalla-2024-09-08-045332.png)](https://postimg.cc/LYZ0W9z9)
+
+Figura X<br>
+*User Goal 2 - Step 4*
+
+[![Captura-de-pantalla-2024-09-08-045552.png](https://i.postimg.cc/ZR1kr2Pb/Captura-de-pantalla-2024-09-08-045552.png)](https://postimg.cc/sQ90zn0q)
+
+
+Segmento de clientes de hardware
+
+Wireflow User Goal 3: Como usuario cliente de hardware quiero encontrar el componente que busco bajo criterios y filtros determinados, agilizando mi búsqueda.
+
+User task: El usuario selecciona el botón "find your component" y procede a utilizar filtros y las herramientas de la aplicación disponibles para su búsqueda.
+
+Figura X<br>
+*User Goal 3 - Step 1*
+
+[![Captura-de-pantalla-2024-09-08-050332.png](https://i.postimg.cc/rFwbD821/Captura-de-pantalla-2024-09-08-050332.png)](https://postimg.cc/23gTJN6y)
+
+Figura X<br>
+*User Goal 3 - Step 2*
+
+[![Captura-de-pantalla-2024-09-08-050935.png](https://i.postimg.cc/D06Zf1b3/Captura-de-pantalla-2024-09-08-050935.png)](https://postimg.cc/5QH1nY3s)
+
+
+Segmento de clientes de hardware
+
+Wireflow User Goal 4: Como usuario cliente de hardware quiero encontrar asesores técnicos de hardware.
+
+User task: El usuario selecciona el botón de obtener asesoría sobre hardware y solicita los tipos de servicio disponibles según sus demandas.
+
+Figura X<br>
+*User Goal 4 - Step 1*
+
+[![Captura-de-pantalla-2024-09-08-053112.png](https://i.postimg.cc/d0cjyKxQ/Captura-de-pantalla-2024-09-08-053112.png)](https://postimg.cc/k2wb0LCL)
+
+Figura X<br>
+*User Goal 4 - Step 2*
+
+[![Captura-de-pantalla-2024-09-08-053239.png](https://i.postimg.cc/Wzqd8ddB/Captura-de-pantalla-2024-09-08-053239.png)](https://postimg.cc/MfxZKKb5)
+
+Figura X<br>
+*User Goal 4 - Step 3*
+
+[![Captura-de-pantalla-2024-09-08-053353.png](https://i.postimg.cc/g2HH87Fv/Captura-de-pantalla-2024-09-08-053353.png)](https://postimg.cc/JstXWPhn)
+
+
+Segmento de técnicos de hardware y tecnología
+
+Wireflow User Goal 5: Como técnico de hardware y tecnología quiero poder dar a conocer mis servicios y asistir a usuarios consumidores.
+
+User Task: El técnico accede con una cuenta registrada previamente y en su interfaz principal observa las solicitudes de los usuarios consumidores. Si el técnico en cuestión se encuentra dentro del ranking podrá recibir peticiones personales, lo cual se traduce en mayores ingresos para su persona y mayor concurrencia de visitantes a la aplicación.
+
+Figura X<br>
+*User Goal 5 - Step 1*
+
+[![Captura-de-pantalla-2024-09-08-055058.png](https://i.postimg.cc/sX7YfHcQ/Captura-de-pantalla-2024-09-08-055058.png)](https://postimg.cc/R6C6XR24)
+
+Figura X<br>
+*User Goal 5 - Step 2*
+
+[![Captura-de-pantalla-2024-09-08-055152.png](https://i.postimg.cc/v8vnPVSs/Captura-de-pantalla-2024-09-08-055152.png)](https://postimg.cc/14f4XfQC)
+
+Figura X<br>
+*User Goal 5 - Step 3*
+
+[![Captura-de-pantalla-2024-09-08-055313.png](https://i.postimg.cc/zG4HLS3n/Captura-de-pantalla-2024-09-08-055313.png)](https://postimg.cc/3kCxVGXR)
+[![Captura-de-pantalla-2024-09-08-055424.png](https://i.postimg.cc/zGY1Vy8y/Captura-de-pantalla-2024-09-08-055424.png)](https://postimg.cc/bsg55NGP)
+
+Figura X<br>
+*User Goal 5 - Step 4*
+
+[![Captura-de-pantalla-2024-09-08-055631.png](https://i.postimg.cc/5NdxF7m9/Captura-de-pantalla-2024-09-08-055631.png)](https://postimg.cc/G9K0WjN6)
+
+[![Captura-de-pantalla-2024-09-08-055702.png](https://i.postimg.cc/TYJX5RwQ/Captura-de-pantalla-2024-09-08-055702.png)](https://postimg.cc/Cz52Wpbf)
+
+
 ### 4.4.2. Web Applications Mock-ups.
+
+En esta sección se presenta el diseño de mock-ups de la aplicación web y se encuentran disponibles en el siguiente enlace:  
+
+https://www.figma.com/design/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=0-1&t=u5o54NWoIqikHmE5-1
+<br><br>
+
+Figura X<br>
+*Inicio*
+
+[![MAIN-MENU-1.png](https://i.postimg.cc/nVmW35r6/MAIN-MENU-1.png)](https://postimg.cc/Dm25Zxqg)
+
+Figura X<br>
+*Login*
+
+[![LOGIN-FOR-CUSTOMERS-1.png](https://i.postimg.cc/52yqRYp6/LOGIN-FOR-CUSTOMERS-1.png)](https://postimg.cc/sMFhB2kr)
+
+Figura X<br>
+*Registro*
+
+[![REGISTER-1-1.png](https://i.postimg.cc/763g2gPQ/REGISTER-1-1.png)](https://postimg.cc/k656rRbx)
+
+Figura X<br>
+*Confirmación de creación de la cuenta*
+
+[![ACCOUNT-CREATED-1.png](https://i.postimg.cc/SR5NQPF0/ACCOUNT-CREATED-1.png)](https://postimg.cc/2LQf22ST)
+
+Figura X<br>
+*Interfaz principal para el usuario "hardware customer"*
+
+[![MAIN-INTERFACE-1-1.png](https://i.postimg.cc/Xv3NvFhv/MAIN-INTERFACE-1-1.png)](https://postimg.cc/bZCfCGqX)
+
+Figura X<br>
+*Interfaz principal para el usuario "hardware technician"*
+
+[![MAIN-INTERFACE-2-1.png](https://i.postimg.cc/mDkscSST/MAIN-INTERFACE-2-1.png)](https://postimg.cc/Y45VZYVP)
+
 ### 4.4.3. Web Applications User Flow Diagrams.
+
+En esta sección se observan los user flow diagrams realizados en el siguiente enlace: 
+
+https://www.figma.com/design/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=142-17781&t=hZ23Ot8oEC4tXrIc-1
+<br><br>
+
+US-05: Registro de usuario
+
+Figura X<br>
+*US05 - User Flow 1*
+
+[![Captura-de-pantalla-2024-09-08-121434.png](https://i.postimg.cc/T1QNr82S/Captura-de-pantalla-2024-09-08-121434.png)](https://postimg.cc/YLGxHsWf)
+
+Figura X<br>
+*US05 - User Flow 2*
+
+[![Captura-de-pantalla-2024-09-08-121726.png](https://i.postimg.cc/PxyQ7WGv/Captura-de-pantalla-2024-09-08-121726.png)](https://postimg.cc/34yG4Dx3)
+
+Figura X<br>
+*US05 - User Flow 3*
+
+[![Captura-de-pantalla-2024-09-08-121849.png](https://i.postimg.cc/NfS7ZGnD/Captura-de-pantalla-2024-09-08-121849.png)](https://postimg.cc/1f0qqSsV)
+
+Figura X<br>
+*US05 - User Flow 4*
+
+[![Captura-de-pantalla-2024-09-08-122439.png](https://i.postimg.cc/qvchQkHz/Captura-de-pantalla-2024-09-08-122439.png)](https://postimg.cc/Snsxxbsh)
+
+
+US-06: Inicio de sesión 
+
+Figura X<br>
+*US06 - User Flow 1*
+
+[![Captura-de-pantalla-2024-09-08-121434.png](https://i.postimg.cc/T1QNr82S/Captura-de-pantalla-2024-09-08-121434.png)](https://postimg.cc/YLGxHsWf)
+
+Figura X<br>
+*US06 - User Flow 2*
+
+[![Captura-de-pantalla-2024-09-08-121726.png](https://i.postimg.cc/PxyQ7WGv/Captura-de-pantalla-2024-09-08-121726.png)](https://postimg.cc/34yG4Dx3)
+
+Figura X<br>
+*US06 - User Flow 3*
+
+[![Captura-de-pantalla-2024-09-08-123224.png](https://i.postimg.cc/Jnjz7x7t/Captura-de-pantalla-2024-09-08-123224.png)](https://postimg.cc/CBLgmjqV)
+
+Esta imagen representa la perspectiva del usuario consumidor tras iniciar sesión.
+
+Figura X<br>
+*US06 - User Flow 4*
+
+[![Captura-de-pantalla-2024-09-08-123040.png](https://i.postimg.cc/cLDKPF6S/Captura-de-pantalla-2024-09-08-123040.png)](https://postimg.cc/k2bXbFx1)
+
+Esta imagen representa la perspectiva del usuario técnico tras iniciar sesión.
+
+
+US-07: Editar perfil de usuario
+
+Figura X<br>
+*US07 - Hardware Customer User Flow 1*
+
+[![Captura-de-pantalla-2024-09-08-133745.png](https://i.postimg.cc/28Cj7nTN/Captura-de-pantalla-2024-09-08-133745.png)](https://postimg.cc/s10RVQtT)
+
+Figura X<br>
+*US07 - Hardware Customer User Flow 2*
+
+[![Captura-de-pantalla-2024-09-08-133845.png](https://i.postimg.cc/TP5T302g/Captura-de-pantalla-2024-09-08-133845.png)](https://postimg.cc/06vTtpwy)
+
+Figura X<br>
+*US07 - Hardware Technician User Flow 1*
+
+[![Captura-de-pantalla-2024-09-08-133414.png](https://i.postimg.cc/28dbzz9r/Captura-de-pantalla-2024-09-08-133414.png)](https://postimg.cc/4mdNPTTS)
+
+Figura X<br>
+*US07 - Hardware Technician User Flow 2*
+
+[![Captura-de-pantalla-2024-09-08-133626.png](https://i.postimg.cc/0y2QP7J0/Captura-de-pantalla-2024-09-08-133626.png)](https://postimg.cc/qzS0GhwN)
+
+
+US-08: Eliminar cuenta
+
+Figura X<br>
+*US08 - Hardware Customer User Flow 1*
+
+[![Captura-de-pantalla-2024-09-08-134027.png](https://i.postimg.cc/JnWC4W2C/Captura-de-pantalla-2024-09-08-134027.png)](https://postimg.cc/xkg4tBQ6)
+
+Figura X<br>
+*US08 - Hardware Customer User Flow 2*
+
+[![Captura-de-pantalla-2024-09-08-134222.png](https://i.postimg.cc/d31HJHwK/Captura-de-pantalla-2024-09-08-134222.png)](https://postimg.cc/TLzq9cKk)
+
+Figura X<br>
+*US08 - Hardware Customer User Flow 3*
+
+[![Captura-de-pantalla-2024-09-08-134324.png](https://i.postimg.cc/pX5Ckndk/Captura-de-pantalla-2024-09-08-134324.png)](https://postimg.cc/fJZYRym0)
+
+Figura X<br>
+*US08 - Hardware Customer User Flow 4*
+
+[![Captura-de-pantalla-2024-09-08-134419.png](https://i.postimg.cc/wjchb5Y5/Captura-de-pantalla-2024-09-08-134419.png)](https://postimg.cc/nXrjXDzM)
+
+Figura X<br>
+*US08 - Hardware Technician User Flow 1*
+
+[![Captura-de-pantalla-2024-09-08-134548.png](https://i.postimg.cc/vm0WPyxL/Captura-de-pantalla-2024-09-08-134548.png)](https://postimg.cc/v16gBpzc)
+
+Figura X<br>
+*US08 - Hardware Technician User Flow 2*
+
+[![Captura-de-pantalla-2024-09-08-134629.png](https://i.postimg.cc/WpFM7QNg/Captura-de-pantalla-2024-09-08-134629.png)](https://postimg.cc/6TK2WbGp)
+
+Figura X<br>
+*US08 - Hardware Technician User Flow 3*
+
+[![Captura-de-pantalla-2024-09-08-134324.png](https://i.postimg.cc/pX5Ckndk/Captura-de-pantalla-2024-09-08-134324.png)](https://postimg.cc/fJZYRym0)
+
+Figura X<br>
+*US08 - Hardware Technician User Flow 4*
+
+[![Captura-de-pantalla-2024-09-08-134419.png](https://i.postimg.cc/wjchb5Y5/Captura-de-pantalla-2024-09-08-134419.png)](https://postimg.cc/nXrjXDzM)
+
+
+US-10: Filtro de búsqueda de componentes
+
+Figura X<br>
+*US10 - Hardware Customer User Flow 1*
+
+[![Captura-de-pantalla-2024-09-08-135731.png](https://i.postimg.cc/sxgfTFSS/Captura-de-pantalla-2024-09-08-135731.png)](https://postimg.cc/BLRGvVmQ)
+
+Figura X<br>
+*US10 - Hardware Customer User Flow 2*
+
+[![Captura-de-pantalla-2024-09-08-140019.png](https://i.postimg.cc/BbLkSMfk/Captura-de-pantalla-2024-09-08-140019.png)](https://postimg.cc/y3Kvnhdy)
+
+
+US-17: Solicitud de soporte técnico de 
+forma virtual 
+
+Figura X<br>
+*US17 - Hardware Customer User Flow 1*
+
+[![Captura-de-pantalla-2024-09-08-140412.png](https://i.postimg.cc/dt9pq7bq/Captura-de-pantalla-2024-09-08-140412.png)](https://postimg.cc/QHH0mMNP)
+
+Figura X<br>
+*US17 - Hardware Customer User Flow 2*
+
+[![Captura-de-pantalla-2024-09-08-140629.png](https://i.postimg.cc/ydPcJHsS/Captura-de-pantalla-2024-09-08-140629.png)](https://postimg.cc/bDZsM4Gz)
+
+Figura X<br>
+*US17 - Hardware Customer User Flow 3*
+
+[![Captura-de-pantalla-2024-09-08-140704.png](https://i.postimg.cc/WzyDrpKt/Captura-de-pantalla-2024-09-08-140704.png)](https://postimg.cc/vxWHwyGd)
+
+
+US-18: Solicitud de soporte técnico a 
+domicilio
+
+Figura X<br>
+*US18 - Hardware Customer User Flow 1*
+
+[![Captura-de-pantalla-2024-09-08-140756.png](https://i.postimg.cc/15NX2Q2c/Captura-de-pantalla-2024-09-08-140756.png)](https://postimg.cc/N5BQ2Wg5)
+
+Figura X<br>
+*US18 - Hardware Customer User Flow 2*
+
+[![Captura-de-pantalla-2024-09-08-140951.png](https://i.postimg.cc/T3fyDsNV/Captura-de-pantalla-2024-09-08-140951.png)](https://postimg.cc/vc2HR0sT)
+
+Figura X<br>
+*US18 - Hardware Customer User Flow 3*
+
+[![Captura-de-pantalla-2024-09-08-141157.png](https://i.postimg.cc/7PSYnV2m/Captura-de-pantalla-2024-09-08-141157.png)](https://postimg.cc/Z0KST6jd)
+
 ## 4.5. Web Applications Prototyping.
+
+En esta sección se muestran y explican los flows y secuencias para la aplicación.
+
+Figura X<br>
+*General Prototypes*
+
+[![Captura-de-pantalla-2024-09-08-131134.png](https://i.postimg.cc/j51m9YY7/Captura-de-pantalla-2024-09-08-131134.png)](https://postimg.cc/zbnxbMBz)
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218167_upc_edu_pe/ESV0htVYl61Oht8_3THgpG4BZlTt5PI-tgs_tug-_9JI0w?e=mNbRZU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+<br><br>
+
+
+Segmento de clientes de hardware:
+
+Figura X<br>
+*Hardware Customers Flow Prototype*
+
+[![Captura-de-pantalla-2024-09-08-131948.png](https://i.postimg.cc/65Mj1NV5/Captura-de-pantalla-2024-09-08-131948.png)](https://postimg.cc/CzfszX6W)
+
+https://www.figma.com/proto/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=131-3070&node-type=FRAME&t=E7uD0ImzqDFqNXWY-1&scaling=min-zoom&content-scaling=fixed&page-id=128%3A12&starting-point-node-id=131%3A3070&show-proto-sidebar=1
+<br><br>
+
+Segmento de técnicos de hardware:
+
+Figura X<br>
+*Hardware Technicians Flow Prototype*
+
+[![Captura-de-pantalla-2024-09-08-132134.png](https://i.postimg.cc/Z51L1YWZ/Captura-de-pantalla-2024-09-08-132134.png)](https://postimg.cc/mPyM9s36)
+
+https://www.figma.com/proto/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=131-3085&node-type=FRAME&t=gyESjOWO8yMRG4Bt-1&scaling=min-zoom&content-scaling=fixed&page-id=128%3A12&starting-point-node-id=131%3A3085&show-proto-sidebar=1
+
+
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
 
