@@ -2401,3 +2401,34 @@ entre otros.-->
 
 <br>
 
+
+# Anexos
+
+## Repositories
+* [PC Master - Organization](https://github.com/SI730-WS51-PC-MASTER)
+* [PC Master - Landing Page](https://github.com/SI730-WS51-PC-MASTER/Landing_Page)
+* [PC Master - Documentation](https://github.com/SI730-WS51-PC-MASTER/Documentation)
+
+## Landing Page Design
+### 1. Wireframes:
+https://www.figma.com/design/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=13-8&t=u5o54NWoIqikHmE5-1
+### 2. Mock-ups:
+https://www.figma.com/design/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=13-153&t=u5o54NWoIqikHmE5-1
+### 3. Deployment:
+
+## Web Application Design
+### 1. Wireframes:
+https://www.figma.com/design/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=94-1845&t=u5o54NWoIqikHmE5-1
+### 2. Wireflow diagrams: 
+https://www.figma.com/design/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=142-17780&t=u5o54NWoIqikHmE5-1
+### 3. Mock-ups:
+https://www.figma.com/design/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=0-1&t=u5o54NWoIqikHmE5-1
+### 4. User Flow diagrams:
+
+## Prototypes
+### 1. General Prototypes Explanation:
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218167_upc_edu_pe/ESV0htVYl61Oht8_3THgpG4BZlTt5PI-tgs_tug-_9JI0w?e=mNbRZU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+### 2. Hardware Customer Flow Prototype:
+https://www.figma.com/proto/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=131-3070&node-type=FRAME&t=gyESjOWO8yMRG4Bt-1&scaling=min-zoom&content-scaling=fixed&page-id=128%3A12&starting-point-node-id=131%3A3070&show-proto-sidebar=1
+### 2. Hardware Technician Flow Prototype:
+https://www.figma.com/proto/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=131-3085&node-type=FRAME&t=gyESjOWO8yMRG4Bt-1&scaling=min-zoom&content-scaling=fixed&page-id=128%3A12&starting-point-node-id=131%3A3085&show-proto-sidebar=1
