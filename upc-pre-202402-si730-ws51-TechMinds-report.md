@@ -197,7 +197,7 @@
 
 | Evidencia                       | Descripción                                                                                          |
 |---------------------------------|------------------------------------------------------------------------------------------------------|
-| Contribuciones en GitHub       | [Imagen] |
+| Contribuciones en GitHub       | Todos los participantes subieron sus responsabilidades a github y a su vez ayudaron a revisar las de los demás. |
 | Discusiones y actividades      | Se prepararon reuniones virtuales para comunicar los avances, dudas y problemas que surjan con el desarrollo de cada actividad. |
 | Exposiciones anticipadas       | Realizamos reuniones para exponer cada actividad desarrollada y prepararanos para la presentación final. |
 
@@ -2417,7 +2417,7 @@ En el capítulo cuatro, tras haber establecido los requisitos de los dos segment
 # Anexos
 
 ## Exposición
-* [TB1](https://insertarlink)
+- TB1: https://acortar.link/mLDYSp
 
 ## Entrevistas
 https://acortar.link/LWUrOB 
