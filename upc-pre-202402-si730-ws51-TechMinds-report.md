@@ -1692,9 +1692,10 @@ Diagrama de Componente - Web Scraping Module
 
 ### 4.7.2. Class Dictionary.
 
-| Name | Description |
-|-----------------|------------|
--- User -- 
+|               |                 |
+|---------------|-----------------|
+| **Clase**     |   **User**   |
+| **Atributo**  | **Descripción** |
 | userId | ID único para cada usuario |
 | name | Nombre completo del usuario |
 | email | Email del usuario |
@@ -1705,14 +1706,16 @@ Diagrama de Componente - Web Scraping Module
 | deleteUser| Borra la cuenta del usuario del sistema |
 | requestSupport | Manda un pedido de soporte técnico al usuario tipo admin |
 |makePurchase| Completa una compra del carrito de compra actual del usuario|
--- Admin --
+| **Clase**     |   **Admin**   |
+| **Atributo**  | **Descripción** |
 | adminId | ID único para cada usuario tipo adminstrador |
 | role | rol asignado como tipo de usuario administtrador |
 | manageUsers()| Administra los usuarios del sistema |
 | manageComponents() | Adciona, remueve y actualiza componentes en el sistema, prioridad de código| 
 | manageOrders() | Administra y rastrea ordenes de compra de los clientes|
 | reviewsReviews() | Método para moderar las reviews de los usuarios | 
--- Clients --
+| **Clase**     |   **Clients**   |
+| **Atributo**  | **Descripción** |
 | clientId | ID único para cliente |
 | role | Rol de cliente en el sistema |
 | status | Estado de la membresía del cliente |
@@ -1723,7 +1726,8 @@ Diagrama de Componente - Web Scraping Module
 |deleteuser | Elimina el usuario cliente del sistema|
 | requestSupport | Forma de llamar soporte técnico |
 | makePurchase| Completa compras pedientes del cliente|
--- Technicians --
+| **Clase**     |   **Technicians**   |
+| **Atributo**  | **Descripción** |
 |technicianId| ID único del técnico |
 |name | Nombre a mostrar del técnico para los clientes |
 | reviews | Lista de reviews que tiene el técnico |
@@ -1733,7 +1737,8 @@ Diagrama de Componente - Web Scraping Module
 |  deleteUser | Elimina el usuario tipo técnico del sistema |
 | requestSupport | Solicita soporte del usuario tipo admin para temas de la aplicación web |
 | makePurchase | Confirma el pago de sus servicios como técnico|
--- Carts -- 
+| **Clase**     |   **Carts**   |
+| **Atributo**  | **Descripción** |
 | cardId | ID único de cada carrito de compra|
 | userId | ID del usuario al que le pertenece dicho carrito de compra |
 | components | Lista de componentes que están en el carrito de compra |
@@ -1741,7 +1746,8 @@ Diagrama de Componente - Web Scraping Module
 | removeComponent| Borra un component del carrito |
 | viewCart | Permite ver el carrito de compra en un apartado más complejo para verificar la compra | 
 | confirmPurchase | Confirma la compra de este carrito y empieza la fase de orden de compra |
--- Orders--
+| **Clase**     |   **Orders**   |
+| **Atributo**  | **Descripción** |
 | orderId |ID único de la orden de compra |
 |cartId |ID del carrito de compra con los componentes| 
 | orderDate | Fecha de la orden de compra|
@@ -1749,12 +1755,14 @@ Diagrama de Componente - Web Scraping Module
 | total | Monto a pagar de la orden de compra| 
 |viewOrderStatus | Permite visualizar el estado de la orden de compra y la variación del mismo en el tiempo |
 | cancelOrder | Cancela la orden de compra |
---PurchaseHistory--
+| **Clase**     |   **PurchaseHistory**   |
+| **Atributo**  | **Descripción** |
 |historyId| ID único del historial de compra del usuario|
 |userId| ID del usuario al que le pertenece el historial de cliente | 
 |Orders | Lista de ordenes de compra del cliente|
 |viewPurchaseHistory| Apartado para ver el historial de compras del cliente|
---PaymentMethod--
+| **Clase**     |   **PaymentMethod**   |
+| **Atributo**  | **Descripción** |
 | paymentMethodId | ID único para cada método de pago|
 |userId | id del usuario que va pagar|
 | cardNumber | Número de la tarjeta de crédito o débito |
@@ -1769,7 +1777,8 @@ Diagrama de Componente - Web Scraping Module
 |isPaymentMethod|Valida un método de pago como el actual a usar por el usuario|
 |validatePaymentMethod| Valida un método de pago como válido|
 |assignPaymentMethodToOrder|Relaciona un método de pago a una orden de compra|
--- Components --
+| **Clase**     |   **Components**   |
+| **Atributo**  | **Descripción** |
 |componentId|ID único para cada componente|
 |name| Nombre del componente|
 |description | Descripción del componente |
@@ -1780,20 +1789,23 @@ Diagrama de Componente - Web Scraping Module
 |reviews||Valoración y comentarios de los usuarios|
 |selectComponent| Permite a un usuario ver los detalles del componente|
 |updateStock| Permite ver el nivel del stock del componente|
--- Component/Image --
+| **Clase**     |   **Images**   |
+| **Atributo**  | **Descripción** |
 |id| ID de esta clase que une las imágenes con el componente|
 |img| Lista de imágenes asociadas al componente|
 |componentId| ID del componente al que están asociadas las imágenes|
 |selectComponent| Se selecciona el componente al que se asociarán las imágenes|
 |updateStock| Actualiza la cantidad de imágenes asociadas al componente|
---Rewards--
+| **Clase**     |   **Rewards**   |
+| **Atributo**  | **Descripción** |
 |rewardId| ID único de la rencompensa|
 |clientId| ID del cliente asociado a la recompensa|
 |accumulatedPoints| Puntos acumulados asociados a una cuenta|
 |getAccumulatedPoints| Mostrar la cantidad de puntos asociados a alguna cuenta|
 |deletePoints| Borra la cantidad de puntos de la cuenta|
 |reedemeReward| Desbloquea una recompensa para la cuenta del usuario|
---TechnicalSupport--
+| **Clase**     |   **TechnicalSupport**   |
+| **Atributo**  | **Descripción** |
 |supportId|ID único para cada pedido de soporte técnico|
 |clientId|ID del cliente que pide el soporte|
 |technicianId|ID del técnico que socorrerá al cliente que necesita soporte|
@@ -1802,7 +1814,8 @@ Diagrama de Componente - Web Scraping Module
 |requestVirtualSupport| Pedido de soporte se registra como tipo virtual|
 |requestOnsiteSupport| Pedido de soporte se registra como tipo presencial|
 |viewSupportStatus| Muestra el estado del soporte brindado|
--- Messages--
+| **Clase**     |   **Messages**   |
+| **Atributo**  | **Descripción** |
 |messageId|ID único del mensaje|
 |clientId| ID del cliente asociado al mensaje|
 |technicianId| ID del técnico asociado al mensaje|
@@ -1815,7 +1828,8 @@ Diagrama de Componente - Web Scraping Module
 |markAsImportant| Marca como importante el mensaje enviado|
 |deleteMessage| Borra el mensaje|
 |retrieveMessage| Intercepta el mensaje|
---Reviews--
+| **Clase**     |   **Reviews**   |
+| **Atributo**  | **Descripción** |
 |reviewsId| ID único de la valoración|
 |userId| ID del usuario que hizo la valoración|
 |componentId| ID del componente que fue valorado|
@@ -1827,7 +1841,8 @@ Diagrama de Componente - Web Scraping Module
 |leaveReviewTechnician| Se hace la review a un técnico|
 leaveReviewProvider|Se hace la review a un proveedor|
 |viewReviews| Se muestra las reviews hechas por el usuario asociado a la review seleccionada|
---Provider--
+| **Clase**     |   **Provider**   |
+| **Atributo**  | **Descripción** |
 |providerId| ID única asociada al proveedor|
 |providerName| Nombre del proveedor|
 |serviceType| Tipo de servicio que da el provedor|
@@ -1845,6 +1860,7 @@ leaveReviewProvider|Se hace la review a un proveedor|
 |listProvidersByServiceType| Ordena a los proveedores por el tipo de servicio que dan|
 |rateProvider| Permite marcar las estrellas que el proveedor se merece por los usuarios|
 
+<br>
 
 ## 4.8. Database Design.
 
