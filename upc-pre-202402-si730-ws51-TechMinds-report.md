@@ -1245,14 +1245,34 @@ En esta sección se expresa el diseño preliminar para la aplicación web de PCM
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
 
-![c4-1.jpg](https://i.postimg.cc/WpQRJpjs/1.jpg)
+![c4-1.jpg](https://i.postimg.cc/wv7wC2DV/1-CONTEXT.jpg)
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
-![c4-2.jpg](https://i.postimg.cc/G2LLVLtW/2.jpg)
+![c4-2.jpg](https://i.postimg.cc/pXNsSDrf/2-CONTAINER.jpg)
 
 ### 4.6.3. Software Architecture Components Diagrams.
-![c4-3.jpg](https://i.postimg.cc/zftDmmh3/3.jpg)
+Diagrama de Componente - Backend
+![c4-3.jpg](https://i.postimg.cc/nzg3pmkt/3-BACKEND.jpg)
+
+Diagrama de Componente - Data Base
+![c4-4.jpg](https://i.postimg.cc/SQYZVZSQ/3-DATA-BASE.jpg)
+
+Diagrama de Componente - Frontend
+![c4-5.jpg](https://i.postimg.cc/J0XPnh6H/3-FRONTEND.jpg)
+
+Diagrama de Componente - Monitoring
+![c4-6.jpg](https://i.postimg.cc/Yq1dBhLJ/3-MONITORING.jpg)
+
+Diagrama de Componente - Notification System
+![c4-7.jpg](https://i.postimg.cc/RZ4XS4cq/3-NOTIFICATION-SYSTEM.jpg)
+
+Diagrama de Componente - Shared Kernel
+![c4-8.jpg](https://i.postimg.cc/g2s4rQDs/3-SHARED-KERNEL.jpg)
+
+Diagrama de Componente - Web Scraping Module
+![c4-9.jpg](https://i.postimg.cc/wBB2N24p/3-WEB-SCRAPING-MODULE.jpg)
+
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 
