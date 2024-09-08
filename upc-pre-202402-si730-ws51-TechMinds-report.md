@@ -169,7 +169,6 @@
 | Requirements Specification           | Para el capitulo 3 se discutió las historias de usuarioa a desarrollar para los 4 sprints, que enfoque tendría la aplicación en base a como monetizarla y como esta interactuaría con el usuario final en el front.              |
 |  Product Design            | Se discutío el estilo de la Landing Page, colores de la misma y como sería, de forma básica, la aplicación web usando figma como "borrador". |
 | Product Implementation, Validation & Deployment-Sprint 1            | Para esta sección se dispuso de repartir responsabilidades referentes a este sprint, al ser el más rápido a desarrollar, se planteó que cada uno tenía un rol menor en la LP para que todas puedan colaborar su grano de arena al ser algo que ya todos dominamos.             |
-| Actividad-k            | Descripcion-k               |
 
 
 #### 2. Actividades de Elaboración del Informe
@@ -189,8 +188,8 @@
 | Métrica                         | Descripción                                                                                          |
 |---------------------------------|------------------------------------------------------------------------------------------------------|
 | Número de commits por autor     | [Imagen] |
-| Historial de cambios            | [Imagen] |
-| Distribución de trabajo         | [Imagen] |
+| Historial de cambios            | [![tiempo.png](https://i.postimg.cc/9MpfTS0V/tiempo.png)](https://postimg.cc/zby5YxTP)<br> [![tiempo-2.png](https://i.postimg.cc/bv6ywnBN/tiempo-2.png)](https://postimg.cc/8F6Qy7Gq)<br>[![tiempo-3.png](https://i.postimg.cc/8Pwn3bJ5/tiempo-3.png)](https://postimg.cc/rK0JRx9X)|
+| Distribución de trabajo         | [![RESPO.png](https://i.postimg.cc/qM5JXpv1/RESPO.png)](https://postimg.cc/hfVRKWxm)<br>[![respo-2.png](https://i.postimg.cc/NGRCkDGS/respo-2.png)](https://postimg.cc/t7CzXhxN)|
 
 <br>
 
@@ -211,8 +210,11 @@
 
 | Criterio específico| Acciones realizadas   | Conclusiones |
 |-------------------|------------------------|--------------|
+
 | **Trabaja en equipo para proporcionar <br> liderazgo en forma conjunta** | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> Identificó entornos de desarrollo colaborativo para poder trabajar de manera remota, manteniendo un siguimiento del avance. Para ello, se realizó el diseño de los wireframes y mockups en la herramienta Figma. <br>  <br>**Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> Empleó herramientas como Lucid Chart para los diagramas de clases y organizó la estructura del proyecto para guiar al equipo, así como la repartición de responsabilidades y plazos de acorde a la disponibilidad de cada miembro. <br>  <br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> ... <br>  <br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> ... <br>  <br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> Empleó herramientas como Microsoft Visual Studio para la arquitectua de software y ayudó ha que todos los integrantes del grupo puedan analizar y criticar lo trabajado. <br><br>  |<br>1ra Conclusion<br><br>2da Conclusion<br><br>3ra Conclusion<br>|
-| **Crea un entorno colaborativo e <br> inclusivo, establece metas, <br> planifica tareas y cumple <br> objetivos** | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> Se estableció un plan de desarrollo para la realización de tareas por sprint, siguiendo los principicios del Agile Development y la metodología Scrum. <br><br>**Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> Siguiendo lo enseñado en Diseño de Patrones de Software consiguió que de desarrolle de manera exitosa el Sprint número 1 liderando al equipo y establenciendo metas realistas. <br><br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> ... <br><br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> ... <br><br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> Se diseñó un plan de desarrollo para llevar a cabo las tareas, basándose en los principios clave del Desarrollo Ágil y la metodología Scrum.<br><br>  |<br>1ra Conclusion<br><br>2da Conclusion<br><br>3ra Conclusion<br>|
+| **Crea un entorno colaborativo e <br> inclusivo, establece metas, <br> planifica tareas y cumple <br> objetivos** | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> Se estableció un plan de desarrollo para la realización de tareas por sprint, siguiendo los principicios del Agile Development y la metodología Scrum. <br><br>**Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> Siguiendo lo enseñado en Diseño de Patrones de Software consiguió que de desarrolle de manera exitosa el Sprint número 1 liderando al equipo y establenciendo metas realistas. <br><br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> ... <br><br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> ... <br><br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> Se diseñó un plan de desarrollo para llevar a cabo las tareas, basándose en los principios clave del Desarrollo Ágil y la metodología Scrum.<br><br>  |<br>Se puede concluir que el trabajo en equipo y la coordinación para los tiempos de los entregables es clave para presentear un buen trabajo.<br><br>2da Conclusion<br><br>3ra Conclusion<br>|
+
+
 
 
 
@@ -894,11 +896,11 @@ A continuación, se presenta la matriz, donde se evalúa la frecuencia y la impo
 #### 2.3.3. User Journey Mapping.
 Segmento 1: Clientes que desean componentes de hardware
 
-[![Carlos-Medina.jpg](https://i.postimg.cc/wvscJmD5/Carlos-Medina.jpg)](https://postimg.cc/k6qbPD1D)
+[![Carlos-Medina-UJ.png](https://i.postimg.cc/kX6h7BWk/Carlos-Medina-UJ.png)](https://postimg.cc/PPHM4f34)
 
 Segmento 2: Técnicos de computadoras
 
-[![Ramon-Tomaya-Parco.jpg](https://i.postimg.cc/CL4CjYn2/Ramon-Tomaya-Parco.jpg)](https://postimg.cc/566FVh35)
+[![Ram-n-Tomaya-Parco-UJ.png](https://i.postimg.cc/5t1P5gDV/Ram-n-Tomaya-Parco-UJ.png)](https://postimg.cc/yDQXsmVQ)
 
 
 
@@ -992,7 +994,40 @@ Segmento 2: Técnicos de computadoras
 | US028 | Sorteo de componentes y gadgets | Como usuario premium quiero participar en sorteos de componentes y gadgets para tener la oportunidad de ganar productos adicionales. | **Escenario 1: Participación en el sorteo confirmada** **Dado que** el usuario es premium y ha cumplido con los requisitos de participación en el sorteo (como realizar una compra mínima o registrarse en el sorteo), **Cuando** el usuario completa el proceso de participación, **Entonces** el sistema confirma la participación del usuario en el sorteo, le envía una notificación con los detalles del sorteo y el número de participación, y al finalizar el sorteo, el usuario recibe una notificación sobre los resultados, informándole si ha ganado y cómo reclamar su premio. **Escenario 2: Fallo en la participación en el sorteo** **Dado que** el usuario es un usuario premium e intenta participar en el sorteo, **Cuando** el usuario no cumple con los requisitos de participación (como no realizar la compra mínima o no registrarse correctamente), **Entonces** el sistema muestra un mensaje de error indicando que la participación no puede ser completada debido al incumplimiento de los requisitos, y proporciona información sobre los requisitos necesarios para poder participar en futuros sorteos. | EPIC007 |
 
 ## 3.3. Impact Mapping.
+
+[![Impact-map-1.png](https://i.postimg.cc/8PC3VRPK/Impact-map-1.png)](https://postimg.cc/bdKLx2nk)
+
 ## 3.4. Product Backlog.
+|# Orden | User Story ID | Título                                          | Descripción                                                                                                                                                                            | Story Points (1/2/3/5/8) |
+|--------|---------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| 1      | US001         | Página "Inicio"                                | Como usuario quiero ver un apartado inicial del servicio para conocer lo más relevante.                                                                                             | 3            |
+| 2      | US002         | Página "Nosotros"                              | Como usuario quiero conocer la misión y visión del proyecto para tener un poco más de confianza.                                                                                   | 2            |
+| 3      | US003         | Página "Contacto"                              | Como usuario quiero saber cómo puedo contactar a las personas que están detrás del servicio para comunicarme.                                                                        | 2            |
+| 4      | US004         | Página "Ayuda"                                 | Como usuario quiero tener un apartado de ayuda para resolver posibles dudas.                                                                                                        | 2            |
+| 5      | US005         | Registro de usuario                            | Como usuario quiero registrarme en la página web para usar sus funcionalidades.                                                                                                      | 5            |
+| 6      | US006         | Iniciar Sesión                                 | Como usuario quiero iniciar sesión en la página web para hacer uso del servicio.                                                                                                     | 5            |
+| 7      | US007         | Editar perfil de usuario                       | Como usuario quiero editar mi perfil para mantener mi información de mi cuenta actualizada.                                                                                        | 5            |
+| 8      | US008         | Eliminar usuario                               | Como administrador del sistema quiero eliminar un usuario de la plataforma para que pueda mantener la base de datos actualizada.                                                     | 8            |
+| 9      | US009         | Selección de Componentes de PC                  | Como usuario, quiero que la aplicación me ayude a seleccionar componentes de PC adecuados para mis necesidades y presupuesto.                                                       | 5            |
+| 10     | US010         | Filtro de búsqueda de componentes               | Como usuario, quiero poder especificar las tareas, programas, presupuesto y otros filtros para recibir recomendaciones específicas para mis necesidades.                               | 5            |
+| 11     | US011         | Palabras clave para selección de componentes    | Como usuario quiero buscar componentes específicos usando palabras clave para encontrar exactamente lo que necesito.                                                                | 3            |
+| 12     | US012         | Carrito de compras                             | Como usuario quiero agregar componentes a un carrito de compras para revisarlos antes de realizar la compra.                                                                         | 5            |
+| 13     | US013         | Listas de Deseos                               | Como usuario quiero guardar componentes en una lista de deseos para considerarlos en futuras compras.                                                                               | 3            |
+| 14     | US014         | Guía técnica en un entorno colaborativo virtual | Como usuario quiero acceder a una guía técnica en un entorno colaborativo para diagnosticar problemas de hardware o software.                                                        | 8            |
+| 15     | US015         | Consultas ilimitadas                           | Como usuario premium quiero tener acceso a consultas técnicas ilimitadas para resolver mis dudas rápidamente.                                                                       | 5            |
+| 16     | US016         | Capacitación Personalizada                     | Como usuario quiero recibir capacitación personalizada sobre el uso de componentes y mantenimiento de mi PC.                                                                        | 8            |
+| 17     | US017         | Solicitud de soporte técnico de forma virtual  | Como usuario quiero solicitar soporte técnico de forma virtual para solucionar problemas desde casa.                                                                               | 5            |
+| 18     | US018         | Solicitud de soporte técnico a domicilio        | Como usuario premium quiero solicitar soporte técnico a domicilio para recibir ayuda en persona.                                                                                     | 8            |
+| 19     | US019         | Soporte prioritario                            | Como usuario premium quiero recibir soporte prioritario para solucionar problemas con mayor rapidez.                                                                                | 8            |
+| 20     | US020         | Mantenimiento Preventivo                        | Como usuario quiero solicitar mantenimiento preventivo para asegurar el correcto funcionamiento de mi equipo.                                                                        | 5            |
+| 21     | US021         | Reseña y valoración de componentes              | Como usuario quiero dejar una reseña y valoración sobre los componentes que he adquirido para ayudar a otros usuarios.                                                                | 3            |
+| 22     | US022         | Reseña y valoración del servicio técnico        | Como usuario quiero valorar el servicio técnico que recibí para compartir mi experiencia con otros.                                                                                  | 3            |
+| 23     | US023         | Confirmación del pago                           | Como usuario quiero recibir una confirmación de pago clara y detallada al finalizar mi compra.                                                                                       | 8           |
+| 24     | US024         | Cancelación del pago                            | Como usuario quiero poder cancelar un pago antes de que se procese si cambio de opinión.                                                                                           | 5           |
+| 25     | US025         | Gestión de devoluciones                         | Como usuario quiero gestionar devoluciones de componentes comprados que no cumplieron mis expectativas o llegaron defectuosos.                                                        | 5            |
+| 26     | US026         | Compras que dan puntos para canjear descuentos | Como usuario premium quiero acumular puntos con cada compra para canjearlos por descuentos en futuras compras.                                                                      | 3            |
+| 27     | US027         | Recompensas adicionales por compras             | Como usuario premium, quiero recibir una recompensa adicional como accesorios relacionados a mi compra para sentirme valorado por mi lealtad y nivel de suscripción.               | 5            |
+| 28     | US028         | Sorteo de componentes y gadgets                 | Como usuario premium quiero participar en sorteos de componentes y gadgets para tener la oportunidad de ganar productos adicionales.                                                | 3            |
 
 # Capítulo IV: Product Design
 
@@ -1714,19 +1749,19 @@ Después de completar todos los pasos y realizar la configuración, y tras esper
     <tbody>
         <tr>
             <td> Date </td>
-            <td>  </td>
+            <td> 26/08/2024 </td>
         </tr>
         <tr>
             <td> Time </td>
-            <td>  </td>
+            <td> 3:00 pm </td>
         </tr>
         <tr>
             <td> Location </td>
-            <td>  </td>
+            <td> La reunión se realizó de forma virtual por la plataforma Discord </td>
         </tr>
         <tr>
             <td> Prepared By </td>
-            <td>  </td>
+            <td> TechMinds </td>
         </tr>
         <tr>
             <td> Attendees (to planning meeting) </td>
@@ -1738,7 +1773,7 @@ Después de completar todos los pasos y realizar la configuración, y tras esper
         </tr>
         <tr>
             <td> Sprint n – 1 Retrospective Summary </td>
-            <td> Dado que este es el primer sprint, a continuación se presentan las opiniones de los miembros del equipo: </td>
+            <td> Dado que este es el primer sprint, a continuación se presentan las opiniones de los miembros del equipo: Todo el equipo coincide en la importancia de considerar las aportaciones de todos sus miembros y de trabajar de manera colaborativa. Asimismo, todos destacaron la relevancia del flujo de trabajo establecido para el desarrollo de la Landing Page, así como las diversas consideraciones que deben tenerse en cuenta. </td>
         </tr>
         <tr>
             <td colspan="2">Sprint Goal & User Stories</td>
@@ -1763,6 +1798,8 @@ Después de completar todos los pasos y realizar la configuración, y tras esper
 #### 5.2.1.2. Sprint Backlog 1.
 
 <!-- Introducción que resuma el objetivo principal del Sprint -->
+
+En este sprint, el objetivo principal fue desarrollar la Landing Page de nuestro producto. Esta página refleja lo que se ofrecerá en el futuro y está diseñada para informar a nuestros dos segmentos objetivo sobre nuestras metas como startup, así como sobre las características de nuestro producto futuro.
 
 <!-- Screenshot del Board para el sprint en Trello -->
 
@@ -1791,24 +1828,44 @@ Después de completar todos los pasos y realizar la configuración, y tras esper
             <td> Status (To-do / In-Process / To-Review / Done) </td>
         </tr>
         <tr>
-            <td> US0 </td>
-          	<td>  </td>
+            <td> US001 </td>
+          	<td> Página "Inicio" </td>
           	<td> 01 </td>
-          	<td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
+          	<td> Inicio del desarrollo de la Landing Page </td>
+            <td> Esta tarea marca el inicio del desarrollo de la Landing Page relacionada con nuestro producto final. </td>
+            <td> 04 </td>
+            <td> Aranda Vallejos, Oscar Gabriel </td>
+            <td> To-Review </td>
         </tr>
         <tr>
-            <td> US0 </td>
-          	<td>  </td>
+            <td> US002 </td>
+          	<td> Página "Nosotros" </td>
           	<td> 02 </td>
-          	<td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
+          	<td> Desarrollo de sencción "Nosotros" en la Landing Page </td>
+            <td> Esta tarea se centra en el desarrollo de la sección interna "Nosotros" de nuestra Landing Page, donde se proporciona información detallada sobre el equipo. </td>
+            <td> 04 </td>
+            <td> Aranda Vallejos, Oscar Gabriel </td>
+            <td> To-Review </td>
+        </tr>
+        <tr>
+            <td> US003 </td>
+          	<td> Página "Contacto" </td>
+          	<td> 03 </td>
+          	<td> Desarrollo de la sección "Contacto" </td>
+            <td> Esta tarea se enfoca en el desarrollo de la sección "Contacto", que proporciona información detallada sobre cómo ponerse en contacto con los responsables del proyecto. </td>
+            <td> 04 </td>
+            <td> Aranda Vallejos, Oscar Gabriel </td>
+            <td> To-Review </td>
+        </tr>
+        <tr>
+            <td> US004 </td>
+          	<td> Página "Ayuda" </td>
+          	<td> 01 </td>
+          	<td> Desarrollo de la sección "Ayuda" </td>
+            <td> Esta tarea se enfoca en desarrollar la sección interna de la Landing Page que proporciona información relevante y útil para los usuarios que puedan tener dudas sobre el proyecto. </td>
+            <td> 04 </td>
+            <td> Aranda Vallejos, Oscar Gabriel </td>
+            <td> To-Review </td>
         </tr>
     </tbody>
 </table>
@@ -1825,7 +1882,13 @@ Después de completar todos los pasos y realizar la configuración, y tras esper
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
-| https://github.com/SI730-WS51-PC-MASTER/LandingPage_Repository |  |  |  |  |  |
+| https://github.com/SI730-WS51-PC-MASTER/LandingPage_Repository | main | 9b2ec00 | Proyecto | Archivos para desarrollo | 03/09/2024 |
+| https://github.com/SI730-WS51-PC-MASTER/LandingPage_Repository | dev | 9b2ec00 | Proyecto | Archivos para desarrollo | 03/09/2024 |
+| https://github.com/SI730-WS51-PC-MASTER/LandingPage_Repository | dev | 30da18c | Add files via upload | Actualización de archivos | 05/09/2024 |
+| https://github.com/SI730-WS51-PC-MASTER/LandingPage_Repository | dev | 54bc759 | Update index.html | Actualización de archivo index.html | 06/09/2024 |
+| https://github.com/SI730-WS51-PC-MASTER/LandingPage_Repository | dev | 6b09c62 | docs: added deploy page link | Modificación archivo README.md | 06/09/2024 |
+| https://github.com/SI730-WS51-PC-MASTER/LandingPage_Repository | dev | f5ea74b | hotfix: added members personal img | Modificación archivo index.html | 06/09/2024 |
+| https://github.com/SI730-WS51-PC-MASTER/LandingPage_Repository | dev | 00745a3 | feat: update footer | Modificación archivo index.html | 07/09/2024 |
 
 <br>
 
@@ -1841,17 +1904,68 @@ Después de completar todos los pasos y realizar la configuración, y tras esper
 
 <!-- resumen que explique lo alcanzado en este Sprint y presenta screenshots de las principales vistas implementadas, junto con un enlace a un video que ilustre y explique la visualización y navegación logrados en este Sprint-->
 
+
+
 <br>
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+Hasta el momento, no se ha realizado ningún avance en la implementación de endpoints, por lo que no se incluye ningún detalle de documentación.
 
 <br>
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
+Durante el desarrollo del sprint, se llevaron a cabo las actividades correspondientes al despliegue. A continuación, se detallan estas actividades para cada producto específico:
+
+<h2> Landing Page </h2>
+
+Para lograr el despliegue de nuestra Landing Page, todo el equipo realizó las configuraciones necesarias en la plataforma GitHub, como se detalla a continuación:
+
+1. Cada integrante del equipo debió tener acceso a la plataforma GitHub mediante su cuenta personal.
+
+2. Un miembro del equipo fue responsable de crear una organización en GitHub, permitiendo que todos los miembros colaboraran en un entorno común y centralizado.
+
+3. Con la organización establecida, todos los miembros se unieron a ella a través de un correo de invitación.
+
+4. Dentro de la organización, se creó el repositorio "Documentation", donde se realizó la documentación inicial del proyecto utilizando Markdown.
+
+5. Se creó un repositorio específico para el desarrollo de la Landing Page dentro de la organización.
+
+6. Un miembro del equipo se encargó de subir todos los archivos iniciales necesarios para comenzar el desarrollo en el repositorio de la Landing Page, y también de verificar que contaba con los permisos de modificación del repositorio.
+
+7. Todos los miembros colaboraron en el desarrollo y la documentación en los repositorios correspondientes, respetando las convenciones establecidas.
+
+8. Una vez que el desarrollo alcanzó un estado avanzado, un miembro del equipo se encargó de realizar el despliegue de la Landing Page, siguiendo los pasos necesarios previamente detallados.
+
+<!--resume los procesos realizados en relación con Deployment
+durante este Sprint. La sección inicia con una introducción explicando qué se ha 
+realizado con respecto a despliegue durante este Sprint. Abarca actividades de 
+creación de cuentas, configuración de recursos en cloud providers, configuración de 
+proyectos de desarrollo para integración o automatización de labor de Deployment, 
+entre otros.-->
+
 <br>
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+<h2> Landing Page </h2>
+
++ Evidencias de participación en el repositorio de la Landing Page
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/diego5m/labtest/main/imgs-xd/LPP1.png" />
+</p>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/diego5m/labtest/main/imgs-xd/LPP2.png" />
+</p>
+
++ Evidencias de participación en el repositorio "Documentation"
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/diego5m/labtest/main/imgs-xd/DPC1.png" />
+</p>
 
 <br>
 
