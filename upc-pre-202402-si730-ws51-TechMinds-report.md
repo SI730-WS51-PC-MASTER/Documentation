@@ -1553,9 +1553,9 @@ Para la gestion del proyecto requerimos de una herramienta para la asignación d
             <td> https://developer.mozilla.org/es/docs/Web/JavaScript </td>
         </tr>
         <tr>
-            <td> IntelliJ IDEA </td>
-            <td> Entorno de desarrollo integrado (IDE) para la codificación de nuestro proyecto </td>
-            <td>https://www.jetbrains.com/idea/</td>
+            <td> WebStorm </td>
+            <td> Entorno de Desarrollo Integrado (IDE) que cada miembro del equipo debe tener instalado para modificar el código fuente de nuestro proyecto. </td>
+            <td> https://www.jetbrains.com/es-es/webstorm/ </td>
         </tr>
     </tbody>
 </table>
