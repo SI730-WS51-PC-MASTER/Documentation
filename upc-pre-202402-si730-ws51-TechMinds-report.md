@@ -2061,7 +2061,7 @@ Dentro de nuestra organización en GitHub, se encuentran los repositorios corres
         </tr>
         <tr>
             <td> Landing Page </td>
-            <td> <a href="https://github.com/SI730-WS51-PC-MASTER/LandingPage_Repository"> https://github.com/SI730-WS51-PC-MASTER/LandingPage_Repository </a> </td>
+            <td> <a href="https://github.com/SI730-WS51-PC-MASTER/Landing_Page"> https://github.com/SI730-WS51-PC-MASTER/Landing_Page </a> </td>
         </tr>
         <tr>
             <td> Web Services </td>
@@ -2314,13 +2314,13 @@ En este sprint, el objetivo principal fue desarrollar la Landing Page de nuestro
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
-| https://github.com/SI730-WS51-PC-MASTER/LandingPage_Repository | main | 9b2ec00 | Proyecto | Archivos para desarrollo | 03/09/2024 |
-| https://github.com/SI730-WS51-PC-MASTER/LandingPage_Repository | dev | 9b2ec00 | Proyecto | Archivos para desarrollo | 03/09/2024 |
-| https://github.com/SI730-WS51-PC-MASTER/LandingPage_Repository | dev | 30da18c | Add files via upload | Actualización de archivos | 05/09/2024 |
-| https://github.com/SI730-WS51-PC-MASTER/LandingPage_Repository | dev | 54bc759 | Update index.html | Actualización de archivo index.html | 06/09/2024 |
-| https://github.com/SI730-WS51-PC-MASTER/LandingPage_Repository | dev | 6b09c62 | docs: added deploy page link | Modificación archivo README.md | 06/09/2024 |
-| https://github.com/SI730-WS51-PC-MASTER/LandingPage_Repository | dev | f5ea74b | hotfix: added members personal img | Modificación archivo index.html | 06/09/2024 |
-| https://github.com/SI730-WS51-PC-MASTER/LandingPage_Repository | dev | 00745a3 | feat: update footer | Modificación archivo index.html | 07/09/2024 |
+| https://github.com/SI730-WS51-PC-MASTER/Landing_Page | main | 9b2ec00 | Proyecto | Archivos para desarrollo | 03/09/2024 |
+| https://github.com/SI730-WS51-PC-MASTER/Landing_Page | dev | 9b2ec00 | Proyecto | Archivos para desarrollo | 03/09/2024 |
+| https://github.com/SI730-WS51-PC-MASTER/Landing_Page | dev | 30da18c | Add files via upload | Actualización de archivos | 05/09/2024 |
+| https://github.com/SI730-WS51-PC-MASTER/Landing_Page | dev | 54bc759 | Update index.html | Actualización de archivo index.html | 06/09/2024 |
+| https://github.com/SI730-WS51-PC-MASTER/Landing_Page | dev | 6b09c62 | docs: added deploy page link | Modificación archivo README.md | 06/09/2024 |
+| https://github.com/SI730-WS51-PC-MASTER/Landing_Page | dev | f5ea74b | hotfix: added members personal img | Modificación archivo index.html | 06/09/2024 |
+| https://github.com/SI730-WS51-PC-MASTER/Landing_Page | dev | 00745a3 | feat: update footer | Modificación archivo index.html | 07/09/2024 |
 
 <br>
 
@@ -2328,7 +2328,7 @@ En este sprint, el objetivo principal fue desarrollar la Landing Page de nuestro
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
-| https://github.com/SI730-WS51-PC-MASTER/LandingPage_Repository |  |  |  |  |  |
+| https://github.com/SI730-WS51-PC-MASTER/Landing_Page |  |  |  |  |  |
 
 <br>
 
@@ -2433,6 +2433,7 @@ https://www.figma.com/design/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id
 ### 2. Mock-ups:
 https://www.figma.com/design/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=13-153&t=u5o54NWoIqikHmE5-1
 ### 3. Deployment:
+https://si730-ws51-pc-master.github.io/Landing_Page/
 
 ## Web Application Design
 ### 1. Wireframes:
