@@ -2401,6 +2401,18 @@ entre otros.-->
 
 <br>
 
+# Conclusiones
+## Conclusiones y recomendaciones
+
+1. Durante el desarrollo de la primera fase del proyecto, se llevaron a cabo varias actividades fundamentales de documentación. En primer lugar, se estableció nuestra organización en GitHub, donde se crearon los repositorios correspondientes a los productos que se elaborarán.
+En segundo lugar, se comenzó a trabajar en el repositorio de documentación, que alberga el archivo en formato Markdown en el cual se redactaron los capítulos correspondientes a esta entrega. El capítulo uno incluye la introducción al proyecto. El capítulo dos se centra en el análisis y la obtención de los requerimientos, en el cual se definieron los segmentos objetivos y se realizaron entrevistas a personas pertenecientes a cada segmento. A continuación, en el capítulo tres, se especificaron los requerimientos teniendo en cuenta cada segmento objetivo; en este capítulo, el equipo prestó especial atención a la elaboración de las user stories que guiarán el desarrollo del proyecto.
+En el capítulo cuatro, tras haber establecido los requisitos de los dos segmentos, se procedió al diseño del producto final, comenzando con la creación y desarrollo de la landing page como primer entregable. Finalmente, el capítulo cinco detalla las especificaciones técnicas relacionadas con las configuraciones necesarias para la creación de la landing page, así como para el desarrollo de todo el proyecto. Este capítulo concluye con la descripción del Sprint, que resume todas las tareas realizadas para la elaboración y finalización de la landing page, así como las coordinaciones que se realizaron en equipo.
+
+<br>
+
+# Bibliografía
+
+
 
 # Anexos
 
