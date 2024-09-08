@@ -189,7 +189,7 @@
 |---------------------------------|------------------------------------------------------------------------------------------------------|
 | Número de commits por autor     | [Imagen] |
 | Historial de cambios            | [![tiempo.png](https://i.postimg.cc/9MpfTS0V/tiempo.png)](https://postimg.cc/zby5YxTP)<br> [![tiempo-2.png](https://i.postimg.cc/bv6ywnBN/tiempo-2.png)](https://postimg.cc/8F6Qy7Gq)<br>[![tiempo-3.png](https://i.postimg.cc/8Pwn3bJ5/tiempo-3.png)](https://postimg.cc/rK0JRx9X)|
-| Distribución de trabajo         | [![RESPO.png](https://i.postimg.cc/qM5JXpv1/RESPO.png)](https://postimg.cc/hfVRKWxm)<br>[![respo-2.png](https://i.postimg.cc/NGRCkDGS/respo-2.png)](https://postimg.cc/t7CzXhxN)|
+| Distribución de trabajo         | [![responsabilidades.jpg](https://i.postimg.cc/BQMZpxCR/responsabilidades.jpg)](https://postimg.cc/crtN4t2c)|
 
 <br>
 
