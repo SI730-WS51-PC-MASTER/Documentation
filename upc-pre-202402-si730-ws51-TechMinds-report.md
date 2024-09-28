@@ -14,7 +14,7 @@
 
 ### **Docente:** Hugo Allan Mori Paiva
 
-#### TB1 REPORT
+#### TP REPORT
 
 ### Startup: TechMinds
 
@@ -32,7 +32,7 @@
 | Soriano Medrano, Diego | U202114793 |
 | Tello Murga, Javier Oswaldo | U202218387 |
 
-## Agosto Ciclo 2024-02
+## Setiembre Ciclo 2024-02
 
 <br>
 
@@ -42,7 +42,7 @@
 |---------|------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 | 1.0     | 26/08/2024 | - Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano| - Se redactó la descripción de la startup, los antecedentes y la problemática. Además, se desarrolló el Lean UX Process y se delimitó el segmento objetivo.<br>- Desarrollo del User Journey Mapping y Empathy Mapping.<br> - Adición de las primeras entrevistas de segmentos objetivos.|
 | 1.2     | 05/09/2024 |- Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego<br>-Tello Murga, Javier Oswaldo | - Desarrollo completo del capítulo 2.<br>- Cumplimiento de lo establecido a llegar con el capítulo 3.<br>- Capítulo 4 establecido y logrado.<br>- Avance del Sprint 1 (Primera versión de la Landing Page). |
-| 1.4     | xx/08/2024 | Apellido, Nombre | ... |
+| 1.4     | 27/09/2024 | - Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego| -Culminación del Sprint 1 (Mejora de la Landing Page) <br>- Avance del Sprint 2 (Primera versión del Frontend Desplegado) | 
 | 1.6     | xx/08/2024 | Apellido, Nombre | ... |
 | 1.8     | xx/08/2024 | Apellido, Nombre | ... |
 | 2.0     | xx/08/2024 | Apellido, Nombre | ... |
@@ -189,7 +189,7 @@
 |---------------------------------|------------------------------------------------------------------------------------------------------|
 | Número de commits por autor     | [Imagen] |
 | Historial de cambios            | [![tiempo.png](https://i.postimg.cc/9MpfTS0V/tiempo.png)](https://postimg.cc/zby5YxTP)<br> [![tiempo-2.png](https://i.postimg.cc/bv6ywnBN/tiempo-2.png)](https://postimg.cc/8F6Qy7Gq)<br>[![tiempo-3.png](https://i.postimg.cc/8Pwn3bJ5/tiempo-3.png)](https://postimg.cc/rK0JRx9X)|
-| Distribución de trabajo         | [![responsabilidades.jpg](https://i.postimg.cc/BQMZpxCR/responsabilidades.jpg)](https://postimg.cc/crtN4t2c)|
+| Distribución de trabajo         | [![responsabilidades.jpg](https://i.postimg.cc/BQMZpxCR/responsabilidades.jpg)](https://postimg.cc/crtN4t2c)[![cuadro.png](https://i.postimg.cc/SRLpRV1x/cuadro.png)](https://postimg.cc/xNdZFGSw)|
 
 <br>
 
@@ -210,8 +210,8 @@
 
 | Criterio específico| Acciones realizadas   | Conclusiones |
 |-------------------|------------------------|--------------|
-| **Trabaja en equipo para proporcionar <br> liderazgo en forma conjunta** | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> Identificó entornos de desarrollo colaborativo para poder trabajar de manera remota, manteniendo un siguimiento del avance. Para ello, se realizó el diseño de los wireframes y mockups en la herramienta Figma. <br>  <br>**Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> Empleó herramientas como Lucid Chart para los diagramas de clases y organizó la estructura del proyecto para guiar al equipo, así como la repartición de responsabilidades y plazos de acorde a la disponibilidad de cada miembro. <br>  <br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> Trabajó los gráficos del needfinding de manera colaborativa en UXPressia y colaboró con la redacción e identificación de criterios de aceptación. <br> *TP* <br> Se planificaron y colocaron las historias de usuario a desarrollar para este segundo sprint en la herramienta colaborativa Trello.  <br><br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> Elaboró el deployment de la landing page y el modelado de la base de datos. <br>  <br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> Empleó herramientas como Microsoft Visual Studio para la arquitectua de software y ayudó ha que todos los integrantes del grupo puedan analizar y criticar lo trabajado. <br><br>  |<br>El equipo mostró un alto nivel de colaboración y liderazgo compartido, utilizando diversas herramientas digitales para el desarrollo del proyecto de manera remota. La organización y distribución de tareas fue clave para el avance eficiente, aprovechando plataformas como Figma y Lucid Chart para el diseño y la planificación. Los miembros también destacaron en áreas técnicas como la implementación gráfica, la redacción de criterios de aceptación y la creación de la arquitectura de software, asegurando que todos los aspectos del proyecto estuvieran bien estructurados y revisados por el equipo. En conjunto, el trabajo en equipo permitió que cada miembro contribuyera a su área de especialización, promoviendo un entorno de colaboración y revisión crítica para el éxito del proyecto.<br><br> |
-| **Crea un entorno colaborativo e <br> inclusivo, establece metas, <br> planifica tareas y cumple <br> objetivos** | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> Se estableció un plan de desarrollo para la realización de tareas por sprint, siguiendo los principicios del Agile Development y la metodología Scrum. <br><br>**Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> Siguiendo lo enseñado en Diseño de Patrones de Software consiguió que de desarrolle de manera exitosa el Sprint número 1 liderando al equipo y establenciendo metas realistas. <br><br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> Se comunicaron los detalles de las historias de usuario y sus cambios para implementaciones relacionadas. <br> *TP* <br> Se comunicaron las historias de usuario que se van a implementar para el bounded context definido. Se planificaron las metas para el sprint número 2. Además se utilizó GitHub para las diferentes versiones del front-end. <br><br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> Estableció objetivos y reuniones estratégicas para cada avance relacionado a los capítulos de desarrollo. <br><br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> Se diseñó un plan de desarrollo para llevar a cabo las tareas, basándose en los principios clave del Desarrollo Ágil y la metodología Scrum.<br><br>  |<br>Se puede concluir que el trabajo en equipo y la coordinación para los tiempos de los entregables es clave para presentear un buen trabajo. Además, el equipo logró crear un entorno colaborativo e inclusivo siguiendo los principios del Desarrollo Ágil y la metodología Scrum. Se establecieron metas claras y realistas, planificando las tareas de manera efectiva y cumpliendo con los objetivos propuestos. La comunicación constante sobre las historias de usuario y sus cambios, junto con reuniones estratégicas para coordinar los avances, fueron esenciales para el éxito del proyecto. En conjunto, el enfoque estructurado y la coordinación eficiente en los tiempos de entrega permitieron que el trabajo se desarrollara de manera fluida y organizada.<br><br> |
+| **Trabaja en equipo para proporcionar <br> liderazgo en forma conjunta** | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> Identificó entornos de desarrollo colaborativo para poder trabajar de manera remota, manteniendo un siguimiento del avance. Para ello, se realizó el diseño de los wireframes y mockups en la herramienta Figma. <br>  <br>**Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> Empleó herramientas como Lucid Chart para los diagramas de clases y organizó la estructura del proyecto para guiar al equipo, así como la repartición de responsabilidades y plazos de acorde a la disponibilidad de cada miembro. <br>  <br> *TB2*<br> Se puso la manta de líder para poder diseñar y repartir los bounded context, separar estos en feats para un simple entendimiento para los miembros del equipo<br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> Trabajó los gráficos del needfinding de manera colaborativa en UXPressia y colaboró con la redacción e identificación de criterios de aceptación. <br> *TP* <br> Se planificaron y colocaron las historias de usuario a desarrollar para este segundo sprint en la herramienta colaborativa Trello.  <br><br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> Elaboró el deployment de la landing page y el modelado de la base de datos. <br>  <br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> Empleó herramientas como Microsoft Visual Studio para la arquitectua de software y ayudó ha que todos los integrantes del grupo puedan analizar y criticar lo trabajado. <br><br>  |<br>El equipo mostró un alto nivel de colaboración y liderazgo compartido, utilizando diversas herramientas digitales para el desarrollo del proyecto de manera remota. La organización y distribución de tareas fue clave para el avance eficiente, aprovechando plataformas como Figma y Lucid Chart para el diseño y la planificación. Los miembros también destacaron en áreas técnicas como la implementación gráfica, la redacción de criterios de aceptación y la creación de la arquitectura de software, asegurando que todos los aspectos del proyecto estuvieran bien estructurados y revisados por el equipo. En conjunto, el trabajo en equipo permitió que cada miembro contribuyera a su área de especialización, promoviendo un entorno de colaboración y revisión crítica para el éxito del proyecto.<br><br> |
+| **Crea un entorno colaborativo e <br> inclusivo, establece metas, <br> planifica tareas y cumple <br> objetivos** | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> Se estableció un plan de desarrollo para la realización de tareas por sprint, siguiendo los principicios del Agile Development y la metodología Scrum. <br><br>**Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> Siguiendo lo enseñado en Diseño de Patrones de Software consiguió que de desarrolle de manera exitosa el Sprint número 1 liderando al equipo y establenciendo metas realistas.<br>*TB2*<br>Propuso el uso de trello para poder repartir las tareas y responsabilidades del sprint 2, al haber tareas extras estás fueron fomentadas a ser tomadas por quien termine primero sus quehaceres del sprint 2.<br> <br><br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> Se comunicaron los detalles de las historias de usuario y sus cambios para implementaciones relacionadas. <br> *TP* <br> Se comunicaron las historias de usuario que se van a implementar para el bounded context definido. Se planificaron las metas para el sprint número 2. Además se utilizó GitHub para las diferentes versiones del front-end. <br><br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> Estableció objetivos y reuniones estratégicas para cada avance relacionado a los capítulos de desarrollo. <br><br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> Se diseñó un plan de desarrollo para llevar a cabo las tareas, basándose en los principios clave del Desarrollo Ágil y la metodología Scrum.<br><br>  |<br>Se puede concluir que el trabajo en equipo y la coordinación para los tiempos de los entregables es clave para presentear un buen trabajo. Además, el equipo logró crear un entorno colaborativo e inclusivo siguiendo los principios del Desarrollo Ágil y la metodología Scrum. Se establecieron metas claras y realistas, planificando las tareas de manera efectiva y cumpliendo con los objetivos propuestos. La comunicación constante sobre las historias de usuario y sus cambios, junto con reuniones estratégicas para coordinar los avances, fueron esenciales para el éxito del proyecto. En conjunto, el enfoque estructurado y la coordinación eficiente en los tiempos de entrega permitieron que el trabajo se desarrollara de manera fluida y organizada.<br><br> |
 
 
 
@@ -2416,6 +2416,283 @@ entre otros.-->
 </p>
 
 <br>
+
+### 5.2.2. Sprint 2
+#### 5.2.2.1.Sprint Planning 2.
+
+<table>
+    <thead>
+        <tr>
+            <td> Sprint # </td>
+            <td> Sprint 1 </td>
+        </tr>
+        <tr>
+            <td colspan="2"> Sprint Planning Background </td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> Date </td>
+            <td> 23/09/2024 </td>
+        </tr>
+        <tr>
+            <td> Time </td>
+            <td> 3:30 pm </td>
+        </tr>
+        <tr>
+            <td> Location </td>
+            <td> La reunión se realizó de forma virtual por la plataforma Discord </td>
+        </tr>
+        <tr>
+            <td> Prepared By </td>
+            <td> TechMinds </td>
+        </tr>
+        <tr>
+            <td> Attendees (to planning meeting) </td>
+            <td> Aranda Vallejos, Oscar Gabriel / Cantoral Sedamano, Alexander Alberto / Chirinos Zúñiga, Rodrigo Manuel / Soriano Medrano, Diego / Tello Murga, Javier Oswaldo </td>
+        </tr>
+        <tr>
+            <td> Sprint 1 Review Summary </td>
+            <td> Durante este sprint se pudo ver que se puede concretar distintas tareas en equipo. A su vez que se necesitan corregir algunos aspectos del sprint 1 en la Lading Page y las User Stories. </td>
+        </tr>
+        <tr>
+            <td> Sprint 1 Retrospective Summary </td>
+            <td> Todo el equipo necesita terminar de aprender el concepto de conventional commits, a su vez, necesita aprender a solucionar problemas que puedan surgir al hacer merge en github. Por último se necesitará de 2 reuniones semanales mínimo a partir de ahora. </td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td> Sprint 1 Goal </td>
+            <td>  Desarrollar una primera versión del Frontend </td>
+        </tr>
+        <tr>
+            <td> Sprint 1 Velocity </td>
+            <td>  Velocidad estimada de 69  puntos. La velocidad del equipo se calculó considerando la capacidad del equipo y los puntos de historia completados en sprints anteriores. </td>
+        </tr>
+        <tr>
+            <td> Sum of Story Points </td>
+            <td>  Se concluyeron 42 puntos de historia a las tareas completadas, lo que refleja el trabajo realizado para la primera versión del frontend </td>
+        </tr>
+    </tbody>
+</table>
+
+#### 5.2.2.2.Sprint Backlog 2.
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #2</td>
+            <td colspan="7">Sprint 2</td>
+        </tr>
+        <tr>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-Item / Task</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Description</td>
+            <td>Estimation (Hours)</td>
+            <td>Assigned To</td>
+            <td>Status (To-do / In-Process / To-Review / Done)</td>
+        </tr>
+        <!-- Fila de separación para US009 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US009</td>
+        </tr>
+        <tr>
+            <td>US009</td>
+            <td>Selección de componentes de PC</td>
+            <td>01</td>
+            <td>Implementar selección de componentes</td>
+            <td>Desarrollar la funcionalidad que permita seleccionar componentes de PC según las necesidades y presupuesto del usuario.</td>
+            <td>05</td>
+            <td>Cantoral Sedamano, Alexander Alberto</td>
+            <td>Done</td>
+        </tr>
+        <!-- Fila de separación para US010 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US010</td>
+        </tr>
+        <tr>
+            <td>US010</td>
+            <td>Filtro de búsqueda de componentes</td>
+            <td>01</td>
+            <td>Implementar filtro de búsqueda</td>
+            <td>Permitir que el usuario filtre por tareas, programas, presupuesto y otros factores para obtener recomendaciones específicas.</td>
+            <td>05</td>
+            <td>Cantoral Sedamano, Alexander Alberto</td>
+            <td>Done</td>
+        </tr>
+        <!-- Fila de separación para US011 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US011</td>
+        </tr>
+        <tr>
+            <td>US011</td>
+            <td>Palabras clave para selección de componentes</td>
+            <td>01</td>
+            <td>Implementar búsqueda por palabras clave</td>
+            <td>Desarrollar la funcionalidad de búsqueda por palabras clave para que los usuarios encuentren componentes específicos.</td>
+            <td>03</td>
+            <td>Cantoral Sedamano, Alexander Alberto</td>
+            <td>In-Progress</td>
+        </tr>
+        <!-- Fila de separación para US012 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US012</td>
+        </tr>
+        <tr>
+            <td>US012</td>
+            <td>Carrito de compras</td>
+            <td>01</td>
+            <td>Implementar carrito de compras</td>
+            <td>Permitir al usuario agregar componentes al carrito de compras para revisarlos antes de realizar la compra.</td>
+            <td>05</td>
+            <td>Assigned To</td>
+            <td>Status</td>
+        </tr>
+        <!-- Fila de separación para US013 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US013</td>
+        </tr>
+        <tr>
+            <td>US013</td>
+            <td>Listas de deseos</td>
+            <td>01</td>
+            <td>Implementar lista de deseos</td>
+            <td>Permitir que el usuario guarde componentes en una lista de deseos para considerarlos en futuras compras.</td>
+            <td>03</td>
+            <td>Assigned To</td>
+            <td>Status</td>
+        </tr>
+        <!-- Fila de separación para US014 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US014</td>
+        </tr>
+        <tr>
+            <td>US014</td>
+            <td>Guía técnica en un entorno colaborativo virtual</td>
+            <td>01</td>
+            <td>Desarrollar guía técnica</td>
+            <td>Implementar una guía técnica en un entorno colaborativo para diagnosticar problemas de hardware o software.</td>
+            <td>08</td>
+            <td>Assigned To</td>
+            <td>Status</td>
+        </tr>
+        <!-- Fila de separación para US015 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US015</td>
+        </tr>
+        <tr>
+            <td>US015</td>
+            <td>Consultas ilimitadas</td>
+            <td>01</td>
+            <td>Implementar consultas técnicas ilimitadas</td>
+            <td>Permitir a los usuarios premium acceder a consultas técnicas ilimitadas para resolver sus dudas rápidamente.</td>
+            <td>05</td>
+            <td>Assigned To</td>
+            <td>Status</td>
+        </tr>
+        <!-- Fila de separación para US016 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US016</td>
+        </tr>
+        <tr>
+            <td>US016</td>
+            <td>Capacitación personalizada</td>
+            <td>01</td>
+            <td>Implementar capacitación personalizada</td>
+            <td>Desarrollar la funcionalidad para que los usuarios reciban capacitación personalizada sobre el uso de componentes y mantenimiento de PCs.</td>
+            <td>08</td>
+            <td>Assigned To</td>
+            <td>Status</td>
+        </tr>
+        <!-- Fila de separación para US017 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US017</td>
+        </tr>
+        <tr>
+            <td>US017</td>
+            <td>Solicitud de soporte técnico de forma virtual</td>
+            <td>01</td>
+            <td>Implementar soporte técnico virtual</td>
+            <td>Permitir al usuario solicitar soporte técnico virtual para resolver problemas desde casa.</td>
+            <td>05</td>
+            <td>Assigned To</td>
+            <td>Status</td>
+        </tr>
+        <!-- Fila de separación para US018 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US018</td>
+        </tr>
+        <tr>
+            <td>US018</td>
+            <td>Soporte técnico a domicilio</td>
+            <td>01</td>
+            <td>Implementar soporte a domicilio</td>
+            <td>Permitir a los usuarios premium solicitar soporte técnico a domicilio para recibir ayuda en persona.</td>
+            <td>08</td>
+            <td>Assigned To</td>
+            <td>Status</td>
+        </tr>
+        <!-- Fila de separación para US019 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US019</td>
+        </tr>
+        <tr>
+            <td>US019</td>
+            <td>Soporte prioritario</td>
+            <td>01</td>
+            <td>Implementar soporte prioritario</td>
+            <td>Permitir a los usuarios premium recibir soporte prioritario para solucionar problemas rápidamente.</td>
+            <td>08</td>
+            <td>Assigned To</td>
+            <td>Status</td>
+        </tr>
+        <!-- Fila de separación para US020 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US020</td>
+        </tr>
+        <tr>
+            <td>US020</td>
+            <td>Mantenimiento preventivo</td>
+            <td>01</td>
+            <td>Implementar mantenimiento preventivo</td>
+            <td>Permitir al usuario solicitar mantenimiento preventivo para asegurar el correcto funcionamiento de su equipo.</td>
+            <td>05</td>
+            <td>Assigned To</td>
+            <td>Status</td>
+        </tr>
+        <!-- Fila de separación para US021 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US021</td>
+        </tr>
+        <tr>
+            <td>US021</td>
+            <td>Reseña y valoración de componentes</td>
+            <td>01</td>
+            <td>Implementar reseñas de componentes</td>
+            <td>Desarrollar la funcionalidad para que los usuarios dejen reseñas y valoraciones de los componentes adquiridos.</td>
+            <td>03</td>
+            <td>Assigned To</td>
+            <td>Status</td>
+        </tr>
+    </tbody>
+</table>
+
+
+#### 5.2.2.3.Development Evidence for Sprint Review.
+#### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+#### 5.2.2.5.Execution Evidence for Sprint Review.
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+#### 5.2.2.8.Team Collaboration Insights during Sprint
 
 # Conclusiones
 ## Conclusiones y recomendaciones
