@@ -187,9 +187,9 @@
 
 | Métrica                         | Descripción                                                                                          |
 |---------------------------------|------------------------------------------------------------------------------------------------------|
-| Número de commits por autor     | [Imagen] |
-| Historial de cambios            | [![tiempo.png](https://i.postimg.cc/9MpfTS0V/tiempo.png)](https://postimg.cc/zby5YxTP)<br> [![tiempo-2.png](https://i.postimg.cc/bv6ywnBN/tiempo-2.png)](https://postimg.cc/8F6Qy7Gq)<br>[![tiempo-3.png](https://i.postimg.cc/8Pwn3bJ5/tiempo-3.png)](https://postimg.cc/rK0JRx9X)|
-| Distribución de trabajo         | [![responsabilidades.jpg](https://i.postimg.cc/BQMZpxCR/responsabilidades.jpg)](https://postimg.cc/crtN4t2c)[![cuadro.png](https://i.postimg.cc/SRLpRV1x/cuadro.png)](https://postimg.cc/xNdZFGSw)|
+| Número de commits por autor     | ![tiempo.png](https://raw.githubusercontent.com/diego5m/labtest/refs/heads/main/apps-web-images/WEB-Pruebas-1.png) |
+| Historial de cambios            | ![tiempo.png](https://raw.githubusercontent.com/diego5m/labtest/refs/heads/main/apps-web-images/WEB-Pruebas-2.png)|
+| Distribución de trabajo         | ![tiempo.png](https://raw.githubusercontent.com/diego5m/labtest/refs/heads/main/apps-web-images/WEB-Pruebas-3.png)|
 
 <br>
 
