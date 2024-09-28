@@ -2669,19 +2669,8 @@ entre otros.-->
             <td>Assigned To</td>
             <td>Status</td>
         </tr>
-        <!-- Fila de separación para US021 -->
         <tr>
             <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US021</td>
-        </tr>
-        <tr>
-            <td>US021</td>
-            <td>Reseña y valoración de componentes</td>
-            <td>01</td>
-            <td>Implementar reseñas de componentes</td>
-            <td>Desarrollar la funcionalidad para que los usuarios dejen reseñas y valoraciones de los componentes adquiridos.</td>
-            <td>03</td>
-            <td>Assigned To</td>
-            <td>Status</td>
         </tr>
     </tbody>
 </table>
