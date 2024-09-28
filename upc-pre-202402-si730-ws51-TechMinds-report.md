@@ -2686,9 +2686,31 @@ entre otros.-->
     </tbody>
 </table>
 
-
 #### 5.2.2.3.Development Evidence for Sprint Review.
+
+<h2> Frontend </h2>
+
+Se logró conseguir una primera versión del frontend deployeado y este mismo presenta algunos problemas pero tiene el mvp para ser presentada la idea.
+
+<br>
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend| dev |b05015d| feat: Stable version |- | 27/09/24 |
+|https://github.com/SI730-WS51-PC-MASTER/Frontend | dev | c25cb03|feat: add language configurations|-|27/09/24|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend| dev  |afa2b09| feat: not found component|- | 27/09/24|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend|dev|b14bbc4|feat: update toolbar| - |27/09/24
+|https://github.com/SI730-WS51-PC-MASTER/Frontend|feat/components|b300b8b|feat: Filters almost complete|TODO: Category and subcategory filter|27/09/24
+|https://github.com/SI730-WS51-PC-MASTER/Frontend|dev| 38faa89|feat: components added to dev|Fully functional|27/09/24|
+
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+| https://github.com/SI730-WS51-PC-MASTER/Testing | dev | 56584df50dfe2d15a8a5ba22b450da31697fa25e| US for components bounded context | Us for components frontend | 24/09/24 |
+| https://github.com/SI730-WS51-PC-MASTER/Testing | dev |9342793e1ddee73ccb28bf0740eec98a8d9cd8d9| docs: US for interaction bounded context| - |26/09/24|
+| https://github.com/SI730-WS51-PC-MASTER/Testing | dev |8a4bfa9f677444220ffd47207333ffb1987ff1c8| docs: US for technical support bounded context | - |27/09/24| 
+
 #### 5.2.2.5.Execution Evidence for Sprint Review.
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
