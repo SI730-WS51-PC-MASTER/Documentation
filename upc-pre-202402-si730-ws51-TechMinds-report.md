@@ -2344,7 +2344,7 @@ En este sprint, el objetivo principal fue desarrollar la Landing Page de nuestro
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
-| https://github.com/SI730-WS51-PC-MASTER/Landing_Page |  |  |  |  |  |
+| https://github.com/SI730-WS51-PC-MASTER/Landing_Page | dev | 04525d713ce8eb738118140461dd9195a7bb5537 | docs: update landing page link | - | Sep 8, 2024 |
 
 <br>
 
