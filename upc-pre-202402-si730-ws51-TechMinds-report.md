@@ -2472,7 +2472,7 @@ entre otros.-->
         </tr>
         <tr>
             <td> Sum of Story Points </td>
-            <td>  Se concluyeron 42 puntos de historia a las tareas completadas, lo que refleja el trabajo realizado para la primera versión del frontend </td>
+            <td>  Se concluyeron 58 puntos de historia a las tareas completadas, lo que refleja el trabajo realizado para la primera versión del frontend </td>
         </tr>
     </tbody>
 </table>
@@ -2511,7 +2511,7 @@ entre otros.-->
             <td>01</td>
             <td>Implementar selección de componentes</td>
             <td>Desarrollar la funcionalidad que permita seleccionar componentes de PC según las necesidades y presupuesto del usuario.</td>
-            <td>05</td>
+            <td>02</td>
             <td>Cantoral Sedamano, Alexander Alberto</td>
             <td>Done</td>
         </tr>
@@ -2525,7 +2525,7 @@ entre otros.-->
             <td>01</td>
             <td>Implementar filtro de búsqueda</td>
             <td>Permitir que el usuario filtre por tareas, programas, presupuesto y otros factores para obtener recomendaciones específicas.</td>
-            <td>05</td>
+            <td>02</td>
             <td>Cantoral Sedamano, Alexander Alberto</td>
             <td>Done</td>
         </tr>
@@ -2705,6 +2705,9 @@ Se logró conseguir una primera versión del frontend deployeado y este mismo pr
 |https://github.com/SI730-WS51-PC-MASTER/Frontend|dev|b14bbc4|feat: update toolbar| - |27/09/24
 |https://github.com/SI730-WS51-PC-MASTER/Frontend|feat/components|b300b8b|feat: Filters almost complete|TODO: Category and subcategory filter|27/09/24
 |https://github.com/SI730-WS51-PC-MASTER/Frontend|dev| 38faa89|feat: components added to dev|Fully functional|27/09/24|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend|feat/interaction| 0786648| feat: Update interaction|-|27/09/24|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend |feat/interaction |af5bb05| feat: interactions| - |27/09/24|
+
 
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review.
 
