@@ -2737,8 +2737,8 @@ Para este sprint 2 se hará el desployement usando Firebase siguiendo los siguen
 
 1. **Creación de la cuenta en Firebase**
    - Se creó una cuenta en Firebase para alojar la aplicación. Para esto, se accedió a [firebase.google.com](https://firebase.google.com/) y se configuró un nuevo proyecto dentro de Firebase Console.
-   - [![2.png](https://i.postimg.cc/0QrLhnVs/2.png)](https://postimg.cc/S2FTM60T)
-
+   - [![Captura-de-pantalla-2024-09-28-022832.png](https://i.postimg.cc/d0Kfm1N2/Captura-de-pantalla-2024-09-28-022832.png)](https://postimg.cc/4YBwXJgy)
+        
 2. **Configuración del proyecto Vue**
    - Dentro del proyecto Vue, se instaló la CLI de Firebase ejecutando:
      ```bash
