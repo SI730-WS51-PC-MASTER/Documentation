@@ -2712,9 +2712,53 @@ Se logró conseguir una primera versión del frontend deployeado y este mismo pr
 | https://github.com/SI730-WS51-PC-MASTER/Testing | dev |8a4bfa9f677444220ffd47207333ffb1987ff1c8| docs: US for technical support bounded context | - |27/09/24| 
 
 #### 5.2.2.5.Execution Evidence for Sprint Review.
+
+Para este sprint pudimos concretar una primera versión del Frontend de la aplicación web. A su vez se pudo hacer una mejora del documentación del sprint anterior y se pudo reflexionar de los errores del mismo.
+
+Link del vídeo explicativo: 
+
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+
+Hasta el momento, no se ha realizado ningún avance en la implementación de endpoints, por lo que no se incluye ningún detalle de documentación.
+
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
+Para este sprint 2 se hará el desployement usando Firebase siguiendo los siguentes pasos:
+
+1. **Creación de la cuenta en Firebase**
+   - Se creó una cuenta en Firebase para alojar la aplicación. Para esto, se accedió a [firebase.google.com](https://firebase.google.com/) y se configuró un nuevo proyecto dentro de Firebase Console.
+   - [![2.png](https://i.postimg.cc/0QrLhnVs/2.png)](https://postimg.cc/S2FTM60T)
+
+2. **Configuración del proyecto Vue**
+   - Dentro del proyecto Vue, se instaló la CLI de Firebase ejecutando:
+     ```bash
+     npm install -g firebase-tools
+     ```
+   - Luego, se inicializó Firebase Hosting en el proyecto mediante:
+     ```bash
+     firebase init
+     ```
+   - Se seleccionó Firebase Hosting como la herramienta de despliegue, vinculando el proyecto de Firebase con el código de la aplicación.
+
+3. **Build del proyecto Vue**
+   - Para generar los archivos listos para el despliegue, se ejecutó el comando:
+     ```bash
+    
+     ```
+   - Este comando generó la carpeta `/dist`, que contiene los archivos estáticos que Firebase utilizará para el hosting.
+   - 
+4. **Despliegue en Firebase Hosting**
+   - Una vez generado el build, se ejecutó el comando:
+     ```bash
+     firebase deploy
+     ```
+   - Este comando subió el contenido del directorio `/dist` a Firebase Hosting, haciendo que la aplicación esté disponible en la web.
+
 #### 5.2.2.8.Team Collaboration Insights during Sprint
+
+<h2> Frontend</h2>
+
++ Evidencias de participación en el repositorio de la Frontend
 
 # Conclusiones
 ## Conclusiones y recomendaciones
@@ -2722,6 +2766,8 @@ Se logró conseguir una primera versión del frontend deployeado y este mismo pr
 1. Durante el desarrollo de la primera fase del proyecto, se llevaron a cabo varias actividades fundamentales de documentación. En primer lugar, se estableció nuestra organización en GitHub, donde se crearon los repositorios correspondientes a los productos que se elaborarán.
 En segundo lugar, se comenzó a trabajar en el repositorio de documentación, que alberga el archivo en formato Markdown en el cual se redactaron los capítulos correspondientes a esta entrega. El capítulo uno incluye la introducción al proyecto. El capítulo dos se centra en el análisis y la obtención de los requerimientos, en el cual se definieron los segmentos objetivos y se realizaron entrevistas a personas pertenecientes a cada segmento. A continuación, en el capítulo tres, se especificaron los requerimientos teniendo en cuenta cada segmento objetivo; en este capítulo, el equipo prestó especial atención a la elaboración de las user stories que guiarán el desarrollo del proyecto.
 En el capítulo cuatro, tras haber establecido los requisitos de los dos segmentos, se procedió al diseño del producto final, comenzando con la creación y desarrollo de la landing page como primer entregable. Finalmente, el capítulo cinco detalla las especificaciones técnicas relacionadas con las configuraciones necesarias para la creación de la landing page, así como para el desarrollo de todo el proyecto. Este capítulo concluye con la descripción del Sprint, que resume todas las tareas realizadas para la elaboración y finalización de la landing page, así como las coordinaciones que se realizaron en equipo.
+
+2.
 
 <br>
 
@@ -2733,14 +2779,23 @@ En el capítulo cuatro, tras haber establecido los requisitos de los dos segment
 
 ## Exposición
 - TB1: https://acortar.link/mLDYSp
+- TB2: 
 
 ## Entrevistas
 https://acortar.link/LWUrOB 
+
+
+## Deployment:
+
+* [Landing Page Desplegada](https://si730-ws51-pc-master.github.io/Landing_Page/)
+* [Frontend Desplegado]()
 
 ## Repositories
 * [PC Master - Organization](https://github.com/SI730-WS51-PC-MASTER)
 * [PC Master - Landing Page](https://github.com/SI730-WS51-PC-MASTER/Landing_Page)
 * [PC Master - Documentation](https://github.com/SI730-WS51-PC-MASTER/Documentation)
+* [PC Master -Testing](https://github.com/SI730-WS51-PC-MASTER/Testing)
+* [PC Master - Frontend](https://github.com/SI730-WS51-PC-MASTER/Frontend)
 
 ## Landing Page Design
 ### 1. Wireframes:
