@@ -2721,7 +2721,7 @@ Se logró conseguir una primera versión del frontend deployeado y este mismo pr
 
 Para este sprint pudimos concretar una primera versión del Frontend de la aplicación web. A su vez se pudo hacer una mejora del documentación del sprint anterior y se pudo reflexionar de los errores del mismo.
 
-Link del vídeo explicativo: 
+Link del vídeo explicativo: https://acortar.link/5xsWsq
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
@@ -2760,11 +2760,19 @@ Para este sprint 2 se hará el desployement usando Firebase siguiendo los siguen
      ```
    - Este comando subió el contenido del directorio `/dist` a Firebase Hosting, haciendo que la aplicación esté disponible en la web.
 
+   * [Frontend Desplegado](https://tp-pcmaster.web.app/home)
+
 #### 5.2.2.8.Team Collaboration Insights during Sprint
 
 <h2> Frontend</h2>
 
 + Evidencias de participación en el repositorio de la Frontend
+
+[![pulse.png](https://i.postimg.cc/sXDtpBrp/pulse.png)](https://postimg.cc/xkhxQ1qC)
+
+[![Contributors.png](https://i.postimg.cc/VLD4C7NH/Contributors.png)](https://postimg.cc/hfQ9F1T9)
+
+[![network.png](https://i.postimg.cc/zXgXLQpq/network.png)](https://postimg.cc/nCntg06W)
 
 # Conclusiones
 ## Conclusiones y recomendaciones
@@ -2773,7 +2781,7 @@ Para este sprint 2 se hará el desployement usando Firebase siguiendo los siguen
 En segundo lugar, se comenzó a trabajar en el repositorio de documentación, que alberga el archivo en formato Markdown en el cual se redactaron los capítulos correspondientes a esta entrega. El capítulo uno incluye la introducción al proyecto. El capítulo dos se centra en el análisis y la obtención de los requerimientos, en el cual se definieron los segmentos objetivos y se realizaron entrevistas a personas pertenecientes a cada segmento. A continuación, en el capítulo tres, se especificaron los requerimientos teniendo en cuenta cada segmento objetivo; en este capítulo, el equipo prestó especial atención a la elaboración de las user stories que guiarán el desarrollo del proyecto.
 En el capítulo cuatro, tras haber establecido los requisitos de los dos segmentos, se procedió al diseño del producto final, comenzando con la creación y desarrollo de la landing page como primer entregable. Finalmente, el capítulo cinco detalla las especificaciones técnicas relacionadas con las configuraciones necesarias para la creación de la landing page, así como para el desarrollo de todo el proyecto. Este capítulo concluye con la descripción del Sprint, que resume todas las tareas realizadas para la elaboración y finalización de la landing page, así como las coordinaciones que se realizaron en equipo.
 
-2.
+2. La mejora de la landing page de PC Master, que incluyó la adición de una sección de "Get Contact" y el deployment del front end en su primera versión utilizando Firebase como hosting, ha resultado en una experiencia de usuario más interactiva y accesible. Esta nueva sección facilita la comunicación directa con los usuarios, aumentando las oportunidades de conversión y satisfacción del cliente. Las historias de usuario especificadas en Trello y en el sprint backlog fueron fundamentales para guiar el desarrollo, asegurando que cada funcionalidad respondiera a las necesidades de los usuarios. En conjunto, estas mejoras no solo fortalecen la presencia en línea de PC Master, sino que también sientan las bases para futuras optimizaciones y un crecimiento continuo en la interacción con nuestros clientes.
 
 <br>
 
@@ -2794,7 +2802,7 @@ https://acortar.link/LWUrOB
 ## Deployment:
 
 * [Landing Page Desplegada](https://si730-ws51-pc-master.github.io/Landing_Page/)
-* [Frontend Desplegado]()
+* [Frontend Desplegado](https://tp-pcmaster.web.app/home)
 
 ## Repositories
 * [PC Master - Organization](https://github.com/SI730-WS51-PC-MASTER)
