@@ -2350,9 +2350,9 @@ En este sprint, el objetivo principal fue desarrollar la Landing Page de nuestro
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
-<!-- resumen que explique lo alcanzado en este Sprint y presenta screenshots de las principales vistas implementadas, junto con un enlace a un video que ilustre y explique la visualización y navegación logrados en este Sprint-->
+Para este sprint se logró concretar una Landing Page y a su vez el needfinding y product backlog para el proyecto.
 
-
+Link explicatorio de LP: https://acortar.link/JRxnWD
 
 <br>
 
@@ -2689,6 +2689,8 @@ entre otros.-->
     </tbody>
 </table>
 
+Link del trello: https://trello.com/invite/b/66f243fd0433160e17be80f8/ATTIc6f98dbb8712c9937407cb928969c19f324C2624/si730-2402-ws51-grupo-2
+
 #### 5.2.2.3.Development Evidence for Sprint Review.
 
 <h2> Frontend </h2>
@@ -2793,7 +2795,7 @@ En el capítulo cuatro, tras haber establecido los requisitos de los dos segment
 
 ## Exposición
 - TB1: https://acortar.link/mLDYSp
-- TP: 
+- TP: https://acortar.link/g5oSSt
 
 ## Entrevistas
 https://acortar.link/LWUrOB 
