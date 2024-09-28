@@ -14,7 +14,7 @@
 
 ### **Docente:** Hugo Allan Mori Paiva
 
-#### TB1 REPORT
+#### TP REPORT
 
 ### Startup: TechMinds
 
@@ -32,7 +32,7 @@
 | Soriano Medrano, Diego | U202114793 |
 | Tello Murga, Javier Oswaldo | U202218387 |
 
-## Agosto Ciclo 2024-02
+## Setiembre Ciclo 2024-02
 
 <br>
 
@@ -42,7 +42,7 @@
 |---------|------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 | 1.0     | 26/08/2024 | - Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano| - Se redactó la descripción de la startup, los antecedentes y la problemática. Además, se desarrolló el Lean UX Process y se delimitó el segmento objetivo.<br>- Desarrollo del User Journey Mapping y Empathy Mapping.<br> - Adición de las primeras entrevistas de segmentos objetivos.|
 | 1.2     | 05/09/2024 |- Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego<br>-Tello Murga, Javier Oswaldo | - Desarrollo completo del capítulo 2.<br>- Cumplimiento de lo establecido a llegar con el capítulo 3.<br>- Capítulo 4 establecido y logrado.<br>- Avance del Sprint 1 (Primera versión de la Landing Page). |
-| 1.4     | xx/08/2024 | Apellido, Nombre | ... |
+| 1.4     | 27/09/2024 | - Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego| -Culminación del Sprint 1 (Mejora de la Landing Page) <br>- Avance del Sprint 2 (Primera versión del Frontend Desplegado) | 
 | 1.6     | xx/08/2024 | Apellido, Nombre | ... |
 | 1.8     | xx/08/2024 | Apellido, Nombre | ... |
 | 2.0     | xx/08/2024 | Apellido, Nombre | ... |
@@ -187,9 +187,11 @@
 
 | Métrica                         | Descripción                                                                                          |
 |---------------------------------|------------------------------------------------------------------------------------------------------|
-| Número de commits por autor     | [![commits.png](https://i.postimg.cc/4d3rmrjd/commits.png)](https://postimg.cc/Z91fQDbt) |
+| Número de commits por autor     | ![tiempo.png](https://raw.githubusercontent.com/diego5m/labtest/refs/heads/main/apps-web-images/WEB-Pruebas-1.png) |
+| Historial de cambios            | ![tiempo.png](https://raw.githubusercontent.com/diego5m/labtest/refs/heads/main/apps-web-images/WEB-Pruebas-2.png)|
 | Historial de cambios            | [![tiempo.png](https://i.postimg.cc/9MpfTS0V/tiempo.png)](https://postimg.cc/zby5YxTP)<br> [![tiempo-2.png](https://i.postimg.cc/bv6ywnBN/tiempo-2.png)](https://postimg.cc/8F6Qy7Gq)<br>[![tiempo-3.png](https://i.postimg.cc/8Pwn3bJ5/tiempo-3.png)](https://postimg.cc/rK0JRx9X)|
 | Distribución de trabajo         | [![responsabilidades.jpg](https://i.postimg.cc/BQMZpxCR/responsabilidades.jpg)](https://postimg.cc/crtN4t2c)|
+
 
 <br>
 
@@ -210,8 +212,8 @@
 
 | Criterio específico| Acciones realizadas   | Conclusiones |
 |-------------------|------------------------|--------------|
-| **Trabaja en equipo para proporcionar <br> liderazgo en forma conjunta** | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> Identificó entornos de desarrollo colaborativo para poder trabajar de manera remota, manteniendo un siguimiento del avance. Para ello, se realizó el diseño de los wireframes y mockups en la herramienta Figma. <br>  <br>**Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> Empleó herramientas como Lucid Chart para los diagramas de clases y organizó la estructura del proyecto para guiar al equipo, así como la repartición de responsabilidades y plazos de acorde a la disponibilidad de cada miembro. <br>  <br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> Trabajó los gráficos del needfinding de manera colaborativa en UXPressia y colaboró con la redacción e identificación de criterios de aceptación. <br>  <br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> Elaboró el deployment de la landing page y el modelado de la base de datos. <br>  <br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> Empleó herramientas como Microsoft Visual Studio para la arquitectua de software y ayudó ha que todos los integrantes del grupo puedan analizar y criticar lo trabajado. <br><br>  |<br>El equipo mostró un alto nivel de colaboración y liderazgo compartido, utilizando diversas herramientas digitales para el desarrollo del proyecto de manera remota. La organización y distribución de tareas fue clave para el avance eficiente, aprovechando plataformas como Figma y Lucid Chart para el diseño y la planificación. Los miembros también destacaron en áreas técnicas como la implementación gráfica, la redacción de criterios de aceptación y la creación de la arquitectura de software, asegurando que todos los aspectos del proyecto estuvieran bien estructurados y revisados por el equipo. En conjunto, el trabajo en equipo permitió que cada miembro contribuyera a su área de especialización, promoviendo un entorno de colaboración y revisión crítica para el éxito del proyecto.<br><br> |
-| **Crea un entorno colaborativo e <br> inclusivo, establece metas, <br> planifica tareas y cumple <br> objetivos** | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> Se estableció un plan de desarrollo para la realización de tareas por sprint, siguiendo los principicios del Agile Development y la metodología Scrum. <br><br>**Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> Siguiendo lo enseñado en Diseño de Patrones de Software consiguió que de desarrolle de manera exitosa el Sprint número 1 liderando al equipo y establenciendo metas realistas. <br><br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> Se comunicaron los detalles de las historias de usuario y sus cambios para implementaciones relacionadas. <br><br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> Estableció objetivos y reuniones estratégicas para cada avance relacionado a los capítulos de desarrollo. <br><br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> Se diseñó un plan de desarrollo para llevar a cabo las tareas, basándose en los principios clave del Desarrollo Ágil y la metodología Scrum.<br><br>  |<br>Se puede concluir que el trabajo en equipo y la coordinación para los tiempos de los entregables es clave para presentear un buen trabajo. Además, el equipo logró crear un entorno colaborativo e inclusivo siguiendo los principios del Desarrollo Ágil y la metodología Scrum. Se establecieron metas claras y realistas, planificando las tareas de manera efectiva y cumpliendo con los objetivos propuestos. La comunicación constante sobre las historias de usuario y sus cambios, junto con reuniones estratégicas para coordinar los avances, fueron esenciales para el éxito del proyecto. En conjunto, el enfoque estructurado y la coordinación eficiente en los tiempos de entrega permitieron que el trabajo se desarrollara de manera fluida y organizada.<br><br> |
+| **Trabaja en equipo para proporcionar <br> liderazgo en forma conjunta** | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> Identificó entornos de desarrollo colaborativo para poder trabajar de manera remota, manteniendo un siguimiento del avance. Para ello, se realizó el diseño de los wireframes y mockups en la herramienta Figma. <br> *TP*<br> Utilizó las historias de usuario desarrolladas por el equipo para iniicar el desarrollo del front end y la adhesión de la vista de los técnicos mejor valorados. <br><br>**Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> Empleó herramientas como Lucid Chart para los diagramas de clases y organizó la estructura del proyecto para guiar al equipo, así como la repartición de responsabilidades y plazos de acorde a la disponibilidad de cada miembro. <br> *TP*<br> Se puso la manta de líder para poder diseñar y repartir los bounded context, separar estos en feats para un simple entendimiento para los miembros del equipo<br><br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> Trabajó los gráficos del needfinding de manera colaborativa en UXPressia y colaboró con la redacción e identificación de criterios de aceptación. <br> *TP* <br> Se planificaron y colocaron las historias de usuario a desarrollar para este segundo sprint en la herramienta colaborativa Trello.  <br><br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> Elaboró el deployment de la landing page y el modelado de la base de datos. <br> *TP* <br> Para el desarrollo de esta sección del trabajo, todos los miembros del equipo se organizaron de manera efectiva con el fin de cumplir los objetivos establecidos, contribuyendo cada uno desde su propia perspectiva. <br> <br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> Empleó herramientas como Microsoft Visual Studio para la arquitectua de software y ayudó ha que todos los integrantes del grupo puedan analizar y criticar lo trabajado. <br><br>  |<br>El equipo mostró un alto nivel de colaboración y liderazgo compartido, utilizando diversas herramientas digitales para el desarrollo del proyecto de manera remota. La organización y distribución de tareas fue clave para el avance eficiente, aprovechando plataformas como Figma y Lucid Chart para el diseño y la planificación. Los miembros también destacaron en áreas técnicas como la implementación gráfica, la redacción de criterios de aceptación y la creación de la arquitectura de software, asegurando que todos los aspectos del proyecto estuvieran bien estructurados y revisados por el equipo. En conjunto, el trabajo en equipo permitió que cada miembro contribuyera a su área de especialización, promoviendo un entorno de colaboración y revisión crítica para el éxito del proyecto.<br><br> |
+| **Crea un entorno colaborativo e <br> inclusivo, establece metas, <br> planifica tareas y cumple <br> objetivos** | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> Se estableció un plan de desarrollo para la realización de tareas por sprint, siguiendo los principicios del Agile Development y la metodología Scrum. <br> *TP* <br> Utilizó el trello para comunicar los avances del frontend, la implementación satisfactoria de determinadas funcionalidades y la cancelación de aquellas que no fueron seleccionadas para el sprint. <br><br>**Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> Siguiendo lo enseñado en Diseño de Patrones de Software consiguió que de desarrolle de manera exitosa el Sprint número 1 liderando al equipo y establenciendo metas realistas.<br>*TP*<br>Propuso el uso de trello para poder repartir las tareas y responsabilidades del sprint 2, al haber tareas extras estás fueron fomentadas a ser tomadas por quien termine primero sus quehaceres del sprint 2.<br> <br><br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> Se comunicaron los detalles de las historias de usuario y sus cambios para implementaciones relacionadas. <br> *TP* <br> Se comunicaron las historias de usuario que se van a implementar para el bounded context definido. Se planificaron las metas para el sprint número 2. Además se utilizó GitHub para las diferentes versiones del front-end. <br><br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> Estableció objetivos y reuniones estratégicas para cada avance relacionado a los capítulos de desarrollo. <br> *TP* <br> Para el desarrollo de esta sección del trabajo, todos los miembros del equipo cumplieron con las metas y tareas establecidas de manera efectiva. <br> <br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> Se diseñó un plan de desarrollo para llevar a cabo las tareas, basándose en los principios clave del Desarrollo Ágil y la metodología Scrum.<br><br>  |<br>Se puede concluir que el trabajo en equipo y la coordinación para los tiempos de los entregables es clave para presentear un buen trabajo. Además, el equipo logró crear un entorno colaborativo e inclusivo siguiendo los principios del Desarrollo Ágil y la metodología Scrum. Se establecieron metas claras y realistas, planificando las tareas de manera efectiva y cumpliendo con los objetivos propuestos. La comunicación constante sobre las historias de usuario y sus cambios, junto con reuniones estratégicas para coordinar los avances, fueron esenciales para el éxito del proyecto. En conjunto, el enfoque estructurado y la coordinación eficiente en los tiempos de entrega permitieron que el trabajo se desarrollara de manera fluida y organizada.<br><br> |
 
 
 
@@ -1692,9 +1694,10 @@ Diagrama de Componente - Web Scraping Module
 
 ### 4.7.2. Class Dictionary.
 
-| Name | Description |
-|-----------------|------------|
--- User -- 
+|               |                 |
+|---------------|-----------------|
+| **Clase**     |   **User**   |
+| **Atributo**  | **Descripción** |
 | userId | ID único para cada usuario |
 | name | Nombre completo del usuario |
 | email | Email del usuario |
@@ -1705,14 +1708,16 @@ Diagrama de Componente - Web Scraping Module
 | deleteUser| Borra la cuenta del usuario del sistema |
 | requestSupport | Manda un pedido de soporte técnico al usuario tipo admin |
 |makePurchase| Completa una compra del carrito de compra actual del usuario|
--- Admin --
+| **Clase**     |   **Admin**   |
+| **Atributo**  | **Descripción** |
 | adminId | ID único para cada usuario tipo adminstrador |
 | role | rol asignado como tipo de usuario administtrador |
 | manageUsers()| Administra los usuarios del sistema |
 | manageComponents() | Adciona, remueve y actualiza componentes en el sistema, prioridad de código| 
 | manageOrders() | Administra y rastrea ordenes de compra de los clientes|
 | reviewsReviews() | Método para moderar las reviews de los usuarios | 
--- Clients --
+| **Clase**     |   **Clients**   |
+| **Atributo**  | **Descripción** |
 | clientId | ID único para cliente |
 | role | Rol de cliente en el sistema |
 | status | Estado de la membresía del cliente |
@@ -1723,7 +1728,8 @@ Diagrama de Componente - Web Scraping Module
 |deleteuser | Elimina el usuario cliente del sistema|
 | requestSupport | Forma de llamar soporte técnico |
 | makePurchase| Completa compras pedientes del cliente|
--- Technicians --
+| **Clase**     |   **Technicians**   |
+| **Atributo**  | **Descripción** |
 |technicianId| ID único del técnico |
 |name | Nombre a mostrar del técnico para los clientes |
 | reviews | Lista de reviews que tiene el técnico |
@@ -1733,7 +1739,8 @@ Diagrama de Componente - Web Scraping Module
 |  deleteUser | Elimina el usuario tipo técnico del sistema |
 | requestSupport | Solicita soporte del usuario tipo admin para temas de la aplicación web |
 | makePurchase | Confirma el pago de sus servicios como técnico|
--- Carts -- 
+| **Clase**     |   **Carts**   |
+| **Atributo**  | **Descripción** |
 | cardId | ID único de cada carrito de compra|
 | userId | ID del usuario al que le pertenece dicho carrito de compra |
 | components | Lista de componentes que están en el carrito de compra |
@@ -1741,7 +1748,8 @@ Diagrama de Componente - Web Scraping Module
 | removeComponent| Borra un component del carrito |
 | viewCart | Permite ver el carrito de compra en un apartado más complejo para verificar la compra | 
 | confirmPurchase | Confirma la compra de este carrito y empieza la fase de orden de compra |
--- Orders--
+| **Clase**     |   **Orders**   |
+| **Atributo**  | **Descripción** |
 | orderId |ID único de la orden de compra |
 |cartId |ID del carrito de compra con los componentes| 
 | orderDate | Fecha de la orden de compra|
@@ -1749,12 +1757,14 @@ Diagrama de Componente - Web Scraping Module
 | total | Monto a pagar de la orden de compra| 
 |viewOrderStatus | Permite visualizar el estado de la orden de compra y la variación del mismo en el tiempo |
 | cancelOrder | Cancela la orden de compra |
---PurchaseHistory--
+| **Clase**     |   **PurchaseHistory**   |
+| **Atributo**  | **Descripción** |
 |historyId| ID único del historial de compra del usuario|
 |userId| ID del usuario al que le pertenece el historial de cliente | 
 |Orders | Lista de ordenes de compra del cliente|
 |viewPurchaseHistory| Apartado para ver el historial de compras del cliente|
---PaymentMethod--
+| **Clase**     |   **PaymentMethod**   |
+| **Atributo**  | **Descripción** |
 | paymentMethodId | ID único para cada método de pago|
 |userId | id del usuario que va pagar|
 | cardNumber | Número de la tarjeta de crédito o débito |
@@ -1769,7 +1779,8 @@ Diagrama de Componente - Web Scraping Module
 |isPaymentMethod|Valida un método de pago como el actual a usar por el usuario|
 |validatePaymentMethod| Valida un método de pago como válido|
 |assignPaymentMethodToOrder|Relaciona un método de pago a una orden de compra|
--- Components --
+| **Clase**     |   **Components**   |
+| **Atributo**  | **Descripción** |
 |componentId|ID único para cada componente|
 |name| Nombre del componente|
 |description | Descripción del componente |
@@ -1780,20 +1791,23 @@ Diagrama de Componente - Web Scraping Module
 |reviews||Valoración y comentarios de los usuarios|
 |selectComponent| Permite a un usuario ver los detalles del componente|
 |updateStock| Permite ver el nivel del stock del componente|
--- Component/Image --
+| **Clase**     |   **Images**   |
+| **Atributo**  | **Descripción** |
 |id| ID de esta clase que une las imágenes con el componente|
 |img| Lista de imágenes asociadas al componente|
 |componentId| ID del componente al que están asociadas las imágenes|
 |selectComponent| Se selecciona el componente al que se asociarán las imágenes|
 |updateStock| Actualiza la cantidad de imágenes asociadas al componente|
---Rewards--
+| **Clase**     |   **Rewards**   |
+| **Atributo**  | **Descripción** |
 |rewardId| ID único de la rencompensa|
 |clientId| ID del cliente asociado a la recompensa|
 |accumulatedPoints| Puntos acumulados asociados a una cuenta|
 |getAccumulatedPoints| Mostrar la cantidad de puntos asociados a alguna cuenta|
 |deletePoints| Borra la cantidad de puntos de la cuenta|
 |reedemeReward| Desbloquea una recompensa para la cuenta del usuario|
---TechnicalSupport--
+| **Clase**     |   **TechnicalSupport**   |
+| **Atributo**  | **Descripción** |
 |supportId|ID único para cada pedido de soporte técnico|
 |clientId|ID del cliente que pide el soporte|
 |technicianId|ID del técnico que socorrerá al cliente que necesita soporte|
@@ -1802,7 +1816,8 @@ Diagrama de Componente - Web Scraping Module
 |requestVirtualSupport| Pedido de soporte se registra como tipo virtual|
 |requestOnsiteSupport| Pedido de soporte se registra como tipo presencial|
 |viewSupportStatus| Muestra el estado del soporte brindado|
--- Messages--
+| **Clase**     |   **Messages**   |
+| **Atributo**  | **Descripción** |
 |messageId|ID único del mensaje|
 |clientId| ID del cliente asociado al mensaje|
 |technicianId| ID del técnico asociado al mensaje|
@@ -1815,7 +1830,8 @@ Diagrama de Componente - Web Scraping Module
 |markAsImportant| Marca como importante el mensaje enviado|
 |deleteMessage| Borra el mensaje|
 |retrieveMessage| Intercepta el mensaje|
---Reviews--
+| **Clase**     |   **Reviews**   |
+| **Atributo**  | **Descripción** |
 |reviewsId| ID único de la valoración|
 |userId| ID del usuario que hizo la valoración|
 |componentId| ID del componente que fue valorado|
@@ -1827,7 +1843,8 @@ Diagrama de Componente - Web Scraping Module
 |leaveReviewTechnician| Se hace la review a un técnico|
 leaveReviewProvider|Se hace la review a un proveedor|
 |viewReviews| Se muestra las reviews hechas por el usuario asociado a la review seleccionada|
---Provider--
+| **Clase**     |   **Provider**   |
+| **Atributo**  | **Descripción** |
 |providerId| ID única asociada al proveedor|
 |providerName| Nombre del proveedor|
 |serviceType| Tipo de servicio que da el provedor|
@@ -1845,6 +1862,7 @@ leaveReviewProvider|Se hace la review a un proveedor|
 |listProvidersByServiceType| Ordena a los proveedores por el tipo de servicio que dan|
 |rateProvider| Permite marcar las estrellas que el proveedor se merece por los usuarios|
 
+<br>
 
 ## 4.8. Database Design.
 
@@ -2328,15 +2346,15 @@ En este sprint, el objetivo principal fue desarrollar la Landing Page de nuestro
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
-| https://github.com/SI730-WS51-PC-MASTER/Landing_Page |  |  |  |  |  |
+| https://github.com/SI730-WS51-PC-MASTER/Landing_Page | dev | 04525d713ce8eb738118140461dd9195a7bb5537 | docs: update landing page link | - | Sep 8, 2024 |
 
 <br>
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
-<!-- resumen que explique lo alcanzado en este Sprint y presenta screenshots de las principales vistas implementadas, junto con un enlace a un video que ilustre y explique la visualización y navegación logrados en este Sprint-->
+Para este sprint se logró concretar una Landing Page y a su vez el needfinding y product backlog para el proyecto.
 
-
+Link explicatorio de LP: https://acortar.link/JRxnWD
 
 <br>
 
@@ -2401,12 +2419,373 @@ entre otros.-->
 
 <br>
 
+### 5.2.2. Sprint 2
+#### 5.2.2.1.Sprint Planning 2.
+
+<table>
+    <thead>
+        <tr>
+            <td> Sprint # </td>
+            <td> Sprint 1 </td>
+        </tr>
+        <tr>
+            <td colspan="2"> Sprint Planning Background </td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> Date </td>
+            <td> 23/09/2024 </td>
+        </tr>
+        <tr>
+            <td> Time </td>
+            <td> 3:30 pm </td>
+        </tr>
+        <tr>
+            <td> Location </td>
+            <td> La reunión se realizó de forma virtual por la plataforma Discord </td>
+        </tr>
+        <tr>
+            <td> Prepared By </td>
+            <td> TechMinds </td>
+        </tr>
+        <tr>
+            <td> Attendees (to planning meeting) </td>
+            <td> Aranda Vallejos, Oscar Gabriel / Cantoral Sedamano, Alexander Alberto / Chirinos Zúñiga, Rodrigo Manuel / Soriano Medrano, Diego / Tello Murga, Javier Oswaldo </td>
+        </tr>
+        <tr>
+            <td> Sprint 1 Review Summary </td>
+            <td> Durante este sprint se pudo ver que se puede concretar distintas tareas en equipo. A su vez que se necesitan corregir algunos aspectos del sprint 1 en la Lading Page y las User Stories. </td>
+        </tr>
+        <tr>
+            <td> Sprint 1 Retrospective Summary </td>
+            <td> Todo el equipo necesita terminar de aprender el concepto de conventional commits, a su vez, necesita aprender a solucionar problemas que puedan surgir al hacer merge en github. Por último se necesitará de 2 reuniones semanales mínimo a partir de ahora. </td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td> Sprint 1 Goal </td>
+            <td>  Desarrollar una primera versión del Frontend </td>
+        </tr>
+        <tr>
+            <td> Sprint 1 Velocity </td>
+            <td>  Velocidad estimada de 69  puntos. La velocidad del equipo se calculó considerando la capacidad del equipo y los puntos de historia completados en sprints anteriores. </td>
+        </tr>
+        <tr>
+            <td> Sum of Story Points </td>
+            <td>  Se concluyeron 58 puntos de historia a las tareas completadas, lo que refleja el trabajo realizado para la primera versión del frontend </td>
+        </tr>
+    </tbody>
+</table>
+
+#### 5.2.2.2.Sprint Backlog 2.
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #2</td>
+            <td colspan="7">Sprint 2</td>
+        </tr>
+        <tr>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-Item / Task</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Description</td>
+            <td>Estimation (Hours)</td>
+            <td>Assigned To</td>
+            <td>Status (To-do / In-Process / To-Review / Done)</td>
+        </tr>
+        <!-- Fila de separación para US009 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US009</td>
+        </tr>
+        <tr>
+            <td>US009</td>
+            <td>Selección de componentes de PC</td>
+            <td>01</td>
+            <td>Implementar selección de componentes</td>
+            <td>Desarrollar la funcionalidad que permita seleccionar componentes de PC según las necesidades y presupuesto del usuario.</td>
+            <td>02</td>
+            <td>Cantoral Sedamano, Alexander Alberto</td>
+            <td>Done</td>
+        </tr>
+        <!-- Fila de separación para US010 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US010</td>
+        </tr>
+        <tr>
+            <td>US010</td>
+            <td>Filtro de búsqueda de componentes</td>
+            <td>01</td>
+            <td>Implementar filtro de búsqueda</td>
+            <td>Permitir que el usuario filtre por tareas, programas, presupuesto y otros factores para obtener recomendaciones específicas.</td>
+            <td>02</td>
+            <td>Cantoral Sedamano, Alexander Alberto</td>
+            <td>Done</td>
+        </tr>
+        <!-- Fila de separación para US011 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US011</td>
+        </tr>
+        <tr>
+            <td>US011</td>
+            <td>Palabras clave para selección de componentes</td>
+            <td>01</td>
+            <td>Implementar búsqueda por palabras clave</td>
+            <td>Desarrollar la funcionalidad de búsqueda por palabras clave para que los usuarios encuentren componentes específicos.</td>
+            <td>03</td>
+            <td>Cantoral Sedamano, Alexander Alberto</td>
+            <td>In-Progress</td>
+        </tr>
+        <!-- Fila de separación para US012 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US012</td>
+        </tr>
+        <tr>
+            <td>US012</td>
+            <td>Carrito de compras</td>
+            <td>01</td>
+            <td>Implementar carrito de compras</td>
+            <td>Permitir al usuario agregar componentes al carrito de compras para revisarlos antes de realizar la compra.</td>
+            <td>05</td>
+            <td>Soriano Medrano, Diego</td>
+            <td>Done</td>
+        </tr>
+        <!-- Fila de separación para US0009 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US012</td>
+        </tr>
+        <tr>
+            <td>US009</td>
+            <td>Selección de componentes</td>
+            <td>01</td>
+            <td>Implementar selección de componentes</td>
+            <td> Permitir al usuario seleccionar componentes de PC adecuados a sus necesidades y presupuesto. </td>
+            <td>05</td>
+            <td>Soriano Medrano, Diego</td>
+            <td>In Process</td>
+        </tr>
+        <!-- Fila de separación para US013 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US013</td>
+        </tr>
+        <tr>
+            <td>US013</td>
+            <td>Listas de deseos</td>
+            <td>01</td>
+            <td>Implementar lista de deseos</td>
+            <td>Permitir que el usuario guarde componentes en una lista de deseos para considerarlos en futuras compras.</td>
+            <td>03</td>
+            <td>Chirinos Zúñiga, Rodrigo Manuel</td>
+            <td>Done</td>
+        </tr>
+        <!-- Fila de separación para US014 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US014</td>
+        </tr>
+        <tr>
+            <td>US014</td>
+            <td>Guía técnica en un entorno colaborativo virtual</td>
+            <td>01</td>
+            <td>Desarrollar guía técnica</td>
+            <td>Implementar una guía técnica en un entorno colaborativo para diagnosticar problemas de hardware o software.</td>
+            <td>08</td>
+            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>Done</td>
+        </tr>
+        <!-- Fila de separación para US015 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US015</td>
+        </tr>
+        <tr>
+            <td>US015</td>
+            <td>Consultas ilimitadas</td>
+            <td>01</td>
+            <td>Implementar consultas técnicas ilimitadas</td>
+            <td>Permitir a los usuarios premium acceder a consultas técnicas ilimitadas para resolver sus dudas rápidamente.</td>
+            <td>05</td>
+            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>In Process</td>
+        </tr>
+        <!-- Fila de separación para US016 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US016</td>
+        </tr>
+        <tr>
+            <td>US016</td>
+            <td>Capacitación personalizada</td>
+            <td>01</td>
+            <td>Implementar capacitación personalizada</td>
+            <td>Desarrollar la funcionalidad para que los usuarios reciban capacitación personalizada sobre el uso de componentes y mantenimiento de PCs.</td>
+            <td>08</td>
+            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>In Process</td>
+        </tr>
+        <!-- Fila de separación para US017 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US017</td>
+        </tr>
+        <tr>
+            <td>US017</td>
+            <td>Solicitud de soporte técnico de forma virtual</td>
+            <td>01</td>
+            <td>Implementar soporte técnico virtual</td>
+            <td>Permitir al usuario solicitar soporte técnico virtual para resolver problemas desde casa.</td>
+            <td>05</td>
+            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>Done</td>
+        </tr>
+        <!-- Fila de separación para US018 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US018</td>
+        </tr>
+        <tr>
+            <td>US018</td>
+            <td>Soporte técnico a domicilio</td>
+            <td>01</td>
+            <td>Implementar soporte a domicilio</td>
+            <td>Permitir a los usuarios premium solicitar soporte técnico a domicilio para recibir ayuda en persona.</td>
+            <td>08</td>
+            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>Done</td>
+        </tr>
+        <!-- Fila de separación para US019 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US019</td>
+        </tr>
+        <tr>
+            <td>US019</td>
+            <td>Soporte prioritario</td>
+            <td>01</td>
+            <td>Implementar soporte prioritario</td>
+            <td>Permitir a los usuarios premium recibir soporte prioritario para solucionar problemas rápidamente.</td>
+            <td>08</td>
+            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>Suspended</td>
+        </tr>
+        <!-- Fila de separación para US020 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US020</td>
+        </tr>
+        <tr>
+            <td>US020</td>
+            <td>Mantenimiento preventivo</td>
+            <td>01</td>
+            <td>Implementar mantenimiento preventivo</td>
+            <td>Permitir al usuario solicitar mantenimiento preventivo para asegurar el correcto funcionamiento de su equipo.</td>
+            <td>05</td>
+            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>Suspended</td>
+        </tr>
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US021</td>
+        </tr>
+    </tbody>
+</table>
+
+Link del trello: https://trello.com/invite/b/66f243fd0433160e17be80f8/ATTIc6f98dbb8712c9937407cb928969c19f324C2624/si730-2402-ws51-grupo-2
+
+#### 5.2.2.3.Development Evidence for Sprint Review.
+
+<h2> Frontend </h2>
+
+Se logró conseguir una primera versión del frontend deployeado y este mismo presenta algunos problemas pero tiene el mvp para ser presentada la idea.
+
+<br>
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend| dev |b05015d| feat: Stable version |- | 27/09/24 |
+|https://github.com/SI730-WS51-PC-MASTER/Frontend | dev | c25cb03|feat: add language configurations|-|27/09/24|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend| dev  |afa2b09| feat: not found component|- | 27/09/24|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend|dev|b14bbc4|feat: update toolbar| - |27/09/24
+|https://github.com/SI730-WS51-PC-MASTER/Frontend|feat/components|b300b8b|feat: Filters almost complete|TODO: Category and subcategory filter|27/09/24
+|https://github.com/SI730-WS51-PC-MASTER/Frontend|dev| 38faa89|feat: components added to dev|Fully functional|27/09/24|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend|feat/interaction| 0786648| feat: Update interaction|-|27/09/24|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend |feat/interaction |af5bb05| feat: interactions| - |27/09/24|
+
+
+#### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+| https://github.com/SI730-WS51-PC-MASTER/Testing | dev | 56584df50dfe2d15a8a5ba22b450da31697fa25e| US for components bounded context | Us for components frontend | 24/09/24 |
+| https://github.com/SI730-WS51-PC-MASTER/Testing | dev |9342793e1ddee73ccb28bf0740eec98a8d9cd8d9| docs: US for interaction bounded context| - |26/09/24|
+| https://github.com/SI730-WS51-PC-MASTER/Testing | dev |8a4bfa9f677444220ffd47207333ffb1987ff1c8| docs: US for technical support bounded context | - |27/09/24| 
+
+#### 5.2.2.5.Execution Evidence for Sprint Review.
+
+Para este sprint pudimos concretar una primera versión del Frontend de la aplicación web. A su vez se pudo hacer una mejora del documentación del sprint anterior y se pudo reflexionar de los errores del mismo.
+
+Link del vídeo explicativo: https://acortar.link/5xsWsq
+
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+
+Hasta el momento, no se ha realizado ningún avance en la implementación de endpoints, por lo que no se incluye ningún detalle de documentación.
+
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
+Para este sprint 2 se hará el desployement usando Firebase siguiendo los siguentes pasos:
+
+1. **Creación de la cuenta en Firebase**
+   - Se creó una cuenta en Firebase para alojar la aplicación. Para esto, se accedió a [firebase.google.com](https://firebase.google.com/) y se configuró un nuevo proyecto dentro de Firebase Console.
+   - [![2.png](https://i.postimg.cc/0QrLhnVs/2.png)](https://postimg.cc/S2FTM60T)
+
+2. **Configuración del proyecto Vue**
+   - Dentro del proyecto Vue, se instaló la CLI de Firebase ejecutando:
+     ```bash
+     npm install -g firebase-tools
+     ```
+   - Luego, se inicializó Firebase Hosting en el proyecto mediante:
+     ```bash
+     firebase init
+     ```
+   - Se seleccionó Firebase Hosting como la herramienta de despliegue, vinculando el proyecto de Firebase con el código de la aplicación.
+
+3. **Build del proyecto Vue**
+   - Para generar los archivos listos para el despliegue, se ejecutó el comando:
+     ```bash
+     npm run build
+     ```
+   - Este comando generó la carpeta `/dist`, que contiene los archivos estáticos que Firebase utilizará para el hosting.
+   - 
+4. **Despliegue en Firebase Hosting**
+   - Una vez generado el build, se ejecutó el comando:
+     ```bash
+     firebase deploy
+     ```
+   - Este comando subió el contenido del directorio `/dist` a Firebase Hosting, haciendo que la aplicación esté disponible en la web.
+
+   * [Frontend Desplegado](https://tp-pcmaster.web.app/home)
+
+#### 5.2.2.8.Team Collaboration Insights during Sprint
+
+<h2> Frontend</h2>
+
++ Evidencias de participación en el repositorio de la Frontend
+
+[![pulse.png](https://i.postimg.cc/sXDtpBrp/pulse.png)](https://postimg.cc/xkhxQ1qC)
+
+[![Contributors.png](https://i.postimg.cc/VLD4C7NH/Contributors.png)](https://postimg.cc/hfQ9F1T9)
+
+[![network.png](https://i.postimg.cc/zXgXLQpq/network.png)](https://postimg.cc/nCntg06W)
+
 # Conclusiones
 ## Conclusiones y recomendaciones
 
 1. Durante el desarrollo de la primera fase del proyecto, se llevaron a cabo varias actividades fundamentales de documentación. En primer lugar, se estableció nuestra organización en GitHub, donde se crearon los repositorios correspondientes a los productos que se elaborarán.
 En segundo lugar, se comenzó a trabajar en el repositorio de documentación, que alberga el archivo en formato Markdown en el cual se redactaron los capítulos correspondientes a esta entrega. El capítulo uno incluye la introducción al proyecto. El capítulo dos se centra en el análisis y la obtención de los requerimientos, en el cual se definieron los segmentos objetivos y se realizaron entrevistas a personas pertenecientes a cada segmento. A continuación, en el capítulo tres, se especificaron los requerimientos teniendo en cuenta cada segmento objetivo; en este capítulo, el equipo prestó especial atención a la elaboración de las user stories que guiarán el desarrollo del proyecto.
 En el capítulo cuatro, tras haber establecido los requisitos de los dos segmentos, se procedió al diseño del producto final, comenzando con la creación y desarrollo de la landing page como primer entregable. Finalmente, el capítulo cinco detalla las especificaciones técnicas relacionadas con las configuraciones necesarias para la creación de la landing page, así como para el desarrollo de todo el proyecto. Este capítulo concluye con la descripción del Sprint, que resume todas las tareas realizadas para la elaboración y finalización de la landing page, así como las coordinaciones que se realizaron en equipo.
+
+2. La mejora de la landing page de PC Master, que incluyó la adición de una sección de "Get Contact" y el deployment del front end en su primera versión utilizando Firebase como hosting, ha resultado en una experiencia de usuario más interactiva y accesible. Esta nueva sección facilita la comunicación directa con los usuarios, aumentando las oportunidades de conversión y satisfacción del cliente. Las historias de usuario especificadas en Trello y en el sprint backlog fueron fundamentales para guiar el desarrollo, asegurando que cada funcionalidad respondiera a las necesidades de los usuarios. En conjunto, estas mejoras no solo fortalecen la presencia en línea de PC Master, sino que también sientan las bases para futuras optimizaciones y un crecimiento continuo en la interacción con nuestros clientes.
 
 <br>
 
@@ -2418,14 +2797,23 @@ En el capítulo cuatro, tras haber establecido los requisitos de los dos segment
 
 ## Exposición
 - TB1: https://acortar.link/mLDYSp
+- TP: https://acortar.link/g5oSSt
 
 ## Entrevistas
 https://acortar.link/LWUrOB 
+
+
+## Deployment:
+
+* [Landing Page Desplegada](https://si730-ws51-pc-master.github.io/Landing_Page/)
+* [Frontend Desplegado](https://tp-pcmaster.web.app/home)
 
 ## Repositories
 * [PC Master - Organization](https://github.com/SI730-WS51-PC-MASTER)
 * [PC Master - Landing Page](https://github.com/SI730-WS51-PC-MASTER/Landing_Page)
 * [PC Master - Documentation](https://github.com/SI730-WS51-PC-MASTER/Documentation)
+* [PC Master -Testing](https://github.com/SI730-WS51-PC-MASTER/Testing)
+* [PC Master - Frontend](https://github.com/SI730-WS51-PC-MASTER/Frontend)
 
 ## Landing Page Design
 ### 1. Wireframes:
