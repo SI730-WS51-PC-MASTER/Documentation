@@ -2554,8 +2554,8 @@ entre otros.-->
             <td>Implementar carrito de compras</td>
             <td>Permitir al usuario agregar componentes al carrito de compras para revisarlos antes de realizar la compra.</td>
             <td>05</td>
-            <td>Assigned To</td>
-            <td>Status</td>
+            <td>Soriano Medrano, Diego</td>
+            <td>Done</td>
         </tr>
         <!-- Fila de separación para US013 -->
         <tr>
@@ -2568,8 +2568,8 @@ entre otros.-->
             <td>Implementar lista de deseos</td>
             <td>Permitir que el usuario guarde componentes en una lista de deseos para considerarlos en futuras compras.</td>
             <td>03</td>
-            <td>Assigned To</td>
-            <td>Status</td>
+            <td>Chirinos Zúñiga, Rodrigo Manuel</td>
+            <td>Done</td>
         </tr>
         <!-- Fila de separación para US014 -->
         <tr>
@@ -2582,8 +2582,8 @@ entre otros.-->
             <td>Desarrollar guía técnica</td>
             <td>Implementar una guía técnica en un entorno colaborativo para diagnosticar problemas de hardware o software.</td>
             <td>08</td>
-            <td>Assigned To</td>
-            <td>Status</td>
+            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>Done</td>
         </tr>
         <!-- Fila de separación para US015 -->
         <tr>
@@ -2596,8 +2596,8 @@ entre otros.-->
             <td>Implementar consultas técnicas ilimitadas</td>
             <td>Permitir a los usuarios premium acceder a consultas técnicas ilimitadas para resolver sus dudas rápidamente.</td>
             <td>05</td>
-            <td>Assigned To</td>
-            <td>Status</td>
+            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>In Process</td>
         </tr>
         <!-- Fila de separación para US016 -->
         <tr>
@@ -2610,8 +2610,8 @@ entre otros.-->
             <td>Implementar capacitación personalizada</td>
             <td>Desarrollar la funcionalidad para que los usuarios reciban capacitación personalizada sobre el uso de componentes y mantenimiento de PCs.</td>
             <td>08</td>
-            <td>Assigned To</td>
-            <td>Status</td>
+            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>In Process</td>
         </tr>
         <!-- Fila de separación para US017 -->
         <tr>
@@ -2624,8 +2624,8 @@ entre otros.-->
             <td>Implementar soporte técnico virtual</td>
             <td>Permitir al usuario solicitar soporte técnico virtual para resolver problemas desde casa.</td>
             <td>05</td>
-            <td>Assigned To</td>
-            <td>Status</td>
+            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>Done</td>
         </tr>
         <!-- Fila de separación para US018 -->
         <tr>
@@ -2638,8 +2638,8 @@ entre otros.-->
             <td>Implementar soporte a domicilio</td>
             <td>Permitir a los usuarios premium solicitar soporte técnico a domicilio para recibir ayuda en persona.</td>
             <td>08</td>
-            <td>Assigned To</td>
-            <td>Status</td>
+            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>Done</td>
         </tr>
         <!-- Fila de separación para US019 -->
         <tr>
@@ -2652,8 +2652,8 @@ entre otros.-->
             <td>Implementar soporte prioritario</td>
             <td>Permitir a los usuarios premium recibir soporte prioritario para solucionar problemas rápidamente.</td>
             <td>08</td>
-            <td>Assigned To</td>
-            <td>Status</td>
+            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>Suspended</td>
         </tr>
         <!-- Fila de separación para US020 -->
         <tr>
@@ -2666,8 +2666,8 @@ entre otros.-->
             <td>Implementar mantenimiento preventivo</td>
             <td>Permitir al usuario solicitar mantenimiento preventivo para asegurar el correcto funcionamiento de su equipo.</td>
             <td>05</td>
-            <td>Assigned To</td>
-            <td>Status</td>
+            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>Suspended</td>
         </tr>
         <tr>
             <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US021</td>
