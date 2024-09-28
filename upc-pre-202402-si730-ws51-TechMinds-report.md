@@ -2557,6 +2557,20 @@ entre otros.-->
             <td>Soriano Medrano, Diego</td>
             <td>Done</td>
         </tr>
+        <!-- Fila de separación para US0009 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US012</td>
+        </tr>
+        <tr>
+            <td>US009</td>
+            <td>Selección de componentes</td>
+            <td>01</td>
+            <td>Implementar selección de componentes</td>
+            <td> Permitir al usuario seleccionar componentes de PC adecuados a sus necesidades y presupuesto. </td>
+            <td>05</td>
+            <td>Soriano Medrano, Diego</td>
+            <td>In Process</td>
+        </tr>
         <!-- Fila de separación para US013 -->
         <tr>
             <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US013</td>
