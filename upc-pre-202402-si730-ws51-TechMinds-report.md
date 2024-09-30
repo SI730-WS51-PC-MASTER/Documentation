@@ -2764,7 +2764,7 @@ Para este sprint 2 se hará el desployement usando Firebase siguiendo los siguen
      ```
    - Este comando subió el contenido del directorio `/dist` a Firebase Hosting, haciendo que la aplicación esté disponible en la web.
 
-   * [Frontend Desplegado](https://tp-pcmaster.web.app/home)
+   * Frontend Desplegado: https://tp-pcmaster.web.app/home
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint
 
@@ -2805,15 +2805,15 @@ https://acortar.link/LWUrOB
 
 ## Deployment:
 
-* [Landing Page Desplegada](https://si730-ws51-pc-master.github.io/Landing_Page/)
-* [Frontend Desplegado](https://tp-pcmaster.web.app/home)
+* Landing Page Desplegada: https://si730-ws51-pc-master.github.io/Landing_Page/
+* Frontend Desplegado: https://tp-pcmaster.web.app/home
 
 ## Repositories
-* [PC Master - Organization](https://github.com/SI730-WS51-PC-MASTER)
-* [PC Master - Landing Page](https://github.com/SI730-WS51-PC-MASTER/Landing_Page)
-* [PC Master - Documentation](https://github.com/SI730-WS51-PC-MASTER/Documentation)
-* [PC Master -Testing](https://github.com/SI730-WS51-PC-MASTER/Testing)
-* [PC Master - Frontend](https://github.com/SI730-WS51-PC-MASTER/Frontend)
+* PC Master Organization: https://github.com/SI730-WS51-PC-MASTER
+* Landing Page Repository: https://github.com/SI730-WS51-PC-MASTER/Landing_Page
+* Documentation Repository: https://github.com/SI730-WS51-PC-MASTER/Documentation
+* Testing Repository: https://github.com/SI730-WS51-PC-MASTER/Testing
+* Frontend Repository: https://github.com/SI730-WS51-PC-MASTER/Frontend
 
 ## Landing Page Design
 ### 1. Wireframes:
