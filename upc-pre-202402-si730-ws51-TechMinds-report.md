@@ -43,9 +43,9 @@
 | 1.0     | 26/08/2024 | - Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano| - Se redactó la descripción de la startup, los antecedentes y la problemática. Además, se desarrolló el Lean UX Process y se delimitó el segmento objetivo.<br>- Desarrollo del User Journey Mapping y Empathy Mapping.<br> - Adición de las primeras entrevistas de segmentos objetivos.|
 | 1.2     | 05/09/2024 |- Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego<br>-Tello Murga, Javier Oswaldo | - Desarrollo completo del capítulo 2.<br>- Cumplimiento de lo establecido a llegar con el capítulo 3.<br>- Capítulo 4 establecido y logrado.<br>- Avance del Sprint 1 (Primera versión de la Landing Page). |
 | 1.4     | 27/09/2024 | - Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego| -Culminación del Sprint 1 (Mejora de la Landing Page) <br>- Avance del Sprint 2 (Primera versión del Frontend Desplegado) | 
-| 1.6     | xx/08/2024 | Apellido, Nombre | ... |
-| 1.8     | xx/08/2024 | Apellido, Nombre | ... |
-| 2.0     | xx/08/2024 | Apellido, Nombre | ... |
+| 1.6     | 03/11/2024 |Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego  | - Segundo versión del Frontend<br> - Primera versión del Backend |
+| 1.8     | xx/11/2024 | Apellido, Nombre | ... |
+| 2.0     | xx/11/2024 | Apellido, Nombre | ... |
 
 <br>
 
@@ -60,15 +60,15 @@
 [STUDENT OUTCOME](#student-outcome)
 
 1. [**Capítulo I: Introducción**](#capítulo-i-introducción) <br>
-1.1. [***1.1.Startup Profile***](#11-startup-profile) <br>
-1.1.1. [1.1.1. Descripción del startup](#111-descripción-del-startup) <br>
-1.1.2.[1.1.2. Perfiles de los integrantes del equipo](#112-perfiles-de-los-integrantes-del-equipo) <br>
-1.2. [***1.2. Solution Profile***](#12-solution-profile) <br>
-1.2.1. [1.2.1.Antecedentes y Problemática](#121-antecedentes-y-problemática) <br>
-1.2.2. [1.2.2.Lean UX Process](#122-lean-ux-process) <br>
-1.2.2.1. [1.2.2.1.Lean UX Problem Statements](#1221-lean-ux-problem-statements) <br>
-1.2.2.2. [1.2.2.2.Lean UX Assumptions](#1222-lean-ux-assumptions) <br>
-1.2.2.3. [1.2.2.3.Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements) <br>
+1.1. [***Startup Profile***](#11-startup-profile) <br>
+1.1.1. [Descripción del startup](#111-descripción-del-startup) <br>
+1.1.2.[Perfiles de los integrantes del equipo](#112-perfiles-de-los-integrantes-del-equipo) <br>
+1.2. [***Solution Profile***](#12-solution-profile) <br>
+1.2.1. [Antecedentes y Problemática](#121-antecedentes-y-problemática) <br>
+1.2.2. [Lean UX Process](#122-lean-ux-process) <br>
+1.2.2.1. [.Lean UX Problem Statements](#1221-lean-ux-problem-statements) <br>
+1.2.2.2. [Lean UX Assumptions](#1222-lean-ux-assumptions) <br>
+1.2.2.3. [Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements) <br>
 1.2.2.4. [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas) <br>
 1.3. [***1.3. Segmentos objetivo***](#13-segmentos-objetivo) <br> <br>
 
@@ -2777,6 +2777,58 @@ Para este sprint 2 se hará el desployement usando Firebase siguiendo los siguen
 [![Contributors.png](https://i.postimg.cc/VLD4C7NH/Contributors.png)](https://postimg.cc/hfQ9F1T9)
 
 [![network.png](https://i.postimg.cc/zXgXLQpq/network.png)](https://postimg.cc/nCntg06W)
+
+
+### 5.2.3. Sprint 3
+#### 5.2.3.1.Sprint Planning 3.
+#### 5.2.3.2.Sprint Backlog 3.
+#### 5.2.3.3.Development Evidence for Sprint Review.
+#### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+#### 5.2.3.5.Execution Evidence for Sprint Review.
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
+
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+
+Esta parte del informe presentará la parte objetiva de las entrevistas junto con el análisis relevante de cada una de ellas. Al ser preguntas generales de uso, no se distinguirá de segmento objetivo.
+
+Preguntas principales: ¿Qué te parece la Landing Page? ¿Siente que es facil de usar? ¿Podrías hacerme el favor de registrarte y mandar un mensaje? ¿Qué te parece la aplicación web? ¿Siente que la aplicación web satisfacerá tus necesidades como futur@ usuario?
+
+### 5.3.2. Registro de Entrevistas.
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+UX Heuristics & Principles Evaluation
+
+Usability – Inclusive Design – Information Architecture
+
+CARRERA: Ingeniería de Software
+
+CURSO: Desarrollo de Aplicaciones Open Source
+
+SECCIÓN: WS51
+
+PROFESORES: 
+Bautista Ubillús, Efraín Ricardo
+Flores Moroco, Juan Antonio
+Mori Paiva, Hugo Allan
+Sánchez Seña, Alberto Wilmer
+Velásquez Núñez, Ángel Augusto
+
+AUDITOR : Grupo 2
+
+CLIENTES: 
+
+SITE o APP A EVALUAR: PC-MASTER
+
+TAREAS A EVALUAR:
+
+## 5.4. Video About-the-Product.
+En esta sección se tiene un vídeo que resume todo lo que el producto ofrece y una vista rápida a los feats logrados para la aplicación:
+
+Link del vídeo: 
 
 # Conclusiones
 ## Conclusiones y recomendaciones
