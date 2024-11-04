@@ -2890,11 +2890,11 @@ Nuestro objetivo al iniciar el Sprint 3 es consolidar las user stories y las tar
         </tr>
         <tr>
             <td>Sprint 3 Velocity</td>
-            <td>8</td>
+            <td>28</td>
         </tr>
         <tr>
             <td>Sum of Story Points</td>
-            <td>25</td>
+            <td>28</td>
         </tr>
     </tbody>
 </table>
@@ -3129,6 +3129,8 @@ Preguntas principales: ¿Qué te parece la Landing Page? ¿Siente que es facil d
 
 ### 5.3.2. Registro de Entrevistas.
 
+Link de entrevista 1: https://acortar.link/J8ewGA 
+
 ### 5.3.3. Evaluaciones según heurísticas.
 
 UX Heuristics & Principles Evaluation
@@ -3225,3 +3227,6 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218167_upc_edu_pe/ESV0htVY
 https://www.figma.com/proto/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=131-3070&node-type=FRAME&t=gyESjOWO8yMRG4Bt-1&scaling=min-zoom&content-scaling=fixed&page-id=128%3A12&starting-point-node-id=131%3A3070&show-proto-sidebar=1
 ### 2. Hardware Technician Flow Prototype:
 https://www.figma.com/proto/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=131-3085&node-type=FRAME&t=gyESjOWO8yMRG4Bt-1&scaling=min-zoom&content-scaling=fixed&page-id=128%3A12&starting-point-node-id=131%3A3085&show-proto-sidebar=1
+
+## Video about the team:
+Link: https://acortar.link/2Ns4NB
