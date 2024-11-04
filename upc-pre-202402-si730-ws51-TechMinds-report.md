@@ -2903,11 +2903,72 @@ Nuestro objetivo al iniciar el Sprint 3 es consolidar las user stories y las tar
 
 #### 5.2.3.2.Sprint Backlog 3.
 #### 5.2.3.3.Development Evidence for Sprint Review.
+
+
+
 #### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+
+
+
 #### 5.2.3.5.Execution Evidence for Sprint Review.
+
+
+
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+Se adjuntan capturas del  OpenAPI Specification vía Swagger:
+
+[![Swagger1.png](https://i.postimg.cc/KYPWSK61/Swagger1.png)](https://postimg.cc/WD4804bV)
+
+[![Swagger2.png](https://i.postimg.cc/2jcKDNK7/Swagger2.png)](https://postimg.cc/23WwQMm1)
+
+[![Swagger3.png](https://i.postimg.cc/rFDYyY6X/Swagger3.png)](https://postimg.cc/kBdyfsXf)
+
+[![Swagger4.png](https://i.postimg.cc/QM36b8Fh/Swagger4.png)](https://postimg.cc/w1wcxd5G)
+
+[![Swagger5.png](https://i.postimg.cc/B6ZMrm5z/Swagger5.png)](https://postimg.cc/t1f3PtMd)
+
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+Para este sprint 3 se hará el desployement usando Firebase siguiendo los siguentes pasos:
+
+1. **Creación de la cuenta en Firebase**
+   - Se creó una cuenta en Firebase para alojar la aplicación. Para esto, se accedió a [firebase.google.com](https://firebase.google.com/) y se configuró un nuevo proyecto dentro de Firebase Console.
+   - [![2.png](https://i.postimg.cc/0QrLhnVs/2.png)](https://postimg.cc/S2FTM60T)
+
+2. **Configuración del proyecto Vue**
+   - Dentro del proyecto Vue, se instaló la CLI de Firebase ejecutando:
+     ```bash
+     npm install -g firebase-tools
+     ```
+   - Luego, se inicializó Firebase Hosting en el proyecto mediante:
+     ```bash
+     firebase init
+     ```
+   - Se seleccionó Firebase Hosting como la herramienta de despliegue, vinculando el proyecto de Firebase con el código de la aplicación.
+
+3. **Build del proyecto Vue**
+   - Para generar los archivos listos para el despliegue, se ejecutó el comando:
+     ```bash
+     npm run build
+     ```
+   - Este comando generó la carpeta `/dist`, que contiene los archivos estáticos que Firebase utilizará para el hosting.
+   - 
+4. **Despliegue en Firebase Hosting**
+   - Una vez generado el build, se ejecutó el comando:
+     ```bash
+     firebase deploy
+     ```
+   - Este comando subió el contenido del directorio `/dist` a Firebase Hosting, haciendo que la aplicación esté disponible en la web.
+
+   * Frontend Desplegado: https://apps-web-pc-master.web.app/home
+
 #### 5.2.3.8.Team Collaboration Insights during Sprint.
+
+Para el frontend se hicieron mejoras como se puede apreciar en la gráfica: 
+[![insights.png](https://i.postimg.cc/tCWrh1t8/insights.png)](https://postimg.cc/mtZN4gnS)
+
+Para el backend se añadieron los bounded context de cada uno con una versión pre-liminar de los mismos:
+[![insights2.png](https://i.postimg.cc/zXhdnd1J/insights2.png)](https://postimg.cc/SJy74fs5)
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
@@ -2980,7 +3041,7 @@ https://acortar.link/LWUrOB
 ## Deployment:
 
 * Landing Page Desplegada: https://si730-ws51-pc-master.github.io/Landing_Page/
-* Frontend Desplegado: https://tp-pcmaster.web.app/home
+* Frontend Desplegado: https://apps-web-pc-master.web.app/home
 
 ## Repositories
 * PC Master Organization: https://github.com/SI730-WS51-PC-MASTER
