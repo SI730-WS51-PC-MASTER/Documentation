@@ -30,7 +30,6 @@
 | Cantoral Sedamano, Alexander Alberto | U20181b152 |
 | Chirinos Zúñiga, Rodrigo Manuel | U202217804 |
 | Soriano Medrano, Diego | U202114793 |
-| Tello Murga, Javier Oswaldo | U202218387 |
 
 ## Setiembre Ciclo 2024-02
 
@@ -43,9 +42,9 @@
 | 1.0     | 26/08/2024 | - Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano| - Se redactó la descripción de la startup, los antecedentes y la problemática. Además, se desarrolló el Lean UX Process y se delimitó el segmento objetivo.<br>- Desarrollo del User Journey Mapping y Empathy Mapping.<br> - Adición de las primeras entrevistas de segmentos objetivos.|
 | 1.2     | 05/09/2024 |- Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego<br>-Tello Murga, Javier Oswaldo | - Desarrollo completo del capítulo 2.<br>- Cumplimiento de lo establecido a llegar con el capítulo 3.<br>- Capítulo 4 establecido y logrado.<br>- Avance del Sprint 1 (Primera versión de la Landing Page). |
 | 1.4     | 27/09/2024 | - Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego| -Culminación del Sprint 1 (Mejora de la Landing Page) <br>- Avance del Sprint 2 (Primera versión del Frontend Desplegado) | 
-| 1.6     | xx/08/2024 | Apellido, Nombre | ... |
-| 1.8     | xx/08/2024 | Apellido, Nombre | ... |
-| 2.0     | xx/08/2024 | Apellido, Nombre | ... |
+| 1.6     | 03/11/2024 |Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego  | - Segundo versión del Frontend<br> - Primera versión del Backend |
+| 1.8     | xx/11/2024 | Apellido, Nombre | ... |
+| 2.0     | xx/11/2024 | Apellido, Nombre | ... |
 
 <br>
 
@@ -60,15 +59,15 @@
 [STUDENT OUTCOME](#student-outcome)
 
 1. [**Capítulo I: Introducción**](#capítulo-i-introducción) <br>
-1.1. [***1.1.Startup Profile***](#11-startup-profile) <br>
-1.1.1. [1.1.1. Descripción del startup](#111-descripción-del-startup) <br>
-1.1.2.[1.1.2. Perfiles de los integrantes del equipo](#112-perfiles-de-los-integrantes-del-equipo) <br>
-1.2. [***1.2. Solution Profile***](#12-solution-profile) <br>
-1.2.1. [1.2.1.Antecedentes y Problemática](#121-antecedentes-y-problemática) <br>
-1.2.2. [1.2.2.Lean UX Process](#122-lean-ux-process) <br>
-1.2.2.1. [1.2.2.1.Lean UX Problem Statements](#1221-lean-ux-problem-statements) <br>
-1.2.2.2. [1.2.2.2.Lean UX Assumptions](#1222-lean-ux-assumptions) <br>
-1.2.2.3. [1.2.2.3.Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements) <br>
+1.1. [***Startup Profile***](#11-startup-profile) <br>
+1.1.1. [Descripción del startup](#111-descripción-del-startup) <br>
+1.1.2.[Perfiles de los integrantes del equipo](#112-perfiles-de-los-integrantes-del-equipo) <br>
+1.2. [***Solution Profile***](#12-solution-profile) <br>
+1.2.1. [Antecedentes y Problemática](#121-antecedentes-y-problemática) <br>
+1.2.2. [Lean UX Process](#122-lean-ux-process) <br>
+1.2.2.1. [.Lean UX Problem Statements](#1221-lean-ux-problem-statements) <br>
+1.2.2.2. [Lean UX Assumptions](#1222-lean-ux-assumptions) <br>
+1.2.2.3. [Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements) <br>
 1.2.2.4. [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas) <br>
 1.3. [***1.3. Segmentos objetivo***](#13-segmentos-objetivo) <br> <br>
 
@@ -212,8 +211,8 @@
 
 | Criterio específico| Acciones realizadas   | Conclusiones |
 |-------------------|------------------------|--------------|
-| **Trabaja en equipo para proporcionar <br> liderazgo en forma conjunta** | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> Identificó entornos de desarrollo colaborativo para poder trabajar de manera remota, manteniendo un siguimiento del avance. Para ello, se realizó el diseño de los wireframes y mockups en la herramienta Figma. <br> *TP*<br> Utilizó las historias de usuario desarrolladas por el equipo para iniicar el desarrollo del front end y la adhesión de la vista de los técnicos mejor valorados. <br><br>**Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> Empleó herramientas como Lucid Chart para los diagramas de clases y organizó la estructura del proyecto para guiar al equipo, así como la repartición de responsabilidades y plazos de acorde a la disponibilidad de cada miembro. <br> *TP*<br> Se puso la manta de líder para poder diseñar y repartir los bounded context, separar estos en feats para un simple entendimiento para los miembros del equipo<br><br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> Trabajó los gráficos del needfinding de manera colaborativa en UXPressia y colaboró con la redacción e identificación de criterios de aceptación. <br> *TP* <br> Se planificaron y colocaron las historias de usuario a desarrollar para este segundo sprint en la herramienta colaborativa Trello.  <br><br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> Elaboró el deployment de la landing page y el modelado de la base de datos. <br> *TP* <br> Para el desarrollo de esta sección del trabajo, todos los miembros del equipo se organizaron de manera efectiva con el fin de cumplir los objetivos establecidos, contribuyendo cada uno desde su propia perspectiva. <br> <br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> Empleó herramientas como Microsoft Visual Studio para la arquitectua de software y ayudó ha que todos los integrantes del grupo puedan analizar y criticar lo trabajado. <br><br>  |<br>El equipo mostró un alto nivel de colaboración y liderazgo compartido, utilizando diversas herramientas digitales para el desarrollo del proyecto de manera remota. La organización y distribución de tareas fue clave para el avance eficiente, aprovechando plataformas como Figma y Lucid Chart para el diseño y la planificación. Los miembros también destacaron en áreas técnicas como la implementación gráfica, la redacción de criterios de aceptación y la creación de la arquitectura de software, asegurando que todos los aspectos del proyecto estuvieran bien estructurados y revisados por el equipo. En conjunto, el trabajo en equipo permitió que cada miembro contribuyera a su área de especialización, promoviendo un entorno de colaboración y revisión crítica para el éxito del proyecto.<br><br> |
-| **Crea un entorno colaborativo e <br> inclusivo, establece metas, <br> planifica tareas y cumple <br> objetivos** | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> Se estableció un plan de desarrollo para la realización de tareas por sprint, siguiendo los principicios del Agile Development y la metodología Scrum. <br> *TP* <br> Utilizó el trello para comunicar los avances del frontend, la implementación satisfactoria de determinadas funcionalidades y la cancelación de aquellas que no fueron seleccionadas para el sprint. <br><br>**Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> Siguiendo lo enseñado en Diseño de Patrones de Software consiguió que de desarrolle de manera exitosa el Sprint número 1 liderando al equipo y establenciendo metas realistas.<br>*TP*<br>Propuso el uso de trello para poder repartir las tareas y responsabilidades del sprint 2, al haber tareas extras estás fueron fomentadas a ser tomadas por quien termine primero sus quehaceres del sprint 2.<br> <br><br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> Se comunicaron los detalles de las historias de usuario y sus cambios para implementaciones relacionadas. <br> *TP* <br> Se comunicaron las historias de usuario que se van a implementar para el bounded context definido. Se planificaron las metas para el sprint número 2. Además se utilizó GitHub para las diferentes versiones del front-end. <br><br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> Estableció objetivos y reuniones estratégicas para cada avance relacionado a los capítulos de desarrollo. <br> *TP* <br> Para el desarrollo de esta sección del trabajo, todos los miembros del equipo cumplieron con las metas y tareas establecidas de manera efectiva. <br> <br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> Se diseñó un plan de desarrollo para llevar a cabo las tareas, basándose en los principios clave del Desarrollo Ágil y la metodología Scrum.<br><br>  |<br>Se puede concluir que el trabajo en equipo y la coordinación para los tiempos de los entregables es clave para presentear un buen trabajo. Además, el equipo logró crear un entorno colaborativo e inclusivo siguiendo los principios del Desarrollo Ágil y la metodología Scrum. Se establecieron metas claras y realistas, planificando las tareas de manera efectiva y cumpliendo con los objetivos propuestos. La comunicación constante sobre las historias de usuario y sus cambios, junto con reuniones estratégicas para coordinar los avances, fueron esenciales para el éxito del proyecto. En conjunto, el enfoque estructurado y la coordinación eficiente en los tiempos de entrega permitieron que el trabajo se desarrollara de manera fluida y organizada.<br><br> |
+| **Trabaja en equipo para proporcionar <br> liderazgo en forma conjunta** | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> Identificó entornos de desarrollo colaborativo para poder trabajar de manera remota, manteniendo un seguimiento del avance. Para ello, se realizó el diseño de los wireframes y mockups en la herramienta Figma. <br> *TP*<br> Utilizó las historias de usuario desarrolladas por el equipo para iniciar el desarrollo del front end y la adhesión de la vista de los técnicos mejor valorados. <br> *TB2* <br> Realizó el avance del back end del bounded context "technical support", hizo el merge de las ramas para el back end y comunicó los cambios y errores a considerar para el siguiente sprint. <br><br> **Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> Empleó herramientas como Lucid Chart para los diagramas de clases y organizó la estructura del proyecto para guiar al equipo, así como la repartición de responsabilidades y plazos de acorde a la disponibilidad de cada miembro. <br> *TP*<br> Se puso la manta de líder para poder diseñar y repartir los bounded context, separando estos en feats para un simple entendimiento para los miembros del equipo. <br> *TB2* <br> Realizó el avance del back end del bounded context "components" e identificó las technical stories relacionadas. <br><br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> Trabajó los gráficos del needfinding de manera colaborativa en UXPressia y colaboró con la redacción e identificación de criterios de aceptación. <br> *TP* <br> Se planificaron y colocaron las historias de usuario a desarrollar para este segundo sprint en la herramienta colaborativa Trello. <br> *TB2* <br> Realizó el avance del back end del bounded context "interaction" y participó activamente en la resolución de conflictos e incompatibilidades durante el merge de ramas para el back end. <br><br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> Elaboró el deployment de la landing page y el modelado de la base de datos. <br> *TP* <br> Para el desarrollo de esta sección del trabajo, todos los miembros del equipo se organizaron de manera efectiva con el fin de cumplir los objetivos establecidos, contribuyendo cada uno desde su propia perspectiva. <br> *TB2* <br> Realizó el avance del back end del bounded context "orders" y mejoró el diseño del home y el desarrollo de su bounded context para el frontend. <br><br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> Empleó herramientas como Microsoft Visual Studio para la arquitectura de software y ayudó a que todos los integrantes del grupo puedan analizar y criticar lo trabajado. <br><br>  |<br>El equipo mostró un alto nivel de colaboración y liderazgo compartido, utilizando diversas herramientas digitales para el desarrollo del proyecto de manera remota. La organización y distribución de tareas fue clave para el avance eficiente, aprovechando plataformas como Figma y Lucid Chart para el diseño y la planificación. Los miembros también destacaron en áreas técnicas como la implementación gráfica, la redacción de criterios de aceptación y la creación de la arquitectura de software, asegurando que todos los aspectos del proyecto estuvieran bien estructurados y revisados por el equipo. En conjunto, el trabajo en equipo permitió que cada miembro contribuyera a su área de especialización, promoviendo un entorno de colaboración y revisión crítica para el éxito del proyecto.<br><br> |
+| **Crea un entorno colaborativo e <br> inclusivo, establece metas, <br> planifica tareas y cumple <br> objetivos** | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> Se estableció un plan de desarrollo para la realización de tareas por sprint, siguiendo los principios del Agile Development y la metodología Scrum. <br> *TP* <br> Utilizó Trello para comunicar los avances del frontend, la implementación satisfactoria de determinadas funcionalidades y la cancelación de aquellas que no fueron seleccionadas para el sprint. <br> *TB2* <br> Gestionó el avance del back end, asegurando la integración y supervisando el merge de las ramas. <br><br> **Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> Siguiendo lo enseñado en Diseño de Patrones de Software, consiguió que se desarrollara de manera exitosa el Sprint número 1 liderando al equipo y estableciendo metas realistas. <br> *TP*<br> Propuso el uso de Trello para repartir las tareas y responsabilidades del sprint 2; ante tareas adicionales, promovió que fueran tomadas por quien terminara primero sus asignaciones. <br> *TB2* <br> Lideró el desarrollo y asignación de tareas en el contexto de componentes, motivando la toma de decisiones colaborativas para el avance del proyecto. <br><br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> Se comunicaron los detalles de las historias de usuario y sus cambios para implementaciones relacionadas. <br> *TP* <br> Se comunicaron las historias de usuario que se van a implementar para el bounded context definido. Se planificaron las metas para el sprint número 2. Además, se utilizó GitHub para las diferentes versiones del front-end. <br> *TB2* <br> Colaboró en la integración de módulos y gestionó los conflictos de merge, promoviendo un entorno inclusivo y abierto a la retroalimentación. <br><br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> Estableció objetivos y reuniones estratégicas para cada avance relacionado a los capítulos de desarrollo. <br> *TP* <br> Para el desarrollo de esta sección del trabajo, todos los miembros del equipo cumplieron con las metas y tareas establecidas de manera efectiva. <br> *TB2* <br> Contribuyó al desarrollo del back end y mejoró la interfaz del home, facilitando el trabajo en equipo y la integración de sus componentes. <br><br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> Se diseñó un plan de desarrollo para llevar a cabo las tareas, basándose en los principios clave del Desarrollo Ágil y la metodología Scrum.<br><br>  |<br>Se puede concluir que el trabajo en equipo y la coordinación para los tiempos de los entregables es clave para presentar un buen trabajo. Además, el equipo logró crear un entorno colaborativo e inclusivo siguiendo los principios del Desarrollo Ágil y la metodología Scrum. Se establecieron metas claras y realistas, planificando las tareas de manera efectiva y cumpliendo con los objetivos propuestos. La comunicación constante sobre las historias de usuario y sus cambios, junto con reuniones estratégicas para coordinar los avances, fueron esenciales para el éxito del proyecto. En conjunto, el enfoque estructurado y la coordinación eficiente en los tiempos de entrega permitieron que el trabajo se desarrollara de manera fluida y organizada.<br><br> |
 
 
 
@@ -994,6 +993,33 @@ Segmento 2: Técnicos de computadoras
 | US027 | Recompensas adicionales por compras | Como usuario premium, quiero recibir una recompensa adicional como accesorios relacionados a mi compra para sentirme valorado por mi lealtad y nivel de suscripción. | **Escenario 1: Recompensa adicional otorgada por compra** **Dado que** el usuario es premium y ha realizado una compra que califica para recibir recompensas adicionales, **Cuando** el usuario finaliza la compra y cumple con las condiciones establecidas para la recompensa (como un monto mínimo o un producto específico), **Entonces** el sistema selecciona automáticamente un accesorio relacionado como recompensa, lo añade al pedido del usuario sin costo adicional.También recibe una notificación con el detalle de la  recompensa. **Escenario 2: No se otorga recompensa adicional** **Dado que** el usuario es premium y realiza una compra, **Cuando** la compra no cumple con las condiciones para recibir una recompensa adicional, **Entonces** el sistema no añade ninguna recompensa adicional al pedido y el usuario recibe un mensaje indicando que no se ha calificado para la recompensa, con información sobre las condiciones necesarias para obtenerla. | EPIC007 |
 | US028 | Sorteo de componentes y gadgets | Como usuario premium quiero participar en sorteos de componentes y gadgets para tener la oportunidad de ganar productos adicionales. | **Escenario 1: Participación en el sorteo confirmada** **Dado que** el usuario es premium y ha cumplido con los requisitos de participación en el sorteo (como realizar una compra mínima o registrarse en el sorteo), **Cuando** el usuario completa el proceso de participación, **Entonces** el sistema confirma la participación del usuario en el sorteo, le envía una notificación con los detalles del sorteo y el número de participación, y al finalizar el sorteo, el usuario recibe una notificación sobre los resultados, informándole si ha ganado y cómo reclamar su premio. **Escenario 2: Fallo en la participación en el sorteo** **Dado que** el usuario es un usuario premium e intenta participar en el sorteo, **Cuando** el usuario no cumple con los requisitos de participación (como no realizar la compra mínima o no registrarse correctamente), **Entonces** el sistema muestra un mensaje de error indicando que la participación no puede ser completada debido al incumplimiento de los requisitos, y proporciona información sobre los requisitos necesarios para poder participar en futuros sorteos. | EPIC007 |
 
+|Historias ténicas| Título | Descripción | Criterios de Aceptación |
+|-----------------|--------|-------------|-------------------------|
+|TS01| Registro de usuario|Como desarrollador, quiero implementar el servicio de registro de usuario para gestionar los registros exitosos y los errores.|Escenario 1: Registro exitoso Dado que el usuario ingresa datos válidos, Cuando realiza el registro, Entonces el sistema debe crear el usuario en la base de datos y enviar un correo de verificación. Escenario 2: Error en el registro Dado que el usuario ingresa datos inválidos, Cuando intenta registrarse, Entonces el sistema muestra un mensaje de error.|
+|TS02|Iniciar Sesión|Como desarrollador, quiero implementar el inicio de sesión para autenticar usuarios y manejar los errores de autenticación.|Escenario 1: Inicio de sesión exitoso Dado que el usuario ingresa datos válidos, Cuando intenta iniciar sesión, Entonces el sistema lo autentica y lo redirige a su perfil. Escenario 2: Error en inicio de sesión Dado que el usuario ingresa datos incorrectos, Cuando intenta iniciar sesión, Entonces el sistema muestra un mensaje de error.|
+|TS03|Editar perfil de usuario|Como desarrollador, quiero habilitar la edición del perfil de usuario para que los usuarios puedan actualizar su información.|Escenario 1: Edición exitosa Dado que el usuario ingresa datos válidos, Cuando actualiza el perfil, Entonces el sistema guarda los cambios y confirma la edición. Escenario 2: Error en edición Dado que el usuario ingresa datos inválidos, Cuando intenta actualizar, Entonces el sistema muestra un mensaje de error.|
+|TS04|Eliminar usuario|Como desarrollador, quiero implementar la funcionalidad de eliminación de usuario para mantener la base de datos actualizada.|Escenario 1: Eliminación exitosa Dado que el administrador confirma la acción, Cuando elimina un usuario, Entonces el sistema borra al usuario y muestra un mensaje de confirmación. Escenario 2: Error al eliminar usuario Dado que hay un problema en la base de datos, Cuando el administrador intenta eliminar un usuario, Entonces se muestra un mensaje de error.|
+|TS05|Selección de Componentes de PC|Como desarrollador, quiero implementar la selección de componentes para sugerir productos que se adapten a las necesidades y presupuesto del usuario.|Escenario 1: Selección correcta Dado que el usuario ingresa necesidades y presupuesto, Cuando solicita recomendaciones, Entonces el sistema muestra componentes compatibles. Escenario 2: Selección errónea Dado que el usuario ingresa necesidades, Cuando solicita recomendaciones, Entonces el sistema muestra productos fuera de presupuesto o incompatibles.|
+|TS06|Filtro de búsqueda de componentes|Como desarrollador, quiero habilitar un sistema de filtros para especificar criterios de búsqueda en la selección de componentes.|Escenario 1: Filtros aplicados correctamente Dado que el usuario define tareas y presupuesto, Cuando aplica filtros, Entonces el sistema muestra componentes compatibles. Escenario 2: Filtros sin resultados Dado que el usuario aplica filtros específicos, Cuando realiza la búsqueda, Entonces el sistema muestra lista vacía o incorrecta.|
+|TS07|Palabras clave para selección de componentes|Como desarrollador, quiero implementar la búsqueda por palabras clave para localizar componentes específicos en la plataforma.|Escenario 1: Resultados relevantes Dado que el usuario ingresa una palabra clave, Cuando realiza la búsqueda, Entonces el sistema muestra componentes relacionados. Escenario 2: Resultados irrelevantes Dado que el usuario busca un término específico, Cuando realiza la búsqueda, Entonces se muestra una lista irrelevante o vacía.|
+|TS08|Carrito de compras|	Como desarrollador, quiero habilitar el carrito de compras para que los usuarios revisen los componentes antes de comprarlos.|Escenario 1: Componentes en carrito Dado que el usuario añade artículos, Cuando accede al carrito, Entonces el sistema muestra detalles y opciones de edición. Escenario 2: Error en carrito Dado que el usuario añade artículos, Cuando accede al carrito, Entonces el sistema no muestra correctamente los artículos o no permite editar.|
+|TS09|Listas de Deseos|Como desarrollador, quiero habilitar la lista de deseos para que los usuarios puedan guardar componentes para futuras compras.|Escenario 1: Guardado exitoso Dado que el usuario añade artículos a la lista, Cuando accede a ella, Entonces el sistema muestra los componentes guardados. Escenario 2: Error en lista de deseos Dado que el usuario intenta guardar artículos, Cuando accede a la lista, Entonces el sistema no muestra correctamente los componentes.|
+|TS10|Guía técnica en un entorno colaborativo virtual para diagnóstico de problemas|Como desarrollador, quiero implementar una guía técnica en un entorno colaborativo para diagnóstico de problemas de hardware o software.|Escenario 1: Acceso exitoso a la guía Dado que el usuario está en el entorno colaborativo, Cuando accede a la guía, Entonces el sistema muestra instrucciones detalladas. Escenario 2: Error en la guía técnica Dado que el usuario intenta acceder a la guía, Cuando hay problemas, Entonces el sistema muestra un mensaje de error.|
+|TS11|Consultas ilimitadas|Como desarrollador, quiero permitir acceso a consultas ilimitadas para usuarios premium en el portal técnico.|Escenario 1: Consultas sin restricciones Dado que el usuario premium consulta, Cuando envía la solicitud, Entonces el sistema permite acceso ilimitado. Escenario 2: Restricciones en consultas Dado que el usuario premium consulta, Cuando intenta enviar la solicitud, Entonces el sistema limita el acceso a consultas.|
+|TS12|Capacitación Personalizada|Como desarrollador, quiero habilitar una capacitación personalizada para guiar a los usuarios en el uso y mantenimiento de sus PCs.|Escenario 1: Capacitación personalizada Dado que el usuario solicita capacitación, Cuando inicia la sesión, Entonces el sistema adapta el plan según la PC. Escenario 2: Capacitación genérica Dado que el usuario solicita capacitación, Cuando inicia la sesión, Entonces el sistema muestra un plan genérico.|
+|TS13|Solicitud de soporte técnico de forma virtual|Como desarrollador, quiero implementar solicitudes de soporte técnico virtual para que los usuarios puedan recibir ayuda en línea.|Escenario 1: Soporte técnico virtual exitoso Dado que el usuario solicita soporte, Cuando envía el formulario, Entonces el sistema confirma y asigna un ticket. Escenario 2: Error en soporte técnico Dado que el usuario solicita soporte, Cuando envía el formulario, Entonces el sistema no confirma ni asigna ticket.|
+|TS14|Solicitud de soporte técnico a domicilio|Como desarrollador, quiero habilitar solicitudes de soporte técnico a domicilio para usuarios premium.|Escenario 1: Soporte a domicilio exitoso Dado que el usuario premium solicita soporte, Cuando selecciona soporte a domicilio, Entonces el sistema confirma y asigna técnico. Escenario 2: Error en soporte a domicilio Dado que el usuario premium solicita soporte, Cuando selecciona soporte a domicilio, Entonces el sistema no confirma ni asigna técnico.|
+|TS15|Soporte prioritario|Como desarrollador, quiero habilitar soporte prioritario para usuarios premium, asignando personal especializado.|Escenario 1: Soporte prioritario efectivo Dado que el usuario premium solicita soporte, Cuando el sistema lo identifica como prioritario, Entonces asigna un técnico especializado. Escenario 2: Soporte prioritario no atendido Dado que el usuario premium solicita soporte, Cuando el sistema no da prioridad, Entonces el problema no se resuelve rápidamente.|
+|TS16|Mantenimiento Preventivo|Como desarrollador, quiero implementar el flujo para la solicitud de mantenimiento preventivo con confirmaciones.|Escenario 1: Given que el usuario desea solicitar mantenimiento preventivo, When accede al portal y completa el formulario, Then el sistema genera un número de solicitud, And confirma la recepción y envía notificación con la cita. Escenario 2: Given que el usuario desea solicitar mantenimiento, When completa el formulario incorrectamente, Then el sistema no genera confirmación ni número de solicitud.|
+|TS17|Reseña y valoración de componentes|Como desarrollador, quiero diseñar y validar el formulario de reseñas para componentes adquiridos por el usuario.|Escenario 1: Given que el usuario adquirió un componente, When completa el formulario de reseña, Then el sistema guarda la reseña y valoración, And muestra confirmación. Escenario 2: Given que el usuario adquirió un componente, When intenta enviar la reseña sin completar todos los campos requeridos, Then el sistema muestra un error, And no guarda la reseña.|
+|TS18|Reseña y valoración  del servicio técnico|Como desarrollador, quiero implementar la funcionalidad para valorar el servicio técnico recibido por el usuario.|Escenario 1: Given que el usuario recibió servicio técnico, When completa el formulario de valoración, Then el sistema guarda la valoración, And confirma la publicación. Escenario 2: Given que el usuario recibió servicio técnico, When intenta enviar valoración sin todos los campos requeridos, Then el sistema muestra un error, And no guarda la valoración.|
+|TS19|Confirmación del pago|Como desarrollador, quiero implementar el flujo de confirmación de pago detallado para compras finalizadas.|Escenario 1: Given que el usuario completó la compra, When el sistema procesa el pago, Then el usuario recibe una confirmación detallada del pago, And se incluye el monto, los detalles de los artículos, la forma de pago, y un número de referencia. Escenario 2: Given que el usuario completó el pago, When ocurre un error en el procesamiento, Then el sistema muestra un mensaje de fallo en la transacción.|
+|TS20|Cancelación del pago|Como desarrollador, quiero permitir la cancelación de pago antes de su procesamiento final.|Escenario 1: Given que el usuario inició el proceso de pago, When elige cancelar antes del procesamiento, Then el sistema detiene el pago, And confirma la cancelación sin cargo. Escenario 2: Given que el usuario inició el proceso de pago, When intenta cancelar después del procesamiento, Then el sistema muestra un error indicando la imposibilidad de cancelación.|
+|TS21|Gestión de devoluciones|Como desarrollador, quiero habilitar la gestión de devoluciones para componentes comprados.|Escenario 1: Given que el usuario compró un componente y desea devolverlo, When completa el formulario de devolución, Then el sistema registra la solicitud, And envía un número de seguimiento y confirmación. Escenario 2: Given que el usuario intentó devolver un componente fuera del período de devolución, When envía el formulario, Then el sistema muestra un error y sugiere contactar soporte.|
+|TS22|Compras que dan puntos para canjear descuentos|Como desarrollador, quiero que los usuarios premium acumulen puntos por cada compra realizada.|Escenario 1: Given que el usuario premium realiza una compra, When la transacción es exitosa, Then el sistema agrega puntos, And envía notificación con el saldo de puntos. Escenario 2: Given que el usuario premium realiza una compra, When el pago falla o es cancelado, Then el sistema no acumula puntos, And envía una notificación de compra fallida sin puntos acumulados.|
+|TS23|Recompensas adicionales por compras|Como desarrollador, quiero ofrecer recompensas adicionales a usuarios premium que cumplen ciertas condiciones.|Escenario 1: Given que el usuario premium realiza una compra calificable, When finaliza la compra y cumple condiciones, Then el sistema asigna una recompensa, And envía una notificación con detalles. Escenario 2: Given que el usuario premium realiza una compra, When no cumple condiciones de recompensa, Then el sistema no otorga recompensa y notifica las condiciones necesarias.|
+|TS24|  Sorteo de componentes y gadgets|Como desarrollador, quiero permitir la participación de usuarios premium en sorteos de componentes y gadgets.|Escenario 1: Given que el usuario premium cumple requisitos de sorteo, When completa la inscripción, Then el sistema confirma participación y envía detalles del sorteo. Escenario 2: Given que el usuario premium intenta participar sin cumplir requisitos, When intenta registrarse, Then el sistema muestra un error y explica los requisitos para futuros sorteos.|
+
 ## 3.3. Impact Mapping.
 
 [![Impact-map-1.png](https://i.postimg.cc/8PC3VRPK/Impact-map-1.png)](https://postimg.cc/bdKLx2nk)
@@ -1029,6 +1055,34 @@ Segmento 2: Técnicos de computadoras
 | 26     | US026         | Compras que dan puntos para canjear descuentos | Como usuario premium quiero acumular puntos con cada compra para canjearlos por descuentos en futuras compras.                                                                      | 3            |
 | 27     | US027         | Recompensas adicionales por compras             | Como usuario premium, quiero recibir una recompensa adicional como accesorios relacionados a mi compra para sentirme valorado por mi lealtad y nivel de suscripción.               | 5            |
 | 28     | US028         | Sorteo de componentes y gadgets                 | Como usuario premium quiero participar en sorteos de componentes y gadgets para tener la oportunidad de ganar productos adicionales.                                                | 3            |
+
+| # Orden | Technical Story ID | Título                                      | Descripción                                                                                                                      | Story Points |
+|---------|---------------|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|--------------|
+| 1       | TS01         | Generación de Contrato                      | Como desarrollador, implementar la generación de contratos para usuarios y landlords con validaciones necesarias.               | 5            |
+| 2       | TS02         | Notificación de Confirmación de Contrato    | Como desarrollador, implementar la notificación estilizada para confirmar el envío de contratos al propietario.                  | 3            |
+| 3       | TS03         | Validación de Datos de Landlord             | Como desarrollador, crear la lógica para validar los datos del landlord antes de permitir la generación del contrato.            | 3            |
+| 4       | TS04         | Interfaz de Pago                            | Como desarrollador, implementar la interfaz de pago para procesar pagos después de la generación del contrato.                   | 5            |
+| 5       | TS05         | Interfaz de Visualización de Contrato       | Como desarrollador, crear la interfaz para visualizar el contrato antes de enviarlo al propietario.                              | 3            |
+| 6       | TS06         | Funcionalidad de Previsualización           | Como desarrollador, habilitar la funcionalidad de previsualización del contrato generado.                                       | 2            |
+| 7       | TS07         | Gestión de Historial de Contratos           | Como desarrollador, implementar la gestión del historial de contratos generados por los usuarios.                                | 3            |
+| 8       | TS08         | Integración de Firmas de Landlords          | Como desarrollador, integrar la funcionalidad para adjuntar la firma del landlord en los contratos generados.                    | 5            |
+| 9       | TS09         | Consulta de Estado de Contratos             | Como desarrollador, permitir a los usuarios consultar el estado de sus contratos generados.                                     | 2            |
+| 10      | TS10         | Gestión de Términos y Condiciones           | Como desarrollador, implementar la gestión de términos y condiciones para los contratos.                                         | 3            |
+| 11      | TS11         | Soporte para Varios Idiomas                 | Como desarrollador, implementar soporte para múltiples idiomas en la generación de contratos.                                   | 3            |
+| 12      | TS12         | Análisis de Uso de Contratos                | Como desarrollador, crear funcionalidades para analizar el uso y aceptación de los contratos generados.                          | 5            |
+| 13      | TS13         | Mejora de la Estética del Contrato          | Como desarrollador, implementar mejoras en la estética del contrato generado con jsPDF.                                         | 3            |
+| 14      | TS14         | Manejo de Errores en la Generación          | Como desarrollador, implementar manejo de errores durante el proceso de generación de contratos.                                 | 3            |
+| 15      | TS15         | Creación de Plantillas de Contrato          | Como desarrollador, permitir la creación de plantillas para contratos que puedan ser reutilizadas.                               | 5            |
+| 16      | TS16         | Solicitud de Mantenimiento Preventivo       | Como desarrollador, implementar el flujo de solicitud de mantenimiento preventivo con confirmaciones, incluyendo validación y notificación.          | 5            |
+| 17      | TS17         | Formulario de Reseñas para Componentes      | Como desarrollador, diseñar y validar el formulario para que los usuarios puedan dejar reseñas sobre componentes adquiridos.                         | 3            |
+| 18      | TS18         | Valoración del Servicio Técnico             | Como desarrollador, implementar funcionalidad para que el usuario valore el servicio técnico recibido.                                               | 3            |
+| 19      | TS19         | Confirmación de Pago Detallada              | Como desarrollador, implementar flujo para generar una confirmación detallada de pago tras la finalización de una compra.                            | 5            |
+| 20      | TS20         | Cancelación de Pago                         | Como desarrollador, permitir la cancelación del pago antes de su procesamiento final.                                                                | 3            |
+| 21      | TS21         | Gestión de Devoluciones                     | Como desarrollador, habilitar la opción de devolución de componentes adquiridos y procesar solicitudes de devolución.                                | 5            |
+| 22      | TS22         | Acumulación de Puntos para Usuarios Premium | Como desarrollador, permitir que usuarios premium acumulen puntos por cada compra realizada.                                                         | 3            |
+| 23      | TS23         | Recompensas para Usuarios Premium           | Como desarrollador, ofrecer recompensas adicionales a usuarios premium que cumplan con ciertas condiciones.                                          | 2            |
+| 24      | TS24         | Sorteos para Usuarios Premium               | Como desarrollador, permitir que usuarios premium participen en sorteos de componentes y gadgets si cumplen con los requisitos.                      | 2            |
+
 
 # Capítulo IV: Product Design
 
@@ -2764,7 +2818,7 @@ Para este sprint 2 se hará el desployement usando Firebase siguiendo los siguen
      ```
    - Este comando subió el contenido del directorio `/dist` a Firebase Hosting, haciendo que la aplicación esté disponible en la web.
 
-   * [Frontend Desplegado](https://tp-pcmaster.web.app/home)
+   * Frontend Desplegado: https://tp-pcmaster.web.app/home
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint
 
@@ -2778,6 +2832,337 @@ Para este sprint 2 se hará el desployement usando Firebase siguiendo los siguen
 
 [![network.png](https://i.postimg.cc/zXgXLQpq/network.png)](https://postimg.cc/nCntg06W)
 
+
+### 5.2.3. Sprint 3
+#### 5.2.3.1.Sprint Planning 3.
+
+En este tercer sprint del proyecto, nos centraremos en especificar las tareas a realizar en el backend de la aplicación para el desarrollo de nuestra API REST, además de consolidar y finalizar todas las tareas asignadas en el desarrollo del frontend. Todos los integrantes del equipo de TechMinds han estado involucrados de manera activa en la planificación y ejecución de las actividades.
+
+Nuestro objetivo al iniciar el Sprint 3 es consolidar las user stories y las tareas asignadas en los sprints anteriores, así como planificar las user stories que cada integrante del equipo llevará a cabo para el desarrollo de cada endpoint, parte fundamental del backend de nuestra aplicación. Con este enfoque, buscamos garantizar un avance sólido y coordinado en ambas áreas del proyecto.
+
+<br>
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td>Sprint 3</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Date</td>
+            <td>26-10-2024</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>15:00</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>UPC</td>
+        </tr>
+        <tr>
+            <td>Prepared By</td>
+            <td>TechMinds</td>
+        </tr>
+        <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td> Aranda Vallejos, Oscar Gabriel / Cantoral Sedamano, Alexander Alberto / Chirinos Zúñiga, Rodrigo Manuel / Soriano Medrano, Diego </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 – 2 Review Summary</td>
+            <td> Se realizó una revisión del cumplimiento de las actividades e historias de usuario para implementar el frontend web de nuestra propuesta de solución. También se llevó a cabo la implementación y corrección de las rutas de acceso a los componentes en los archivos compartidos y en los botones de la aplicación durante la integración del frontend. Además, en la herramienta Trello, se actualizaron las asignaciones de las historias de usuario y se registraron las tareas completadas para cada historia. Por último, se integraron todos los cambios realizados en el repositorio del frontend en la rama de desarrollo. </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 – 2 Retrospective Summary</td>
+            <td> Los integrantes de TechMinds han participado de manera activa en el desarrollo de la aplicación y han colaborado en la integración de todas las funcionalidades propuestas, documentando estos avances en el repositorio remoto. En general, se concluye que hasta el momento se han logrado resultados positivos. Sin embargo, se identifican áreas de mejora, destacando la necesidad de mantener una comunicación fluida entre los miembros del equipo para prevenir conflictos en el desarrollo de los componentes. </td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Goal</td>
+            <td> <b>Nuestro enfoque está en</b> el desarrollo de servicios backend para la integración con nuestra aplicación, garantizando que cumplan con la lógica de negocio establecida en las historias de usuario. <b>Creemos que esta implementación proporcionará</b> las funciones clave para crear recursos y añadir datos relevantes en nuestra aplicación. <b>Esto se confirmará cuando</b> seamos capaces de realizar operaciones CRUD de acuerdo con los dominios identificados, lo que nos permitirá probar la funcionalidad a través de nuestra API documentada con Swagger. </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Velocity</td>
+            <td>28</td>
+        </tr>
+        <tr>
+            <td>Sum of Story Points</td>
+            <td>28</td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+#### 5.2.3.2.Sprint Backlog 3.
+
+En el desarrollo del Sprint número tres, hemos verificado el cumplimiento de las actividades asignadas en el sprint anterior. Consolidamos todas las historias de usuario relacionadas con el desarrollo frontend de la aplicación y asignamos a cada integrante las historias de usuario necesarias para comenzar con la implementación de los servicios backend.
+
+Cada miembro del equipo se encargó de identificar sus respectivas historias de usuario, lo cual se refleja en la plataforma Trello.
+
+**Board para el Sprint:**
+
+<img src="/assets/Trello_S3.png"/>
+
+<br/>
+
+**URL Trello:**
+
+[https://trello.com/b/7CzGyE3X/si730-2402-ws51-grupo-2](https://trello.com/b/7CzGyE3X/si730-2402-ws51-grupo-2)
+
+<br/>
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td colspan="7" >Sprint 3</td>
+        </tr>
+        <tr>
+            <td colspan="2" > User Story</td>
+            <td colspan="6" > Work-Item / Task </td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> Id </td>
+            <td> Title </td>
+            <td> Id </td>
+            <td> Title </td>
+            <td> Description </td>
+            <td> Estimation (Hours) </td>
+            <td> Assigned To </td>
+            <td> Status (To-do / In-Process / To-Review / Done) </td>
+        </tr>
+        <tr>
+            <td> US013 </td>
+          	<td> Lista de Deseos </td>
+          	<td> 01 </td>
+          	<td> Implementar visualización lista de deseos </td>
+            <td> - Crear vista de lista de deseos </br> - Mostrar los articulos en la lista de deseos  </td>
+            <td> 2 </td>
+            <td> Rodrigo Chirinos </td>
+            <td> Done </td>
+        </tr>
+        <tr>
+            <td> US021 </td>
+          	<td> Reseña y valoración de componentes </td>
+          	<td> 02 </td>
+          	<td> Implementar reseña y valoración de componentes </td>
+            <td> - Implementar boton reseña y valoración de componentes </br> - Añadir estilos a la vista de reseña y valoración de componentes </td>
+            <td> 2 </td>
+            <td> Rodrigo Chirinos </td>
+            <td> Done </td>
+        </tr>
+        <tr>
+            <td> US022 </td>
+          	<td> Reseña y valoración  del servicio técnico </td>
+          	<td> 02 </td>
+          	<td> Implementar reseña y valoración del servicio técnico </td>
+            <td> - Implementar boton para reseña de servicios </br> - Validra reseña y valoración  del servicio técnico </td>
+            <td> 2 </td>
+            <td> Rodrigo Chirinos </td>
+            <td> Done </td>
+        </tr>
+        <tr>
+            <td> TS05 </td>
+          	<td> Selección de Componentes de PC </td>
+          	<td> 11 </td>
+          	<td> Backend que permita la selección de Componentes de PC </td>
+            <td> - Identificar los value objects para componentes </br> - Codificar los constructores para selección </br> - Codificar Commands del modelo </br> - Codificar Queries del modelo </td>
+            <td> 2 </td>
+            <td> Diego Soriano </td>
+            <td> Done </td>
+        </tr>
+        <tr>
+            <td> TS06 </td>
+          	<td> Filtro de búsqueda de componentes </td>
+          	<td> 12 </td>
+          	<td> Backend para filtración de búsqueda de componentes </td>
+            <td> - Codificación de model command de filtros de componentes  - Implementación de los servicios query </br> - Codificación de interfaces rest para busqueda de componentes </td>
+            <td> 2 </td>
+            <td> Alexander Cantoral </td>
+            <td> Done </td>
+        </tr>
+        <tr>
+            <td> TS07 </td>
+          	<td> Palabras clave para selección de componentes </td>
+          	<td> 12 </td>
+          	<td> Backend para selección de componentes </td>
+            <td> - Codificación de model command de palabras para componentes  - Implementación de los servicios query </br> - Codificación de interfaces rest para busqueda de componentes </td>
+            <td> 2 </td>
+            <td> Alexander Cantoral </td>
+            <td> Done </td>
+        </tr>
+        <tr>
+            <td> TS08 </td>
+          	<td> Carrito de compras </td>
+          	<td> 11 </td>
+          	<td> Backend que permita agregar componentes al carrito de compras </td>
+            <td> - Identificar los value objects para el carrito de compras </br> - Codificar los constructores para selección </br> - Codificar Commands del modelo </br> - Codificar Queries del modelo </td>
+            <td> 2 </td>
+            <td> Diego Soriano </td>
+            <td> Done </td>
+        </tr>
+        <tr>
+            <td> TS17 </td>
+          	<td> Reseña y valoración de componentes </td>
+          	<td> 02 </td>
+          	<td> Implementar reseña y valoración de componentes </td>
+            <td> - Implementar boton para reseña de componentes </br> - Validra reseña y valoración  de componentes </td>
+            <td> 2 </td>
+            <td> Rodrigo Chirinos </td>
+            <td> Done </td>
+        </tr>
+        <tr>
+            <td> TS18 </td>
+          	<td> Reseña y valoración  del servicio técnico </td>
+          	<td> 02 </td>
+          	<td> Implementar backend para reseña y valoración  del servicio técnico </td>
+            <td> - Implementar endpoint de reseña y valoración de servicio técnico </br> - Validra reseña y valoración  de componentes al ejecutar metodo en el API </td>
+            <td> 2 </td>
+            <td> Rodrigo Chirinos </td>
+            <td> Done </td>
+        </tr>
+    </tbody>
+</table>
+
+<br/>
+
+#### 5.2.3.3.Development Evidence for Sprint Review.
+
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+|https://github.com/SI730-WS51-PC-MASTER/Backend|main|d564cd95ac692c4b3751099d417a675654badd99|feat: GET and POST Component|Solved refactor component|2/11/2024|
+
+
+
+#### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+|https://github.com/SI730-WS51-PC-MASTER/Testing|main|b21ab6c8faf1c9f2b1c163f28f7aa6acc5271b49|docs: TS for Sprint 3|TS for Sprint 3|4/11/2024|
+
+#### 5.2.3.5.Execution Evidence for Sprint Review.
+
+Para este Sprint se enfocaron los esfuerzos en mejorar el Frontend y avanzar el Backend de la aplicación web. 
+
+Link del vídeo con evidencias: https://acortar.link/CMYAkm
+
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+Se adjuntan capturas del  OpenAPI Specification vía Swagger:
+
+[![Swagger1.png](https://i.postimg.cc/KYPWSK61/Swagger1.png)](https://postimg.cc/WD4804bV)
+
+[![Swagger2.png](https://i.postimg.cc/2jcKDNK7/Swagger2.png)](https://postimg.cc/23WwQMm1)
+
+[![Swagger3.png](https://i.postimg.cc/rFDYyY6X/Swagger3.png)](https://postimg.cc/kBdyfsXf)
+
+[![Swagger4.png](https://i.postimg.cc/QM36b8Fh/Swagger4.png)](https://postimg.cc/w1wcxd5G)
+
+[![Swagger5.png](https://i.postimg.cc/B6ZMrm5z/Swagger5.png)](https://postimg.cc/t1f3PtMd)
+
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+Para este sprint 3 se hará el desployement usando Firebase siguiendo los siguentes pasos:
+
+1. **Creación de la cuenta en Firebase**
+   - Se creó una cuenta en Firebase para alojar la aplicación. Para esto, se accedió a [firebase.google.com](https://firebase.google.com/) y se configuró un nuevo proyecto dentro de Firebase Console.
+   - [![2.png](https://i.postimg.cc/0QrLhnVs/2.png)](https://postimg.cc/S2FTM60T)
+
+2. **Configuración del proyecto Vue**
+   - Dentro del proyecto Vue, se instaló la CLI de Firebase ejecutando:
+     ```bash
+     npm install -g firebase-tools
+     ```
+   - Luego, se inicializó Firebase Hosting en el proyecto mediante:
+     ```bash
+     firebase init
+     ```
+   - Se seleccionó Firebase Hosting como la herramienta de despliegue, vinculando el proyecto de Firebase con el código de la aplicación.
+
+3. **Build del proyecto Vue**
+   - Para generar los archivos listos para el despliegue, se ejecutó el comando:
+     ```bash
+     npm run build
+     ```
+   - Este comando generó la carpeta `/dist`, que contiene los archivos estáticos que Firebase utilizará para el hosting.
+   - 
+4. **Despliegue en Firebase Hosting**
+   - Una vez generado el build, se ejecutó el comando:
+     ```bash
+     firebase deploy
+     ```
+   - Este comando subió el contenido del directorio `/dist` a Firebase Hosting, haciendo que la aplicación esté disponible en la web.
+
+   * Frontend Desplegado: https://apps-web-pc-master.web.app/home
+
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
+
+Para el frontend se hicieron mejoras como se puede apreciar en la gráfica: 
+[![insights.png](https://i.postimg.cc/tCWrh1t8/insights.png)](https://postimg.cc/mtZN4gnS)
+
+Para el backend se añadieron los bounded context de cada uno con una versión pre-liminar de los mismos:
+[![insights2.png](https://i.postimg.cc/zXhdnd1J/insights2.png)](https://postimg.cc/SJy74fs5)
+
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+
+Esta parte del informe presentará la parte objetiva de las entrevistas junto con el análisis relevante de cada una de ellas. Al ser preguntas generales de uso, no se distinguirá de segmento objetivo.
+
+Preguntas principales: ¿Qué te parece la Landing Page? ¿Siente que es facil de usar? ¿Podrías hacerme el favor de registrarte y mandar un mensaje? ¿Qué te parece la aplicación web? ¿Siente que la aplicación web satisfacerá tus necesidades como futur@ usuario?
+
+**URL Inerview:**
+
+[https://acortar.link/J8ewGA](https://acortar.link/J8ewGA)
+
+
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218167_upc_edu_pe/EaVlYf89dABIpnRa9Uq18Q4BehvpnopFzfT2NalPuy9vww?e=BgZWxv](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218167_upc_edu_pe/EaVlYf89dABIpnRa9Uq18Q4BehvpnopFzfT2NalPuy9vww?e=BgZWxv)
+
+### 5.3.2. Registro de Entrevistas.
+
+Link de entrevista 1: https://acortar.link/J8ewGA 
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+UX Heuristics & Principles Evaluation
+
+Usability – Inclusive Design – Information Architecture
+
+CARRERA: Ingeniería de Software
+
+CURSO: Desarrollo de Aplicaciones Open Source
+
+SECCIÓN: WS51
+
+PROFESORES: 
+Bautista Ubillús, Efraín Ricardo
+Flores Moroco, Juan Antonio
+Mori Paiva, Hugo Allan
+Sánchez Seña, Alberto Wilmer
+Velásquez Núñez, Ángel Augusto
+
+AUDITOR : Grupo 2
+
+CLIENTES: 
+
+SITE o APP A EVALUAR: PC-MASTER
+
+TAREAS A EVALUAR:
+
+## 5.4. Video About-the-Product.
+En esta sección se tiene un vídeo que resume todo lo que el producto ofrece y una vista rápida a los feats logrados para la aplicación:
+
+Link del vídeo: https://acortar.link/x9hnTP 
+
 # Conclusiones
 ## Conclusiones y recomendaciones
 
@@ -2786,6 +3171,8 @@ En segundo lugar, se comenzó a trabajar en el repositorio de documentación, qu
 En el capítulo cuatro, tras haber establecido los requisitos de los dos segmentos, se procedió al diseño del producto final, comenzando con la creación y desarrollo de la landing page como primer entregable. Finalmente, el capítulo cinco detalla las especificaciones técnicas relacionadas con las configuraciones necesarias para la creación de la landing page, así como para el desarrollo de todo el proyecto. Este capítulo concluye con la descripción del Sprint, que resume todas las tareas realizadas para la elaboración y finalización de la landing page, así como las coordinaciones que se realizaron en equipo.
 
 2. La mejora de la landing page de PC Master, que incluyó la adición de una sección de "Get Contact" y el deployment del front end en su primera versión utilizando Firebase como hosting, ha resultado en una experiencia de usuario más interactiva y accesible. Esta nueva sección facilita la comunicación directa con los usuarios, aumentando las oportunidades de conversión y satisfacción del cliente. Las historias de usuario especificadas en Trello y en el sprint backlog fueron fundamentales para guiar el desarrollo, asegurando que cada funcionalidad respondiera a las necesidades de los usuarios. En conjunto, estas mejoras no solo fortalecen la presencia en línea de PC Master, sino que también sientan las bases para futuras optimizaciones y un crecimiento continuo en la interacción con nuestros clientes.
+
+3. La mejora del frontend es notoria y deja ver los feautres que queremos terminar para la siguiente entrega. A su vez en el backend ya tenemos varias cosas avanzandas para la entrega final.
 
 <br>
 
@@ -2805,15 +3192,15 @@ https://acortar.link/LWUrOB
 
 ## Deployment:
 
-* [Landing Page Desplegada](https://si730-ws51-pc-master.github.io/Landing_Page/)
-* [Frontend Desplegado](https://tp-pcmaster.web.app/home)
+* Landing Page Desplegada: https://si730-ws51-pc-master.github.io/Landing_Page/
+* Frontend Desplegado: https://apps-web-pc-master.web.app/home
 
 ## Repositories
-* [PC Master - Organization](https://github.com/SI730-WS51-PC-MASTER)
-* [PC Master - Landing Page](https://github.com/SI730-WS51-PC-MASTER/Landing_Page)
-* [PC Master - Documentation](https://github.com/SI730-WS51-PC-MASTER/Documentation)
-* [PC Master -Testing](https://github.com/SI730-WS51-PC-MASTER/Testing)
-* [PC Master - Frontend](https://github.com/SI730-WS51-PC-MASTER/Frontend)
+* PC Master Organization: https://github.com/SI730-WS51-PC-MASTER
+* Landing Page Repository: https://github.com/SI730-WS51-PC-MASTER/Landing_Page
+* Documentation Repository: https://github.com/SI730-WS51-PC-MASTER/Documentation
+* Testing Repository: https://github.com/SI730-WS51-PC-MASTER/Testing
+* Frontend Repository: https://github.com/SI730-WS51-PC-MASTER/Frontend
 
 ## Landing Page Design
 ### 1. Wireframes:
@@ -2831,6 +3218,7 @@ https://www.figma.com/design/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id
 ### 3. Mock-ups:
 https://www.figma.com/design/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=0-1&t=u5o54NWoIqikHmE5-1
 ### 4. User Flow diagrams:
+https://www.figma.com/design/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=142-17781
 
 ## Prototypes
 ### 1. General Prototypes Explanation:
@@ -2839,3 +3227,6 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218167_upc_edu_pe/ESV0htVY
 https://www.figma.com/proto/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=131-3070&node-type=FRAME&t=gyESjOWO8yMRG4Bt-1&scaling=min-zoom&content-scaling=fixed&page-id=128%3A12&starting-point-node-id=131%3A3070&show-proto-sidebar=1
 ### 2. Hardware Technician Flow Prototype:
 https://www.figma.com/proto/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=131-3085&node-type=FRAME&t=gyESjOWO8yMRG4Bt-1&scaling=min-zoom&content-scaling=fixed&page-id=128%3A12&starting-point-node-id=131%3A3085&show-proto-sidebar=1
+
+## Video about the team:
+Link: https://acortar.link/2Ns4NB
