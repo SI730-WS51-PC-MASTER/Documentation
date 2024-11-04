@@ -2851,7 +2851,17 @@ Para este sprint 2 se hará el desployement usando Firebase siguiendo los siguen
 
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 
--Fotos del swagger-
+Se adjuntan capturas del  OpenAPI Specification vía Swagger:
+
+[![Swagger1.png](https://i.postimg.cc/KYPWSK61/Swagger1.png)](https://postimg.cc/WD4804bV)
+
+[![Swagger2.png](https://i.postimg.cc/2jcKDNK7/Swagger2.png)](https://postimg.cc/23WwQMm1)
+
+[![Swagger3.png](https://i.postimg.cc/rFDYyY6X/Swagger3.png)](https://postimg.cc/kBdyfsXf)
+
+[![Swagger4.png](https://i.postimg.cc/QM36b8Fh/Swagger4.png)](https://postimg.cc/w1wcxd5G)
+
+[![Swagger5.png](https://i.postimg.cc/B6ZMrm5z/Swagger5.png)](https://postimg.cc/t1f3PtMd)
 
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 Para este sprint 3 se hará el desployement usando Firebase siguiendo los siguentes pasos:
