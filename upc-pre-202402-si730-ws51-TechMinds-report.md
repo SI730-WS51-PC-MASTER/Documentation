@@ -2976,7 +2976,7 @@ https://acortar.link/LWUrOB
 ## Deployment:
 
 * Landing Page Desplegada: https://si730-ws51-pc-master.github.io/Landing_Page/
-* Frontend Desplegado: https://tp-pcmaster.web.app/home
+* Frontend Desplegado: https://apps-web-pc-master.web.app/home
 
 ## Repositories
 * PC Master Organization: https://github.com/SI730-WS51-PC-MASTER
