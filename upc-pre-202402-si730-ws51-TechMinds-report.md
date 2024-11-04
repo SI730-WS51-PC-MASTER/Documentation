@@ -2893,7 +2893,7 @@ Para el frontend se hicieron mejoras como se puede apreciar en la gráfica:
 [![insights.png](https://i.postimg.cc/tCWrh1t8/insights.png)](https://postimg.cc/mtZN4gnS)
 
 Para el backend se añadieron los bounded context de cada uno con una versión pre-liminar de los mismos:
-
+[![insights2.png](https://i.postimg.cc/zXhdnd1J/insights2.png)](https://postimg.cc/SJy74fs5)
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
