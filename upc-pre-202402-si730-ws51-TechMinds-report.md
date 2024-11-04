@@ -30,7 +30,6 @@
 | Cantoral Sedamano, Alexander Alberto | U20181b152 |
 | Chirinos Zúñiga, Rodrigo Manuel | U202217804 |
 | Soriano Medrano, Diego | U202114793 |
-| Tello Murga, Javier Oswaldo | U202218387 |
 
 ## Setiembre Ciclo 2024-02
 
@@ -2836,6 +2835,72 @@ Para este sprint 2 se hará el desployement usando Firebase siguiendo los siguen
 
 ### 5.2.3. Sprint 3
 #### 5.2.3.1.Sprint Planning 3.
+
+En este tercer sprint del proyecto, nos centraremos en especificar las tareas a realizar en el backend de la aplicación para el desarrollo de nuestra API REST, además de consolidar y finalizar todas las tareas asignadas en el desarrollo del frontend. Todos los integrantes del equipo de TechMinds han estado involucrados de manera activa en la planificación y ejecución de las actividades.
+
+Nuestro objetivo al iniciar el Sprint 3 es consolidar las user stories y las tareas asignadas en los sprints anteriores, así como planificar las user stories que cada integrante del equipo llevará a cabo para el desarrollo de cada endpoint, parte fundamental del backend de nuestra aplicación. Con este enfoque, buscamos garantizar un avance sólido y coordinado en ambas áreas del proyecto.
+
+<br>
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td>Sprint 3</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Date</td>
+            <td>26-10-2024</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>15:00</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>UPC</td>
+        </tr>
+        <tr>
+            <td>Prepared By</td>
+            <td>TechMinds</td>
+        </tr>
+        <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td> Aranda Vallejos, Oscar Gabriel / Cantoral Sedamano, Alexander Alberto / Chirinos Zúñiga, Rodrigo Manuel / Soriano Medrano, Diego </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 – 2 Review Summary</td>
+            <td> Se realizó una revisión del cumplimiento de las actividades e historias de usuario para implementar el frontend web de nuestra propuesta de solución. También se llevó a cabo la implementación y corrección de las rutas de acceso a los componentes en los archivos compartidos y en los botones de la aplicación durante la integración del frontend. Además, en la herramienta Trello, se actualizaron las asignaciones de las historias de usuario y se registraron las tareas completadas para cada historia. Por último, se integraron todos los cambios realizados en el repositorio del frontend en la rama de desarrollo. </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 – 2 Retrospective Summary</td>
+            <td> Los integrantes de TechMinds han participado de manera activa en el desarrollo de la aplicación y han colaborado en la integración de todas las funcionalidades propuestas, documentando estos avances en el repositorio remoto. En general, se concluye que hasta el momento se han logrado resultados positivos. Sin embargo, se identifican áreas de mejora, destacando la necesidad de mantener una comunicación fluida entre los miembros del equipo para prevenir conflictos en el desarrollo de los componentes. </td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Goal</td>
+            <td> <b>Nuestro enfoque está en</b> el desarrollo de servicios backend para la integración con nuestra aplicación, garantizando que cumplan con la lógica de negocio establecida en las historias de usuario. <b>Creemos que esta implementación proporcionará</b> las funciones clave para crear recursos y añadir datos relevantes en nuestra aplicación. <b>Esto se confirmará cuando</b> seamos capaces de realizar operaciones CRUD de acuerdo con los dominios identificados, lo que nos permitirá probar la funcionalidad a través de nuestra API documentada con Swagger. </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Velocity</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td>Sum of Story Points</td>
+            <td>25</td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
 #### 5.2.3.2.Sprint Backlog 3.
 #### 5.2.3.3.Development Evidence for Sprint Review.
 #### 5.2.3.4.Testing Suite Evidence for Sprint Review.
