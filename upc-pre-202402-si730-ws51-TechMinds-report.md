@@ -2883,7 +2883,7 @@ TAREAS A EVALUAR:
 ## 5.4. Video About-the-Product.
 En esta sección se tiene un vídeo que resume todo lo que el producto ofrece y una vista rápida a los feats logrados para la aplicación:
 
-Link del vídeo: 
+Link del vídeo: https://acortar.link/x9hnTP 
 
 # Conclusiones
 ## Conclusiones y recomendaciones
@@ -2893,6 +2893,8 @@ En segundo lugar, se comenzó a trabajar en el repositorio de documentación, qu
 En el capítulo cuatro, tras haber establecido los requisitos de los dos segmentos, se procedió al diseño del producto final, comenzando con la creación y desarrollo de la landing page como primer entregable. Finalmente, el capítulo cinco detalla las especificaciones técnicas relacionadas con las configuraciones necesarias para la creación de la landing page, así como para el desarrollo de todo el proyecto. Este capítulo concluye con la descripción del Sprint, que resume todas las tareas realizadas para la elaboración y finalización de la landing page, así como las coordinaciones que se realizaron en equipo.
 
 2. La mejora de la landing page de PC Master, que incluyó la adición de una sección de "Get Contact" y el deployment del front end en su primera versión utilizando Firebase como hosting, ha resultado en una experiencia de usuario más interactiva y accesible. Esta nueva sección facilita la comunicación directa con los usuarios, aumentando las oportunidades de conversión y satisfacción del cliente. Las historias de usuario especificadas en Trello y en el sprint backlog fueron fundamentales para guiar el desarrollo, asegurando que cada funcionalidad respondiera a las necesidades de los usuarios. En conjunto, estas mejoras no solo fortalecen la presencia en línea de PC Master, sino que también sientan las bases para futuras optimizaciones y un crecimiento continuo en la interacción con nuestros clientes.
+
+3. La mejora del frontend es notoria y deja ver los feautres que queremos terminar para la siguiente entrega. A su vez en el backend ya tenemos varias cosas avanzandas para la entrega final.
 
 <br>
 
