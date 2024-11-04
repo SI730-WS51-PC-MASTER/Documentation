@@ -2903,7 +2903,138 @@ Nuestro objetivo al iniciar el Sprint 3 es consolidar las user stories y las tar
 
 #### 5.2.3.2.Sprint Backlog 3.
 
+En el desarrollo del Sprint número tres, hemos verificado el cumplimiento de las actividades asignadas en el sprint anterior. Consolidamos todas las historias de usuario relacionadas con el desarrollo frontend de la aplicación y asignamos a cada integrante las historias de usuario necesarias para comenzar con la implementación de los servicios backend.
 
+Cada miembro del equipo se encargó de identificar sus respectivas historias de usuario, lo cual se refleja en la plataforma Trello.
+
+**Board para el Sprint:**
+
+<img src="/assets/Trello_S3.png"/>
+
+<br/>
+
+**URL Trello:**
+
+[https://trello.com/b/7CzGyE3X/si730-2402-ws51-grupo-2](https://trello.com/b/7CzGyE3X/si730-2402-ws51-grupo-2)
+
+<br/>
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td colspan="7" >Sprint 3</td>
+        </tr>
+        <tr>
+            <td colspan="2" > User Story</td>
+            <td colspan="6" > Work-Item / Task </td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> Id </td>
+            <td> Title </td>
+            <td> Id </td>
+            <td> Title </td>
+            <td> Description </td>
+            <td> Estimation (Hours) </td>
+            <td> Assigned To </td>
+            <td> Status (To-do / In-Process / To-Review / Done) </td>
+        </tr>
+        <tr>
+            <td> US013 </td>
+          	<td> Lista de Deseos </td>
+          	<td> 01 </td>
+          	<td> Implementar visualización lista de deseos </td>
+            <td> - Crear vista de lista de deseos </br> - Mostrar los articulos en la lista de deseos  </td>
+            <td> 2 </td>
+            <td> Rodrigo Chirinos </td>
+            <td> Done </td>
+        </tr>
+        <tr>
+            <td> US021 </td>
+          	<td> Reseña y valoración de componentes </td>
+          	<td> 02 </td>
+          	<td> Implementar reseña y valoración de componentes </td>
+            <td> - Implementar boton reseña y valoración de componentes </br> - Añadir estilos a la vista de reseña y valoración de componentes </td>
+            <td> 2 </td>
+            <td> Rodrigo Chirinos </td>
+            <td> Done </td>
+        </tr>
+        <tr>
+            <td> US022 </td>
+          	<td> Reseña y valoración  del servicio técnico </td>
+          	<td> 02 </td>
+          	<td> Implementar reseña y valoración del servicio técnico </td>
+            <td> - Implementar boton para reseña de servicios </br> - Validra reseña y valoración  del servicio técnico </td>
+            <td> 2 </td>
+            <td> Rodrigo Chirinos </td>
+            <td> Done </td>
+        </tr>
+        <tr>
+            <td> TS05 </td>
+          	<td> Selección de Componentes de PC </td>
+          	<td> 11 </td>
+          	<td> Backend que permita la selección de Componentes de PC </td>
+            <td> - Identificar los value objects para componentes </br> - Codificar los constructores para selección </br> - Codificar Commands del modelo </br> - Codificar Queries del modelo </td>
+            <td> 2 </td>
+            <td> Diego Soriano </td>
+            <td> Done </td>
+        </tr>
+        <tr>
+            <td> TS06 </td>
+          	<td> Filtro de búsqueda de componentes </td>
+          	<td> 12 </td>
+          	<td> Backend para filtración de búsqueda de componentes </td>
+            <td> - Codificación de model command de filtros de componentes  - Implementación de los servicios query </br> - Codificación de interfaces rest para busqueda de componentes </td>
+            <td> 2 </td>
+            <td> Alexander Cantoral </td>
+            <td> Done </td>
+        </tr>
+        <tr>
+            <td> TS07 </td>
+          	<td> Palabras clave para selección de componentes </td>
+          	<td> 12 </td>
+          	<td> Backend para selección de componentes </td>
+            <td> - Codificación de model command de palabras para componentes  - Implementación de los servicios query </br> - Codificación de interfaces rest para busqueda de componentes </td>
+            <td> 2 </td>
+            <td> Alexander Cantoral </td>
+            <td> Done </td>
+        </tr>
+        <tr>
+            <td> TS08 </td>
+          	<td> Carrito de compras </td>
+          	<td> 11 </td>
+          	<td> Backend que permita agregar componentes al carrito de compras </td>
+            <td> - Identificar los value objects para el carrito de compras </br> - Codificar los constructores para selección </br> - Codificar Commands del modelo </br> - Codificar Queries del modelo </td>
+            <td> 2 </td>
+            <td> Diego Soriano </td>
+            <td> Done </td>
+        </tr>
+        <tr>
+            <td> TS17 </td>
+          	<td> Reseña y valoración de componentes </td>
+          	<td> 02 </td>
+          	<td> Implementar reseña y valoración de componentes </td>
+            <td> - Implementar boton para reseña de componentes </br> - Validra reseña y valoración  de componentes </td>
+            <td> 2 </td>
+            <td> Rodrigo Chirinos </td>
+            <td> Done </td>
+        </tr>
+        <tr>
+            <td> TS18 </td>
+          	<td> Reseña y valoración  del servicio técnico </td>
+          	<td> 02 </td>
+          	<td> Implementar backend para reseña y valoración  del servicio técnico </td>
+            <td> - Implementar endpoint de reseña y valoración de servicio técnico </br> - Validra reseña y valoración  de componentes al ejecutar metodo en el API </td>
+            <td> 2 </td>
+            <td> Rodrigo Chirinos </td>
+            <td> Done </td>
+        </tr>
+    </tbody>
+</table>
+
+<br/>
 
 #### 5.2.3.3.Development Evidence for Sprint Review.
 
@@ -2988,6 +3119,13 @@ Para el backend se añadieron los bounded context de cada uno con una versión p
 Esta parte del informe presentará la parte objetiva de las entrevistas junto con el análisis relevante de cada una de ellas. Al ser preguntas generales de uso, no se distinguirá de segmento objetivo.
 
 Preguntas principales: ¿Qué te parece la Landing Page? ¿Siente que es facil de usar? ¿Podrías hacerme el favor de registrarte y mandar un mensaje? ¿Qué te parece la aplicación web? ¿Siente que la aplicación web satisfacerá tus necesidades como futur@ usuario?
+
+**URL Inerview:**
+
+[https://acortar.link/J8ewGA](https://acortar.link/J8ewGA)
+
+
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218167_upc_edu_pe/EaVlYf89dABIpnRa9Uq18Q4BehvpnopFzfT2NalPuy9vww?e=BgZWxv](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218167_upc_edu_pe/EaVlYf89dABIpnRa9Uq18Q4BehvpnopFzfT2NalPuy9vww?e=BgZWxv)
 
 ### 5.3.2. Registro de Entrevistas.
 
