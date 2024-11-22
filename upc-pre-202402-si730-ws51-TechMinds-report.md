@@ -3311,7 +3311,38 @@ Además, cada integrante elaboró una descripción detallada de las tareas reali
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
-|https://github.com/SI730-WS51-PC-MASTER/Backend|main|d564cd95ac692c4b3751099d417a675654badd99|feat: GET and POST Component|Solved refactor component|2/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Backend|main|36741535c23e3103039ba4ab794ae72de88899ab|main|hotfix| 4 capas arregladas para Components bc|13/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Backend|main|9c7ef55536f659c1a546d9ba02f7294fcf37b9c3|Hotfix| Limpieza y log for component|13/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Backend|main|27a8872b9e20c68263384b61023900f88cbb4b1f|feat| Update the required endpoints|14/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Backend|main|4be19969b3ee5d19a0092cd48df648a6c8e56cbb|Fix| Component bc. Post|15/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Backend|main|de09ab4748d593656a0e6822149011c31dda68ef|Fix| Get singular done|15/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Backend|main|c4f9eaa868a5a4381b0193a970a5b11bf685476b|Feat| GetAllComponents|15/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Backend|main|325ffd33a2828c97b71e13d80b24921bff141b94|feat| IAM with notes|16/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Backend|main|d20a99d920478574054bdd76e66f2fdf16394a45|feat| Update Orders|19/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Backend|main|a72e97cf10f3fad740acb2606cad35e528757759|feat(component)| Backend ready for Frontend and DataBase implementation|19/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Backend|main|cbe3cde2274332f45761e7e0760fbac300f8503c|fix| Improve Interaction Bounded Context|19/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Backend|main|effd103686c71195760c760071c5a7670cb74c8f|feat| Add Image Value Object|20/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Backend|main|ab423008679f3123b9b9aa83b74e3624ed5b04b6|feat| update orders|20/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Backend|main|2a8e151eee9130305c21363befb498eb4c9e8cdc|feat| update interaction reviews|20/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Backend|main|b10a2c78d315599f665168180599d0ad1703807c|feat| Update Authorize|20/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Backend|main|a820cc841490261115c6d2e16beb38197e282732|fix| Improve Interaction bounded  context |21/11/2024|
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend/|main|14d18b34c331b48fffbc0622c210eda883e5aa78|hotfix| Component with new attibutes|15/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend/|main|321ac6571e09f0e021ee5f2fbef80274d3adc32f|feat| Update wishlist|16/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend/|main|bc2c0a1af671d9a6351e92a78cd52fc6338bb887|feat| Rename some files|16/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend/|main|1109cf7dcbc6c4e5cf2e3dc8ddb44632fa895ce9|feat(components)| Frontend ready for Backend|19/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend/|main|fa56251fb93b28b9241b38c35d68815b010ff973|feat component|-|19/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend/|main|c3c7f0ff11e50ab918f87b5955f9c3a6e530483c|feat| Adjust endpoints, do refactor and fix errors to connect to the backend properly|20/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend/|main|44947615129dd85249ea70309ff3ceb5bf85a267|feat| update reviews|20/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend/|main|82530ae5ee2c87012bd69080f72c56cceeccbc91|feat| Add IAM Bc|20/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend/|main|14b229a48342232ff23ed7a70d01fee36970b4d3|feat|Update components for IAM|20/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend/|main|4cf647f0fb7d8c6636bec6e7e19cdbe0cd235f15|feat| Update resourceEndpoint|20/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend/|main|7afddd6f10b8b4f5dc43cbb4be1888a36f05b992|feat| update cart|20/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend/|main|3545544fbf32e06a2dcc3a8f5bb505de9a42965e|feat| update orders|20/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend/|main|d4166ddbdf0fc9436e3bc8bdcd51b647c96c8faa|fix| Improve wishlist|21/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend/|main|45acb8cbd1bf462f727b1f77048671a479e53a7b|feat| update carts|22/11/2024|
 
 <br>
 
