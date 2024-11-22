@@ -3309,9 +3309,85 @@ Además, cada integrante elaboró una descripción detallada de las tareas reali
 
 ##### 5.2.4.3. Development Evidence for Sprint Review
 
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+|https://github.com/SI730-WS51-PC-MASTER/Backend|main|d564cd95ac692c4b3751099d417a675654badd99|feat: GET and POST Component|Solved refactor component|2/11/2024|
+
+<br>
+
 ##### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
+En esta entrega, se llevaron a cabo los últimos ajustes a las historias técnicas para el backend, así como la integración entre el frontend y el backend.
 
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+|https://github.com/SI730-WS51-PC-MASTER/Backend|main|d564cd95ac692c4b3751099d417a675654badd99|feat: GET and POST Component|Solved refactor component|2/11/2024|
+
+<br>
+
+##### 5.2.4.5. Execution Evidence for Sprint Review
+
+Desde la perspectiva del desarrollo, se crearon y optimizaron nuevos endpoints para respaldar estas funcionalidades, logrando una integración completa entre el frontend y el backend, lo que garantiza una comunicación fluida entre ambos. Para el equipo de desarrollo, esto significó una mejora en la arquitectura del sistema y una mayor solidez en las interacciones del backend. El despliegue del backend se llevó a cabo con éxito, asegurando que todas las funciones estén disponibles y operativas en el entorno de producción.
+
+<img src="resources//"/>
+
+<br>
+
+##### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Durante el desarrollo del último sprint, continuamos trabajando en la implementación de nuestros Web Services para cada Bounded Context, asignando responsabilidades específicas a cada miembro del equipo. Dado que este es el último sprint y representa la fase final del ciclo de desarrollo, se llevó a cabo una revisión exhaustiva de la documentación de cada uno de los endpoints desarrollados para nuestros Web Services, utilizando la herramienta Swagger.
+
+A continuación, se presenta la relación de endpoints documentados con OpenAPI, clasificados por cada Bounded Context:
+
+<br>
+
+**BC**
+
+| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
+|----------|------------------------|------------|---------------------|------------|
+| /api/v1/payments/components/ | Obtener lista de todos los componentes | GET | GET /api/v1/components/ | N/A |
+| /api/v1/payments/components/ | Crear un componente  | POST | POST /api/v1/components/ | Request body |
+| /api/v1/payments/components/{} | Obtener un componentes  | GET | GET /api/v1/components/{} | {componentId} |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición        |                Respuesta             |
+|-------------------------|--------------------------------------|
+| GET /api/v1/components/ | 200 OK - Retorna un arreglo de los componentes en formato JSON. |
+| POST /api/v1/components/ {  } | 200 Created - Retorna un componentes en formato JSON. |
+| GET /api/v1/components/1 | 200 OK - Retorna el componente consultado en formato JSON. |
+
+<br>
+
+**Imágenes y documentación:**
+
+<img src="assets/Documentation.png"/>
+
+<br>
+
+**URL documentación desplegada:**
+
+[https://pcmasterdeploy-e0fvbvd4e9eza2g3.eastus-01.azurewebsites.net/swagger/index.html](https://pcmasterdeploy-e0fvbvd4e9eza2g3.eastus-01.azurewebsites.net/swagger/index.html)
+
+
+**URL del repositorio de Web Services:**
+
+[https://github.com/SI730-WS51-PC-MASTER/Backend](https://github.com/SI730-WS51-PC-MASTER/Backend)
+
+
+<br>
+
+##### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+En esta sección se muestra la evidencia del despliegue del software realizado durante el tercer sprint. Se describen los pasos llevados a cabo para el despliegue de nuestros productos, así como las herramientas y plataformas empleadas para garantizar un lanzamiento exitoso y operativo del sistema.
+
+<br>
+
+##### 5.2.4.8. Team Collaboration Insights during Sprint
+
+|**Integrante**| **Acciones realizadas durante el sprint**             |
+|--------------|-------------------------------------------------------|
+|  | Integración de front y back del bc profile management |
 
 <br>
 
