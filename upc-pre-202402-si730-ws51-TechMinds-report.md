@@ -3250,7 +3250,8 @@ SITE o APP A EVALUAR: PC-MASTER
 ## 5.4. Video About-the-Product.
 En esta sección se tiene un vídeo que resume todo lo que el producto ofrece y una vista rápida a los feats logrados para la aplicación:
 
-[Link](https://upcedupe-my.sharepoint.com/personal/u20181b152_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181b152%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechMinds%2Daboutthe%2Dproduct%2Dsprint%2D3%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eed0fc680%2Db163%2D4984%2Db5e6%2D6b1f563e3cd1)
+[Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217804_upc_edu_pe/EeaQxRXZYt5FqVSdUhyUYyoB-AqdzV1HIjiopykb6Y6JHw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=qaIKpF)
+
 
 # Conclusiones
 ## Conclusiones y recomendaciones
