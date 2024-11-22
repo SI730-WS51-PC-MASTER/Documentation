@@ -1018,6 +1018,8 @@ Segmento 2: Técnicos de computadoras
 |TS22|Compras que dan puntos para canjear descuentos|Como desarrollador, quiero que los usuarios premium acumulen puntos por cada compra realizada.|Escenario 1: Given que el usuario premium realiza una compra, When la transacción es exitosa, Then el sistema agrega puntos, And envía notificación con el saldo de puntos. Escenario 2: Given que el usuario premium realiza una compra, When el pago falla o es cancelado, Then el sistema no acumula puntos, And envía una notificación de compra fallida sin puntos acumulados.|
 |TS23|Recompensas adicionales por compras|Como desarrollador, quiero ofrecer recompensas adicionales a usuarios premium que cumplen ciertas condiciones.|Escenario 1: Given que el usuario premium realiza una compra calificable, When finaliza la compra y cumple condiciones, Then el sistema asigna una recompensa, And envía una notificación con detalles. Escenario 2: Given que el usuario premium realiza una compra, When no cumple condiciones de recompensa, Then el sistema no otorga recompensa y notifica las condiciones necesarias.|
 |TS24|  Sorteo de componentes y gadgets|Como desarrollador, quiero permitir la participación de usuarios premium en sorteos de componentes y gadgets.|Escenario 1: Given que el usuario premium cumple requisitos de sorteo, When completa la inscripción, Then el sistema confirma participación y envía detalles del sorteo. Escenario 2: Given que el usuario premium intenta participar sin cumplir requisitos, When intenta registrarse, Then el sistema muestra un error y explica los requisitos para futuros sorteos.|
+|TS25|  Endpoint de creación de carrito de componentes | Como desarrollador, quiero permitir la creación de carritos de compra por cada usuario y que puedan seleccionar componentes. | Escenario 1: Given que el usuario selecciona un componente para añadir a su carrito, When da click en el botón de guardar, Then el sistema confirma que se añadio el componente a su carrito de compras. Escenario 2: Given que un usuarios no registrado intenta guardar componentes en su carrito de comptas, When intenta guardar el producto, Then el sistema no le permite agregar el componente seleccionado.|
+|TS26|  Enpoints de administración de carrito de componentes | Como desarrollador, quiero permitir la administración de los carritos de compra por cada usuario. | Escenario 1: Given que el usuario quiere administrar los componenets añadidos a su carrito de compras, When ejecuta acciones de eliminar o administrar, Then el sistema le permite realizar estas acciones en su carrito de compras. Escenario 2: Given que un usuario no registrado intenta administrar un carrito de compras, When intenta realizar acciones en su carrito de compras, Then el sistema no le permite realizar estas acciones.|
 
 ## 3.3. Impact Mapping.
 
@@ -3111,6 +3113,207 @@ Para el frontend se hicieron mejoras como se puede apreciar en la gráfica:
 
 Para el backend se añadieron los bounded context de cada uno con una versión pre-liminar de los mismos:
 [![insights2.png](https://i.postimg.cc/zXhdnd1J/insights2.png)](https://postimg.cc/SJy74fs5)
+
+<br>
+
+#### 5.2.4. Sprint 4
+##### 5.2.4.1. Sprint Planning 4
+
+En este último sprint, establecimos las tareas finales y todos los miembros del equipo participaron activamente. El objetivo principal fue completar las User Stories (US) y Technical Stories (TS) asignadas, así como abordar la gestión de errores e inconsistencias. Además, se trabajó en la integración del frontend con el backend para asegurar un funcionamiento cohesivo de la aplicación.
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td>Sprint 4</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Date</td>
+            <td>2024-11-16</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>15:00</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>UPC</td>
+        </tr>
+        <tr>
+            <td>Prepared By</td>
+            <td>TechMinds</td>
+        </tr>
+        <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td> Aranda Vallejos, Oscar Gabriel / Cantoral Sedamano, Alexander Alberto / Chirinos Zúñiga, Rodrigo Manuel / Soriano Medrano, Diego </td>
+        </tr>
+        <tr>
+            <td>Sprint n – 4 Review Summary</td>
+            <td> Dado que este es el último sprint, se anticipó la finalización del desarrollo de los endpoints y su integración con el frontend, con miras al despliegue de la aplicación. </td>
+        </tr>
+        <tr>
+            <td>Sprint n – 4 Retrospective Summary</td>
+            <td> Al tratarse del último sprint, se destaca la expectativa de los miembros del equipo para completar todas las actividades antes de la fecha programada para el despliegue. </td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Goal</td>
+            <td> Nos centramos en integrar la persistencia de datos en el proyecto, ya que consideramos que esto permitirá un lanzamiento inicial atractivo y seguro tanto para las empresas de belleza como para los clientes interesados en el cuidado personal. Esta afirmación se validará una vez que las empresas se registren y publiquen sus servicios, y cuando comience a aumentar la cantidad de usuarios. </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Velocity</td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <td>Sum of Story Points</td>
+            <td>26</td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+##### 5.2.4.2. Sprint Backlog 4
+
+Para el desarrollo del último sprint, todo el equipo se reunió con el propósito de verificar el cumplimiento de las tareas asignadas en el sprint anterior y llevar a cabo la planificación del nuevo sprint. En esta entrega final, todas las actividades se enfocaron en concluir y consolidar el desarrollo de las historias de usuario (user stories) y las historias técnicas (technical stories) asignadas a cada miembro del grupo. Esto permitió finalizar el ciclo de desarrollo de ambas partes de nuestra aplicación y realizar las tareas necesarias para la integración del frontend y backend, siendo cada integrante responsable de las historias de usuario que le fueron asignadas.
+
+Además, cada integrante elaboró una descripción detallada de las tareas realizadas, así como una estimación de las horas invertidas en el desarrollo. Se registraron todas las actividades para garantizar una gestión adecuada de las tareas y los productos entregables, tal como se detalla a continuación.
+
+<br>
+
+**Board para el Sprint:**
+
+<img src="/assets/trello4.png"/>
+
+<br/>
+
+**URL Trello:**
+
+[https://trello.com/b/7CzGyE3X/si730-2402-ws51-grupo-2](https://trello.com/b/7CzGyE3X/si730-2402-ws51-grupo-2)
+
+<br/>
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td colspan="7" >Sprint 3</td>
+        </tr>
+        <tr>
+            <td colspan="2" > User Story</td>
+            <td colspan="6" > Work-Item / Task </td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> Id </td>
+            <td> Title </td>
+            <td> Id </td>
+            <td> Title </td>
+            <td> Description </td>
+            <td> Estimation (Hours) </td>
+            <td> Assigned To </td>
+            <td> Status (To-do / In-Process / To-Review / Done) </td>
+        </tr>
+        <tr>
+            <td> TS06 </td>
+          	<td> Filtro de búsqueda de componentes </td>
+          	<td> 01 </td>
+          	<td> Implementar filtro de búsqueda de componentes </td>
+            <td> - Implementar las funciones de filtro de búsqueda de componentes </br> - Mostrar componentes según el filtro seleccionado  </td>
+            <td> 2 </td>
+            <td> Alexander Cantoral </td>
+            <td> Done / Backend </td>
+        </tr>
+        <tr>
+            <td> TS07 </td>
+          	<td> Palabras clave para selección de componentes </td>
+          	<td> 02 </td>
+          	<td> Implementar selección de componentes </td>
+            <td> - Implementar las secciones de configuración de plabras clave </br> - Implmentar filtros según palabras clave.  </td>
+            <td> 2 </td>
+            <td> Alexander Cantoral </td>
+            <td> Done / Backend </td>
+        </tr>
+        <tr>
+            <td> TS09 </td>
+          	<td> Lista de Deseos </td>
+          	<td> 03 </td>
+          	<td> Implementar funcionalidad y endpoints de lista de deseos </td>
+            <td> - Crear funciones para añadir componentes a lista de deseos </br> - Mostrar los articulos en la lista de deseos  </td>
+            <td> 2 </td>
+            <td> Rodrigo Chirinos </td>
+            <td> Done / Backend </td>
+        </tr>
+        <tr>
+            <td> US011 </td>
+          	<td> Palabras clave para selección de componentes </td>
+          	<td> 04 </td>
+          	<td> Implementar palabras clave para selección de componentes </td>
+            <td> - Implementar configuración de palabras clave </br> - Implmentar filtros según palabras clave configuradas por el usuario.  </td>
+            <td> 2 </td>
+            <td> Alexander Cantoral </td>
+            <td> Done / Frontend </td>
+        </tr>
+        <tr>
+            <td> TS17 </td>
+          	<td> Reseña y valoración de componentes </td>
+          	<td> 05 </td>
+          	<td> Implementar reseña y valoración de componentes </td>
+            <td> - Implementar funciones de reseña y valoración de componentes </br> - Crear endpoint para la creación de reseña y valoración de componentes según los atributos necesarios  </td>
+            <td> 2 </td>
+            <td> Rodrigo Chirinos </td>
+            <td> Done / Backend </td>
+        </tr>
+        <tr>
+            <td> TS18 </td>
+          	<td> Reseña y valoración del servicio técnico </td>
+          	<td> 06 </td>
+          	<td> Reseña y valoración del servicio técnico </td>
+            <td> - Implementar funciones de reseña y valoración del servicio técnico </br> - Crear endpoint para la creación de reseña y valoración del servicio técnico según los atributos necesarios  </td>
+            <td> 2 </td>
+            <td> Rodrigo Chirinos </td>
+            <td> Done / Backend </td>
+        </tr>
+        <tr>
+            <td> TS25 </td>
+          	<td> Endpoint de creación de carrito de componentes </td>
+          	<td> 07 </td>
+          	<td> Implementación y programación para creación de carrito de componentes </td>
+            <td> - Implementar funciones para la creación de carrito de componentes por usuario </br> - Crear endpoint para la creación de carrito de componentes según los atributos necesarios por usuario </td>
+            <td> 2 </td>
+            <td> Diego Soriano </td>
+            <td> Done / Backend </td>
+        </tr>
+        <tr>
+            <td> TS26 </td>
+          	<td> Enpoints de administración de carrito de componentes </td>
+          	<td> 08 </td>
+          	<td> Implementación y programación para administración de carrito de componentes </td>
+            <td> - Implementar funciones de administración de carrito de componentes por usuario </br> - Crear endpoint de administración de carrito de componentes según los atributos necesarios por usuario </td>
+            <td> 2 </td>
+            <td> Diego Soriano </td>
+            <td> Done / Backend </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+##### 5.2.4.3. Development Evidence for Sprint Review
+
+##### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+
+
+<br>
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
