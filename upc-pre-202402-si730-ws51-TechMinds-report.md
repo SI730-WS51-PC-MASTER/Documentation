@@ -3153,7 +3153,7 @@ Velásquez Núñez, Ángel Augusto
 
 AUDITOR : Grupo 2
 
-CLIENTES: , Alfredo Medina.
+CLIENTES:  Nicolaz Alberto Chun Ventosilla, Alfredo Medina.
 
 SITE o APP A EVALUAR: PC-MASTER
 
