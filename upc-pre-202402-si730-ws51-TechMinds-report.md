@@ -14,7 +14,7 @@
 
 ### **Docente:** Hugo Allan Mori Paiva
 
-#### TP REPORT
+#### TF REPORT
 
 ### Startup: TechMinds
 
@@ -42,9 +42,8 @@
 | 1.0     | 26/08/2024 | - Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano| - Se redactó la descripción de la startup, los antecedentes y la problemática. Además, se desarrolló el Lean UX Process y se delimitó el segmento objetivo.<br>- Desarrollo del User Journey Mapping y Empathy Mapping.<br> - Adición de las primeras entrevistas de segmentos objetivos.|
 | 1.2     | 05/09/2024 | - Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego<br>-Tello Murga, Javier Oswaldo | - Desarrollo completo del capítulo 2.<br>- Cumplimiento de lo establecido a llegar con el capítulo 3.<br>- Capítulo 4 establecido y logrado.<br>- Avance del Sprint 1 (Primera versión de la Landing Page). |
 | 1.4     | 27/09/2024 | - Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego| -Culminación del Sprint 1 (Mejora de la Landing Page) <br>- Avance del Sprint 2 (Primera versión del Frontend Desplegado) | 
-| 1.6     | 03/11/2024 | -Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego  | - Segundo versión del Frontend<br> - Primera versión del Backend |
-| 1.8     | 21/11/2024 | -Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego  | - Versiones finales del frontend y backend desplegados.<br> -Ambos componentes se comunican de manera exitosa.  | ... |
-
+| 1.6     | 03/11/2024 | - Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego  | - Segundo versión del Frontend<br> - Primera versión del Backend |
+| 1.8     | 21/11/2024 |- Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego  | Integración de Frontend y Backend |
 
 <br>
 
@@ -3141,7 +3140,7 @@ Usability – Inclusive Design – Information Architecture
 
 CARRERA: Ingeniería de Software
 
-CURSO: Desarrollo de Aplicaciones Open Source
+CURSO: Desarrollo de Aplicaciones Web
 
 SECCIÓN: WS51
 
@@ -3154,12 +3153,100 @@ Velásquez Núñez, Ángel Augusto
 
 AUDITOR : Grupo 2
 
-CLIENTES: 
+CLIENTES: , Alfredo Medina.
 
 SITE o APP A EVALUAR: PC-MASTER
 
-TAREAS A EVALUAR:
+## **TAREAS A EVALUAR**
 
+1. **Registro de Usuario**  
+   - **Descripción:** El usuario debe poder registrarse en la plataforma ingresando datos personales y un correo electrónico.  
+   - **Objetivo:** Evaluar la facilidad y eficiencia del registro.
+
+2. **Inicio de Sesión**  
+   - **Descripción:** Los usuarios deben iniciar sesión utilizando credenciales previamente registradas.  
+   - **Objetivo:** Verificar la seguridad y rapidez del inicio de sesión.
+
+3. **Exploración de Componentes**  
+   - **Descripción:** El usuario puede buscar y filtrar componentes por características como precio, tipo y disponibilidad.  
+   - **Objetivo:** Evaluar la claridad y funcionalidad del sistema de búsqueda y filtros.
+
+4. **Añadir Componentes a la Lista de Deseos**  
+   - **Descripción:** Los usuarios pueden agregar componentes de interés a una lista para futuras consultas.  
+   - **Objetivo:** Validar la funcionalidad y accesibilidad de esta característica.
+
+5. **Agregar Componentes al Carrito**  
+   - **Descripción:** Los usuarios pueden seleccionar cantidades y añadir productos al carrito para proceder con la compra.  
+   - **Objetivo:** Comprobar la claridad y eficiencia del proceso de compra.
+
+6. **Reservar Servicios**  
+   - **Descripción:** Agendar reuniones con técnicos para soporte presencial o remoto.  
+   - **Objetivo:** Evaluar la fluidez y funcionalidad del sistema de reservas.
+
+7. **Cambiar Idioma**  
+   - **Descripción:** Permitir a los usuarios alternar entre español e inglés en la plataforma.  
+   - **Objetivo:** Verificar la accesibilidad y efectividad del cambio de idioma.
+
+8. **Salir de la Sesión**  
+   - **Descripción:** Proporcionar un botón claro para cerrar sesión de manera segura.  
+   - **Objetivo:** Garantizar la seguridad del proceso y su confirmación visual.
+
+---
+
+## **Escala de Severidad**
+
+| Nivel | Descripción                                                                                                  |
+|-------|--------------------------------------------------------------------------------------------------------------|
+| **1** | Problema superficial: superable con facilidad. Resolver solo si hay tiempo.                                   |
+| **2** | Problema menor: ocurre con más frecuencia. Resolver en la próxima actualización.                              |
+| **3** | Problema mayor: impacto significativo, solución prioritaria.                                                  |
+| **4** | Problema grave: impide el uso. Resolver antes del lanzamiento.                                                |
+
+---
+
+## **Tabla Resumen**
+
+| # | Problema                                                                                      | Escala de Severidad | Heurística/Principio Violado                   |
+|---|-----------------------------------------------------------------------------------------------|---------------------|-----------------------------------------------|
+| 1 | Interfaz completamente en inglés sin opción clara para cambiar idioma                         | 2                   | Usability: Consistencia y estándares          |
+| 2 | Filtros de búsqueda tardan en cargar y ofrecen resultados inconsistentes                      | 3                   | Usability: Feedback y visibilidad del sistema |
+| 3 | Reservas no almacenan datos correctamente por falta de conexión al backend                   | 3                   | Usability: Visibilidad y control del usuario  |
+| 4 | Lista de deseos poco visible y falta retroalimentación al añadir componentes                  | 2                   | Usability: Feedback y visibilidad del sistema |
+| 5 | Botón de carrito confuso; no queda claro si la acción fue exitosa                             | 2                   | Usability: Prevención de errores              |
+
+---
+
+## **Descripción de Problemas**
+
+### **Problema #1:** Interfaz completamente en inglés sin opción clara para cambiar idioma  
+- **Severidad:** 2  
+- **Heurística/Principio Violado:** Usability: Consistencia y estándares  
+- **Descripción:** Muchos usuarios no entienden inglés, lo que afecta la accesibilidad y la experiencia de uso.  
+- **Recomendación:** Implementar una opción visible para cambiar entre español e inglés en todas las páginas.  
+
+### **Problema #2:** Filtros de búsqueda tardan en cargar y ofrecen resultados inconsistentes  
+- **Severidad:** 3  
+- **Heurística/Principio Violado:** Usability: Feedback y visibilidad del sistema  
+- **Descripción:** La demora genera confusión y afecta la percepción de la fiabilidad del sistema.  
+- **Recomendación:** Optimizar las consultas al backend y agregar indicadores de carga visibles.  
+
+### **Problema #3:** Reservas no almacenan datos correctamente por falta de conexión al backend  
+- **Severidad:** 3  
+- **Heurística/Principio Violado:** Usability: Visibilidad y control del usuario  
+- **Descripción:** Los usuarios no reciben confirmación de que su reserva fue exitosa.  
+- **Recomendación:** Conectar correctamente al backend y proporcionar mensajes claros de confirmación.  
+
+### **Problema #4:** Lista de deseos poco visible y falta retroalimentación al añadir componentes  
+- **Severidad:** 2  
+- **Heurística/Principio Violado:** Usability: Feedback y visibilidad del sistema  
+- **Descripción:** El usuario no tiene claro si los elementos se añadieron a la lista.  
+- **Recomendación:** Mejorar la visibilidad de la lista y agregar mensajes de confirmación.  
+
+### **Problema #5:** Botón de carrito confuso; no queda claro si la acción fue exitosa  
+- **Severidad:** 2  
+- **Heurística/Principio Violado:** Usability: Prevención de errores  
+- **Descripción:** La falta de retroalimentación visual genera confusión sobre el estado de la acción.  
+- **Recomendación:** Implementar notificaciones claras y revisibles después de añadir un producto al carrito.  
 ## 5.4. Video About-the-Product.
 En esta sección se tiene un vídeo que resume todo lo que el producto ofrece y una vista rápida a los feats logrados para la aplicación:
 
