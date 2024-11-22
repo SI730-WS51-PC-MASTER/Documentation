@@ -3329,7 +3329,21 @@ En esta entrega, se llevaron a cabo los últimos ajustes a las historias técnic
 
 Desde la perspectiva del desarrollo, se crearon y optimizaron nuevos endpoints para respaldar estas funcionalidades, logrando una integración completa entre el frontend y el backend, lo que garantiza una comunicación fluida entre ambos. Para el equipo de desarrollo, esto significó una mejora en la arquitectura del sistema y una mayor solidez en las interacciones del backend. El despliegue del backend se llevó a cabo con éxito, asegurando que todas las funciones estén disponibles y operativas en el entorno de producción.
 
-<img src="resources//"/>
+**Landing Page:**
+
+<img src="assets/Execution1.png"/>
+
+<br>
+
+**Web Services:**
+
+<img src="assets/Documentation.png"/>
+
+<br>
+
+**Frontend Web Applications:**
+
+<img src="assets/Execution2.png"/>
 
 <br>
 
@@ -3381,13 +3395,46 @@ A continuación, se presenta la relación de endpoints documentados con OpenAPI,
 
 En esta sección se muestra la evidencia del despliegue del software realizado durante el tercer sprint. Se describen los pasos llevados a cabo para el despliegue de nuestros productos, así como las herramientas y plataformas empleadas para garantizar un lanzamiento exitoso y operativo del sistema.
 
+**Despliegue de Landing Page:**
+
+<img src="assets/Deployment1.png"/>
+
+<br>
+
+**Despliegue Web Services:**
+
+<img src="assets/Deployment2.png"/>
+
+<br>
+
+**Despliegue Frontend Web Applications:**
+
+<img src="assets/Deployment3.png"/>
+
+<br>
+
 <br>
 
 ##### 5.2.4.8. Team Collaboration Insights during Sprint
 
 |**Integrante**| **Acciones realizadas durante el sprint**             |
 |--------------|-------------------------------------------------------|
-|  | Integración de front y back del bc profile management |
+| Aranda Vallejos, Oscar Gabriel | Integración de front y back del bounded context de Technical Support |
+| Cantoral Sedamano, Alexander Alberto | Integración de front y back del bounded context Componentes |
+| Chirinos Zúñiga, Rodrigo Manuel | Integración de front y back del bounded context Review |
+| Soriano Medrano, Diego | Integración de front y back del bounded context Orders |
+
+<br>
+
+**Repositorio Front-end:**
+
+<img src="assets/Colaboration1.png"/>
+
+<br>
+
+**Repositorio Back-end:**
+
+<img src="assets/Colaboration2.png"/>
 
 <br>
 
@@ -3400,10 +3447,10 @@ Preguntas principales: ¿Qué te parece la Landing Page? ¿Siente que es facil d
 
 **URL Itnerview:**
 
-[Link](https://upcedupe-my.sharepoint.com/personal/u202218167_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218167%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechMinds%2Dvalidation%2Dsprint%2D3%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ec3d431c3%2D80cb%2D4070%2Da1e7%2Dce8e2deff153)
+[https://upcedupe-my.sharepoint.com/personal/u202218167_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218167%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechMinds%2Dvalidation%2Dsprint%2D3%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ec3d431c3%2D80cb%2D4070%2Da1e7%2Dce8e2deff153](https://upcedupe-my.sharepoint.com/personal/u202218167_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218167%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechMinds%2Dvalidation%2Dsprint%2D3%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ec3d431c3%2D80cb%2D4070%2Da1e7%2Dce8e2deff153)
 
 
-[Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218167_upc_edu_pe/EaVlYf89dABIpnRa9Uq18Q4BehvpnopFzfT2NalPuy9vww?e=BgZWxv)(https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218167_upc_edu_pe/EaVlYf89dABIpnRa9Uq18Q4BehvpnopFzfT2NalPuy9vww?e=BgZWxv)
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218167_upc_edu_pe/EaVlYf89dABIpnRa9Uq18Q4BehvpnopFzfT2NalPuy9vww?e=BgZWxv)(https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218167_upc_edu_pe/EaVlYf89dABIpnRa9Uq18Q4BehvpnopFzfT2NalPuy9vww?e=BgZWxv](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218167_upc_edu_pe/EaVlYf89dABIpnRa9Uq18Q4BehvpnopFzfT2NalPuy9vww?e=BgZWxv)(https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218167_upc_edu_pe/EaVlYf89dABIpnRa9Uq18Q4BehvpnopFzfT2NalPuy9vww?e=BgZWxv)
 
 ### 5.3.2. Registro de Entrevistas.
 
@@ -3552,17 +3599,20 @@ En el capítulo cuatro, tras haber establecido los requisitos de los dos segment
 # Anexos
 
 ## Exposición
-- [TB1](https://upcedupe-my.sharepoint.com/personal/u20181b152_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181b152%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechMinds%2Dexpo%2DTB1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E7fd741fa%2D1061%2D4a48%2D9007%2D746525a9d6d1)
-- [TP](https://upcedupe-my.sharepoint.com/personal/u20181b152_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181b152%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechMinds%2Dexpo%2DTP1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E5691c295%2D26d4%2D4799%2Db977%2Dfd0f930baad0)
+- [https://upcedupe-my.sharepoint.com/personal/u20181b152_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181b152%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechMinds%2Dexpo%2DTB1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E7fd741fa%2D1061%2D4a48%2D9007%2D746525a9d6d1](https://upcedupe-my.sharepoint.com/personal/u20181b152_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181b152%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechMinds%2Dexpo%2DTB1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E7fd741fa%2D1061%2D4a48%2D9007%2D746525a9d6d1)
+- [https://upcedupe-my.sharepoint.com/personal/u20181b152_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181b152%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechMinds%2Dexpo%2DTP1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E5691c295%2D26d4%2D4799%2Db977%2Dfd0f930baad0](https://upcedupe-my.sharepoint.com/personal/u20181b152_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181b152%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechMinds%2Dexpo%2DTP1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E5691c295%2D26d4%2D4799%2Db977%2Dfd0f930baad0)
 
 ## Entrevistas
-- [Link](https://upcedupe-my.sharepoint.com/personal/u20181b152_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181b152%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechDesign%2Dneedfinding%2Dsprint%2D1%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eef33cbb4%2D28f1%2D4801%2Da26b%2Dcb5bfbe76f48)
+- [https://upcedupe-my.sharepoint.com/personal/u20181b152_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181b152%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechDesign%2Dneedfinding%2Dsprint%2D1%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eef33cbb4%2D28f1%2D4801%2Da26b%2Dcb5bfbe76f48](https://upcedupe-my.sharepoint.com/personal/u20181b152_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181b152%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechDesign%2Dneedfinding%2Dsprint%2D1%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eef33cbb4%2D28f1%2D4801%2Da26b%2Dcb5bfbe76f48)
 
 
 ## Deployment:
 
-* Landing Page Desplegada: https://si730-ws51-pc-master.github.io/Landing_Page/
-* Frontend Desplegado: https://apps-web-pc-master.web.app/home
+* Landing Page Desplegada: [https://si730-ws51-pc-master.github.io/Landing_Page/](https://si730-ws51-pc-master.github.io/Landing_Page/)
+* Frontend Desplegado: [https://apps-web-pc-master.web.app/home](https://apps-web-pc-master.web.app/home)
+* Backend Desplegado: [https://pcmasterdeploy-e0fvbvd4e9eza2g3.eastus-01.azurewebsites.net/swagger/index.html](https://pcmasterdeploy-e0fvbvd4e9eza2g3.eastus-01.azurewebsites.net/swagger/index.html)
+
+<br>
 
 ## Repositories
 * PC Master Organization: https://github.com/SI730-WS51-PC-MASTER
@@ -3570,6 +3620,8 @@ En el capítulo cuatro, tras haber establecido los requisitos de los dos segment
 * Documentation Repository: https://github.com/SI730-WS51-PC-MASTER/Documentation
 * Testing Repository: https://github.com/SI730-WS51-PC-MASTER/Testing
 * Frontend Repository: https://github.com/SI730-WS51-PC-MASTER/Frontend
+
+<br>
 
 ## Landing Page Design
 ### 1. Wireframes:
@@ -3598,4 +3650,4 @@ https://www.figma.com/proto/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=
 https://www.figma.com/proto/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=131-3085&node-type=FRAME&t=gyESjOWO8yMRG4Bt-1&scaling=min-zoom&content-scaling=fixed&page-id=128%3A12&starting-point-node-id=131%3A3085&show-proto-sidebar=1
 
 ## Video about the team:
-[Link](https://upcedupe-my.sharepoint.com/personal/u202217804_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202217804%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechMinds%2Dabout%2Dthe%2Dteam%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E1343096f%2Dfb12%2D4578%2D9a66%2D6c80b0b3303f)
+[https://upcedupe-my.sharepoint.com/personal/u202217804_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202217804%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechMinds%2Dabout%2Dthe%2Dteam%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E1343096f%2Dfb12%2D4578%2D9a66%2D6c80b0b3303f](https://upcedupe-my.sharepoint.com/personal/u202217804_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202217804%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechMinds%2Dabout%2Dthe%2Dteam%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E1343096f%2Dfb12%2D4578%2D9a66%2D6c80b0b3303f)
