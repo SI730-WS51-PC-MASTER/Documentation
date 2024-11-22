@@ -40,11 +40,11 @@
 | Versión | Fecha      | Autor                                                    | Descripción                                                                                       |
 |---------|------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 | 1.0     | 26/08/2024 | - Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano| - Se redactó la descripción de la startup, los antecedentes y la problemática. Además, se desarrolló el Lean UX Process y se delimitó el segmento objetivo.<br>- Desarrollo del User Journey Mapping y Empathy Mapping.<br> - Adición de las primeras entrevistas de segmentos objetivos.|
-| 1.2     | 05/09/2024 |- Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego<br>-Tello Murga, Javier Oswaldo | - Desarrollo completo del capítulo 2.<br>- Cumplimiento de lo establecido a llegar con el capítulo 3.<br>- Capítulo 4 establecido y logrado.<br>- Avance del Sprint 1 (Primera versión de la Landing Page). |
+| 1.2     | 05/09/2024 | - Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego<br>-Tello Murga, Javier Oswaldo | - Desarrollo completo del capítulo 2.<br>- Cumplimiento de lo establecido a llegar con el capítulo 3.<br>- Capítulo 4 establecido y logrado.<br>- Avance del Sprint 1 (Primera versión de la Landing Page). |
 | 1.4     | 27/09/2024 | - Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego| -Culminación del Sprint 1 (Mejora de la Landing Page) <br>- Avance del Sprint 2 (Primera versión del Frontend Desplegado) | 
-| 1.6     | 03/11/2024 |Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego  | - Segundo versión del Frontend<br> - Primera versión del Backend |
-| 1.8     | xx/11/2024 | Apellido, Nombre | ... |
-| 2.0     | xx/11/2024 | Apellido, Nombre | ... |
+| 1.6     | 03/11/2024 | -Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego  | - Segundo versión del Frontend<br> - Primera versión del Backend |
+| 1.8     | 21/11/2024 | -Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego  | - Versiones finales del frontend y backend desplegados.<br> -Ambos componentes se comunican de manera exitosa.  | ... |
+
 
 <br>
 
