@@ -794,7 +794,7 @@ Descripción: Paul Steven Medina Sánchez, de 40 años, tiene 10 años de experi
 En su empresa, utilizan un sistema de tickets para registrar los problemas que reportan los clientes, lo cual permite programar intervenciones. Sin embargo, Paul considera que este sistema es limitado y no muy práctico, ya que requiere que el equipo técnico lea los tickets y determine cuándo intervenir. Estaría interesado en una plataforma que no solo facilite la recomendación de componentes y configuraciones de hardware, sino que también ayude a los clientes a diagnosticar sus problemas con mayor precisión, reduciendo así los tiempos de intervención. Paul cree que una alianza con una plataforma de este tipo podría beneficiar a la empresa al mejorar la eficiencia del equipo técnico y la satisfacción del cliente.
 
 
-### Link de entrevistas: https://acortar.link/LWUrOB
+### [Link de entrevistas](https://upcedupe-my.sharepoint.com/personal/u20181b152_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181b152%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechDesign%2Dneedfinding%2Dsprint%2D1%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E984bcea0%2Dc38f%2D4f95%2Db09b%2Ddcd89b7a3b34)
 
 #### 2.2.3. Análisis de entrevistas.
 
@@ -2408,7 +2408,7 @@ En este sprint, el objetivo principal fue desarrollar la Landing Page de nuestro
 
 Para este sprint se logró concretar una Landing Page y a su vez el needfinding y product backlog para el proyecto.
 
-Link explicatorio de LP: https://acortar.link/JRxnWD
+[Link explicatorio de LP](https://upcedupe-my.sharepoint.com/personal/u202218167_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218167%5Fupc%5Fedu%5Fpe%2FDocuments%2FExecution%20Evidence%20for%20Sprint%20Review%2E%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E50d9b7f8%2D36e8%2D40d5%2D87e1%2D28091c5ea499)
 
 <br>
 
@@ -2779,7 +2779,7 @@ Se logró conseguir una primera versión del frontend deployeado y este mismo pr
 
 Para este sprint pudimos concretar una primera versión del Frontend de la aplicación web. A su vez se pudo hacer una mejora del documentación del sprint anterior y se pudo reflexionar de los errores del mismo.
 
-Link del vídeo explicativo: https://acortar.link/5xsWsq
+[Link del vídeo explicativo](https://upcedupe-my.sharepoint.com/personal/u20181b152_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181b152%5Fupc%5Fedu%5Fpe%2FDocuments%2FExecution%20Evidence%20for%20Sprint%20Review%20TB2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E2e11603c%2Dc492%2D4b02%2D8a48%2De5600f195578)
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
@@ -3055,7 +3055,7 @@ Cada miembro del equipo se encargó de identificar sus respectivas historias de 
 
 Para este Sprint se enfocaron los esfuerzos en mejorar el Frontend y avanzar el Backend de la aplicación web. 
 
-Link del vídeo con evidencias: https://acortar.link/CMYAkm
+[Link del vídeo con evidencias](https://upcedupe-my.sharepoint.com/personal/u20181b152_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181b152%5Fupc%5Fedu%5Fpe%2FDocuments%2FExecution%20Evidence%20for%20Sprint%203%2D%20Techminds%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E23b4f653%2D1885%2D4283%2Dafa2%2D3a05374a0a25)
 
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 
@@ -3120,16 +3120,18 @@ Esta parte del informe presentará la parte objetiva de las entrevistas junto co
 
 Preguntas principales: ¿Qué te parece la Landing Page? ¿Siente que es facil de usar? ¿Podrías hacerme el favor de registrarte y mandar un mensaje? ¿Qué te parece la aplicación web? ¿Siente que la aplicación web satisfacerá tus necesidades como futur@ usuario?
 
-**URL Inerview:**
+**URL Itnerview:**
 
-[https://acortar.link/J8ewGA](https://acortar.link/J8ewGA)
+[Link](https://upcedupe-my.sharepoint.com/personal/u202218167_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218167%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechMinds%2Dvalidation%2Dsprint%2D3%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ec3d431c3%2D80cb%2D4070%2Da1e7%2Dce8e2deff153)
 
 
-[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218167_upc_edu_pe/EaVlYf89dABIpnRa9Uq18Q4BehvpnopFzfT2NalPuy9vww?e=BgZWxv](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218167_upc_edu_pe/EaVlYf89dABIpnRa9Uq18Q4BehvpnopFzfT2NalPuy9vww?e=BgZWxv)
+[Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218167_upc_edu_pe/EaVlYf89dABIpnRa9Uq18Q4BehvpnopFzfT2NalPuy9vww?e=BgZWxv)(https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218167_upc_edu_pe/EaVlYf89dABIpnRa9Uq18Q4BehvpnopFzfT2NalPuy9vww?e=BgZWxv)
 
 ### 5.3.2. Registro de Entrevistas.
 
-Link de entrevista 1: https://acortar.link/J8ewGA 
+Link de entrevista 1: https://upcedupe-my.sharepoint.com/personal/u202218167_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218167%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechMinds%2Dvalidation%2Dsprint%2D3%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E02096857%2Dddc2%2D4b58%2D8749%2Db7b5672ddd32
+
+Link de entrevista 2: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/EYBWFQLeJB9HnUFFIoiqXF8BK0Vxih3q_EghgV8-H-02DQ?e=iZz38y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
@@ -3161,7 +3163,7 @@ TAREAS A EVALUAR:
 ## 5.4. Video About-the-Product.
 En esta sección se tiene un vídeo que resume todo lo que el producto ofrece y una vista rápida a los feats logrados para la aplicación:
 
-Link del vídeo: https://acortar.link/x9hnTP 
+[Link](https://upcedupe-my.sharepoint.com/personal/u20181b152_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181b152%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechMinds%2Daboutthe%2Dproduct%2Dsprint%2D3%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eed0fc680%2Db163%2D4984%2Db5e6%2D6b1f563e3cd1)
 
 # Conclusiones
 ## Conclusiones y recomendaciones
@@ -3183,11 +3185,11 @@ En el capítulo cuatro, tras haber establecido los requisitos de los dos segment
 # Anexos
 
 ## Exposición
-- TB1: https://acortar.link/mLDYSp
-- TP: https://acortar.link/g5oSSt
+- [TB1](https://upcedupe-my.sharepoint.com/personal/u20181b152_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181b152%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechMinds%2Dexpo%2DTB1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E7fd741fa%2D1061%2D4a48%2D9007%2D746525a9d6d1)
+- [TP](https://upcedupe-my.sharepoint.com/personal/u20181b152_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181b152%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechMinds%2Dexpo%2DTP1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E5691c295%2D26d4%2D4799%2Db977%2Dfd0f930baad0)
 
 ## Entrevistas
-https://acortar.link/LWUrOB 
+- [Link](https://upcedupe-my.sharepoint.com/personal/u20181b152_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181b152%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechDesign%2Dneedfinding%2Dsprint%2D1%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eef33cbb4%2D28f1%2D4801%2Da26b%2Dcb5bfbe76f48)
 
 
 ## Deployment:
@@ -3229,4 +3231,4 @@ https://www.figma.com/proto/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=
 https://www.figma.com/proto/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=131-3085&node-type=FRAME&t=gyESjOWO8yMRG4Bt-1&scaling=min-zoom&content-scaling=fixed&page-id=128%3A12&starting-point-node-id=131%3A3085&show-proto-sidebar=1
 
 ## Video about the team:
-Link: https://acortar.link/2Ns4NB
+[Link](https://upcedupe-my.sharepoint.com/personal/u202217804_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202217804%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechMinds%2Dabout%2Dthe%2Dteam%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E1343096f%2Dfb12%2D4578%2D9a66%2D6c80b0b3303f)
