@@ -210,8 +210,8 @@
 
 | Criterio específico| Acciones realizadas   | Conclusiones |
 |-------------------|------------------------|--------------|
-| **Trabaja en equipo para proporcionar <br> liderazgo en forma conjunta** | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> Identificó entornos de desarrollo colaborativo para poder trabajar de manera remota, manteniendo un seguimiento del avance. Para ello, se realizó el diseño de los wireframes y mockups en la herramienta Figma. <br> *TP*<br> Utilizó las historias de usuario desarrolladas por el equipo para iniciar el desarrollo del front end y la adhesión de la vista de los técnicos mejor valorados. <br> *TB2* <br> Realizó el avance del back end del bounded context "technical support", hizo el merge de las ramas para el back end y comunicó los cambios y errores a considerar para el siguiente sprint. <br><br> **Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> Empleó herramientas como Lucid Chart para los diagramas de clases y organizó la estructura del proyecto para guiar al equipo, así como la repartición de responsabilidades y plazos de acorde a la disponibilidad de cada miembro. <br> *TP*<br> Se puso la manta de líder para poder diseñar y repartir los bounded context, separando estos en feats para un simple entendimiento para los miembros del equipo. <br> *TB2* <br> Realizó el avance del back end del bounded context "components" e identificó las technical stories relacionadas. <br><br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> Trabajó los gráficos del needfinding de manera colaborativa en UXPressia y colaboró con la redacción e identificación de criterios de aceptación. <br> *TP* <br> Se planificaron y colocaron las historias de usuario a desarrollar para este segundo sprint en la herramienta colaborativa Trello. <br> *TB2* <br> Realizó el avance del back end del bounded context "interaction" y participó activamente en la resolución de conflictos e incompatibilidades durante el merge de ramas para el back end. <br><br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> Elaboró el deployment de la landing page y el modelado de la base de datos. <br> *TP* <br> Para el desarrollo de esta sección del trabajo, todos los miembros del equipo se organizaron de manera efectiva con el fin de cumplir los objetivos establecidos, contribuyendo cada uno desde su propia perspectiva. <br> *TB2* <br> Realizó el avance del back end del bounded context "orders" y mejoró el diseño del home y el desarrollo de su bounded context para el frontend. <br><br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> Empleó herramientas como Microsoft Visual Studio para la arquitectura de software y ayudó a que todos los integrantes del grupo puedan analizar y criticar lo trabajado. <br><br>  |<br>El equipo mostró un alto nivel de colaboración y liderazgo compartido, utilizando diversas herramientas digitales para el desarrollo del proyecto de manera remota. La organización y distribución de tareas fue clave para el avance eficiente, aprovechando plataformas como Figma y Lucid Chart para el diseño y la planificación. Los miembros también destacaron en áreas técnicas como la implementación gráfica, la redacción de criterios de aceptación y la creación de la arquitectura de software, asegurando que todos los aspectos del proyecto estuvieran bien estructurados y revisados por el equipo. En conjunto, el trabajo en equipo permitió que cada miembro contribuyera a su área de especialización, promoviendo un entorno de colaboración y revisión crítica para el éxito del proyecto.<br><br> |
-| **Crea un entorno colaborativo e <br> inclusivo, establece metas, <br> planifica tareas y cumple <br> objetivos** | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> Se estableció un plan de desarrollo para la realización de tareas por sprint, siguiendo los principios del Agile Development y la metodología Scrum. <br> *TP* <br> Utilizó Trello para comunicar los avances del frontend, la implementación satisfactoria de determinadas funcionalidades y la cancelación de aquellas que no fueron seleccionadas para el sprint. <br> *TB2* <br> Gestionó el avance del back end, asegurando la integración y supervisando el merge de las ramas. <br><br> **Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> Siguiendo lo enseñado en Diseño de Patrones de Software, consiguió que se desarrollara de manera exitosa el Sprint número 1 liderando al equipo y estableciendo metas realistas. <br> *TP*<br> Propuso el uso de Trello para repartir las tareas y responsabilidades del sprint 2; ante tareas adicionales, promovió que fueran tomadas por quien terminara primero sus asignaciones. <br> *TB2* <br> Lideró el desarrollo y asignación de tareas en el contexto de componentes, motivando la toma de decisiones colaborativas para el avance del proyecto. <br><br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> Se comunicaron los detalles de las historias de usuario y sus cambios para implementaciones relacionadas. <br> *TP* <br> Se comunicaron las historias de usuario que se van a implementar para el bounded context definido. Se planificaron las metas para el sprint número 2. Además, se utilizó GitHub para las diferentes versiones del front-end. <br> *TB2* <br> Colaboró en la integración de módulos y gestionó los conflictos de merge, promoviendo un entorno inclusivo y abierto a la retroalimentación. <br><br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> Estableció objetivos y reuniones estratégicas para cada avance relacionado a los capítulos de desarrollo. <br> *TP* <br> Para el desarrollo de esta sección del trabajo, todos los miembros del equipo cumplieron con las metas y tareas establecidas de manera efectiva. <br> *TB2* <br> Contribuyó al desarrollo del back end y mejoró la interfaz del home, facilitando el trabajo en equipo y la integración de sus componentes. <br><br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> Se diseñó un plan de desarrollo para llevar a cabo las tareas, basándose en los principios clave del Desarrollo Ágil y la metodología Scrum.<br><br>  |<br>Se puede concluir que el trabajo en equipo y la coordinación para los tiempos de los entregables es clave para presentar un buen trabajo. Además, el equipo logró crear un entorno colaborativo e inclusivo siguiendo los principios del Desarrollo Ágil y la metodología Scrum. Se establecieron metas claras y realistas, planificando las tareas de manera efectiva y cumpliendo con los objetivos propuestos. La comunicación constante sobre las historias de usuario y sus cambios, junto con reuniones estratégicas para coordinar los avances, fueron esenciales para el éxito del proyecto. En conjunto, el enfoque estructurado y la coordinación eficiente en los tiempos de entrega permitieron que el trabajo se desarrollara de manera fluida y organizada.<br><br> |
+| **Trabaja en equipo para proporcionar <br> liderazgo en forma conjunta** | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> Identificó entornos de desarrollo colaborativo para poder trabajar de manera remota, manteniendo un seguimiento del avance. Para ello, se realizó el diseño de los wireframes y mockups en la herramienta Figma. <br> *TP*<br> Utilizó las historias de usuario desarrolladas por el equipo para iniciar el desarrollo del front end y la adhesión de la vista de los técnicos mejor valorados. <br> *TB2* <br> Realizó el avance del back end del bounded context "technical support", hizo el merge de las ramas para el back end y comunicó los cambios y errores a considerar para el siguiente sprint. <br> *TF* <br> Realizó la comunicación del back end y front end del bounded context "technical support", hizo el merge de las ramas para el back end y front end. Además comunicó los cambios que hizo en ambos campos.<br><br> **Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> Empleó herramientas como Lucid Chart para los diagramas de clases y organizó la estructura del proyecto para guiar al equipo, así como la repartición de responsabilidades y plazos de acorde a la disponibilidad de cada miembro.<br> *TP*<br> Se puso la manta de líder para poder diseñar y repartir los bounded context, separando estos en feats para un simple entendimiento para los miembros del equipo. <br> *TB2* <br> Realizó el avance del back end del bounded context "components" e identificó las technical stories relacionadas.<br> *TF* <br> Realizó la comuncición del back end y front end para el bounded context "components" e identificó las technical stories relacionadas. <br><br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> Trabajó los gráficos del needfinding de manera colaborativa en UXPressia y colaboró con la redacción e identificación de criterios de aceptación. <br> *TP* <br> Se planificaron y colocaron las historias de usuario a desarrollar para este segundo sprint en la herramienta colaborativa Trello. <br> *TB2* <br> Realizó el avance del back end del bounded context "interaction" y participó activamente en la resolución de conflictos e incompatibilidades durante el merge de ramas para el back end. <br> *TF* <br> Realizó la comunicación del back end y front end para el bounded context "interaction", dejó listo para el despliegue de ambos componentes <br><br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> Elaboró el deployment de la landing page y el modelado de la base de datos. <br> *TP* <br> Para el desarrollo de esta sección del trabajo, todos los miembros del equipo se organizaron de manera efectiva con el fin de cumplir los objetivos establecidos, contribuyendo cada uno desde su propia perspectiva. <br> *TB2* <br> Realizó el avance del back end del bounded context "orders" y mejoró el diseño del home y el desarrollo de su bounded context para el frontend.<br> *TF* <br> Realizó el avance del back end y front end para el bounded context "orders". Se encargó del despleigue de ambos componentes. <br><br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> Empleó herramientas como Microsoft Visual Studio para la arquitectura de software y ayudó a que todos los integrantes del grupo puedan analizar y criticar lo trabajado. <br><br>  |<br>El equipo mostró un alto nivel de colaboración y liderazgo compartido, utilizando diversas herramientas digitales para el desarrollo del proyecto de manera remota. La organización y distribución de tareas fue clave para el avance eficiente, aprovechando plataformas como Figma y Lucid Chart para el diseño y la planificación. Los miembros también destacaron en áreas técnicas como la implementación gráfica, la redacción de criterios de aceptación y la creación de la arquitectura de software, asegurando que todos los aspectos del proyecto estuvieran bien estructurados y revisados por el equipo. En conjunto, el trabajo en equipo permitió que cada miembro contribuyera a su área de especialización, promoviendo un entorno de colaboración y revisión crítica para el éxito del proyecto.<br><br> |
+| **Crea un entorno colaborativo e <br> inclusivo, establece metas, <br> planifica tareas y cumple <br> objetivos** | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> Se estableció un plan de desarrollo para la realización de tareas por sprint, siguiendo los principios del Agile Development y la metodología Scrum. <br> *TP* <br> Utilizó Trello para comunicar los avances del frontend, la implementación satisfactoria de determinadas funcionalidades y la cancelación de aquellas que no fueron seleccionadas para el sprint. <br> *TB2* <br> Gestionó el avance del back end, asegurando la integración y supervisando el merge de las ramas.<br> *TF* <br> Se encargó de la comunicación entre el back y front end, asegurando su integración de manera exitosa.<br><br> **Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> Siguiendo lo enseñado en Diseño de Patrones de Software, consiguió que se desarrollara de manera exitosa el Sprint número 1 liderando al equipo y estableciendo metas realistas. <br> *TP*<br> Propuso el uso de Trello para repartir las tareas y responsabilidades del sprint 2; ante tareas adicionales, promovió que fueran tomadas por quien terminara primero sus asignaciones. <br> *TB2* <br> Lideró el desarrollo y asignación de tareas en el contexto de componentes, motivando la toma de decisiones colaborativas para el avance del proyecto.<br> *TF* <br> Lideró el desarrollo y asignación de tareas en el contexto de la comunciación del back y front end de componentes, motivando la toma de decisiones colaborativas para la culminación del proyecto. <br><br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> Se comunicaron los detalles de las historias de usuario y sus cambios para implementaciones relacionadas. <br> *TP* <br> Se comunicaron las historias de usuario que se van a implementar para el bounded context definido. Se planificaron las metas para el sprint número 2. Además, se utilizó GitHub para las diferentes versiones del front-end. <br> *TB2* <br> Colaboró en la integración de módulos y gestionó los conflictos de merge, promoviendo un entorno inclusivo y abierto a la retroalimentación.<br> *TF* <br> Desarrolló la integración de front y back end de Interaction, comunicó los cambios. <br><br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> Estableció objetivos y reuniones estratégicas para cada avance relacionado a los capítulos de desarrollo. <br> *TP* <br> Para el desarrollo de esta sección del trabajo, todos los miembros del equipo cumplieron con las metas y tareas establecidas de manera efectiva. <br> *TB2* <br> Contribuyó al desarrollo del back end y mejoró la interfaz del home, facilitando el trabajo en equipo y la integración de sus componentes.<br> *TF* <br> Implementó la comunicación del back y front end de Orders, concecto con la interfaz de iam. Comunicó que se logró el despligue de la app. <br><br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> Se diseñó un plan de desarrollo para llevar a cabo las tareas, basándose en los principios clave del Desarrollo Ágil y la metodología Scrum.<br><br>  |<br>Se puede concluir que el trabajo en equipo y la coordinación para los tiempos de los entregables es clave para presentar un buen trabajo. Además, el equipo logró crear un entorno colaborativo e inclusivo siguiendo los principios del Desarrollo Ágil y la metodología Scrum. Se establecieron metas claras y realistas, planificando las tareas de manera efectiva y cumpliendo con los objetivos propuestos. La comunicación constante sobre las historias de usuario y sus cambios, junto con reuniones estratégicas para coordinar los avances, fueron esenciales para el éxito del proyecto. En conjunto, el enfoque estructurado y la coordinación eficiente en los tiempos de entrega permitieron que el trabajo se desarrollara de manera fluida y organizada.<br><br> |
 
 
 
@@ -3386,21 +3386,205 @@ A continuación, se presenta la relación de endpoints documentados con OpenAPI,
 
 <br>
 
-**BC**
+##### BC Interaction
+
+**ComponentReview endpoints**
 
 | Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
 |----------|------------------------|------------|---------------------|------------|
-| /api/v1/payments/components/ | Obtener lista de todos los componentes | GET | GET /api/v1/components/ | N/A |
-| /api/v1/payments/components/ | Crear un componente  | POST | POST /api/v1/components/ | Request body |
-| /api/v1/payments/components/{} | Obtener un componentes  | GET | GET /api/v1/components/{} | {componentId} |
+| /api/v1/component-review/{componentId} | Obtener lista de todos reviews para un componente mediante el componentId | GET | GET /api/v1/component-review/{componentId} | {componentId} |
+| /api/v1/component-review | Crear una review para un componente  | POST | POST /api/v1/component-review | Request body |
+| /api/v1/component-review/{id} | Editar una review para un componente  | PUT | PUT /api/v1/component-review/{id} | {id} |
+| /api/v1/component-review/{id} | Eliminar una review para un componente  | DELETE | DELETE /api/v1/component-review/{id} | {id} |
 
 **Ejemplos de Ejecución y Respuesta:**
 
 |         Petición        |                Respuesta             |
 |-------------------------|--------------------------------------|
-| GET /api/v1/components/ | 200 OK - Retorna un arreglo de los componentes en formato JSON. |
-| POST /api/v1/components/ {  } | 200 Created - Retorna un componentes en formato JSON. |
-| GET /api/v1/components/1 | 200 OK - Retorna el componente consultado en formato JSON. |
+| GET /api/v1/component-review/2 | 200 OK - Retorna un arreglo de las reviews en formato JSON. |
+| POST /api/v1/component-review <br> { "rating": 5, "comment": "Buena pc.", "userName": "María", "componentId": 8 } | 200 Created - Retorna una review en formato JSON. |
+| PUT /api/v1/component-review/1 <br> { "rating": 5, "comment": "Buena pc, ideal para juegos." } | 200 OK - Retorna la review editada en formato JSON. |
+| DELETE /api/v1/component-review/1 | 204 No Content - Elimina la review especificada. No retorna contenido. |
+
+
+**TechnicalSupportReview endpoints**
+
+| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
+|----------|------------------------|------------|---------------------|------------|
+| /api/v1/technical-support-review/{technicalSupportId} | Obtener lista de todos reviews para un technical support mediante el technicalSupportId | GET | GET /api/v1/technical-support-review/{technicalSupportId} | {technicalSupportId} |
+| /api/v1/technical-support-review | Crear una review para un technical support  | POST | POST /api/v1/technical-support-review | Request body |
+| /api/v1/technical-support-review/{id} | Editar una review para un technical support  | PUT | PUT /api/v1/technical-support-review/{id} | {id} |
+| /api/v1/technical-support-review/{id} | Eliminar una review para un technical support  | DELETE | DELETE /api/v1/technical-support-review/{id} | {id} |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición        |                Respuesta             |
+|-------------------------|--------------------------------------|
+| GET /api/v1/technical-support-review/2 | 200 OK - Retorna un arreglo de las reviews en formato JSON. |
+| POST /api/v1/technical-support-review <br> { "rating": 4, "comment": "Excelente trabajo", "userName": "Pedro", "technicalSupportId": 1} | 200 Created - Retorna una review en formato JSON. |
+| PUT /api/v1/technical-support-review/1 <br> { "rating": 5, "comment": "Excelente trabajo y es puntual."} | 200 OK - Retorna la review editada en formato JSON. |
+| DELETE /api/v1/technical-support-review/1 | 204 No Content - Elimina la review especificada. No retorna contenido. |
+
+
+**Wishlist endpoints**
+
+| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
+|----------|------------------------|------------|---------------------|------------|
+| /api/v1/wishlist/user/{userId} | Obtener la wishlist asociada a un usuario mediante su userId | GET | GET /api/v1/wishlist/user/{userId} | {userId} |
+| /api/v1/wishlist | Crear una nueva wishlist | POST | POST /api/v1/wishlist | Request body |
+| /api/v1/wishlist/{id} | Editar una wishlist específica | PUT | PUT /api/v1/wishlist/{id} | {id} |
+| /api/v1/wishlist/{id} | Eliminar una wishlist específica | DELETE | DELETE /api/v1/wishlist/{id} | {id} |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición        |                Respuesta             |
+|-------------------------|--------------------------------------|
+| GET /api/v1/wishlist/user/3 | 200 OK - Retorna una wishlist en formato JSON. |
+| POST /api/v1/wishlist <br> { "userId": 1, "componentId": 4, "quantity": 8} | 201 Created - Retorna la wishlist creada en formato JSON. |
+| PUT /api/v1/wishlist/5 <br> { "quantity": 5 } | 200 OK - Retorna la wishlist actualizada en formato JSON. |
+| DELETE /api/v1/wishlist/5 | 204 No Content - Elimina la wishlist especificada. No retorna contenido. |
+
+
+
+##### BC IAM
+
+**Authentication endpoints**
+
+| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
+|----------|------------------------|------------|---------------------|------------|
+| /api/v1/authentication/sign-in | Iniciar sesión para obtener un token de autenticación | POST | POST /api/v1/authentication/sign-in | Request body |
+| /api/v1/authentication/sign-up | Registrar un nuevo usuario en el sistema | POST | POST /api/v1/authentication/sign-up | Request body |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición        |                Respuesta             |
+|-------------------------|--------------------------------------|
+| POST /api/v1/authentication/sign-in <br> { "userName": "John Doe", "password": "1234" } | 200 OK - Retorna un token de autenticación en formato JSON. |
+| POST /api/v1/authentication/sign-up <br> { "userName": "John Doe", "password": "1234" } | 201 Created - Retorna los datos del usuario creado en formato JSON. |
+
+---
+
+**User endpoints**
+
+| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
+|----------|------------------------|------------|---------------------|------------|
+| /api/v1/users/{id} | Obtener los datos de un usuario específico mediante su id | GET | GET /api/v1/users/{id} | {id} |
+| /api/v1/users | Obtener una lista de todos los usuarios registrados | GET | GET /api/v1/users | NA |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición        |                Respuesta             |
+|-------------------------|--------------------------------------|
+| GET /api/v1/users/3 | 200 OK - Retorna los datos del usuario con id 3 en formato JSON. |
+| GET /api/v1/users | 200 OK - Retorna un arreglo de usuarios en formato JSON. |
+
+
+
+##### BC Orders
+
+**Cart endpoints**
+
+| Endpoint                      | Acciones implementadas         | Verbo HTTP | Sintaxis de Llamada              | Parámetros        |
+|-------------------------------|---------------------------------|------------|----------------------------------|-------------------|
+| /api/v1/cart                  | Crear un nuevo carrito         | POST       | POST /api/v1/cart                | Request body      |
+| /api/v1/cart                  | Obtener todos los carritos     | GET        | GET /api/v1/cart                 | NA           |
+| /api/v1/cart/user/{userId}    | Obtener carrito de compras por usuario   | GET        | GET /api/v1/cart/user/{userId}   | {userId}     |
+| /api/v1/cart/{cartId}         | Eliminar un carrito            | DELETE     | DELETE /api/v1/cart/{cartId}     | {cartId}   |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición                                    |                Respuesta                          |
+|-----------------------------------------------------|-------------------------------------------------|
+| POST /api/v1/cart <br> { "componentId": 1, "userId": 1, "quantity": 2 } | 201 Created - Retorna los datos del carrito creado en formato JSON. |
+| GET /api/v1/cart                                    | 200 OK - Retorna un arreglo de carritos en formato JSON. |
+| GET /api/v1/cart/user/1                             | 200 OK - Retorna todos los carritos del usuario con id 1. |
+| DELETE /api/v1/cart/1                               | 204 No Content - Elimina el carrito especificado. |
+
+---
+
+**Component endpoints**
+
+| Endpoint                          | Acciones implementadas            | Verbo HTTP | Sintaxis de Llamada                 | Parámetros         |
+|-----------------------------------|------------------------------------|------------|-------------------------------------|--------------------|
+| /api/v1/component                 | Crear un nuevo componente          | POST       | POST /api/v1/component              | Request body       |
+| /api/v1/component                 | Obtener todos los componentes      | GET        | GET /api/v1/component               | NA            |
+| /api/v1/component/{componentId}   | Obtener un componente por su ID    | GET        | GET /api/v1/component/{componentId} | componentId  |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición                                                                                     |                Respuesta                         |
+|------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| POST /api/v1/component <br> { "name": "SSD", "description": "Disco sólido de 1TB", "price": 100, "stock": 50, "providerId": 1, "image": "ssd.jpg", "ratings": 5, "model": "NVMe", "color": "Negro", "dimensions": "10x7x0.7 cm", "material": "Plástico", "weight": "70g", "categoryType": "Almacenamiento", "categorySubType": "SSD", "categoryBrand": "Samsung", "country": "Corea" } | 201 Created - Retorna los datos del componente creado en formato JSON. |
+| GET /api/v1/component                                                                               | 200 OK - Retorna un arreglo de componentes en formato JSON. |
+| GET /api/v1/component/2                                                                             | 200 OK - Retorna los datos del componente con id 2. |
+
+
+##### BC Components
+
+**Component endpoints**
+
+| Endpoint                          | Acciones implementadas            | Verbo HTTP | Sintaxis de Llamada                 | Parámetros         |
+|-----------------------------------|------------------------------------|------------|-------------------------------------|--------------------|
+| /api/v1/component                 | Crear un nuevo componente          | POST       | POST /api/v1/component              | Request body       |
+| /api/v1/component                 | Obtener todos los componentes      | GET        | GET /api/v1/component               | NA           |
+| /api/v1/component/{componentId}   | Obtener un componente por su ID    | GET        | GET /api/v1/component/{componentId} | componentId (path) |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición                                                                                     |                Respuesta                         |
+|------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| POST /api/v1/component <br> { "name": "SSD", "description": "Disco sólido de 1TB", "price": 100, "stock": 50, "providerId": 1, "image": "ssd.jpg", "ratings": 5, "model": "NVMe", "color": "Negro", "dimensions": "10x7x0.7 cm", "material": "Plástico", "weight": "70g", "categoryType": "Almacenamiento", "categorySubType": "SSD", "categoryBrand": "Samsung", "country": "Corea" } | 201 Created - Retorna los datos del componente creado en formato JSON. |
+| GET /api/v1/component                                                                               | 200 OK - Retorna un arreglo de componentes en formato JSON. |
+| GET /api/v1/component/2                                                                             | 200 OK - Retorna los datos del componente con id 2. |
+
+
+##### BC Technical Support
+
+**Technical Support Services by Technicians endpoints**
+
+| Endpoint                                   | Acciones implementadas                   | Verbo HTTP | Sintaxis de Llamada                      | Parámetros         |
+|-------------------------------------------|-------------------------------------------|------------|------------------------------------------|--------------------|
+| /api/v1/technical-support                 | Crear un nuevo servicio de soporte técnico | POST       | POST /api/v1/technical-support          | Request body       |
+| /api/v1/technical-support                 | Obtener todos los servicios de soporte técnico | GET  | GET /api/v1/technical-support           | NA           |
+| /api/v1/technical-support/{supportType}   | Obtener servicios por tipo de soporte técnico | GET  | GET /api/v1/technical-support/{supportType} | {supportType} |
+| /api/v1/technical-support/{id}            | Obtener un servicio de soporte técnico por ID | GET   | GET /api/v1/technical-support/{id}      | {id}          |
+| /api/v1/technical-support/{id}            | Actualizar un servicio de soporte técnico por ID | PUT  | PUT /api/v1/technical-support/{id}      | {id, Request body} |
+| /api/v1/technical-support/{id}            | Eliminar un servicio de soporte técnico por ID | DELETE   | DELETE /api/v1/technical-support/{id}   | {id}          |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición                                                                                                            |                Respuesta                          |
+|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| POST /api/v1/technical-support <br> { "technicianId": "tech123", "supportType": true, "dateOfRequest": "2024-11-23T01:06:11.120Z", "startDate": "2024-11-23T01:06:11.120Z", "endDate": "2024-11-23T01:06:11.120Z" } | 201 Created - Retorna los datos del servicio de soporte técnico creado en formato JSON. |
+| GET /api/v1/technical-support                                                                                               | 200 OK - Retorna un arreglo de servicios de soporte técnico en formato JSON. |
+| GET /api/v1/technical-support/software                                                                                      | 200 OK - Retorna los servicios de soporte técnico con el tipo especificado. |
+| GET /api/v1/technical-support/12                                                                                            | 200 OK - Retorna los datos del servicio de soporte técnico con id 12. |
+| PUT /api/v1/technical-support/12 <br> { "technicianId": "tech123", "supportType": false, "dateOfRequest": "2024-11-23T01:06:34.074Z", "startDate": "2024-11-23T01:06:34.074Z", "endDate": "2024-11-23T01:06:34.074Z" } | 200 OK - Retorna los datos del servicio de soporte técnico actualizado en formato JSON. |
+| DELETE /api/v1/technical-support/12                                                                                         | 204 No Content - Elimina el servicio de soporte técnico especificado. |
+
+
+**Technicians endpoints**
+
+| Endpoint                         | Acciones implementadas           | Verbo HTTP | Sintaxis de Llamada                  | Parámetros         |
+|----------------------------------|-----------------------------------|------------|--------------------------------------|--------------------|
+| /api/v1/technicians              | Crear un nuevo técnico           | POST       | POST /api/v1/technicians            | Request body       |
+| /api/v1/technicians              | Obtener todos los técnicos       | GET        | GET /api/v1/technicians             | NA            |
+| /api/v1/technicians/top-ranked   | Obtener técnicos mejor calificados | GET     | GET /api/v1/technicians/top-ranked  | NA            |
+| /api/v1/technicians/{id}         | Obtener un técnico por su ID     | GET        | GET /api/v1/technicians/{id}        | {id}           |
+| /api/v1/technicians/{id}         | Actualizar un técnico por su ID  | PUT        | PUT /api/v1/technicians/{id}        | {id, Request body} |
+| /api/v1/technicians/{id}         | Eliminar un técnico por su ID    | DELETE     | DELETE /api/v1/technicians/{id}     | {id}          |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición                                                                                     |                Respuesta                          |
+|------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| POST /api/v1/technicians <br> { "name": "Juan Pérez", "status": true, "stars": 5, "img": "image_url.jpg" } | 201 Created - Retorna los datos del técnico creado en formato JSON. |
+| GET /api/v1/technicians                                                                              | 200 OK - Retorna un arreglo de técnicos en formato JSON. |
+| GET /api/v1/technicians/top-ranked                                                                   | 200 OK - Retorna un arreglo de técnicos mejor calificados en formato JSON. |
+| GET /api/v1/technicians/3                                                                            | 200 OK - Retorna los datos del técnico con id 3. |
+| PUT /api/v1/technicians/3 <br> { "name": "Juan Pérez", "status": false, "stars": 4, "img": "new_image_url.jpg" } | 200 OK - Retorna los datos del técnico actualizado en formato JSON. |
+| DELETE /api/v1/technicians/3                                                                         | 204 No Content - Elimina el técnico especificado. |
+
 
 <br>
 
