@@ -14,7 +14,7 @@
 
 ### **Docente:** Hugo Allan Mori Paiva
 
-#### TP REPORT
+#### TF REPORT
 
 ### Startup: TechMinds
 
@@ -39,12 +39,10 @@
 
 | Versión | Fecha      | Autor                                                    | Descripción                                                                                       |
 |---------|------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| 1.0     | 26/08/2024 | - Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano| - Se redactó la descripción de la startup, los antecedentes y la problemática. Además, se desarrolló el Lean UX Process y se delimitó el segmento objetivo.<br>- Desarrollo del User Journey Mapping y Empathy Mapping.<br> - Adición de las primeras entrevistas de segmentos objetivos.|
-| 1.2     | 05/09/2024 |- Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego<br>-Tello Murga, Javier Oswaldo | - Desarrollo completo del capítulo 2.<br>- Cumplimiento de lo establecido a llegar con el capítulo 3.<br>- Capítulo 4 establecido y logrado.<br>- Avance del Sprint 1 (Primera versión de la Landing Page). |
-| 1.4     | 27/09/2024 | - Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego| -Culminación del Sprint 1 (Mejora de la Landing Page) <br>- Avance del Sprint 2 (Primera versión del Frontend Desplegado) | 
-| 1.6     | 03/11/2024 |Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego  | - Segundo versión del Frontend<br> - Primera versión del Backend |
-| 1.8     | xx/11/2024 | Apellido, Nombre | ... |
-| 2.0     | xx/11/2024 | Apellido, Nombre | ... |
+| TB1    | 26/08/2024 | - Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego<br> | - Se redactó la descripción de la startup, los antecedentes y la problemática. <br>- Se desarrolló el Lean UX Process y se delimitó el segmento objetivo. <br>- Se desarrolló el capítulo 2 y se realizaron entrevistas al público objetivo. <br> - Desarrollo del User Journey Mapping y Empathy Mapping. <br>- Desarrollo completo del capítulo 2. <br>- Cumplimiento de lo establecido a llegar con el capítulo 3. <br>- Capítulo 4 establecido y logrado. <br>- Avance del Sprint 1 (Primera versión de la Landing Page)   |
+| TP     | 27/09/2024 | - Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego| - Culminación del Sprint 1 (Mejora de la Landing Page) <br>- Avance del Sprint 2 (Primera versión del Frontend Desplegado) | 
+| TB2    | 03/11/2024 | - Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego  | - Segunda versión del Frontend<br> - Primera versión del Backend |
+| TF     | 21/11/2024 |- Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego  | - Integración de Frontend y Backend |
 
 <br>
 
@@ -166,8 +164,11 @@
 | Entrevistas            | Para está actividad se pidió a cada miembro que busque entre conocidos a personas que su perfil se asemeje al de los segmentos objetivos para poder conseguir entrevistas necesarias para el capítulo 2.              |
 | Needfinding           | Para está sección del informe se dispuso de un tiempo para debatir y establecer el enfoque que tendríamos que darle a la aplicación para poder satisfacer nuestros segmentos objetivos encontrados en las entrevistas.           |
 | Requirements Specification           | Para el capitulo 3 se discutió las historias de usuarioa a desarrollar para los 4 sprints, que enfoque tendría la aplicación en base a como monetizarla y como esta interactuaría con el usuario final en el front.              |
-|  Product Design            | Se discutío el estilo de la Landing Page, colores de la misma y como sería, de forma básica, la aplicación web usando figma como "borrador". |
-| Product Implementation, Validation & Deployment-Sprint 1            | Para esta sección se dispuso de repartir responsabilidades referentes a este sprint, al ser el más rápido a desarrollar, se planteó que cada uno tenía un rol menor en la LP para que todas puedan colaborar su grano de arena al ser algo que ya todos dominamos.             |
+|  Product Design            | Se discutío el estilo de la Landing Page, colores de la misma y como se desplegaría. De igual manera, la aplicación web usando figma como "borrador". |
+| Product Implementation, Validation & Deployment-Sprint 1            | Para esta sección se dispuso de repartir responsabilidades referentes a este sprint, al ser el más rápido a desarrollar, se planteó que cada uno tenía un rol menor en la Landing Page para que todas puedan colaborar su grano de arena al ser algo que ya todos dominamos.             |
+| Product Implementation, Validation & Deployment-Sprint 2            | Para esta sección se dispuso de repartir responsabilidades referentes a este sprint, se planteó que cada uno tenía un rol importante en el desarrollo del frontend para componer los bounded context core del negocio.             |
+| Product Implementation, Validation & Deployment-Sprint 3            | Para esta sección se dispuso de repartir responsabilidades referentes a este sprint, se planteó que cada uno tenía un rol importante en el desarrollo del backend para componer los bounded context core del negocio y los servicios que serán llamados como endpoints para conectarlos al frontend.            |
+| Product Implementation, Validation & Deployment-Sprint 4            | Para esta sección se dispuso de repartir responsabilidades referentes a este sprint, se planteó que cada uno tenía un rol importante para validar la conexión del backend con el frontend, realizar los cambios necesarios para su adaptación y desplegarlos nuevamente.           |
 
 
 #### 2. Actividades de Elaboración del Informe
@@ -211,8 +212,8 @@
 
 | Criterio específico| Acciones realizadas   | Conclusiones |
 |-------------------|------------------------|--------------|
-| **Trabaja en equipo para proporcionar <br> liderazgo en forma conjunta** | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> Identificó entornos de desarrollo colaborativo para poder trabajar de manera remota, manteniendo un seguimiento del avance. Para ello, se realizó el diseño de los wireframes y mockups en la herramienta Figma. <br> *TP*<br> Utilizó las historias de usuario desarrolladas por el equipo para iniciar el desarrollo del front end y la adhesión de la vista de los técnicos mejor valorados. <br> *TB2* <br> Realizó el avance del back end del bounded context "technical support", hizo el merge de las ramas para el back end y comunicó los cambios y errores a considerar para el siguiente sprint. <br><br> **Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> Empleó herramientas como Lucid Chart para los diagramas de clases y organizó la estructura del proyecto para guiar al equipo, así como la repartición de responsabilidades y plazos de acorde a la disponibilidad de cada miembro. <br> *TP*<br> Se puso la manta de líder para poder diseñar y repartir los bounded context, separando estos en feats para un simple entendimiento para los miembros del equipo. <br> *TB2* <br> Realizó el avance del back end del bounded context "components" e identificó las technical stories relacionadas. <br><br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> Trabajó los gráficos del needfinding de manera colaborativa en UXPressia y colaboró con la redacción e identificación de criterios de aceptación. <br> *TP* <br> Se planificaron y colocaron las historias de usuario a desarrollar para este segundo sprint en la herramienta colaborativa Trello. <br> *TB2* <br> Realizó el avance del back end del bounded context "interaction" y participó activamente en la resolución de conflictos e incompatibilidades durante el merge de ramas para el back end. <br><br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> Elaboró el deployment de la landing page y el modelado de la base de datos. <br> *TP* <br> Para el desarrollo de esta sección del trabajo, todos los miembros del equipo se organizaron de manera efectiva con el fin de cumplir los objetivos establecidos, contribuyendo cada uno desde su propia perspectiva. <br> *TB2* <br> Realizó el avance del back end del bounded context "orders" y mejoró el diseño del home y el desarrollo de su bounded context para el frontend. <br><br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> Empleó herramientas como Microsoft Visual Studio para la arquitectura de software y ayudó a que todos los integrantes del grupo puedan analizar y criticar lo trabajado. <br><br>  |<br>El equipo mostró un alto nivel de colaboración y liderazgo compartido, utilizando diversas herramientas digitales para el desarrollo del proyecto de manera remota. La organización y distribución de tareas fue clave para el avance eficiente, aprovechando plataformas como Figma y Lucid Chart para el diseño y la planificación. Los miembros también destacaron en áreas técnicas como la implementación gráfica, la redacción de criterios de aceptación y la creación de la arquitectura de software, asegurando que todos los aspectos del proyecto estuvieran bien estructurados y revisados por el equipo. En conjunto, el trabajo en equipo permitió que cada miembro contribuyera a su área de especialización, promoviendo un entorno de colaboración y revisión crítica para el éxito del proyecto.<br><br> |
-| **Crea un entorno colaborativo e <br> inclusivo, establece metas, <br> planifica tareas y cumple <br> objetivos** | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> Se estableció un plan de desarrollo para la realización de tareas por sprint, siguiendo los principios del Agile Development y la metodología Scrum. <br> *TP* <br> Utilizó Trello para comunicar los avances del frontend, la implementación satisfactoria de determinadas funcionalidades y la cancelación de aquellas que no fueron seleccionadas para el sprint. <br> *TB2* <br> Gestionó el avance del back end, asegurando la integración y supervisando el merge de las ramas. <br><br> **Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> Siguiendo lo enseñado en Diseño de Patrones de Software, consiguió que se desarrollara de manera exitosa el Sprint número 1 liderando al equipo y estableciendo metas realistas. <br> *TP*<br> Propuso el uso de Trello para repartir las tareas y responsabilidades del sprint 2; ante tareas adicionales, promovió que fueran tomadas por quien terminara primero sus asignaciones. <br> *TB2* <br> Lideró el desarrollo y asignación de tareas en el contexto de componentes, motivando la toma de decisiones colaborativas para el avance del proyecto. <br><br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> Se comunicaron los detalles de las historias de usuario y sus cambios para implementaciones relacionadas. <br> *TP* <br> Se comunicaron las historias de usuario que se van a implementar para el bounded context definido. Se planificaron las metas para el sprint número 2. Además, se utilizó GitHub para las diferentes versiones del front-end. <br> *TB2* <br> Colaboró en la integración de módulos y gestionó los conflictos de merge, promoviendo un entorno inclusivo y abierto a la retroalimentación. <br><br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> Estableció objetivos y reuniones estratégicas para cada avance relacionado a los capítulos de desarrollo. <br> *TP* <br> Para el desarrollo de esta sección del trabajo, todos los miembros del equipo cumplieron con las metas y tareas establecidas de manera efectiva. <br> *TB2* <br> Contribuyó al desarrollo del back end y mejoró la interfaz del home, facilitando el trabajo en equipo y la integración de sus componentes. <br><br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> Se diseñó un plan de desarrollo para llevar a cabo las tareas, basándose en los principios clave del Desarrollo Ágil y la metodología Scrum.<br><br>  |<br>Se puede concluir que el trabajo en equipo y la coordinación para los tiempos de los entregables es clave para presentar un buen trabajo. Además, el equipo logró crear un entorno colaborativo e inclusivo siguiendo los principios del Desarrollo Ágil y la metodología Scrum. Se establecieron metas claras y realistas, planificando las tareas de manera efectiva y cumpliendo con los objetivos propuestos. La comunicación constante sobre las historias de usuario y sus cambios, junto con reuniones estratégicas para coordinar los avances, fueron esenciales para el éxito del proyecto. En conjunto, el enfoque estructurado y la coordinación eficiente en los tiempos de entrega permitieron que el trabajo se desarrollara de manera fluida y organizada.<br><br> |
+| **Trabaja en equipo para proporcionar <br> liderazgo en forma conjunta** | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> Identificó entornos de desarrollo colaborativo para poder trabajar de manera remota, manteniendo un seguimiento del avance. Para ello, se realizó el diseño de los wireframes y mockups en la herramienta Figma. <br> *TP*<br> Utilizó las historias de usuario desarrolladas por el equipo para iniciar el desarrollo del front end y la adhesión de la vista de los técnicos mejor valorados. <br> *TB2* <br> Realizó el avance del back end del bounded context "technical support", hizo el merge de las ramas para el back end y comunicó los cambios y errores a considerar para el siguiente sprint. <br> *TF* <br> Realizó la comunicación del back end y front end del bounded context "technical support", hizo el merge de las ramas para el back end y front end. Además comunicó los cambios que hizo en ambos campos.<br><br> **Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> Empleó herramientas como Lucid Chart para los diagramas de clases y organizó la estructura del proyecto para guiar al equipo, así como la repartición de responsabilidades y plazos de acorde a la disponibilidad de cada miembro.<br> *TP*<br> Se puso la manta de líder para poder diseñar y repartir los bounded context, separando estos en feats para un simple entendimiento para los miembros del equipo. <br> *TB2* <br> Realizó el avance del back end del bounded context "components" e identificó las technical stories relacionadas.<br> *TF* <br> Realizó la comuncición del back end y front end para el bounded context "components" e identificó las technical stories relacionadas. <br><br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> Trabajó los gráficos del needfinding de manera colaborativa en UXPressia y colaboró con la redacción e identificación de criterios de aceptación. <br> *TP* <br> Se planificaron y colocaron las historias de usuario a desarrollar para este segundo sprint en la herramienta colaborativa Trello. <br> *TB2* <br> Realizó el avance del back end del bounded context "interaction" y participó activamente en la resolución de conflictos e incompatibilidades durante el merge de ramas para el back end. <br> *TF* <br> Realizó la comunicación del back end y front end para el bounded context "interaction", dejó listo para el despliegue de ambos componentes <br><br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> Elaboró el deployment de la landing page y el modelado de la base de datos. <br> *TP* <br> Para el desarrollo de esta sección del trabajo, todos los miembros del equipo se organizaron de manera efectiva con el fin de cumplir los objetivos establecidos, contribuyendo cada uno desde su propia perspectiva. <br> *TB2* <br> Realizó el avance del back end del bounded context "orders" y mejoró el diseño del home y el desarrollo de su bounded context para el frontend.<br> *TF* <br> Realizó el avance del back end y front end para el bounded context "orders". Se encargó del despleigue de ambos componentes. <br><br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> Empleó herramientas como Microsoft Visual Studio para la arquitectura de software y ayudó a que todos los integrantes del grupo puedan analizar y criticar lo trabajado. <br><br>  |<br>El equipo mostró un alto nivel de colaboración y liderazgo compartido, utilizando diversas herramientas digitales para el desarrollo del proyecto de manera remota. La organización y distribución de tareas fue clave para el avance eficiente, aprovechando plataformas como Figma y Lucid Chart para el diseño y la planificación. Los miembros también destacaron en áreas técnicas como la implementación gráfica, la redacción de criterios de aceptación y la creación de la arquitectura de software, asegurando que todos los aspectos del proyecto estuvieran bien estructurados y revisados por el equipo. En conjunto, el trabajo en equipo permitió que cada miembro contribuyera a su área de especialización, promoviendo un entorno de colaboración y revisión crítica para el éxito del proyecto.<br><br> |
+| **Crea un entorno colaborativo e <br> inclusivo, establece metas, <br> planifica tareas y cumple <br> objetivos** | **Aranda Vallejos, Oscar Gabriel** <br> *TB1* <br> Se estableció un plan de desarrollo para la realización de tareas por sprint, siguiendo los principios del Agile Development y la metodología Scrum. <br> *TP* <br> Utilizó Trello para comunicar los avances del frontend, la implementación satisfactoria de determinadas funcionalidades y la cancelación de aquellas que no fueron seleccionadas para el sprint. <br> *TB2* <br> Gestionó el avance del back end, asegurando la integración y supervisando el merge de las ramas.<br> *TF* <br> Se encargó de la comunicación entre el back y front end, asegurando su integración de manera exitosa.<br><br> **Cantoral Sedamano, Alexander Alberto** <br> *TB1* <br> Siguiendo lo enseñado en Diseño de Patrones de Software, consiguió que se desarrollara de manera exitosa el Sprint número 1 liderando al equipo y estableciendo metas realistas. <br> *TP*<br> Propuso el uso de Trello para repartir las tareas y responsabilidades del sprint 2; ante tareas adicionales, promovió que fueran tomadas por quien terminara primero sus asignaciones. <br> *TB2* <br> Lideró el desarrollo y asignación de tareas en el contexto de componentes, motivando la toma de decisiones colaborativas para el avance del proyecto.<br> *TF* <br> Lideró el desarrollo y asignación de tareas en el contexto de la comunciación del back y front end de componentes, motivando la toma de decisiones colaborativas para la culminación del proyecto. <br><br> **Chirinos Zúñiga, Rodrigo Manuel** <br> *TB1* <br> Se comunicaron los detalles de las historias de usuario y sus cambios para implementaciones relacionadas. <br> *TP* <br> Se comunicaron las historias de usuario que se van a implementar para el bounded context definido. Se planificaron las metas para el sprint número 2. Además, se utilizó GitHub para las diferentes versiones del front-end. <br> *TB2* <br> Colaboró en la integración de módulos y gestionó los conflictos de merge, promoviendo un entorno inclusivo y abierto a la retroalimentación.<br> *TF* <br> Desarrolló la integración de front y back end de Interaction, comunicó los cambios. <br><br> **Soriano Medrano, Diego Martin** <br> *TB1* <br> Estableció objetivos y reuniones estratégicas para cada avance relacionado a los capítulos de desarrollo. <br> *TP* <br> Para el desarrollo de esta sección del trabajo, todos los miembros del equipo cumplieron con las metas y tareas establecidas de manera efectiva. <br> *TB2* <br> Contribuyó al desarrollo del back end y mejoró la interfaz del home, facilitando el trabajo en equipo y la integración de sus componentes.<br> *TF* <br> Implementó la comunicación del back y front end de Orders, concecto con la interfaz de iam. Comunicó que se logró el despligue de la app. <br><br> **Tello Murga, Javier Oswaldo** <br> *TB1* <br> Se diseñó un plan de desarrollo para llevar a cabo las tareas, basándose en los principios clave del Desarrollo Ágil y la metodología Scrum.<br><br>  |<br>Se puede concluir que el trabajo en equipo y la coordinación para los tiempos de los entregables es clave para presentar un buen trabajo. Además, el equipo logró crear un entorno colaborativo e inclusivo siguiendo los principios del Desarrollo Ágil y la metodología Scrum. Se establecieron metas claras y realistas, planificando las tareas de manera efectiva y cumpliendo con los objetivos propuestos. La comunicación constante sobre las historias de usuario y sus cambios, junto con reuniones estratégicas para coordinar los avances, fueron esenciales para el éxito del proyecto. En conjunto, el enfoque estructurado y la coordinación eficiente en los tiempos de entrega permitieron que el trabajo se desarrollara de manera fluida y organizada.<br><br> |
 
 
 
@@ -794,7 +795,7 @@ Descripción: Paul Steven Medina Sánchez, de 40 años, tiene 10 años de experi
 En su empresa, utilizan un sistema de tickets para registrar los problemas que reportan los clientes, lo cual permite programar intervenciones. Sin embargo, Paul considera que este sistema es limitado y no muy práctico, ya que requiere que el equipo técnico lea los tickets y determine cuándo intervenir. Estaría interesado en una plataforma que no solo facilite la recomendación de componentes y configuraciones de hardware, sino que también ayude a los clientes a diagnosticar sus problemas con mayor precisión, reduciendo así los tiempos de intervención. Paul cree que una alianza con una plataforma de este tipo podría beneficiar a la empresa al mejorar la eficiencia del equipo técnico y la satisfacción del cliente.
 
 
-### Link de entrevistas: https://acortar.link/LWUrOB
+### [Link de entrevistas](https://upcedupe-my.sharepoint.com/personal/u20181b152_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181b152%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechDesign%2Dneedfinding%2Dsprint%2D1%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E984bcea0%2Dc38f%2D4f95%2Db09b%2Ddcd89b7a3b34)
 
 #### 2.2.3. Análisis de entrevistas.
 
@@ -1019,6 +1020,10 @@ Segmento 2: Técnicos de computadoras
 |TS22|Compras que dan puntos para canjear descuentos|Como desarrollador, quiero que los usuarios premium acumulen puntos por cada compra realizada.|Escenario 1: Given que el usuario premium realiza una compra, When la transacción es exitosa, Then el sistema agrega puntos, And envía notificación con el saldo de puntos. Escenario 2: Given que el usuario premium realiza una compra, When el pago falla o es cancelado, Then el sistema no acumula puntos, And envía una notificación de compra fallida sin puntos acumulados.|
 |TS23|Recompensas adicionales por compras|Como desarrollador, quiero ofrecer recompensas adicionales a usuarios premium que cumplen ciertas condiciones.|Escenario 1: Given que el usuario premium realiza una compra calificable, When finaliza la compra y cumple condiciones, Then el sistema asigna una recompensa, And envía una notificación con detalles. Escenario 2: Given que el usuario premium realiza una compra, When no cumple condiciones de recompensa, Then el sistema no otorga recompensa y notifica las condiciones necesarias.|
 |TS24|  Sorteo de componentes y gadgets|Como desarrollador, quiero permitir la participación de usuarios premium en sorteos de componentes y gadgets.|Escenario 1: Given que el usuario premium cumple requisitos de sorteo, When completa la inscripción, Then el sistema confirma participación y envía detalles del sorteo. Escenario 2: Given que el usuario premium intenta participar sin cumplir requisitos, When intenta registrarse, Then el sistema muestra un error y explica los requisitos para futuros sorteos.|
+|TS25|  Endpoint de creación de carrito de componentes | Como desarrollador, quiero permitir la creación de carritos de compra por cada usuario y que puedan seleccionar componentes. | Escenario 1: Given que el usuario selecciona un componente para añadir a su carrito, When da click en el botón de guardar, Then el sistema confirma que se añadio el componente a su carrito de compras. Escenario 2: Given que un usuarios no registrado intenta guardar componentes en su carrito de comptas, When intenta guardar el producto, Then el sistema no le permite agregar el componente seleccionado.|
+|TS26|  Enpoints de administración de carrito de componentes | Como desarrollador, quiero permitir la administración de los carritos de compra por cada usuario. | Escenario 1: Given que el usuario quiere administrar los componenets añadidos a su carrito de compras, When ejecuta acciones de eliminar o administrar, Then el sistema le permite realizar estas acciones en su carrito de compras. Escenario 2: Given que un usuario no registrado intenta administrar un carrito de compras, When intenta realizar acciones en su carrito de compras, Then el sistema no le permite realizar estas acciones.|
+|TS13|  Enpoints de solicitud de soporte técnico de forma virtual | Como desarrollador, quiero implementar solicitudes de soporte técnico virtual para que los usuarios puedan recibir ayuda en línea. | Escenario 1: Given el usuario solicita soporte, When envía el formulario, Then el sistema confirma y asigna un ticket. Escenario 2: Given el usuario solicita soporte, When envía el formulario, Then el sistema no confirma ni asigna ticket.|
+|TS14|  Enpoints de solicitud de soporte técnico a domicilio | Como desarrollador, quiero habilitar solicitudes de soporte técnico a domicilio. | Escenario 1: Given el usuario premium solicita soporte, When selecciona soporte a domicilio, Then el sistema confirma y asigna técnico. Escenario 2: Given el usuario premium solicita soporte, When selecciona soporte a domicilio, Then el sistema no confirma ni asigna técnico. |
 
 ## 3.3. Impact Mapping.
 
@@ -1027,61 +1032,63 @@ Segmento 2: Técnicos de computadoras
 ## 3.4. Product Backlog.
 |# Orden | User Story ID | Título                                          | Descripción                                                                                                                                                                            | Story Points (1/2/3/5/8) |
 |--------|---------------|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
-| 1      | US001         | Página "Inicio"                                | Como usuario quiero ver un apartado inicial del servicio para conocer lo más relevante.                                                                                             | 3            |
-| 2      | US002         | Página "Nosotros"                              | Como usuario quiero conocer la misión y visión del proyecto para tener un poco más de confianza.                                                                                   | 2            |
-| 3      | US003         | Página "Contacto"                              | Como usuario quiero saber cómo puedo contactar a las personas que están detrás del servicio para comunicarme.                                                                        | 2            |
-| 4      | US004         | Página "Ayuda"                                 | Como usuario quiero tener un apartado de ayuda para resolver posibles dudas.                                                                                                        | 2            |
-| 5      | US005         | Registro de usuario                            | Como usuario quiero registrarme en la página web para usar sus funcionalidades.                                                                                                      | 5            |
-| 6      | US006         | Iniciar Sesión                                 | Como usuario quiero iniciar sesión en la página web para hacer uso del servicio.                                                                                                     | 5            |
-| 7      | US007         | Editar perfil de usuario                       | Como usuario quiero editar mi perfil para mantener mi información de mi cuenta actualizada.                                                                                        | 5            |
-| 8      | US008         | Eliminar usuario                               | Como administrador del sistema quiero eliminar un usuario de la plataforma para que pueda mantener la base de datos actualizada.                                                     | 8            |
+| 1      | US001         | Página "Inicio"                                 | Como usuario quiero ver un apartado inicial del servicio para conocer lo más relevante.                                                                                             | 3            |
+| 2      | US002         | Página "Nosotros"                               | Como usuario quiero conocer la misión y visión del proyecto para tener un poco más de confianza.                                                                                   | 2            |
+| 3      | US003         | Página "Contacto"                               | Como usuario quiero saber cómo puedo contactar a las personas que están detrás del servicio para comunicarme.                                                                        | 2            |
+| 4      | US004         | Página "Ayuda"                                  | Como usuario quiero tener un apartado de ayuda para resolver posibles dudas.                                                                                                        | 2            |
+| 5      | US005         | Registro de usuario                             | Como usuario quiero registrarme en la página web para usar sus funcionalidades.                                                                                                      | 5            |
+| 6      | US006         | Iniciar Sesión                                  | Como usuario quiero iniciar sesión en la página web para hacer uso del servicio.                                                                                                     | 5            |
+| 7      | US007         | Editar perfil de usuario                        | Como usuario quiero editar mi perfil para mantener mi información de mi cuenta actualizada.                                                                                        | 5            |
+| 8      | US008         | Eliminar usuario                                | Como administrador del sistema quiero eliminar un usuario de la plataforma para que pueda mantener la base de datos actualizada.                                                     | 8            |
 | 9      | US009         | Selección de Componentes de PC                  | Como usuario, quiero que la aplicación me ayude a seleccionar componentes de PC adecuados para mis necesidades y presupuesto.                                                       | 5            |
 | 10     | US010         | Filtro de búsqueda de componentes               | Como usuario, quiero poder especificar las tareas, programas, presupuesto y otros filtros para recibir recomendaciones específicas para mis necesidades.                               | 5            |
 | 11     | US011         | Palabras clave para selección de componentes    | Como usuario quiero buscar componentes específicos usando palabras clave para encontrar exactamente lo que necesito.                                                                | 3            |
-| 12     | US012         | Carrito de compras                             | Como usuario quiero agregar componentes a un carrito de compras para revisarlos antes de realizar la compra.                                                                         | 5            |
-| 13     | US013         | Listas de Deseos                               | Como usuario quiero guardar componentes en una lista de deseos para considerarlos en futuras compras.                                                                               | 3            |
+| 12     | US012         | Carrito de compras                              | Como usuario quiero agregar componentes a un carrito de compras para revisarlos antes de realizar la compra.                                                                         | 5            |
+| 13     | US013         | Listas de Deseos                                | Como usuario quiero guardar componentes en una lista de deseos para considerarlos en futuras compras.                                                                               | 3            |
 | 14     | US014         | Guía técnica en un entorno colaborativo virtual | Como usuario quiero acceder a una guía técnica en un entorno colaborativo para diagnosticar problemas de hardware o software.                                                        | 8            |
-| 15     | US015         | Consultas ilimitadas                           | Como usuario premium quiero tener acceso a consultas técnicas ilimitadas para resolver mis dudas rápidamente.                                                                       | 5            |
-| 16     | US016         | Capacitación Personalizada                     | Como usuario quiero recibir capacitación personalizada sobre el uso de componentes y mantenimiento de mi PC.                                                                        | 8            |
-| 17     | US017         | Solicitud de soporte técnico de forma virtual  | Como usuario quiero solicitar soporte técnico de forma virtual para solucionar problemas desde casa.                                                                               | 5            |
+| 15     | US015         | Consultas ilimitadas                            | Como usuario premium quiero tener acceso a consultas técnicas ilimitadas para resolver mis dudas rápidamente.                                                                       | 5            |
+| 16     | US016         | Capacitación Personalizada                      | Como usuario quiero recibir capacitación personalizada sobre el uso de componentes y mantenimiento de mi PC.                                                                        | 8            |
+| 17     | US017         | Solicitud de soporte técnico de forma virtual   | Como usuario quiero solicitar soporte técnico de forma virtual para solucionar problemas desde casa.                                                                               | 5            |
 | 18     | US018         | Solicitud de soporte técnico a domicilio        | Como usuario premium quiero solicitar soporte técnico a domicilio para recibir ayuda en persona.                                                                                     | 8            |
-| 19     | US019         | Soporte prioritario                            | Como usuario premium quiero recibir soporte prioritario para solucionar problemas con mayor rapidez.                                                                                | 8            |
+| 19     | US019         | Soporte prioritario                             | Como usuario premium quiero recibir soporte prioritario para solucionar problemas con mayor rapidez.                                                                                | 8            |
 | 20     | US020         | Mantenimiento Preventivo                        | Como usuario quiero solicitar mantenimiento preventivo para asegurar el correcto funcionamiento de mi equipo.                                                                        | 5            |
 | 21     | US021         | Reseña y valoración de componentes              | Como usuario quiero dejar una reseña y valoración sobre los componentes que he adquirido para ayudar a otros usuarios.                                                                | 3            |
 | 22     | US022         | Reseña y valoración del servicio técnico        | Como usuario quiero valorar el servicio técnico que recibí para compartir mi experiencia con otros.                                                                                  | 3            |
 | 23     | US023         | Confirmación del pago                           | Como usuario quiero recibir una confirmación de pago clara y detallada al finalizar mi compra.                                                                                       | 8           |
 | 24     | US024         | Cancelación del pago                            | Como usuario quiero poder cancelar un pago antes de que se procese si cambio de opinión.                                                                                           | 5           |
 | 25     | US025         | Gestión de devoluciones                         | Como usuario quiero gestionar devoluciones de componentes comprados que no cumplieron mis expectativas o llegaron defectuosos.                                                        | 5            |
-| 26     | US026         | Compras que dan puntos para canjear descuentos | Como usuario premium quiero acumular puntos con cada compra para canjearlos por descuentos en futuras compras.                                                                      | 3            |
+| 26     | US026         | Compras que dan puntos para canjear descuentos  | Como usuario premium quiero acumular puntos con cada compra para canjearlos por descuentos en futuras compras.                                                                      | 3            |
 | 27     | US027         | Recompensas adicionales por compras             | Como usuario premium, quiero recibir una recompensa adicional como accesorios relacionados a mi compra para sentirme valorado por mi lealtad y nivel de suscripción.               | 5            |
 | 28     | US028         | Sorteo de componentes y gadgets                 | Como usuario premium quiero participar en sorteos de componentes y gadgets para tener la oportunidad de ganar productos adicionales.                                                | 3            |
 
 | # Orden | Technical Story ID | Título                                      | Descripción                                                                                                                      | Story Points |
 |---------|---------------|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|--------------|
-| 1       | TS01         | Generación de Contrato                      | Como desarrollador, implementar la generación de contratos para usuarios y landlords con validaciones necesarias.               | 5            |
-| 2       | TS02         | Notificación de Confirmación de Contrato    | Como desarrollador, implementar la notificación estilizada para confirmar el envío de contratos al propietario.                  | 3            |
-| 3       | TS03         | Validación de Datos de Landlord             | Como desarrollador, crear la lógica para validar los datos del landlord antes de permitir la generación del contrato.            | 3            |
-| 4       | TS04         | Interfaz de Pago                            | Como desarrollador, implementar la interfaz de pago para procesar pagos después de la generación del contrato.                   | 5            |
-| 5       | TS05         | Interfaz de Visualización de Contrato       | Como desarrollador, crear la interfaz para visualizar el contrato antes de enviarlo al propietario.                              | 3            |
-| 6       | TS06         | Funcionalidad de Previsualización           | Como desarrollador, habilitar la funcionalidad de previsualización del contrato generado.                                       | 2            |
-| 7       | TS07         | Gestión de Historial de Contratos           | Como desarrollador, implementar la gestión del historial de contratos generados por los usuarios.                                | 3            |
-| 8       | TS08         | Integración de Firmas de Landlords          | Como desarrollador, integrar la funcionalidad para adjuntar la firma del landlord en los contratos generados.                    | 5            |
-| 9       | TS09         | Consulta de Estado de Contratos             | Como desarrollador, permitir a los usuarios consultar el estado de sus contratos generados.                                     | 2            |
-| 10      | TS10         | Gestión de Términos y Condiciones           | Como desarrollador, implementar la gestión de términos y condiciones para los contratos.                                         | 3            |
-| 11      | TS11         | Soporte para Varios Idiomas                 | Como desarrollador, implementar soporte para múltiples idiomas en la generación de contratos.                                   | 3            |
-| 12      | TS12         | Análisis de Uso de Contratos                | Como desarrollador, crear funcionalidades para analizar el uso y aceptación de los contratos generados.                          | 5            |
-| 13      | TS13         | Mejora de la Estética del Contrato          | Como desarrollador, implementar mejoras en la estética del contrato generado con jsPDF.                                         | 3            |
-| 14      | TS14         | Manejo de Errores en la Generación          | Como desarrollador, implementar manejo de errores durante el proceso de generación de contratos.                                 | 3            |
-| 15      | TS15         | Creación de Plantillas de Contrato          | Como desarrollador, permitir la creación de plantillas para contratos que puedan ser reutilizadas.                               | 5            |
-| 16      | TS16         | Solicitud de Mantenimiento Preventivo       | Como desarrollador, implementar el flujo de solicitud de mantenimiento preventivo con confirmaciones, incluyendo validación y notificación.          | 5            |
-| 17      | TS17         | Formulario de Reseñas para Componentes      | Como desarrollador, diseñar y validar el formulario para que los usuarios puedan dejar reseñas sobre componentes adquiridos.                         | 3            |
-| 18      | TS18         | Valoración del Servicio Técnico             | Como desarrollador, implementar funcionalidad para que el usuario valore el servicio técnico recibido.                                               | 3            |
-| 19      | TS19         | Confirmación de Pago Detallada              | Como desarrollador, implementar flujo para generar una confirmación detallada de pago tras la finalización de una compra.                            | 5            |
-| 20      | TS20         | Cancelación de Pago                         | Como desarrollador, permitir la cancelación del pago antes de su procesamiento final.                                                                | 3            |
-| 21      | TS21         | Gestión de Devoluciones                     | Como desarrollador, habilitar la opción de devolución de componentes adquiridos y procesar solicitudes de devolución.                                | 5            |
-| 22      | TS22         | Acumulación de Puntos para Usuarios Premium | Como desarrollador, permitir que usuarios premium acumulen puntos por cada compra realizada.                                                         | 3            |
-| 23      | TS23         | Recompensas para Usuarios Premium           | Como desarrollador, ofrecer recompensas adicionales a usuarios premium que cumplan con ciertas condiciones.                                          | 2            |
-| 24      | TS24         | Sorteos para Usuarios Premium               | Como desarrollador, permitir que usuarios premium participen en sorteos de componentes y gadgets si cumplen con los requisitos.                      | 2            |
+| 1       | TS01         | Registro de usuario                         | Como desarrollador, quiero implementar el servicio de registro de usuario para gestionar los registros exitosos y los errores.| 5            |
+| 2       | TS02         | Iniciar Sesión                              | Como desarrollador, quiero implementar el inicio de sesión para autenticar usuarios y manejar los errores de autenticación.| 3            |
+| 3       | TS03         | Editar perfil de usuario                    | Como desarrollador, quiero habilitar la edición del perfil de usuario para que los usuarios puedan actualizar su información.|            | 3            |
+| 4       | TS04         | Eliminar usuario                            | Como desarrollador, quiero implementar la funcionalidad de eliminación de usuario para mantener la base de datos actualizada.| 5            |
+| 5       | TS05         | Selección de Componentes de PC              | Como desarrollador, quiero implementar la selección de componentes para sugerir productos que se adapten a las necesidades y presupuesto del usuario.| 3            |
+| 6       | TS06         | Filtro de búsqueda de componentes           | Como desarrollador, quiero habilitar un sistema de filtros para especificar criterios de búsqueda en la selección de componentes.| 2            |
+| 7       | TS07         | Palabras clave para selección de componentes| Como desarrollador, quiero implementar la búsqueda por palabras clave para localizar componentes específicos en la plataforma.| 3            |
+| 8       | TS08         | Carrito de compras                          | Como desarrollador, quiero habilitar el carrito de compras para que los usuarios revisen los componentes antes de comprarlos.| 5            |
+| 9       | TS09         | Listas de Deseos                            | Como desarrollador, quiero habilitar la lista de deseos para que los usuarios puedan guardar componentes para futuras compras.| 2            |
+| 10      | TS10         | Guía técnica en un entorno colaborativo virtual para diagnóstico de problemas    | Como desarrollador, quiero implementar una guía técnica en un entorno colaborativo para diagnóstico de problemas de hardware o software.| 3            |
+| 11      | TS11         | Consultas ilimitadas                        | Como desarrollador, quiero permitir acceso a consultas ilimitadas para usuarios premium en el portal técnico.| 3            |
+| 12      | TS12         | Capacitación Personalizada                  | Como desarrollador, quiero habilitar una capacitación personalizada para guiar a los usuarios en el uso y mantenimiento de sus PCs.| 5            |
+| 13      | TS13         | Solicitud de soporte técnico de forma virtual | Como desarrollador, quiero implementar solicitudes de soporte técnico virtual para que los usuarios puedan recibir ayuda en línea.| 3            |
+| 14      | TS14         | Solicitud de soporte técnico a domicilio    | Como desarrollador, quiero habilitar solicitudes de soporte técnico a domicilio para usuarios premium.| 3            |
+| 15      | TS15         | Soporte prioritario                         | Como desarrollador, quiero habilitar soporte prioritario para usuarios premium, asignando personal especializado.| 5            |
+| 16      | TS16         | Mantenimiento Preventivo                    | Como desarrollador, quiero implementar el flujo para la solicitud de mantenimiento preventivo con confirmaciones.| 5            |
+| 17      | TS17         | Reseña y valoración de componentes          | Como desarrollador, quiero diseñar y validar el formulario de reseñas para componentes adquiridos por el usuario.                                               | 3            |
+| 18      | TS18         | Reseña y valoración  del servicio técnico   | Como desarrollador, quiero implementar la funcionalidad para valorar el servicio técnico recibido por el usuario.| 3            |
+| 19      | TS19         | Confirmación del pago                       |Como desarrollador, quiero implementar el flujo de confirmación de pago detallado para compras finalizadas.| 5            |
+| 20      | TS20         | Cancelación del pago                        |Como desarrollador, quiero permitir la cancelación de pago antes de su procesamiento final.| 3            |
+| 21      | TS21         | Gestión de devoluciones                     |Como desarrollador, quiero habilitar la gestión de devoluciones para componentes comprados.| 5            |
+| 22      | TS22         | Compras que dan puntos para canjear descuentos   | Como desarrollador, quiero que los usuarios premium acumulen puntos por cada compra realizada.| 3            |
+| 23      | TS23         | Recompensas adicionales por compras         | Como desarrollador, quiero ofrecer recompensas adicionales a usuarios premium que cumplen ciertas condiciones.| 2            |
+| 24      | TS24         | Sorteo de componentes y gadgets             | Como desarrollador, quiero permitir la participación de usuarios premium en sorteos de componentes y gadgets.| 5          |
+| 25      | TS25         | Endpoint de creación de carrito de componentes | Como desarrollador, quiero permitir la creación de carritos de compra por cada usuario y que puedan seleccionar componentes. | 4          |
+| 26      | TS26         | Enpoints de administración de carrito de componentes | Como desarrollador, quiero permitir la administración de los carritos de compra por cada usuario. | 3            |
 
 
 # Capítulo IV: Product Design
@@ -2408,7 +2415,7 @@ En este sprint, el objetivo principal fue desarrollar la Landing Page de nuestro
 
 Para este sprint se logró concretar una Landing Page y a su vez el needfinding y product backlog para el proyecto.
 
-Link explicatorio de LP: https://acortar.link/JRxnWD
+[Link explicatorio de LP](https://upcedupe-my.sharepoint.com/personal/u202218167_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218167%5Fupc%5Fedu%5Fpe%2FDocuments%2FExecution%20Evidence%20for%20Sprint%20Review%2E%20%E2%80%90%20Hecho%20con%20Clipchamp%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E50d9b7f8%2D36e8%2D40d5%2D87e1%2D28091c5ea499)
 
 <br>
 
@@ -2480,7 +2487,7 @@ entre otros.-->
     <thead>
         <tr>
             <td> Sprint # </td>
-            <td> Sprint 1 </td>
+            <td> Sprint 2 </td>
         </tr>
         <tr>
             <td colspan="2"> Sprint Planning Background </td>
@@ -2508,22 +2515,22 @@ entre otros.-->
             <td> Aranda Vallejos, Oscar Gabriel / Cantoral Sedamano, Alexander Alberto / Chirinos Zúñiga, Rodrigo Manuel / Soriano Medrano, Diego / Tello Murga, Javier Oswaldo </td>
         </tr>
         <tr>
-            <td> Sprint 1 Review Summary </td>
+            <td> Sprint 2 Review Summary </td>
             <td> Durante este sprint se pudo ver que se puede concretar distintas tareas en equipo. A su vez que se necesitan corregir algunos aspectos del sprint 1 en la Lading Page y las User Stories. </td>
         </tr>
         <tr>
-            <td> Sprint 1 Retrospective Summary </td>
+            <td> Sprint 2 Retrospective Summary </td>
             <td> Todo el equipo necesita terminar de aprender el concepto de conventional commits, a su vez, necesita aprender a solucionar problemas que puedan surgir al hacer merge en github. Por último se necesitará de 2 reuniones semanales mínimo a partir de ahora. </td>
         </tr>
         <tr>
             <td colspan="2">Sprint Goal & User Stories</td>
         </tr>
         <tr>
-            <td> Sprint 1 Goal </td>
+            <td> Sprint 2 Goal </td>
             <td>  Desarrollar una primera versión del Frontend </td>
         </tr>
         <tr>
-            <td> Sprint 1 Velocity </td>
+            <td> Sprint 2 Velocity </td>
             <td>  Velocidad estimada de 69  puntos. La velocidad del equipo se calculó considerando la capacidad del equipo y los puntos de historia completados en sprints anteriores. </td>
         </tr>
         <tr>
@@ -2779,7 +2786,7 @@ Se logró conseguir una primera versión del frontend deployeado y este mismo pr
 
 Para este sprint pudimos concretar una primera versión del Frontend de la aplicación web. A su vez se pudo hacer una mejora del documentación del sprint anterior y se pudo reflexionar de los errores del mismo.
 
-Link del vídeo explicativo: https://acortar.link/5xsWsq
+[Link del vídeo explicativo](https://upcedupe-my.sharepoint.com/personal/u20181b152_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181b152%5Fupc%5Fedu%5Fpe%2FDocuments%2FExecution%20Evidence%20for%20Sprint%20Review%20TB2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E2e11603c%2Dc492%2D4b02%2D8a48%2De5600f195578)
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
@@ -3055,7 +3062,7 @@ Cada miembro del equipo se encargó de identificar sus respectivas historias de 
 
 Para este Sprint se enfocaron los esfuerzos en mejorar el Frontend y avanzar el Backend de la aplicación web. 
 
-Link del vídeo con evidencias: https://acortar.link/CMYAkm
+[Link del vídeo con evidencias](https://upcedupe-my.sharepoint.com/personal/u20181b152_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181b152%5Fupc%5Fedu%5Fpe%2FDocuments%2FExecution%20Evidence%20for%20Sprint%203%2D%20Techminds%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E23b4f653%2D1885%2D4283%2Dafa2%2D3a05374a0a25)
 
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 
@@ -3113,6 +3120,545 @@ Para el frontend se hicieron mejoras como se puede apreciar en la gráfica:
 Para el backend se añadieron los bounded context de cada uno con una versión pre-liminar de los mismos:
 [![insights2.png](https://i.postimg.cc/zXhdnd1J/insights2.png)](https://postimg.cc/SJy74fs5)
 
+<br>
+
+#### 5.2.4. Sprint 4
+##### 5.2.4.1. Sprint Planning 4
+
+En este último sprint, establecimos las tareas finales y todos los miembros del equipo participaron activamente. El objetivo principal fue completar las User Stories (US) y Technical Stories (TS) asignadas, así como abordar la gestión de errores e inconsistencias. Además, se trabajó en la integración del frontend con el backend para asegurar un funcionamiento cohesivo de la aplicación.
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td>Sprint 4</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Date</td>
+            <td>2024-11-16</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>15:00</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>UPC</td>
+        </tr>
+        <tr>
+            <td>Prepared By</td>
+            <td>TechMinds</td>
+        </tr>
+        <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td> Aranda Vallejos, Oscar Gabriel / Cantoral Sedamano, Alexander Alberto / Chirinos Zúñiga, Rodrigo Manuel / Soriano Medrano, Diego </td>
+        </tr>
+        <tr>
+            <td>Sprint n – 4 Review Summary</td>
+            <td> Dado que este es el último sprint, se anticipó la finalización del desarrollo de los endpoints y su integración con el frontend, con miras al despliegue de la aplicación. </td>
+        </tr>
+        <tr>
+            <td>Sprint n – 4 Retrospective Summary</td>
+            <td> Al tratarse del último sprint, se destaca la expectativa de los miembros del equipo para completar todas las actividades antes de la fecha programada para el despliegue. </td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Goal</td>
+            <td> Nos centramos en integrar la persistencia de datos en el proyecto, ya que consideramos que esto permitirá un lanzamiento inicial atractivo y seguro tanto para las empresas de belleza como para los clientes interesados en el cuidado personal. Esta afirmación se validará una vez que las empresas se registren y publiquen sus servicios, y cuando comience a aumentar la cantidad de usuarios. </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Velocity</td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <td>Sum of Story Points</td>
+            <td>26</td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+##### 5.2.4.2. Sprint Backlog 4
+
+Para el desarrollo del último sprint, todo el equipo se reunió con el propósito de verificar el cumplimiento de las tareas asignadas en el sprint anterior y llevar a cabo la planificación del nuevo sprint. En esta entrega final, todas las actividades se enfocaron en concluir y consolidar el desarrollo de las historias de usuario (user stories) y las historias técnicas (technical stories) asignadas a cada miembro del grupo. Esto permitió finalizar el ciclo de desarrollo de ambas partes de nuestra aplicación y realizar las tareas necesarias para la integración del frontend y backend, siendo cada integrante responsable de las historias de usuario que le fueron asignadas.
+
+Además, cada integrante elaboró una descripción detallada de las tareas realizadas, así como una estimación de las horas invertidas en el desarrollo. Se registraron todas las actividades para garantizar una gestión adecuada de las tareas y los productos entregables, tal como se detalla a continuación.
+
+<br>
+
+**Board para el Sprint:**
+
+<img src="/assets/trello4.png"/>
+
+<br/>
+
+**URL Trello:**
+
+[https://trello.com/b/7CzGyE3X/si730-2402-ws51-grupo-2](https://trello.com/b/7CzGyE3X/si730-2402-ws51-grupo-2)
+
+<br/>
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td colspan="7" >Sprint 4</td>
+        </tr>
+        <tr>
+            <td colspan="2" > User Story</td>
+            <td colspan="6" > Work-Item / Task </td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> Id </td>
+            <td> Title </td>
+            <td> Id </td>
+            <td> Title </td>
+            <td> Description </td>
+            <td> Estimation (Hours) </td>
+            <td> Assigned To </td>
+            <td> Status (To-do / In-Process / To-Review / Done) </td>
+        </tr>
+        <tr>
+            <td> TS06 </td>
+          	<td> Filtro de búsqueda de componentes </td>
+          	<td> 01 </td>
+          	<td> Implementar filtro de búsqueda de componentes </td>
+            <td> - Implementar las funciones de filtro de búsqueda de componentes </br> - Mostrar componentes según el filtro seleccionado  </td>
+            <td> 2 </td>
+            <td> Alexander Cantoral </td>
+            <td> Done / Backend </td>
+        </tr>
+        <tr>
+            <td> TS07 </td>
+          	<td> Palabras clave para selección de componentes </td>
+          	<td> 02 </td>
+          	<td> Implementar selección de componentes </td>
+            <td> - Implementar las secciones de configuración de plabras clave </br> - Implmentar filtros según palabras clave.  </td>
+            <td> 2 </td>
+            <td> Alexander Cantoral </td>
+            <td> Done / Backend </td>
+        </tr>
+        <tr>
+            <td> TS09 </td>
+          	<td> Lista de Deseos </td>
+          	<td> 03 </td>
+          	<td> Implementar funcionalidad y endpoints de lista de deseos </td>
+            <td> - Crear funciones para añadir componentes a lista de deseos </br> - Mostrar los articulos en la lista de deseos  </td>
+            <td> 2 </td>
+            <td> Rodrigo Chirinos </td>
+            <td> Done / Backend </td>
+        </tr>
+        <tr>
+            <td> US011 </td>
+          	<td> Palabras clave para selección de componentes </td>
+          	<td> 04 </td>
+          	<td> Implementar palabras clave para selección de componentes </td>
+            <td> - Implementar configuración de palabras clave </br> - Implmentar filtros según palabras clave configuradas por el usuario.  </td>
+            <td> 2 </td>
+            <td> Alexander Cantoral </td>
+            <td> Done / Frontend </td>
+        </tr>
+        <tr>
+            <td> TS17 </td>
+          	<td> Reseña y valoración de componentes </td>
+          	<td> 05 </td>
+          	<td> Implementar reseña y valoración de componentes </td>
+            <td> - Implementar funciones de reseña y valoración de componentes </br> - Crear endpoint para la creación de reseña y valoración de componentes según los atributos necesarios  </td>
+            <td> 2 </td>
+            <td> Rodrigo Chirinos </td>
+            <td> Done / Backend </td>
+        </tr>
+        <tr>
+            <td> TS18 </td>
+          	<td> Reseña y valoración del servicio técnico </td>
+          	<td> 06 </td>
+          	<td> Reseña y valoración del servicio técnico </td>
+            <td> - Implementar funciones de reseña y valoración del servicio técnico </br> - Crear endpoint para la creación de reseña y valoración del servicio técnico según los atributos necesarios  </td>
+            <td> 2 </td>
+            <td> Rodrigo Chirinos </td>
+            <td> Done / Backend </td>
+        </tr>
+        <tr>
+            <td> TS25 </td>
+          	<td> Endpoint de creación de carrito de componentes </td>
+          	<td> 07 </td>
+          	<td> Implementación y programación para creación de carrito de componentes </td>
+            <td> - Implementar funciones para la creación de carrito de componentes por usuario </br> - Crear endpoint para la creación de carrito de componentes según los atributos necesarios por usuario </td>
+            <td> 2 </td>
+            <td> Diego Soriano </td>
+            <td> Done / Backend </td>
+        </tr>
+        <tr>
+            <td> TS26 </td>
+          	<td> Enpoints de administración de carrito de componentes </td>
+          	<td> 08 </td>
+          	<td> Implementación y programación para administración de carrito de componentes </td>
+            <td> - Implementar funciones de administración de carrito de componentes por usuario </br> - Crear endpoint de administración de carrito de componentes según los atributos necesarios por usuario </td>
+            <td> 2 </td>
+            <td> Diego Soriano </td>
+            <td> Done / Backend </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+##### 5.2.4.3. Development Evidence for Sprint Review
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+|https://github.com/SI730-WS51-PC-MASTER/Backend|main|36741535c23e3103039ba4ab794ae72de88899ab|main|hotfix| 4 capas arregladas para Components bc|13/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Backend|main|9c7ef55536f659c1a546d9ba02f7294fcf37b9c3|Hotfix| Limpieza y log for component|13/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Backend|main|27a8872b9e20c68263384b61023900f88cbb4b1f|feat| Update the required endpoints|14/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Backend|main|4be19969b3ee5d19a0092cd48df648a6c8e56cbb|Fix| Component bc. Post|15/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Backend|main|de09ab4748d593656a0e6822149011c31dda68ef|Fix| Get singular done|15/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Backend|main|c4f9eaa868a5a4381b0193a970a5b11bf685476b|Feat| GetAllComponents|15/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Backend|main|325ffd33a2828c97b71e13d80b24921bff141b94|feat| IAM with notes|16/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Backend|main|d20a99d920478574054bdd76e66f2fdf16394a45|feat| Update Orders|19/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Backend|main|a72e97cf10f3fad740acb2606cad35e528757759|feat(component)| Backend ready for Frontend and DataBase implementation|19/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Backend|main|cbe3cde2274332f45761e7e0760fbac300f8503c|fix| Improve Interaction Bounded Context|19/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Backend|main|effd103686c71195760c760071c5a7670cb74c8f|feat| Add Image Value Object|20/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Backend|main|ab423008679f3123b9b9aa83b74e3624ed5b04b6|feat| update orders|20/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Backend|main|2a8e151eee9130305c21363befb498eb4c9e8cdc|feat| update interaction reviews|20/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Backend|main|b10a2c78d315599f665168180599d0ad1703807c|feat| Update Authorize|20/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Backend|main|a820cc841490261115c6d2e16beb38197e282732|fix| Improve Interaction bounded  context |21/11/2024|
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend/|main|14d18b34c331b48fffbc0622c210eda883e5aa78|hotfix| Component with new attibutes|15/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend/|main|321ac6571e09f0e021ee5f2fbef80274d3adc32f|feat| Update wishlist|16/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend/|main|bc2c0a1af671d9a6351e92a78cd52fc6338bb887|feat| Rename some files|16/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend/|main|1109cf7dcbc6c4e5cf2e3dc8ddb44632fa895ce9|feat(components)| Frontend ready for Backend|19/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend/|main|fa56251fb93b28b9241b38c35d68815b010ff973|feat component|-|19/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend/|main|c3c7f0ff11e50ab918f87b5955f9c3a6e530483c|feat| Adjust endpoints, do refactor and fix errors to connect to the backend properly|20/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend/|main|44947615129dd85249ea70309ff3ceb5bf85a267|feat| update reviews|20/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend/|main|82530ae5ee2c87012bd69080f72c56cceeccbc91|feat| Add IAM Bc|20/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend/|main|14b229a48342232ff23ed7a70d01fee36970b4d3|feat|Update components for IAM|20/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend/|main|4cf647f0fb7d8c6636bec6e7e19cdbe0cd235f15|feat| Update resourceEndpoint|20/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend/|main|7afddd6f10b8b4f5dc43cbb4be1888a36f05b992|feat| update cart|20/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend/|main|3545544fbf32e06a2dcc3a8f5bb505de9a42965e|feat| update orders|20/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend/|main|d4166ddbdf0fc9436e3bc8bdcd51b647c96c8faa|fix| Improve wishlist|21/11/2024|
+|https://github.com/SI730-WS51-PC-MASTER/Frontend/|main|45acb8cbd1bf462f727b1f77048671a479e53a7b|feat| update carts|22/11/2024|
+
+<br>
+
+##### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+En esta entrega, se llevaron a cabo los últimos ajustes a las historias técnicas para el backend, así como la integración entre el frontend y el backend.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+|https://github.com/SI730-WS51-PC-MASTER/Backend|main|d564cd95ac692c4b3751099d417a675654badd99|feat: GET and POST Component|Solved refactor component|2/11/2024|
+
+<br>
+
+##### 5.2.4.5. Execution Evidence for Sprint Review
+
+Desde la perspectiva del desarrollo, se crearon y optimizaron nuevos endpoints para respaldar estas funcionalidades, logrando una integración completa entre el frontend y el backend, lo que garantiza una comunicación fluida entre ambos. Para el equipo de desarrollo, esto significó una mejora en la arquitectura del sistema y una mayor solidez en las interacciones del backend. El despliegue del backend se llevó a cabo con éxito, asegurando que todas las funciones estén disponibles y operativas en el entorno de producción.
+
+**Landing Page:**
+
+<img src="assets/Execution1.png"/>
+
+<br>
+
+**Web Services:**
+
+<img src="assets/Documentation.png"/>
+
+<br>
+
+**Frontend Web Applications:**
+
+<img src="assets/Execution2.png"/>
+
+<br>
+
+##### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Durante el desarrollo del último sprint, continuamos trabajando en la implementación de nuestros Web Services para cada Bounded Context, asignando responsabilidades específicas a cada miembro del equipo. Dado que este es el último sprint y representa la fase final del ciclo de desarrollo, se llevó a cabo una revisión exhaustiva de la documentación de cada uno de los endpoints desarrollados para nuestros Web Services, utilizando la herramienta Swagger.
+
+A continuación, se presenta la relación de endpoints documentados con OpenAPI, clasificados por cada Bounded Context:
+
+<br>
+
+##### BC Interaction
+
+**ComponentReview endpoints**
+
+| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
+|----------|------------------------|------------|---------------------|------------|
+| /api/v1/component-review/{componentId} | Obtener lista de todos reviews para un componente mediante el componentId | GET | GET /api/v1/component-review/{componentId} | {componentId} |
+| /api/v1/component-review | Crear una review para un componente  | POST | POST /api/v1/component-review | Request body |
+| /api/v1/component-review/{id} | Editar una review para un componente  | PUT | PUT /api/v1/component-review/{id} | {id} |
+| /api/v1/component-review/{id} | Eliminar una review para un componente  | DELETE | DELETE /api/v1/component-review/{id} | {id} |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición        |                Respuesta             |
+|-------------------------|--------------------------------------|
+| GET /api/v1/component-review/2 | 200 OK - Retorna un arreglo de las reviews en formato JSON. |
+| POST /api/v1/component-review <br> { "rating": 5, "comment": "Buena pc.", "userName": "María", "componentId": 8 } | 200 Created - Retorna una review en formato JSON. |
+| PUT /api/v1/component-review/1 <br> { "rating": 5, "comment": "Buena pc, ideal para juegos." } | 200 OK - Retorna la review editada en formato JSON. |
+| DELETE /api/v1/component-review/1 | 204 No Content - Elimina la review especificada. No retorna contenido. |
+
+
+**TechnicalSupportReview endpoints**
+
+| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
+|----------|------------------------|------------|---------------------|------------|
+| /api/v1/technical-support-review/{technicalSupportId} | Obtener lista de todos reviews para un technical support mediante el technicalSupportId | GET | GET /api/v1/technical-support-review/{technicalSupportId} | {technicalSupportId} |
+| /api/v1/technical-support-review | Crear una review para un technical support  | POST | POST /api/v1/technical-support-review | Request body |
+| /api/v1/technical-support-review/{id} | Editar una review para un technical support  | PUT | PUT /api/v1/technical-support-review/{id} | {id} |
+| /api/v1/technical-support-review/{id} | Eliminar una review para un technical support  | DELETE | DELETE /api/v1/technical-support-review/{id} | {id} |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición        |                Respuesta             |
+|-------------------------|--------------------------------------|
+| GET /api/v1/technical-support-review/2 | 200 OK - Retorna un arreglo de las reviews en formato JSON. |
+| POST /api/v1/technical-support-review <br> { "rating": 4, "comment": "Excelente trabajo", "userName": "Pedro", "technicalSupportId": 1} | 200 Created - Retorna una review en formato JSON. |
+| PUT /api/v1/technical-support-review/1 <br> { "rating": 5, "comment": "Excelente trabajo y es puntual."} | 200 OK - Retorna la review editada en formato JSON. |
+| DELETE /api/v1/technical-support-review/1 | 204 No Content - Elimina la review especificada. No retorna contenido. |
+
+
+**Wishlist endpoints**
+
+| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
+|----------|------------------------|------------|---------------------|------------|
+| /api/v1/wishlist/user/{userId} | Obtener la wishlist asociada a un usuario mediante su userId | GET | GET /api/v1/wishlist/user/{userId} | {userId} |
+| /api/v1/wishlist | Crear una nueva wishlist | POST | POST /api/v1/wishlist | Request body |
+| /api/v1/wishlist/{id} | Editar una wishlist específica | PUT | PUT /api/v1/wishlist/{id} | {id} |
+| /api/v1/wishlist/{id} | Eliminar una wishlist específica | DELETE | DELETE /api/v1/wishlist/{id} | {id} |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición        |                Respuesta             |
+|-------------------------|--------------------------------------|
+| GET /api/v1/wishlist/user/3 | 200 OK - Retorna una wishlist en formato JSON. |
+| POST /api/v1/wishlist <br> { "userId": 1, "componentId": 4, "quantity": 8} | 201 Created - Retorna la wishlist creada en formato JSON. |
+| PUT /api/v1/wishlist/5 <br> { "quantity": 5 } | 200 OK - Retorna la wishlist actualizada en formato JSON. |
+| DELETE /api/v1/wishlist/5 | 204 No Content - Elimina la wishlist especificada. No retorna contenido. |
+
+
+
+##### BC IAM
+
+**Authentication endpoints**
+
+| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
+|----------|------------------------|------------|---------------------|------------|
+| /api/v1/authentication/sign-in | Iniciar sesión para obtener un token de autenticación | POST | POST /api/v1/authentication/sign-in | Request body |
+| /api/v1/authentication/sign-up | Registrar un nuevo usuario en el sistema | POST | POST /api/v1/authentication/sign-up | Request body |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición        |                Respuesta             |
+|-------------------------|--------------------------------------|
+| POST /api/v1/authentication/sign-in <br> { "userName": "John Doe", "password": "1234" } | 200 OK - Retorna un token de autenticación en formato JSON. |
+| POST /api/v1/authentication/sign-up <br> { "userName": "John Doe", "password": "1234" } | 201 Created - Retorna los datos del usuario creado en formato JSON. |
+
+---
+
+**User endpoints**
+
+| Endpoint | Acciones implementadas | Verbo HTTP | Sintaxis de Llamada | Parámetros |
+|----------|------------------------|------------|---------------------|------------|
+| /api/v1/users/{id} | Obtener los datos de un usuario específico mediante su id | GET | GET /api/v1/users/{id} | {id} |
+| /api/v1/users | Obtener una lista de todos los usuarios registrados | GET | GET /api/v1/users | NA |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición        |                Respuesta             |
+|-------------------------|--------------------------------------|
+| GET /api/v1/users/3 | 200 OK - Retorna los datos del usuario con id 3 en formato JSON. |
+| GET /api/v1/users | 200 OK - Retorna un arreglo de usuarios en formato JSON. |
+
+
+
+##### BC Orders
+
+**Cart endpoints**
+
+| Endpoint                      | Acciones implementadas         | Verbo HTTP | Sintaxis de Llamada              | Parámetros        |
+|-------------------------------|---------------------------------|------------|----------------------------------|-------------------|
+| /api/v1/cart                  | Crear un nuevo carrito         | POST       | POST /api/v1/cart                | Request body      |
+| /api/v1/cart                  | Obtener todos los carritos     | GET        | GET /api/v1/cart                 | NA           |
+| /api/v1/cart/user/{userId}    | Obtener carrito de compras por usuario   | GET        | GET /api/v1/cart/user/{userId}   | {userId}     |
+| /api/v1/cart/{cartId}         | Eliminar un carrito            | DELETE     | DELETE /api/v1/cart/{cartId}     | {cartId}   |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición                                    |                Respuesta                          |
+|-----------------------------------------------------|-------------------------------------------------|
+| POST /api/v1/cart <br> { "componentId": 1, "userId": 1, "quantity": 2 } | 201 Created - Retorna los datos del carrito creado en formato JSON. |
+| GET /api/v1/cart                                    | 200 OK - Retorna un arreglo de carritos en formato JSON. |
+| GET /api/v1/cart/user/1                             | 200 OK - Retorna todos los carritos del usuario con id 1. |
+| DELETE /api/v1/cart/1                               | 204 No Content - Elimina el carrito especificado. |
+
+---
+
+**Component endpoints**
+
+| Endpoint                          | Acciones implementadas            | Verbo HTTP | Sintaxis de Llamada                 | Parámetros         |
+|-----------------------------------|------------------------------------|------------|-------------------------------------|--------------------|
+| /api/v1/component                 | Crear un nuevo componente          | POST       | POST /api/v1/component              | Request body       |
+| /api/v1/component                 | Obtener todos los componentes      | GET        | GET /api/v1/component               | NA            |
+| /api/v1/component/{componentId}   | Obtener un componente por su ID    | GET        | GET /api/v1/component/{componentId} | componentId  |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición                                                                                     |                Respuesta                         |
+|------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| POST /api/v1/component <br> { "name": "SSD", "description": "Disco sólido de 1TB", "price": 100, "stock": 50, "providerId": 1, "image": "ssd.jpg", "ratings": 5, "model": "NVMe", "color": "Negro", "dimensions": "10x7x0.7 cm", "material": "Plástico", "weight": "70g", "categoryType": "Almacenamiento", "categorySubType": "SSD", "categoryBrand": "Samsung", "country": "Corea" } | 201 Created - Retorna los datos del componente creado en formato JSON. |
+| GET /api/v1/component                                                                               | 200 OK - Retorna un arreglo de componentes en formato JSON. |
+| GET /api/v1/component/2                                                                             | 200 OK - Retorna los datos del componente con id 2. |
+
+
+##### BC Components
+
+**Component endpoints**
+
+| Endpoint                          | Acciones implementadas            | Verbo HTTP | Sintaxis de Llamada                 | Parámetros         |
+|-----------------------------------|------------------------------------|------------|-------------------------------------|--------------------|
+| /api/v1/component                 | Crear un nuevo componente          | POST       | POST /api/v1/component              | Request body       |
+| /api/v1/component                 | Obtener todos los componentes      | GET        | GET /api/v1/component               | NA           |
+| /api/v1/component/{componentId}   | Obtener un componente por su ID    | GET        | GET /api/v1/component/{componentId} | componentId (path) |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición                                                                                     |                Respuesta                         |
+|------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| POST /api/v1/component <br> { "name": "SSD", "description": "Disco sólido de 1TB", "price": 100, "stock": 50, "providerId": 1, "image": "ssd.jpg", "ratings": 5, "model": "NVMe", "color": "Negro", "dimensions": "10x7x0.7 cm", "material": "Plástico", "weight": "70g", "categoryType": "Almacenamiento", "categorySubType": "SSD", "categoryBrand": "Samsung", "country": "Corea" } | 201 Created - Retorna los datos del componente creado en formato JSON. |
+| GET /api/v1/component                                                                               | 200 OK - Retorna un arreglo de componentes en formato JSON. |
+| GET /api/v1/component/2                                                                             | 200 OK - Retorna los datos del componente con id 2. |
+
+
+##### BC Technical Support
+
+**Technical Support Services by Technicians endpoints**
+
+| Endpoint                                   | Acciones implementadas                   | Verbo HTTP | Sintaxis de Llamada                      | Parámetros         |
+|-------------------------------------------|-------------------------------------------|------------|------------------------------------------|--------------------|
+| /api/v1/technical-support                 | Crear un nuevo servicio de soporte técnico | POST       | POST /api/v1/technical-support          | Request body       |
+| /api/v1/technical-support                 | Obtener todos los servicios de soporte técnico | GET  | GET /api/v1/technical-support           | NA           |
+| /api/v1/technical-support/{supportType}   | Obtener servicios por tipo de soporte técnico | GET  | GET /api/v1/technical-support/{supportType} | {supportType} |
+| /api/v1/technical-support/{id}            | Obtener un servicio de soporte técnico por ID | GET   | GET /api/v1/technical-support/{id}      | {id}          |
+| /api/v1/technical-support/{id}            | Actualizar un servicio de soporte técnico por ID | PUT  | PUT /api/v1/technical-support/{id}      | {id, Request body} |
+| /api/v1/technical-support/{id}            | Eliminar un servicio de soporte técnico por ID | DELETE   | DELETE /api/v1/technical-support/{id}   | {id}          |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición                                                                                                            |                Respuesta                          |
+|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| POST /api/v1/technical-support <br> { "technicianId": "tech123", "supportType": true, "dateOfRequest": "2024-11-23T01:06:11.120Z", "startDate": "2024-11-23T01:06:11.120Z", "endDate": "2024-11-23T01:06:11.120Z" } | 201 Created - Retorna los datos del servicio de soporte técnico creado en formato JSON. |
+| GET /api/v1/technical-support                                                                                               | 200 OK - Retorna un arreglo de servicios de soporte técnico en formato JSON. |
+| GET /api/v1/technical-support/software                                                                                      | 200 OK - Retorna los servicios de soporte técnico con el tipo especificado. |
+| GET /api/v1/technical-support/12                                                                                            | 200 OK - Retorna los datos del servicio de soporte técnico con id 12. |
+| PUT /api/v1/technical-support/12 <br> { "technicianId": "tech123", "supportType": false, "dateOfRequest": "2024-11-23T01:06:34.074Z", "startDate": "2024-11-23T01:06:34.074Z", "endDate": "2024-11-23T01:06:34.074Z" } | 200 OK - Retorna los datos del servicio de soporte técnico actualizado en formato JSON. |
+| DELETE /api/v1/technical-support/12                                                                                         | 204 No Content - Elimina el servicio de soporte técnico especificado. |
+
+
+**Technicians endpoints**
+
+| Endpoint                         | Acciones implementadas           | Verbo HTTP | Sintaxis de Llamada                  | Parámetros         |
+|----------------------------------|-----------------------------------|------------|--------------------------------------|--------------------|
+| /api/v1/technicians              | Crear un nuevo técnico           | POST       | POST /api/v1/technicians            | Request body       |
+| /api/v1/technicians              | Obtener todos los técnicos       | GET        | GET /api/v1/technicians             | NA            |
+| /api/v1/technicians/top-ranked   | Obtener técnicos mejor calificados | GET     | GET /api/v1/technicians/top-ranked  | NA            |
+| /api/v1/technicians/{id}         | Obtener un técnico por su ID     | GET        | GET /api/v1/technicians/{id}        | {id}           |
+| /api/v1/technicians/{id}         | Actualizar un técnico por su ID  | PUT        | PUT /api/v1/technicians/{id}        | {id, Request body} |
+| /api/v1/technicians/{id}         | Eliminar un técnico por su ID    | DELETE     | DELETE /api/v1/technicians/{id}     | {id}          |
+
+**Ejemplos de Ejecución y Respuesta:**
+
+|         Petición                                                                                     |                Respuesta                          |
+|------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| POST /api/v1/technicians <br> { "name": "Juan Pérez", "status": true, "stars": 5, "img": "image_url.jpg" } | 201 Created - Retorna los datos del técnico creado en formato JSON. |
+| GET /api/v1/technicians                                                                              | 200 OK - Retorna un arreglo de técnicos en formato JSON. |
+| GET /api/v1/technicians/top-ranked                                                                   | 200 OK - Retorna un arreglo de técnicos mejor calificados en formato JSON. |
+| GET /api/v1/technicians/3                                                                            | 200 OK - Retorna los datos del técnico con id 3. |
+| PUT /api/v1/technicians/3 <br> { "name": "Juan Pérez", "status": false, "stars": 4, "img": "new_image_url.jpg" } | 200 OK - Retorna los datos del técnico actualizado en formato JSON. |
+| DELETE /api/v1/technicians/3                                                                         | 204 No Content - Elimina el técnico especificado. |
+
+
+<br>
+
+**Imágenes y documentación:**
+
+<img src="assets/Documentation.png"/>
+
+<br>
+
+**URL documentación desplegada:**
+
+[https://pcmasterdeploy-e0fvbvd4e9eza2g3.eastus-01.azurewebsites.net/swagger/index.html](https://pcmasterdeploy-e0fvbvd4e9eza2g3.eastus-01.azurewebsites.net/swagger/index.html)
+
+
+**URL del repositorio de Web Services:**
+
+[https://github.com/SI730-WS51-PC-MASTER/Backend](https://github.com/SI730-WS51-PC-MASTER/Backend)
+
+
+<br>
+
+##### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+En esta sección se muestra la evidencia del despliegue del software realizado durante el tercer sprint. Se describen los pasos llevados a cabo para el despliegue de nuestros productos, así como las herramientas y plataformas empleadas para garantizar un lanzamiento exitoso y operativo del sistema.
+
+**Despliegue de Landing Page:**
+
+<img src="assets/Deployment1.png"/>
+
+<br>
+
+**Despliegue Web Services:**
+
+<img src="assets/Deployment2.png"/>
+
+<br>
+
+**Despliegue Frontend Web Applications:**
+
+<img src="assets/Deployment3.png"/>
+
+<br>
+
+<br>
+
+##### 5.2.4.8. Team Collaboration Insights during Sprint
+
+|**Integrante**| **Acciones realizadas durante el sprint**             |
+|--------------|-------------------------------------------------------|
+| Aranda Vallejos, Oscar Gabriel | Integración de front y back del bounded context de Technical Support |
+| Cantoral Sedamano, Alexander Alberto | Integración de front y back del bounded context Componentes |
+| Chirinos Zúñiga, Rodrigo Manuel | Integración de front y back del bounded context Review |
+| Soriano Medrano, Diego | Integración de front y back del bounded context Orders |
+
+<br>
+
+**Repositorio Front-end:**
+
+<img src="assets/Colaboration1.png"/>
+
+<br>
+
+**Repositorio Back-end:**
+
+<img src="assets/Colaboration2.png"/>
+
+<br>
+
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
 
@@ -3120,16 +3666,18 @@ Esta parte del informe presentará la parte objetiva de las entrevistas junto co
 
 Preguntas principales: ¿Qué te parece la Landing Page? ¿Siente que es facil de usar? ¿Podrías hacerme el favor de registrarte y mandar un mensaje? ¿Qué te parece la aplicación web? ¿Siente que la aplicación web satisfacerá tus necesidades como futur@ usuario?
 
-**URL Inerview:**
+**URL Itnerview:**
 
-[https://acortar.link/J8ewGA](https://acortar.link/J8ewGA)
+[https://upcedupe-my.sharepoint.com/personal/u202218167_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218167%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechMinds%2Dvalidation%2Dsprint%2D3%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ec3d431c3%2D80cb%2D4070%2Da1e7%2Dce8e2deff153](https://upcedupe-my.sharepoint.com/personal/u202218167_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218167%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechMinds%2Dvalidation%2Dsprint%2D3%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ec3d431c3%2D80cb%2D4070%2Da1e7%2Dce8e2deff153)
 
 
-[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218167_upc_edu_pe/EaVlYf89dABIpnRa9Uq18Q4BehvpnopFzfT2NalPuy9vww?e=BgZWxv](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218167_upc_edu_pe/EaVlYf89dABIpnRa9Uq18Q4BehvpnopFzfT2NalPuy9vww?e=BgZWxv)
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218167_upc_edu_pe/EaVlYf89dABIpnRa9Uq18Q4BehvpnopFzfT2NalPuy9vww?e=BgZWxv)(https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218167_upc_edu_pe/EaVlYf89dABIpnRa9Uq18Q4BehvpnopFzfT2NalPuy9vww?e=BgZWxv](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218167_upc_edu_pe/EaVlYf89dABIpnRa9Uq18Q4BehvpnopFzfT2NalPuy9vww?e=BgZWxv)(https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218167_upc_edu_pe/EaVlYf89dABIpnRa9Uq18Q4BehvpnopFzfT2NalPuy9vww?e=BgZWxv)
 
 ### 5.3.2. Registro de Entrevistas.
 
-Link de entrevista 1: https://acortar.link/J8ewGA 
+Link de entrevista 1: https://upcedupe-my.sharepoint.com/personal/u202218167_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202218167%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechMinds%2Dvalidation%2Dsprint%2D3%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E02096857%2Dddc2%2D4b58%2D8749%2Db7b5672ddd32
+
+Link de entrevista 2: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/EYBWFQLeJB9HnUFFIoiqXF8BK0Vxih3q_EghgV8-H-02DQ?e=iZz38y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
@@ -3139,7 +3687,7 @@ Usability – Inclusive Design – Information Architecture
 
 CARRERA: Ingeniería de Software
 
-CURSO: Desarrollo de Aplicaciones Open Source
+CURSO: Desarrollo de Aplicaciones Web
 
 SECCIÓN: WS51
 
@@ -3152,16 +3700,105 @@ Velásquez Núñez, Ángel Augusto
 
 AUDITOR : Grupo 2
 
-CLIENTES: 
+CLIENTES:  Nicolaz Alberto Chun Ventosilla, Alfredo Medina.
 
 SITE o APP A EVALUAR: PC-MASTER
 
-TAREAS A EVALUAR:
+## **TAREAS A EVALUAR**
 
+1. **Registro de Usuario**  
+   - **Descripción:** El usuario debe poder registrarse en la plataforma ingresando datos personales y un correo electrónico.  
+   - **Objetivo:** Evaluar la facilidad y eficiencia del registro.
+
+2. **Inicio de Sesión**  
+   - **Descripción:** Los usuarios deben iniciar sesión utilizando credenciales previamente registradas.  
+   - **Objetivo:** Verificar la seguridad y rapidez del inicio de sesión.
+
+3. **Exploración de Componentes**  
+   - **Descripción:** El usuario puede buscar y filtrar componentes por características como precio, tipo y disponibilidad.  
+   - **Objetivo:** Evaluar la claridad y funcionalidad del sistema de búsqueda y filtros.
+
+4. **Añadir Componentes a la Lista de Deseos**  
+   - **Descripción:** Los usuarios pueden agregar componentes de interés a una lista para futuras consultas.  
+   - **Objetivo:** Validar la funcionalidad y accesibilidad de esta característica.
+
+5. **Agregar Componentes al Carrito**  
+   - **Descripción:** Los usuarios pueden seleccionar cantidades y añadir productos al carrito para proceder con la compra.  
+   - **Objetivo:** Comprobar la claridad y eficiencia del proceso de compra.
+
+6. **Reservar Servicios**  
+   - **Descripción:** Agendar reuniones con técnicos para soporte presencial o remoto.  
+   - **Objetivo:** Evaluar la fluidez y funcionalidad del sistema de reservas.
+
+7. **Cambiar Idioma**  
+   - **Descripción:** Permitir a los usuarios alternar entre español e inglés en la plataforma.  
+   - **Objetivo:** Verificar la accesibilidad y efectividad del cambio de idioma.
+
+8. **Salir de la Sesión**  
+   - **Descripción:** Proporcionar un botón claro para cerrar sesión de manera segura.  
+   - **Objetivo:** Garantizar la seguridad del proceso y su confirmación visual.
+
+---
+
+## **Escala de Severidad**
+
+| Nivel | Descripción                                                                                                  |
+|-------|--------------------------------------------------------------------------------------------------------------|
+| **1** | Problema superficial: superable con facilidad. Resolver solo si hay tiempo.                                   |
+| **2** | Problema menor: ocurre con más frecuencia. Resolver en la próxima actualización.                              |
+| **3** | Problema mayor: impacto significativo, solución prioritaria.                                                  |
+| **4** | Problema grave: impide el uso. Resolver antes del lanzamiento.                                                |
+
+---
+
+## **Tabla Resumen**
+
+| # | Problema                                                                                      | Escala de Severidad | Heurística/Principio Violado                   |
+|---|-----------------------------------------------------------------------------------------------|---------------------|-----------------------------------------------|
+| 1 | Interfaz completamente en inglés sin opción clara para cambiar idioma                         | 2                   | Usability: Consistencia y estándares          |
+| 2 | Filtros de búsqueda tardan en cargar y ofrecen resultados inconsistentes                      | 3                   | Usability: Feedback y visibilidad del sistema |
+| 3 | Reservas no almacenan datos correctamente por falta de conexión al backend                   | 3                   | Usability: Visibilidad y control del usuario  |
+| 4 | Lista de deseos poco visible y falta retroalimentación al añadir componentes                  | 2                   | Usability: Feedback y visibilidad del sistema |
+| 5 | Botón de carrito confuso; no queda claro si la acción fue exitosa                             | 2                   | Usability: Prevención de errores              |
+
+---
+
+## **Descripción de Problemas**
+
+### **Problema #1:** Interfaz completamente en inglés sin opción clara para cambiar idioma  
+- **Severidad:** 2  
+- **Heurística/Principio Violado:** Usability: Consistencia y estándares  
+- **Descripción:** Muchos usuarios no entienden inglés, lo que afecta la accesibilidad y la experiencia de uso.  
+- **Recomendación:** Implementar una opción visible para cambiar entre español e inglés en todas las páginas.  
+
+### **Problema #2:** Filtros de búsqueda tardan en cargar y ofrecen resultados inconsistentes  
+- **Severidad:** 3  
+- **Heurística/Principio Violado:** Usability: Feedback y visibilidad del sistema  
+- **Descripción:** La demora genera confusión y afecta la percepción de la fiabilidad del sistema.  
+- **Recomendación:** Optimizar las consultas al backend y agregar indicadores de carga visibles.  
+
+### **Problema #3:** Reservas no almacenan datos correctamente por falta de conexión al backend  
+- **Severidad:** 3  
+- **Heurística/Principio Violado:** Usability: Visibilidad y control del usuario  
+- **Descripción:** Los usuarios no reciben confirmación de que su reserva fue exitosa.  
+- **Recomendación:** Conectar correctamente al backend y proporcionar mensajes claros de confirmación.  
+
+### **Problema #4:** Lista de deseos poco visible y falta retroalimentación al añadir componentes  
+- **Severidad:** 2  
+- **Heurística/Principio Violado:** Usability: Feedback y visibilidad del sistema  
+- **Descripción:** El usuario no tiene claro si los elementos se añadieron a la lista.  
+- **Recomendación:** Mejorar la visibilidad de la lista y agregar mensajes de confirmación.  
+
+### **Problema #5:** Botón de carrito confuso; no queda claro si la acción fue exitosa  
+- **Severidad:** 2  
+- **Heurística/Principio Violado:** Usability: Prevención de errores  
+- **Descripción:** La falta de retroalimentación visual genera confusión sobre el estado de la acción.  
+- **Recomendación:** Implementar notificaciones claras y revisibles después de añadir un producto al carrito.  
 ## 5.4. Video About-the-Product.
 En esta sección se tiene un vídeo que resume todo lo que el producto ofrece y una vista rápida a los feats logrados para la aplicación:
 
-Link del vídeo: https://acortar.link/x9hnTP 
+https://upcedupe-my.sharepoint.com/personal/u202217804_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202217804%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechMinds%2Dabout%2Dthe%2Dproduct%2Dsprint%2D4%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb65db229%2D44bb%2D4177%2D9a12%2Dbcc333988ae2
+
 
 # Conclusiones
 ## Conclusiones y recomendaciones
@@ -3183,17 +3820,20 @@ En el capítulo cuatro, tras haber establecido los requisitos de los dos segment
 # Anexos
 
 ## Exposición
-- TB1: https://acortar.link/mLDYSp
-- TP: https://acortar.link/g5oSSt
+- [https://upcedupe-my.sharepoint.com/personal/u20181b152_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181b152%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechMinds%2Dexpo%2DTB1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E7fd741fa%2D1061%2D4a48%2D9007%2D746525a9d6d1](https://upcedupe-my.sharepoint.com/personal/u20181b152_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181b152%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechMinds%2Dexpo%2DTB1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E7fd741fa%2D1061%2D4a48%2D9007%2D746525a9d6d1)
+- [https://upcedupe-my.sharepoint.com/personal/u20181b152_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181b152%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechMinds%2Dexpo%2DTP1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E5691c295%2D26d4%2D4799%2Db977%2Dfd0f930baad0](https://upcedupe-my.sharepoint.com/personal/u20181b152_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181b152%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechMinds%2Dexpo%2DTP1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E5691c295%2D26d4%2D4799%2Db977%2Dfd0f930baad0)
 
 ## Entrevistas
-https://acortar.link/LWUrOB 
+- [https://upcedupe-my.sharepoint.com/personal/u20181b152_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181b152%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechDesign%2Dneedfinding%2Dsprint%2D1%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eef33cbb4%2D28f1%2D4801%2Da26b%2Dcb5bfbe76f48](https://upcedupe-my.sharepoint.com/personal/u20181b152_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181b152%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechDesign%2Dneedfinding%2Dsprint%2D1%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eef33cbb4%2D28f1%2D4801%2Da26b%2Dcb5bfbe76f48)
 
 
 ## Deployment:
 
-* Landing Page Desplegada: https://si730-ws51-pc-master.github.io/Landing_Page/
-* Frontend Desplegado: https://apps-web-pc-master.web.app/home
+* Landing Page Desplegada: [https://si730-ws51-pc-master.github.io/Landing_Page/](https://si730-ws51-pc-master.github.io/Landing_Page/)
+* Frontend Desplegado: [https://apps-web-pc-master.web.app/home](https://apps-web-pc-master.web.app/home)
+* Backend Desplegado: [https://pcmasterdeploy-e0fvbvd4e9eza2g3.eastus-01.azurewebsites.net/swagger/index.html](https://pcmasterdeploy-e0fvbvd4e9eza2g3.eastus-01.azurewebsites.net/swagger/index.html)
+
+<br>
 
 ## Repositories
 * PC Master Organization: https://github.com/SI730-WS51-PC-MASTER
@@ -3201,6 +3841,8 @@ https://acortar.link/LWUrOB
 * Documentation Repository: https://github.com/SI730-WS51-PC-MASTER/Documentation
 * Testing Repository: https://github.com/SI730-WS51-PC-MASTER/Testing
 * Frontend Repository: https://github.com/SI730-WS51-PC-MASTER/Frontend
+
+<br>
 
 ## Landing Page Design
 ### 1. Wireframes:
@@ -3229,4 +3871,4 @@ https://www.figma.com/proto/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=
 https://www.figma.com/proto/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=131-3085&node-type=FRAME&t=gyESjOWO8yMRG4Bt-1&scaling=min-zoom&content-scaling=fixed&page-id=128%3A12&starting-point-node-id=131%3A3085&show-proto-sidebar=1
 
 ## Video about the team:
-Link: https://acortar.link/2Ns4NB
+[https://upcedupe-my.sharepoint.com/personal/u202217804_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202217804%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechMinds%2Dabout%2Dthe%2Dteam%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E1343096f%2Dfb12%2D4578%2D9a66%2D6c80b0b3303f](https://upcedupe-my.sharepoint.com/personal/u202217804_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202217804%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechMinds%2Dabout%2Dthe%2Dteam%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E1343096f%2Dfb12%2D4578%2D9a66%2D6c80b0b3303f)
