@@ -190,7 +190,7 @@
 | Número de commits por autor     | [![Captura-de-pantalla-2024-11-23-072318.png](https://i.postimg.cc/VNLvqcCY/Captura-de-pantalla-2024-11-23-072318.png)](https://postimg.cc/k2z7CzsZ) |
 | Historial de cambios            | [![Captura-de-pantalla-2024-11-23-072608.png](https://i.postimg.cc/76wFGxGV/Captura-de-pantalla-2024-11-23-072608.png)](https://postimg.cc/hJZyNR0z) |
 | Network Graph                   | [![tiempo.png](https://i.postimg.cc/9MpfTS0V/tiempo.png)](https://postimg.cc/zby5YxTP)<br> [![tiempo-2.png](https://i.postimg.cc/bv6ywnBN/tiempo-2.png)](https://postimg.cc/8F6Qy7Gq)<br>[![tiempo-3.png](https://i.postimg.cc/8Pwn3bJ5/tiempo-3.png)](https://postimg.cc/rK0JRx9X)|
-| Distribución de trabajo         | [![responsabilidades.jpg](https://i.postimg.cc/BQMZpxCR/responsabilidades.jpg)](https://postimg.cc/crtN4t2c)|
+| Distribución de trabajo         | [![responsabilidades.jpg](https://i.postimg.cc/BQMZpxCR/responsabilidades.jpg)](https://postimg.cc/crtN4t2c) [![Captura-de-pantalla-2024-11-23-080531.png](https://i.postimg.cc/pdHCTBRy/Captura-de-pantalla-2024-11-23-080531.png)](https://postimg.cc/ZWwpsp9h) |
 
 
 <br>
