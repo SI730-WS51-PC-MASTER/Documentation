@@ -40,9 +40,9 @@
 | Versión | Fecha      | Autor                                                    | Descripción                                                                                       |
 |---------|------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 | TB1    | 26/08/2024 | - Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego<br> | - Se redactó la descripción de la startup, los antecedentes y la problemática. <br>- Se desarrolló el Lean UX Process y se delimitó el segmento objetivo. <br>- Se desarrolló el capítulo 2 y se realizaron entrevistas al público objetivo. <br> - Desarrollo del User Journey Mapping y Empathy Mapping. <br>- Desarrollo completo del capítulo 2. <br>- Cumplimiento de lo establecido a llegar con el capítulo 3. <br>- Capítulo 4 establecido y logrado. <br>- Avance del Sprint 1 (Primera versión de la Landing Page)   |
-| TP     | 27/09/2024 | - Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego| -Culminación del Sprint 1 (Mejora de la Landing Page) <br>- Avance del Sprint 2 (Primera versión del Frontend Desplegado) | 
-| TB2    | 03/11/2024 | - Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego  | - Segundo versión del Frontend<br> - Primera versión del Backend |
-| TF     | 21/11/2024 |- Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego  | Integración de Frontend y Backend |
+| TP     | 27/09/2024 | - Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego| - Culminación del Sprint 1 (Mejora de la Landing Page) <br>- Avance del Sprint 2 (Primera versión del Frontend Desplegado) | 
+| TB2    | 03/11/2024 | - Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego  | - Segunda versión del Frontend<br> - Primera versión del Backend |
+| TF     | 21/11/2024 |- Aranda Vallejos, Oscar Gabriel<br>- Chirinos Zúñiga, Rodrigo Manuel<br>- Alexander Alberto Cantoral Sedamano<br>-Soriano Medrano, Diego  | - Integración de Frontend y Backend |
 
 <br>
 
