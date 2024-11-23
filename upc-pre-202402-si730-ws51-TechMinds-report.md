@@ -2798,8 +2798,8 @@ Para este sprint 2 se hará el desployement usando Firebase siguiendo los siguen
 
 1. **Creación de la cuenta en Firebase**
    - Se creó una cuenta en Firebase para alojar la aplicación. Para esto, se accedió a [firebase.google.com](https://firebase.google.com/) y se configuró un nuevo proyecto dentro de Firebase Console.
-   - [![2.png](https://i.postimg.cc/0QrLhnVs/2.png)](https://postimg.cc/S2FTM60T)
-
+   - [![Captura-de-pantalla-2024-09-28-022832.png](https://i.postimg.cc/d0Kfm1N2/Captura-de-pantalla-2024-09-28-022832.png)](https://postimg.cc/4YBwXJgy)
+        
 2. **Configuración del proyecto Vue**
    - Dentro del proyecto Vue, se instaló la CLI de Firebase ejecutando:
      ```bash
@@ -3871,4 +3871,4 @@ https://www.figma.com/proto/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=
 https://www.figma.com/proto/Xkz6jiTYrwrH4Qrve8u2Dv/PC-MASTER---APPS-WEB?node-id=131-3085&node-type=FRAME&t=gyESjOWO8yMRG4Bt-1&scaling=min-zoom&content-scaling=fixed&page-id=128%3A12&starting-point-node-id=131%3A3085&show-proto-sidebar=1
 
 ## Video about the team:
-[https://upcedupe-my.sharepoint.com/personal/u202217804_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202217804%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechMinds%2Dabout%2Dthe%2Dteam%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E1343096f%2Dfb12%2D4578%2D9a66%2D6c80b0b3303f](https://upcedupe-my.sharepoint.com/personal/u202217804_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202217804%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi730%2DWS51%2DTechMinds%2Dabout%2Dthe%2Dteam%2Dsprint%2D3%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E1343096f%2Dfb12%2D4578%2D9a66%2D6c80b0b3303f)
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/Ec_j6jMvQFJCjHVd1TQWmhYBWDTB1nOJbf6jjyLt-ZrSWQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Ka9pq8](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/Ec_j6jMvQFJCjHVd1TQWmhYBWDTB1nOJbf6jjyLt-ZrSWQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Ka9pq8)
