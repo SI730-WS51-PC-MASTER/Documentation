@@ -2485,7 +2485,7 @@ entre otros.-->
     <thead>
         <tr>
             <td> Sprint # </td>
-            <td> Sprint 1 </td>
+            <td> Sprint 2 </td>
         </tr>
         <tr>
             <td colspan="2"> Sprint Planning Background </td>
@@ -2513,22 +2513,22 @@ entre otros.-->
             <td> Aranda Vallejos, Oscar Gabriel / Cantoral Sedamano, Alexander Alberto / Chirinos Zúñiga, Rodrigo Manuel / Soriano Medrano, Diego / Tello Murga, Javier Oswaldo </td>
         </tr>
         <tr>
-            <td> Sprint 1 Review Summary </td>
+            <td> Sprint 2 Review Summary </td>
             <td> Durante este sprint se pudo ver que se puede concretar distintas tareas en equipo. A su vez que se necesitan corregir algunos aspectos del sprint 1 en la Lading Page y las User Stories. </td>
         </tr>
         <tr>
-            <td> Sprint 1 Retrospective Summary </td>
+            <td> Sprint 2 Retrospective Summary </td>
             <td> Todo el equipo necesita terminar de aprender el concepto de conventional commits, a su vez, necesita aprender a solucionar problemas que puedan surgir al hacer merge en github. Por último se necesitará de 2 reuniones semanales mínimo a partir de ahora. </td>
         </tr>
         <tr>
             <td colspan="2">Sprint Goal & User Stories</td>
         </tr>
         <tr>
-            <td> Sprint 1 Goal </td>
+            <td> Sprint 2 Goal </td>
             <td>  Desarrollar una primera versión del Frontend </td>
         </tr>
         <tr>
-            <td> Sprint 1 Velocity </td>
+            <td> Sprint 2 Velocity </td>
             <td>  Velocidad estimada de 69  puntos. La velocidad del equipo se calculó considerando la capacidad del equipo y los puntos de historia completados en sprints anteriores. </td>
         </tr>
         <tr>
@@ -3208,7 +3208,7 @@ Además, cada integrante elaboró una descripción detallada de las tareas reali
     <thead>
         <tr>
             <td>Sprint #</td>
-            <td colspan="7" >Sprint 3</td>
+            <td colspan="7" >Sprint 4</td>
         </tr>
         <tr>
             <td colspan="2" > User Story</td>
